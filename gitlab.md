@@ -1,5 +1,7 @@
 #Feedback ideas
 
+Ideas that interest me.
+
 ##Accepted
 
 SaaS:
@@ -96,8 +98,11 @@ Easy:
 With PR:
 
 - http://feedback.gitlab.com/forums/176466-general/suggestions/4201014-enable-mathjax-support-in-the-gollum-wikis
+- http://feedback.gitlab.com/forums/176466-general/suggestions/5648020-better-editor-for-all-content
 
-http://feedback.gitlab.com/forums/176466-general/suggestions/5648020-better-editor-for-all-content
+API:
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/5618007-provide-an-unauthenticated-api
 
 #My unsubmitted ideas
 
