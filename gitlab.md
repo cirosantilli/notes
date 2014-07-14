@@ -2,63 +2,53 @@
 
 Ideas that interest me.
 
+Only ones that are not in the Booktree bug tracker, since all of those interest me and are better classified there.
+https://github.com/booktree/booktree/issues
+
+## Started
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/5350102-option-to-make-a-merge-request-when-editing-via-we
+- http://feedback.gitlab.com/forums/176466-general/suggestions/3797854-create-empty-repo-on-project-creation
+
 ##Accepted
+
+Text output formats like PDF:
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/4522830-allow-access-to-build-artifacts-of-gitlab-ci
+- http://feedback.gitlab.com/forums/176466-general/suggestions/4319179-show-build-status-in-commit-details
+
+Prose input specifics like Markdown:
+
+All from web UI:
+
+Analytics:
 
 SaaS:
 
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5627348-notify-admin-whenever-the-sum-of-size-of-repositor
 
-PDF output:
-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/4522830-allow-access-to-build-artifacts-of-gitlab-ci
-- http://feedback.gitlab.com/forums/176466-general/suggestions/4319179-show-build-status-in-commit-details
-
-All from web UI:
-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/4289653-rebase-merge-requests-in-the-web-ui
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5350102-option-to-make-a-merge-request-when-editing-via-we
-- (suggested by admin) http://feedback.gitlab.com/forums/176466-general/suggestions/4289653-rebase-merge-requests-in-the-web-ui
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3744472-support-gif-and-or-svg-as-image-files-in-the-repos
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5482948-create-directories-from-the-web-ui
-
-Analytics:
-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5647999-show-popular-project-on-the-public-projects-page
-
-Easy:
-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5486270-show-link-to-public-projects-for-new-users?tracking_code=4e0c0bcae829885f1a671de4a0dd27f9
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5592464-add-a-preview-for-csv-files
-- http://feedback.gitlab.com/forums/176466-general/suggestions/4530231-show-empty-files-committed
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5045990-switch-directory-file-browsing-when-the-url-is-m
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3538034-modify-tab-order-on-issues-comments-so-it-goes-to-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5592454-verify-password-when-removing-yourself-or-a-group
-
-MRs:
+MRs, diffs:
 
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5607934-view-diff-on-submit-merge-request-form
 - http://feedback.gitlab.com/forums/176466-general/suggestions/3958540-add-way-to-label-merge-requests
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5507440-auto-complete-merge-requests-in-gitlab-markdown
 - http://feedback.gitlab.com/forums/176466-general/suggestions/4677198-allow-cross-repo-issue-merge-request-reference
-
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5592471-add-a-comment-to-a-mr-when-new-commits-pushed
 - ($100) http://feedback.gitlab.com/forums/176466-general/suggestions/4255282-task-lists-like-github-done-or-some-other-implemen
 - http://feedback.gitlab.com/forums/176466-general/suggestions/4851362-move-issues-between-projects
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3788069-wiki-folder-support
-- http://feedback.gitlab.com/forums/176466-general/suggestions/4320328-enable-all-the-goodies-in-the-gollum-wiki-engine
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5350808-make-labels-clickable-everywhere
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3910676-tags-and-branches-should-be-sorted-using-natural-s
+
+Issues, comments:
+
 - http://feedback.gitlab.com/forums/176466-general/suggestions/3797817-close-comment-button-for-issues
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5350291-mentions-in-public-internal-repo-s-should-include-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3538034-modify-tab-order-on-issues-comments-so-it-goes-to-
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3788046-support-symlinked-paths
 
-Started:
+###Easy
 
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5314461-groups-containing-one-or-more-public-projects-shou
-- http://feedback.gitlab.com/forums/176466-general/suggestions/4000912-add-a-diff-view-when-editing-a-file-via-the-web-in
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3797854-create-empty-repo-on-project-creation
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5507877-convert-all-help-files-to-markdown-files-in-doc-di
+- http://feedback.gitlab.com/forums/176466-general/suggestions/6162713-the-new-project-button-in-the-admin-page-should-al
+    easy, groups
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/3538034-modify-tab-order-on-issues-comments-so-it-goes-to
+    easy, UI
 
 ##Not Accepted
 
@@ -71,6 +61,7 @@ PDF output:
 
 All from web UI:
 
+- http://feedback.gitlab.com/forums/176466-general/suggestions/6093710-track-changes-in-the-web-editor
 - http://feedback.gitlab.com/forums/176466-general/suggestions/3797831-allow-moving-and-renaming-files-in-gitlab
 
 MRs:
