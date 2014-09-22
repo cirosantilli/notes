@@ -1,4 +1,4 @@
-#Feedback ideas
+# Feedback ideas
 
 Ideas that interest me.
 
@@ -10,7 +10,7 @@ https://github.com/booktree/booktree/issues
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5350102-option-to-make-a-merge-request-when-editing-via-we
 - http://feedback.gitlab.com/forums/176466-general/suggestions/3797854-create-empty-repo-on-project-creation
 
-##Accepted
+## Accepted
 
 Text output formats like PDF:
 
@@ -23,32 +23,38 @@ All from web UI:
 
 Analytics:
 
-SaaS:
+Diffs:
 
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5627348-notify-admin-whenever-the-sum-of-size-of-repositor
-
-MRs, diffs:
-
+- rendered and word wise HTML diffs: http://feedback.gitlab.com/forums/176466-general/suggestions/6093710-track-changes-in-the-web-editor Ill specified.
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5607934-view-diff-on-submit-merge-request-form
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3958540-add-way-to-label-merge-requests
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5507440-auto-complete-merge-requests-in-gitlab-markdown
+
+MRs, Issues, comments:
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/5350291-mentions-in-public-internal-repo-s-should-include-
 - http://feedback.gitlab.com/forums/176466-general/suggestions/4677198-allow-cross-repo-issue-merge-request-reference
 - http://feedback.gitlab.com/forums/176466-general/suggestions/5592471-add-a-comment-to-a-mr-when-new-commits-pushed
 - ($100) http://feedback.gitlab.com/forums/176466-general/suggestions/4255282-task-lists-like-github-done-or-some-other-implemen
 - http://feedback.gitlab.com/forums/176466-general/suggestions/4851362-move-issues-between-projects
 
-Issues, comments:
+SaaS:
 
-- http://feedback.gitlab.com/forums/176466-general/suggestions/3797817-close-comment-button-for-issues
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5350291-mentions-in-public-internal-repo-s-should-include-
+- http://feedback.gitlab.com/forums/176466-general/suggestions/5627348-notify-admin-whenever-the-sum-of-size-of-repositor
 
-###Easy
+### Easy
+
+Nor particularly important for me, but good entry level:
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/6420244-hide-the-diff-wrap-text-checkbox-for-binary-files
+    diffs
 
 - http://feedback.gitlab.com/forums/176466-general/suggestions/6162713-the-new-project-button-in-the-admin-page-should-al
-    easy, groups
+    groups
 
 - http://feedback.gitlab.com/forums/176466-general/suggestions/3538034-modify-tab-order-on-issues-comments-so-it-goes-to
-    easy, UI
+    UI
+
+- http://feedback.gitlab.com/forums/176466-general/suggestions/6330830-use-different-icon-for-executable-files
+    UI
 
 ##Not Accepted
 
@@ -93,7 +99,7 @@ With PR:
 
 API:
 
-- http://feedback.gitlab.com/forums/176466-general/suggestions/5618007-provide-an-unauthenticated-api
+- <http://feedback.gitlab.com/forums/176466-general/suggestions/5618007-provide-an-unauthenticated-api>
 
 #My unsubmitted ideas
 
@@ -186,3 +192,16 @@ This does *not* imply that collaborators have to review every MR: only if they r
 Requesting an update is not the same as asking for modifications: if something is wrong with the behaviour / implementation MR, it should be noted immediately. This policy only concerns requests to make things merge-able again, and only those issues will get the label.
 
 We can of course be flexible in the times: nothing is written in stone. However, since the contrib process is already very good, why not write it down to make some publicity for GitLab?
+
+# GitHub implemented after GitLab
+
+A list of stuff that GitHub did after GitLab which was similar, in case there is a war.
+
+- https://github.com/blog/1884-introducing-split-diffs
+
+
+## GitHub implemented after precise public suggestion
+
+Even if GitHub implemented the following features, they were implemented after a precise public suggestion, so they cannot sue GitLab for implementing if afterwards:
+
+- multi line diffs and word highlight: suggestion, https://github.com/isaacs/github/issues/235 implementation: https://github.com/blog/1885-better-word-highlighting-in-diffs
