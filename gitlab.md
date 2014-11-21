@@ -212,7 +212,7 @@ Undesired whitespaces:
 
     git grep '\s+$'
 
-Javascript links should be replaced with styled buttons where possible:
+JavaScript links should be replaced with styled buttons where possible:
 
     git ls-tree | grep -E '\.haml$' | xargs grep -E '"#"'
     git ls-tree | grep -E '\.haml$' | xargs grep -E "'#'"

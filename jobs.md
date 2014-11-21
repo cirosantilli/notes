@@ -1,6 +1,8 @@
 # Jobs
 
-Interesting places to find work.
+Work related info.
+
+- [recruiters-who-contacted-me.md](recruiters-who-contacted-me.md)
 
 ## Job boards
 
@@ -17,15 +19,19 @@ Interesting places to find work.
 - Coursera: <https://www.coursera.org/about/careers>
 - Openstax College: <http://openstaxcollege.org/pages/jobs>
 
-### Non ebook publishing
+### Non-ebook publishing
 
-- IBM: <https://jobs3.netmedia1.com/cp/faces/job_search>
-- Intel: <https://intel.taleo.net/careersection/10000/jobsearch.ftl>
+- IBM: <https://jobs3.netmedia1.com/cp/faces/job_search>. Positions in Gentilly, UK and Ireland. Lots of Java.
+- Mozilla: <https://careers.mozilla.org/en-US/listings/>
+- Intel: <https://intel.taleo.net/careersection/10000/moresearch.ftl>.
 - Seagate: <https://www.linkedin.com/jobs2/view/11341617?trk=eml-jymbii-organic-job-title&refId=41e9e642-592e-4e92-852e-3f29f0d3b2ea&midToken=AQHksCusrrKP6A>
 - Canonical: <http://www.canonical.com/careers/all-technical-and-engineering-vacancies>. Has remote positions.
 - Red Hat: <http://jobs.redhat.com/job-search-results/>. No France, remote.
 - Nuxeo: <http://www.nuxeo.com/careers/>. ECM is close to learning content management, open source, Java / Python
 
-In-place education:
+## Rails users
 
-- <http://www.minervaproject.com/>
+Famous international Rails dev enterprises:
+
+- <http://blog.plataformatec.com.br/>: Jose Valim (famous Rails dev), Devise
+- <http://thoughtbot.com/>: Factory Girl
