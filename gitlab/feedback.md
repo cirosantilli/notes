@@ -101,7 +101,7 @@ API:
 
 - <http://feedback.gitlab.com/forums/176466-general/suggestions/5618007-provide-an-unauthenticated-api>
 
-#My unsubmitted ideas
+## My unsubmitted ideas
 
 - make users public page project list like dashboard.
 - make the project name link to the corresponding namespace on the project view
@@ -134,7 +134,7 @@ API:
         ./admin/groups/show.html.haml:                %i.icon-minus.icon-white
         ./users_groups/_users_group.html.haml:        %i.icon-minus.icon-white
 
-##differentiate markdown relative links from links from the root
+###Differentiate markdown relative links from links from the root
 
 Dir structure:
 
@@ -164,7 +164,7 @@ We would have to make a choice:
 
 - if `/d/a.md` does not exist and `/a.md` does, what happens?
 
-# Merge request update policy
+### Merge request update policy
 
 If requested to update a merge request, developers have 2 weeks to do so. But how long do GitLab owners / Collaborators have to consider the update and merge it?
 
@@ -193,60 +193,3 @@ Requesting an update is not the same as asking for modifications: if something i
 
 We can of course be flexible in the times: nothing is written in stone. However, since the contrib process is already very good, why not write it down to make some publicity for GitLab?
 
-# GitHub implemented after GitLab
-
-A list of stuff that GitHub did after GitLab, in case there is a legal war.
-
-- https://github.com/blog/1884-introducing-split-diffs
-- https://github.com/blog/1901-managing-issues-and-pull-requests-across-repositories
-
-## GitHub implemented after precise public suggestion
-
-Even if GitHub implemented the following features, they were implemented after a precise public suggestion, so they cannot sue GitLab for implementing if afterwards:
-
-- multi line diffs and word highlight: suggestion, https://github.com/isaacs/github/issues/235 implementation: https://github.com/blog/1885-better-word-highlighting-in-diffs
-
-# Smells
-
-Undesired whitespaces:
-
-    git grep '\s+$'
-
-JavaScript links should be replaced with styled buttons where possible:
-
-    git ls-tree | grep -E '\.haml$' | xargs grep -E '"#"'
-    git ls-tree | grep -E '\.haml$' | xargs grep -E "'#'"
-
-Defined is bad in templates: use `local_defines` instead:
-
-    git ls-tree | grep -E '\.haml$' | xargs grep -E 'defined\?'
-
-## Many false positives
-
-Use in-place modifications:
-
-    git grep '\+\='
-
-Hard because should not alter method inputs,
-so you have to check if the matches are inputs or not.
-
-Unnecessary regexes:
-
-    git grep '(\\A|(\\(z|Z)|$)/)'
-
-Use string methods instead.
-
-# Architecture
-
-## Configuration
-
-Managed by <https://github.com/settingslogic/settingslogic>.
-
-At:
-<https://github.com/gitlabhq/gitlabhq/blob/2b816075dc71dfe8f6f9e5349fdff7f03ad9dad0/config/initializers/2_app.rb#L5>
-`Settings` is aliased to `Gitlab.config` which is then used on the app
-instead of Settings. TODO why the indirection?
-
-## 00000
-
-The `00000` reference is magic: TODO how
