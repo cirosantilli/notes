@@ -37,3 +37,23 @@ Appear unused.
     }' | curl -vvv -H 'Content-Type: application/json' --data @- "$HOST/api/v3/projects/${USERNAME}%2F${REPO_PATH}?private_token=$PRIVATE_TOKEN"
 
     curl -vvv -H 'Content-Type: application/json' "$HOST/api/v3/projects/${USERNAME}%2F${REPO_PATH}?private_token=$PRIVATE_TOKEN"
+
+## Compiler
+
+### json
+
+Work relative to repo root:
+
+- `/a.html`
+- `//a.html`
+
+Fail:
+
+- `/d/../d/a.html`
+- `../reponame/a.html`
+
+## Domains
+
+Built PDFs are served from:
+
+<http://orm-atlas2-prod.s3.amazonaws.com/pdf/04b68fb4f0db6163a03ec7a853dc8301.pdf>

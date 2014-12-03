@@ -3,8 +3,9 @@
 # API
 
   TOKEN=''
+  # USER='cirosantilli'
   USER='cirosantilli-puppet'
-  REPO='test-tmp0'
+  REPO='test-tmp1'
   ID="$USER/$REPO"
 
   # Empty
@@ -15,9 +16,6 @@
 
   # One file named `b` that is empty.
   TREE="4277b6e69d25e5efa77c455340557b384a4c018a"
-
-
-  COMMIT=""
 
   curl -H "Authorization: token $TOKEN" https://api.github.com
 
@@ -30,28 +28,39 @@
     "auto_init": true
   }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/user/repos
 
+  # curl -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID
+
   # Blob
-  BLOB="$(printf '{
-    "content": ""
-  }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/blobs | json sha)"
+  BLOB="$(
+    printf '{
+      "content": ""
+    }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/blobs | json sha
+  )"
+  echo $BLOB
 
   # Tree
-  TREE="$(printf '{
-    "tree": [
-      {
-        "path": "a",
-        "mode": "100644",
-        "type": "blob",
-        "sha": "'$BLOB'"
-      }
-    ]
-  }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/trees | json sha)"
+  TREE="$(
+    printf '{
+      "tree": [
+        {
+          "path": "a",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "'$BLOB'"
+        }
+      ]
+    }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/trees | json sha
+  )"
+  echo $TREE
 
   # Commit
-  COMMIT="$(printf '{
-    "message": "a",
-    "tree": "'$TREE'"
-  }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/commits | json sha)"
+  COMMIT="$(
+    printf '{
+      "message": "a",
+      "tree": "'$TREE'"
+    }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/commits | json sha
+  )"
+  echo $COMMIT
 
   # Ref
   printf '{
@@ -173,7 +182,7 @@
   printf '{
     "tree": [
       {
-        "path": ".git",
+        "path": ".git/a",
         "mode": "100644",
         "type": "blob",
         "sha": "'$BLOB'"
@@ -195,7 +204,7 @@
   printf '{
     "tree": [
       {
-        "path": "..",
+        "path": "../a",
         "mode": "100644",
         "type": "blob",
         "sha": "'$BLOB'"
@@ -206,7 +215,7 @@
   printf '{
     "tree": [
       {
-        "path": "/",
+        "path": "/b",
         "mode": "100644",
         "type": "blob",
         "sha": "'$BLOB'"
@@ -231,3 +240,20 @@
     "description": "db",
     "context": "b"
   }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/statuses/$COMMIT
+
+## Releases
+
+    printf '{
+      "tag_name": "1"
+    }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/releases | json upload_url
+
+  # upload_url is a standardized URL template, now you have to replace the name parameter
+  # in the URL template with the desired name.
+
+    printf 'a' | curl --data @- -H "Authorization: token $TOKEN" -H 'Content-Type: application/zip' 'https://uploads.github.com/repos/cirosantilli-puppet/test-tmp1/releases/727084/assets?name=a.zip'
+
+  # Fails, too long:
+
+    printf 'a' | curl --data @- -H "Authorization: token $TOKEN" -H 'Content-Type: application/zip' 'https://uploads.github.com/repos/cirosantilli-puppet/test-tmp1/releases/727084/assets?name='`python -c 'print "n" * 255'`.zip
+
+    printf 'a' | curl --data @- -H "Authorization: token $TOKEN" -H 'Content-Type: application/zip' 'https://uploads.github.com/repos/cirosantilli-puppet/test-tmp1/releases/727084/assets?name='`python -c 'print "n" * 250'`.zip
