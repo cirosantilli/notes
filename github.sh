@@ -3,9 +3,9 @@
 # API
 
   TOKEN=''
-  # USER='cirosantilli'
-  USER='cirosantilli-puppet'
-  REPO='test-tmp1'
+  USER='cirosantilli'
+  # USER='cirosantilli-puppet'
+  REPO='test-tmp'
   ID="$USER/$REPO"
 
   # Empty
@@ -177,6 +177,8 @@
 
 ## Tree
 
+## Blob
+
 # Fail as expected:
 
   printf '{
@@ -189,6 +191,18 @@
       }
     ]
   }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/trees
+
+  printf '{
+    "tree": [
+      {
+        "path": ".GIT/a",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "'$BLOB'"
+      }
+    ]
+  }' | curl --data @- -H "Authorization: token $TOKEN" https://api.github.com/repos/$ID/git/trees
+
 
   printf '{
     "tree": [

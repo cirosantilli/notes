@@ -37,7 +37,7 @@ Work related info.
 
 - Mozilla: <https://careers.mozilla.org/en-US/listings/>
 - Red Hat: <http://jobs.redhat.com/job-search-results/>. No France, no remote.
-- Cannonical: <http://www.canonical.com/careers/all-technical-and-engineering-vacancies>. Has remote.
+- Canonical: <http://www.canonical.com/careers/all-technical-and-engineering-vacancies>. Has remote.
 - <http://wso2.com/>
 
 ## Rails users
@@ -46,3 +46,7 @@ Famous international Rails dev enterprises:
 
 - <http://blog.plataformatec.com.br/>: Jose Valim (famous Rails dev), Devise
 - <http://thoughtbot.com/>: Factory Girl
+
+## Training
+
+<http://en.wikipedia.org/wiki/INSEAD>
