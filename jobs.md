@@ -11,6 +11,12 @@ Work related info.
 - https://jobs.github.com/positions
 - https://www.wfh.io/
 
+### Twitter announcers
+
+Twitters with high percentage of job offerings:
+
+- <https://twitter.com/kefletcher>. Educational software. Rails. 5 yrs + experience... Remote possible!
+
 ## Dev tools / publishing / training / education
 
 - Atlassian engineering / product: <https://www.atlassian.com/company/careers/?tab=all-openings>
