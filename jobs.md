@@ -11,7 +11,7 @@ Work related info.
 - https://jobs.github.com/positions
 - https://www.wfh.io/
 
-### Twitter announcers
+## Twitter announcers
 
 Twitters with high percentage of job offerings:
 
