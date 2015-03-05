@@ -11,11 +11,12 @@ Work related info.
 - https://jobs.github.com/positions
 - https://www.wfh.io/
 
-## Twitter announcers
+## Personal announcers
 
 Twitters with high percentage of job offerings:
 
 - <https://twitter.com/kefletcher>. Educational software. Rails. 5 yrs + experience... Remote possible!
+- <http://stackoverflow.com/users/367273/npe> Google employee who looks for people with high SO reputation.
 
 ## Dev tools / publishing / training / education
 
