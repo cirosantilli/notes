@@ -1,5 +1,6 @@
 # Recruiters who contacted me
 
+- 2015-04 - [Andy Stirling Martin](https://www.linkedin.com/pub/andrew-stirling-martin/46/4a9/766) for [Bloomberg](https://en.wikipedia.org/wiki/Bloomberg_L.P.). 50k GBP.
 - 2015-02 - TEKsystems.com - [Arnaud LAHY](https://www.linkedin.com/profile/view?id=124490154) for [MUREX](http://fr.wikipedia.org/wiki/Murex_%28logiciels_pour_la_finance%29). 45k pay.
 - 2015-02 - [Caroline Thomine-Desmazures](https://www.linkedin.com/pub/caroline-thomine-desmazures/0/930/999).
 - 2015-01 - ULLINK - [Cathy Langrand](https://www.linkedin.com/pub/cathy-langrand/59/10/ba0)
