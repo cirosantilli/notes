@@ -2,43 +2,48 @@
 
 ## Home
 
-- https://twitter.com/cmkpl/status/586381620724137984
-- http://stackoverflow.com/a/25566909/895245 inline
-
-### C
-
-- C and C++ binary compatibility: <http://stackoverflow.com/questions/1774911/how-to-design-a-c-api-for-binary-compatible-extensibility>
+- SO answer rwhat does brk do? question
+- understand elf
+- http://uranus.chrysocome.net/linux/ex2fsfile.htm https://github.com/scality/RestBlockDriver
+- https://samindaw.wordpress.com/2012/03/21/mounting-a-file-as-a-file-system-in-linux/
+- java remove from list
+- AtomicInteger
+- CIDR notation
+    - 10.0.1/24
+    - 172.168.0/24
+    - 192.168/16
+    - 192.168.0/24
 
 ### Stack Overflow
 
--   -target: , <http://stackoverflow.com/questions/8970920/maven-javac-source-release-1-6-requires-target-release-1-6>. Ask why ignoring can lead to errors. Link to <http://stackoverflow.com/questions/1654923/in-the-13-years-that-java-has-been-around-are-there-any-specific-examples-of-ba> in the process
+-   http://stackoverflow.com/questions/24787769/what-are-lfb-lbb-lbe-lvl-loc-in-the-compiler-generated-assembly-code
+-   stack frame examine http://stackoverflow.com/questions/2770889/how-can-i-examine-the-stack-frame-with-gdb
+-   instruction representation
+-   C static improve example http://stackoverflow.com/a/14339047/895245
+-   LEA http://stackoverflow.com/questions/1658294/whats-the-purpose-of-the-lea-instruction explain why different from MOV on encoding level
 
--   answer with bytecode: <http://stackoverflow.com/questions/2486191/java-string-pool>, <http://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java>
+#### Some day
 
--   -source without -bootclasspath: <http://stackoverflow.com/questions/7816423/warning-options-bootstrap-class-path-not-set-in-conjunction-with-source-1-5>, <http://stackoverflow.com/questions/8970920/maven-javac-source-release-1-6-requires-target-release-1-6>. Ask why ignoring can lead to errors. <http://stackoverflow.com/questions/3091040/why-do-we-use-rt-jar-in-a-java-project>
-
--   <http://stackoverflow.com/questions/3912765/iterator-for-array>. Use `javap` and quote JLS http://stackoverflow.com/questions/3912765/iterator-for-array
+-   Ask why ignoring can lead to errors. Link to <http://stackoverflow.com/questions/1654923/in-the-13-years-that-java-has-been-around-are-there-any-specific-examples-of-ba> in the process
 
 -   <http://stackoverflow.com/questions/313584/what-is-the-concept-of-erasure-in-generics-in-java>, <http://stackoverflow.com/questions/339699/java-generics-type-erasure-when-and-what-happens?lq=1>
-
--   Annotation questions: http://stackoverflow.com/questions/3107970/how-do-different-retention-policies-affect-my-annotations , http://stackoverflow.com/questions/5971234/retentionpolicy-class-vs-runtime Share: http://tutorials.jenkov.com/java-reflection/annotations.html , the guy is good.
-
--   http://stackoverflow.com/questions/1329926/how-to-prevent-an-object-from-getting-garbage-collected Unsafe and the other one.
-
--   http://stackoverflow.com/questions/11774099/legal-identifiers-in-java
-
--   Check out the 500 million SOP / CSRF SO duplicates
-
-    - answered: <http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed>
-    - <http://stackoverflow.com/questions/1830050/why-same-origin-policy-for-xmlhttprequest>
-    - <http://security.stackexchange.com/questions/59411/how-to-protect-against-login-csrf>
-    - <http://stackoverflow.com/questions/2526522/csrf-cross-site-request-forgery-attack-example-and-prevention-in-php>
-    - <http://stackoverflow.com/questions/8716674/preventing-csrf>
 
 ### Read
 
 - <http://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf>
 - <http://www.softpanorama.org/index.shtml>, in particular Linux vs Solaris and the creator.
+
+### C
+
+### Java
+
+- weak reference
+- JMM http://zeroturnaround.com/rebellabs/concurrency-torture-testing-your-code-within-the-java-memory-model/
+
+### Hardware
+
+- http://stackoverflow.com/questions/3928995/how-do-cache-lines-work
+- http://en.wikipedia.org/wiki/Branch_predictor
 
 ### Eclipse
 
@@ -56,30 +61,7 @@
 - automatically set upstream on new branches to be the same as to the current branch
 - understand `autosetuprebase`
 
-### Java
-
-- how to do `System.exit`, `Thread.new`, `Thread.sleep` in bytecode?
-- weak reference
-- JMM http://zeroturnaround.com/rebellabs/concurrency-torture-testing-your-code-within-the-java-memory-model/
-- packages
-- learn Java bytecode
-- learn Java memory layout and GC
-- learn Spring
-
-### Hardware
-
-- http://stackoverflow.com/questions/3928995/how-do-cache-lines-work
-- http://en.wikipedia.org/wiki/Branch_predictor
-
-### JIRA / Confluence
-
-- Confluence attempt XSS
-- JIRA list all likes of given user
-- Confluence paragraph inside list
-- JIRA confirm before exit create new issue
-
 ### Misc
 
-- check out the Quora followers, disable other useless feed notifications
 - Krusader: focus second item (not the `..`) by default if one exists. Amazing when there is a single directory inside a directory.
 - Guake rename tab not working

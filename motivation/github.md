@@ -1,4 +1,4 @@
-# GitHub applicaiton
+# GitHub application
 
 ## Announcement
 
