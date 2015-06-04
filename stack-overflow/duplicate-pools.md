@@ -1,37 +1,4 @@
-# Stack Overflow
-
-## Not duplicates disclaimer
-
-- DISCLAIMER: part of this answer comes from [my earlier answer](). I believe those questions are not duplicates, and that I have directly answered the OP's question in each.
-
-## The machiavellic contributor
-
--   when you find a duplicate pool answer every question with similar answers. Quote the answer to make it clear that you really answered it.
-
-    If they can me marked as duplicates, do so, or you risk getting your answers deleted.
-
-    Furthermore, closed questions continue netting rep to upvotes, and prevent new answers from coming in.
-
--   follow on Twitter / RSS someone who comments on the top features of new software releases. E.g. for Git, follow GitHub on Twitter. Then run back to any question which has a new answer.
-
--   always upvote the question when you answer it:
-
-    - the more upvotes, more likely people are to click it.
-    - the OP is more likely to see your answer and feel good and upvote you
-
--   always upvote comments that favor you:
-
-    - I like this answer!
-    - also look at that question (when you have answered it)
-
--   give answers with a mixture of:
-
-    - simple concrete examples
-    - standards quoting
-
--   be a programming monster
-
-## Duplicate pools I've answered
+# Duplicate pools I've answered
 
 HTML boolean attributes:
 
@@ -60,7 +27,19 @@ Rails pass values to view:
 - http://stackoverflow.com/questions/2721880/ruby-on-rails-send-javascript-variable-from-controller-to-external-javascript
 - http://stackoverflow.com/questions/6504092/erb-in-coffee-script-with-rails-3-1
 
-### Cross site
+C static:
+
+- http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program
+- http://stackoverflow.com/questions/558122/what-is-a-static-function
+
+Java native:
+
+- http://stackoverflow.com/questions/18900736/what-exactly-are-native-methods-in-java-and-where-should-be-used/29311166#29311166
+- http://stackoverflow.com/questions/6101311/what-is-the-native-keyword-in-java-for/30635871#30635871
+- http://stackoverflow.com/questions/2902618/usage-of-native-in-java/30635999#30635999
+- http://stackoverflow.com/questions/557574/what-is-a-native-implementation-in-java/30636097#30636097
+
+## Cross site
 
 BST vs Binary Heap:
 
@@ -71,3 +50,23 @@ CSRF and SOP:
 
 - http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed
 - http://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important
+
+Minimal Linux distro:
+
+- <http://superuser.com/questions/307087/linux-distro-with-just-busybox-and-bash>
+- <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone>
+- <http://unix.stackexchange.com/questions/2692/what-is-the-smallest-possible-linux-implementation>
+
+## To be answered
+
+QEMU errors:
+
+- http://unix.stackexchange.com/questions/47619/load-linux-bzimage-in-qemu
+- http://unix.stackexchange.com/questions/117041/running-kernel-on-qemu
+- http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu
+- http://unix.stackexchange.com/questions/48302/running-bzimage-in-qemu
+- http://unix.stackexchange.com/questions/67462/linux-kernel-is-not-finding-the-initrd-correctly
+
+QEMU non GUI:
+
+- http://stackoverflow.com/questions/6710555/how-to-use-qemu-to-run-a-non-gui-os-on-the-terminal
