@@ -1,26 +1,56 @@
 # TODO
 
-## Home
+-   <http://jobs.citrix.com/job/Cambridge-SW-Engr-1/224862000/>
+-   <http://jobs.citrix.com/job/Cambridge-SW-Engr-1/254269900/>
 
-- SO answer rwhat does brk do? question
-- understand elf
-- http://uranus.chrysocome.net/linux/ex2fsfile.htm https://github.com/scality/RestBlockDriver
-- https://samindaw.wordpress.com/2012/03/21/mounting-a-file-as-a-file-system-in-linux/
+-   understand elf
+
+    - http://stackoverflow.com/questions/93039/where-are-static-variables-stored-in-c-c
+    - http://stackoverflow.com/questions/16703886/where-do-static-local-variables-go
+
+    - http://stackoverflow.com/questions/26294034/how-to-make-an-executable-in-linux-using-a-hex-editor
+    - reply http://stackoverflow.com/a/26296684/895245 saying that the linked examples are contrived and intelligent
+
+-   GCC read source of `-fomit-frame-pointer` and answer <http://stackoverflow.com/questions/14666665/trying-to-understand-gcc-option-fomit-frame-pointer>
+
+- https://github.com/scality/RestBlockDriver
+
 - java remove from list
+
 - AtomicInteger
+
 - CIDR notation
+
     - 10.0.1/24
     - 172.168.0/24
     - 192.168/16
     - 192.168.0/24
 
-### Stack Overflow
+-   x86 instruction encoding
 
--   http://stackoverflow.com/questions/24787769/what-are-lfb-lbb-lbe-lvl-loc-in-the-compiler-generated-assembly-code
--   stack frame examine http://stackoverflow.com/questions/2770889/how-can-i-examine-the-stack-frame-with-gdb
--   instruction representation
--   C static improve example http://stackoverflow.com/a/14339047/895245
--   LEA http://stackoverflow.com/questions/1658294/whats-the-purpose-of-the-lea-instruction explain why different from MOV on encoding level
+    - http://reverseengineering.stackexchange.com/questions/2627/what-is-the-meaning-of-movabs-in-gas-x86-att-syntax
+    - http://stackoverflow.com/questions/19415184/load-from-a-64-bit-address-into-other-register-than-rax
+    - http://stackoverflow.com/questions/4182210/x86-64-assembly
+    - The reason why GCC uses a different name is likely linked to an encoding deviation in that case from the 32 bit. Understand what exactly.
+
+-   GCC
+
+    -  how to run website
+
+Job postings:
+
+- http://careers.stackoverflow.com/jobs/85452/ing%C3%A9nieur-validation-assystem?searchTerm=Assystem
+
+#### SO
+
+- VLA overhead <http://stackoverflow.com/questions/18848537/can-a-const-variable-be-used-to-declare-the-size-of-an-array-in-c/30312817#comment48721475_30312817> <http://stackoverflow.com/questions/2034712/overhead-of-using-variable-length-arrays>
+- answer what does brk do? question
+- stack frame examine http://stackoverflow.com/questions/2770889/how-can-i-examine-the-stack-frame-with-gdb
+- LEA http://stackoverflo.com/questions/1658294/whats-the-purpose-of-the-lea-instruction explain why different from MOV on encoding level
+
+Ask:
+
+- `extern int` inside struct?! TODO where was it?
 
 #### Some day
 
@@ -65,3 +95,5 @@
 
 - Krusader: focus second item (not the `..`) by default if one exists. Amazing when there is a single directory inside a directory.
 - Guake rename tab not working
+
+1.9, 2.1, 2.3, 9.5, 9.6, 9.7, 11, 11.2, 11.6

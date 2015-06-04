@@ -9,6 +9,7 @@ When you find a company that interested you, even if you don't get hired look ar
 ## Job boards
 
 - http://www.linkedin.com
+    https://www.linkedin.com/job
 - http://monster.com/
 - http://www.indeed.com
 - http://www.dice.com/
@@ -48,12 +49,23 @@ India:
 
 <https://www.polytechnique.org/jobs?jobtermText=Informatique+-+Sciences+de+l%27information+%28secteur%29&jobterm=894&country=&expertise=&order=promo#pl_set_top>
 
-## Personal announcers
+## People
 
-Twitters with high percentage of job offerings:
+### Job announcers
 
 - <https://twitter.com/kefletcher>. Educational software. Rails. 5 yrs + experience... Remote possible!
 - <http://stackoverflow.com/users/367273/npe> Google employee who looks for people with high SO reputation.
+
+### Interesting people
+
+Stack Overflow:
+
+- GCC MELT, French  <https://www.linkedin.com/pub/basile-starynkevitch/0/b99/478>
+- NVIDIA: http://stackoverflow.com/users/214473/tom https://www.linkedin.com/in/tmjbradley
+- Redhat from UNICAMP: https://www.linkedin.com/pub/lucas-meneghel-rodrigues/4/a4b/22
+- Lip6 Coccinelle Kernel Gilles.Muller@lip6.fr
+- Compiler optimization and language design: https://www.linkedin.com/pub/matthieu-mege-pmp%C2%AE/21/29/6b1
+- Frama-C university of Trier http://stackoverflow.com/users/139746/pascal-cuoq
 
 ## Dev tools / publishing / training / education
 
@@ -69,15 +81,36 @@ Twitters with high percentage of job offerings:
 
 <http://fortune.com/fortune500/>, then filter by Computer Software.
 
-- IBM: <https://jobs3.netmedia1.com/cp/faces/job_search>. Positions in Gentilly, UK and Ireland. Lots of Java.
-- EMC: <http://en.wikipedia.org/wiki/EMC_Corporation> 63K employees. Owns VMware, 
-- CA: <http://www.ca.com> 12K employees.
+-   EMC: <http://en.wikipedia.org/wiki/EMC_Corporation> 63K employees. Owns VMware, 
+
+-   CA: <http://www.ca.com> 12K employees.
+
+#### IBM
+
+<https://jobs3.netmedia1.com/cp/faces/job_search>. Positions in Gentilly, UK and Ireland. Lots of Java:
+
+-   https://jobs3.netmedia1.com/cp/faces/job_summary?job_id=SWG-0661998
+
+-   2015-05 https://jobs3.netmedia1.com/cp/faces/job_summary?job_id=SWG-0712751 (tried)
+
+    reply from vijaybv at in.ibm.com
+
+    Pass CAT(IPAT) test http://www.identifythebest.com/IBMEUP/Login.aspx from http://www.ddiworld.com/
+
+IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 
 ### Hardware
 
 - http://jobsearch.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/searchJobsForm.jsp
 - Intel: <https://intel.taleo.net/careersection/10000/moresearch.ftl>.
 - Seagate: <https://careers.seagate.com/jobs?keywords=GRP&page=1>
+- <http://www.marvell.com/careers/>
+- <https://en.wikipedia.org/wiki/SanDisk>
+- Phillips <https://en.wikipedia.org/wiki/Philips>
+
+### low level
+
+- <https://en.wikipedia.org/wiki/Citrix_Systems> 10k employees <http://www.citrix.com/careers/home.html>
 - <http://www.scality.com/careers/>
 
 ## Open source heavy
@@ -86,6 +119,9 @@ Twitters with high percentage of job offerings:
 - Red Hat: <http://jobs.redhat.com/job-search-results/>. No France. General application: <https://careers-redhat.icims.com/connect?hashed=-435800245>
 - Canonical: <http://www.canonical.com/careers/all-technical-and-engineering-vacancies>. Has remote.
 - <http://wso2.com/>
+- <http://www.fsf.org/resources/jobs/>
+- <https://www.linaro.org/careers/>
+- CEA <http://www-list.cea.fr/index.php/en/discover-cea-list/working-at-cea-list>
 
 ## Rails users
 
@@ -97,3 +133,70 @@ Famous international Rails dev enterprises:
 ## Training
 
 <http://en.wikipedia.org/wiki/INSEAD>
+
+## Misc
+
+- airbus http://www.airbusgroup.com/int/en/people-careers/jobs-and-applications/search-for-vacancies.html
+- thaleo https://thales.taleo.net
+- https://www.linkedin.com/edu/alumni?id=12398&facets=CN.13&keyword=&dateType=attended&startYear=&endYear=&incNoDates=true&start=0&count=10&filters=off&companyCount=3&functionCount=3&unadopted=false&trk=edu-cp-com-CC-title
+- https://orange.jobs , https://orange.jobs/jobs/offer.do?joid=38154&lang=ENu
+- soge: https://careers.stackoverflow.com/jobs/82079/software-craftswoman-craftsman-passionn%C3%A9-e-soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale
+- google
+    Sylvain Le Gal https://www.linkedin.com/profile/view?id=5910344&authType=NAME_SEARCH&authToken=nxpR&locale=en_US&srchid=1851484281430811921767&srchindex=3&srchtotal=7&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1851484281430811921767%2CVSRPtargetId%3A5910344%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A
+    Marc Lacoste https://www.linkedin.com/profile/view?id=37844716&authType=NAME_SEARCH&authToken=l4ln&locale=fr_FR&srchid=1851484281430770512608&srchindex=8&srchtotal=34&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1851484281430770512608%2CVSRPtargetId%3A37844716%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A
+- CEA
+    https://www.linkedin.com/profile/view?id=1196098&authType=NAME_SEARCH&authToken=q478&locale=en_US&srchid=1851484281430809876677&srchindex=1&srchtotal=9&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1851484281430809876677%2CVSRPtargetId%3A1196098%2CVSRPcmpt%3Aprimary%2CVSRPnm%3A
+-   misys GPU
+    - http://on-demand.gputechconf.com/gtc/2015/video/S5249.html
+    - http://on-demand.gputechconf.com/gtc/2015/presentation/S5249-Bram-Leehouwers.pdf
+    - https://www.linkedin.com/profile/view?id=171209770&goback=
+    - http://www.gputechconf.com/
+
+- http://www.scality.com/partners/
+
+- processing
+
+    - intel 100k
+
+    - AMD 10k
+
+    - nvidia 9k
+
+        -   Cyril Zeller https://www.linkedin.com/profile/view?id=58195052&goback=
+
+            Bonjour, je suis X09 informaticien, et j'ai très envie de travailler dans des applications low-level, proches du hardware et Linux, d'où mon intérêt pour NVIDIA. Avez vous d’opportunités pour les récemment diplômés?
+
+        -   Olivier Marco https://www.linkedin.com/profile/view?id=21648320&authType=OUT_OF_NETWORK&authToken=9Nko
+
+            Bonjour, je suis X09 informaticien, et j'ai très envie de travailler dans des technologies low-level, proches du hardware, et Linux, d'où mon intérêt pour NVIDIA. Je voudrais savoir votre impression sur NVIDIA, et en quoi consiste le travail en gros. -- Ciro
+
+    -   https://en.wikipedia.org/wiki/Freescale_Semiconductor
+
+        Freescale Semiconductor
+
+    -   ARM 3k
+
+        http://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=18940&localeCode=en-us
+
+    -   Renesas Electronics
+
+    -   https://en.wikipedia.org/wiki/Freescale_Semiconductor (motorola)
+
+-   Networking
+
+    -   Cisco 70k
+
+    -   Qualcomm 31k
+
+    -   Broadcom 10k
+
+    -   QLogic 1k
+
+-   distros
+
+    redhat
+
+-   Not for profits
+
+    - https://en.wikipedia.org/wiki/Linaro
+
