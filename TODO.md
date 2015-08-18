@@ -1,56 +1,156 @@
 # TODO
 
--   <http://jobs.citrix.com/job/Cambridge-SW-Engr-1/224862000/>
--   <http://jobs.citrix.com/job/Cambridge-SW-Engr-1/254269900/>
+-   http://stackoverflow.com/questions/22054578/run-a-program-without-an-operating-system
 
--   understand elf
+-   list functions GDB python walk
 
-    - http://stackoverflow.com/questions/93039/where-are-static-variables-stored-in-c-c
-    - http://stackoverflow.com/questions/16703886/where-do-static-local-variables-go
+-   trustinsoft
 
-    - http://stackoverflow.com/questions/26294034/how-to-make-an-executable-in-linux-using-a-hex-editor
-    - reply http://stackoverflow.com/a/26296684/895245 saying that the linked examples are contrived and intelligent
+-   http://stackoverflow.com/questions/8878716/what-is-the-difference-between-hardware-and-software-breakpoints
 
--   GCC read source of `-fomit-frame-pointer` and answer <http://stackoverflow.com/questions/14666665/trying-to-understand-gcc-option-fomit-frame-pointer>
+    - create hardware breakpoints manually
+    - example of hardware and software breakpoints (ptrace and hardware in assembly)
+    - cpuinfo that enables hardware
+
+- bare metal x86
+
+- play with ARM cross compile
+
+- libisl example
+
+- libcc1 example
+
+- gdb python my tree walk improvement
+
+- https://breaz.io/
+
+- PR gas doc .data vs .section
+
+-   GDB feature requests:
+
+    - disassemble with binutils as a library
+    - gdb up arrow history bug
+
+    - gdb python continue until a breakpoint that prints only exactly what I tell it to.
+    - rbreak full path, resolve path e.g. `./a.c`
+    - rbreak Regex for file to break in directory
+    - List all symbols
+    - Python get instruction memory from disassemble without an extra read
+    - Python breakpoint without message. `internal` has other side effects like not being able to list it. 
+
+    patches:
+
+    - add `if` to call
+    - compiled break condition
+    - compiled break action
+    - http://www.gnu.org/prep/maintain/maintain.html#Legal-Matters in GDB contribute update link
 
 - https://github.com/scality/RestBlockDriver
 
-- java remove from list
+## Pings
 
-- AtomicInteger
+Friday:
 
-- CIDR notation
+-   https://sourceware.org/ml/gdb-patches/2015-07/threads.html#00932 Testsuite docs: explain ptrace_scope and core_pattern requirements
 
-    - 10.0.1/24
-    - 172.168.0/24
-    - 192.168/16
-    - 192.168.0/24
+    Add latest prelink.
+
+-   http://www.spinics.net/lists/linux-newbie/ make config
+
+## GCC
+
+-   http://stackoverflow.com/questions/10483544/stopping-at-the-first-machine-code-instruction-in-gdb
+
+    Use actual kernel RIP as starting point.
+
+-   http://stackoverflow.com/questions/4060565/how-to-script-gdb-with-python-example-add-breakpoints-run-what-breakpoint-d
+
+    http://stackoverflow.com/questions/14698086/gdb-python-scripting-any-samples-iterating-through-c-c-struct-fields
+
+    http://stackoverflow.com/questions/764382/how-to-print-the-next-n-executed-lines-automatically-in-gdb?lq=1
+
+    http://stackoverflow.com/questions/763891/print-complete-control-flow-through-gdb-including-values-of-variables?lq=1
+
+    http://stackoverflow.com/questions/6517423/do-specific-action-when-certain-breakpoint-hits-in-gdb
+
+    http://stackoverflow.com/questions/13935443/gdb-scripting-execute-commands-at-selected-breakpoint?lq=1
+
+    http://stackoverflow.com/questions/17893554/printing-current-line-of-source-at-breakpoint-in-gdb
+
+    http://stackoverflow.com/questions/30013252/get-all-global-variables-local-variables-in-gdbs-python-interface
+
+    http://stackoverflow.com/questions/30443227/in-the-gdb-debugger-is-it-possible-to-get-the-function-to-source-file-mapping
+
+    http://stackoverflow.com/questions/14031930/break-on-instruction-with-specific-opcode-in-gdb
+
+    Function calls
+
+    -   http://stackoverflow.com/questions/311840/tool-to-trace-local-function-calls-in-linux?lq=1
+
+    -   http://stackoverflow.com/questions/9549693/gdb-list-of-all-function-calls-made-in-an-application
+
+    -   http://stackoverflow.com/questions/311948/make-gdb-print-control-flow-of-functions-as-they-are-called
+
+    http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb
+
+    http://stackoverflow.com/questions/17522307/getting-the-addresses-of-all-currently-used-variables-with-gdb?rq=1 consider .so variables
+
+-   http://stackoverflow.com/questions/7346929/why-do-we-use-builtin-expect-when-a-straightforward-way-is-to-use-if-else
+
+-   arithmetic simplifications: https://gcc.gnu.org/bugzilla/show_bug.cgi?id=30475
+
+    TODO find a "x + 10 > x" SO question I've seen once
+
+    i = time % 10;
+    if (i == 11)
+
+-   Builtin function stuff
+
+    -   http://stackoverflow.com/questions/21106801/why-is-memcmp-so-much-faster-than-a-for-loop-check http://stackoverflow.com/questions/20734934/why-is-strcmp-so-much-faster-than-my-function
+
+    -   http://stackoverflow.com/questions/2049412/do-math-functions-of-constant-expressions-get-pre-calculated-at-compile-time
+
+    -   http://stackoverflow.com/questions/30340787/undefined-reference-to-pow-when-the-exponent-is-changed?lq=1
+
+    -   http://stackoverflow.com/questions/9920789/literal-constant-vs-variable-in-math-library
+
+    -   gcc memcmp http://stackoverflow.com/questions/855895/intrinsic-memcmp/6334452#6334452
+
+    - http://stackoverflow.com/questions/2284860/how-does-c-compute-sin-and-other-math-functions
+
+-   http://stackoverflow.com/questions/14067547/how-switch-case-statement-implemented-or-works-internally
+
+- http://stackoverflow.com/questions/8841865/how-does-gcc-optimize-a-simple-loop answer with intermediate optimization pass steps
+
+-   GCC read source of `-fomit-frame-pointer` and answer <http://stackoverflow.com/questions/14666665/trying-to-understand-gcc-option-fomit-frame-pointer>
+
+-   how malloc works
+
+    http://stackoverflow.com/questions/1119134/how-do-malloc-and-free-work
+
+    http://www.quora.com/How-do-the-brk-and-mmap-system-calls-work-in-the-Linux-kernel interpreting glibc
+
+- gcc custom glibc answer
+
+- GDB multi-thread
+
+- VLA overhead <http://stackoverflow.com/questions/18848537/can-a-const-variable-be-used-to-declare-the-size-of-an-array-in-c/30312817#comment48721475_30312817> <http://stackoverflow.com/questions/2034712/overhead-of-using-variable-length-arrays>
 
 -   x86 instruction encoding
 
+    - LEA http://stackoverflo.com/questions/1658294/whats-the-purpose-of-the-lea-instruction explain why different from MOV on encoding level
     - http://reverseengineering.stackexchange.com/questions/2627/what-is-the-meaning-of-movabs-in-gas-x86-att-syntax
     - http://stackoverflow.com/questions/19415184/load-from-a-64-bit-address-into-other-register-than-rax
     - http://stackoverflow.com/questions/4182210/x86-64-assembly
     - The reason why GCC uses a different name is likely linked to an encoding deviation in that case from the 32 bit. Understand what exactly.
 
--   GCC
+## C++
 
-    -  how to run website
+http://comments.gmane.org/gmane.comp.gcc.help/38052
 
-Job postings:
+## Java
 
-- http://careers.stackoverflow.com/jobs/85452/ing%C3%A9nieur-validation-assystem?searchTerm=Assystem
-
-#### SO
-
-- VLA overhead <http://stackoverflow.com/questions/18848537/can-a-const-variable-be-used-to-declare-the-size-of-an-array-in-c/30312817#comment48721475_30312817> <http://stackoverflow.com/questions/2034712/overhead-of-using-variable-length-arrays>
-- answer what does brk do? question
-- stack frame examine http://stackoverflow.com/questions/2770889/how-can-i-examine-the-stack-frame-with-gdb
-- LEA http://stackoverflo.com/questions/1658294/whats-the-purpose-of-the-lea-instruction explain why different from MOV on encoding level
-
-Ask:
-
-- `extern int` inside struct?! TODO where was it?
+- java remove from list
 
 #### Some day
 

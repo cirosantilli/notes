@@ -1,5 +1,11 @@
 # Recruiters who contacted me
 
+- 2015-08 - Sandrine Touboul https://www.linkedin.com/profile/view?id=35292132 - http://www.lusis.fr/fr
+- 2015-07 - Coraline Harlé <https://www.linkedin.com/pub/coraline-harl%C3%A9/42/605/212> - UpSourcing for https://en.wikipedia.org/wiki/Neolane , Adobe subsidiary
+- 2015-07 - Danilo Alves <https://www.linkedin.com/pub/danilo-alves/9b/10/656> - <http://www.viavarejo.com.br/>
+- 2015-07 - Maria-Cristina Prioteasa - <https://www.linkedin.com/pub/maria-cristina-prioteasa/8b/22b/519> - Audensiel Technologies <http://audensiel.com/>
+- 2015-07 - Marko Vujasinovic <https://www.linkedin.com/profile/view?id=1039960> - Meteojob
+- 2015-06 - Bruno Salvaudon https://www.linkedin.com/pub/bruno-salvaudon/0/34b/918 - Ogury https://www.linkedin.com/company/ogury-ltd
 - 2015-05 - Sébastien Bronner <https://www.linkedin.com/profile/view?id=188311461> - Autolib
 - 2015-05 - Laetitia STECCHINO - www.asensiel.com - Rails on the Media domain
 - 2015-05 - Arnaud Lefaux - <http://www.thecitysecret.com/>
