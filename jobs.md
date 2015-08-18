@@ -21,14 +21,19 @@ When you find a company that interested you, even if you don't get hired look ar
 - http://careers.stackoverflow.com/
 - https://jobs.github.com/positions
 - https://www.wfh.io/
+- https://remote.co/
 
 IT:
 
 - https://hired.com/
+- http://www.toptal.com/
+- https://breaz.io/
 
 France:
 
+- http://www.meteojob.com/
 - http://www.profilcall.com/
+- http://www.manageurs.com/
 
 Germany:
 
@@ -37,6 +42,11 @@ Germany:
 India:
 
 - http://www.naukri.com/
+
+## Goverment
+
+- https://www.hipeac.org/jobs/ : HPC, embedded, compilation
+- https://itea3.org/all-projects.html
 
 ## Interview prep
 
@@ -62,10 +72,28 @@ Stack Overflow:
 
 - GCC MELT, French  <https://www.linkedin.com/pub/basile-starynkevitch/0/b99/478>
 - NVIDIA: http://stackoverflow.com/users/214473/tom https://www.linkedin.com/in/tmjbradley
-- Redhat from UNICAMP: https://www.linkedin.com/pub/lucas-meneghel-rodrigues/4/a4b/22
-- Lip6 Coccinelle Kernel Gilles.Muller@lip6.fr
+- Lip6 Coccinelle Kernel Gilles.Muller@lip6.fr https://en.wikipedia.org/wiki/IRILL
+- Lip6 INRIA Whisper Coccinelle Kernel http://pagesperso-systeme.lip6.fr/Julia.Lawall/
 - Compiler optimization and language design: https://www.linkedin.com/pub/matthieu-mege-pmp%C2%AE/21/29/6b1
 - Frama-C university of Trier http://stackoverflow.com/users/139746/pascal-cuoq
+- INRIA https://www.linkedin.com/in/jensgustedt/fr
+- Tulio Magno Quites Machado Filho https://www.linkedin.com/in/tuliom IBM LTC Campinas
+- Paul Zimmermann: <https://en.wikipedia.org/wiki/Paul_Zimmermann> INRIA, computational maths, open source zealot
+- Google, C, Linux, <http://stackoverflow.com/users/29157/adam-liss>
+
+#### Brazil
+
+- https://www.linkedin.com/pub/lucas-meneghel-rodrigues/4/a4b/22 Redhat from UNICAMP
+- https://www.linkedin.com/in/ehabkost Red hat
+- http://blog.sergiodj.net/about/ Red Hat Brazilian GDB Builtbot maintainer
+
+#### French researchers
+
+- <http://www.dicosmo.org/>
+
+### INRIA
+
+- <http://www.inria.fr/en/teams/whisper> infrastructure
 
 ## Dev tools / publishing / training / education
 
@@ -102,11 +130,14 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 ### Hardware
 
 - http://jobsearch.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/searchJobsForm.jsp
-- Intel: <https://intel.taleo.net/careersection/10000/moresearch.ftl>.
 - Seagate: <https://careers.seagate.com/jobs?keywords=GRP&page=1>
 - <http://www.marvell.com/careers/>
 - <https://en.wikipedia.org/wiki/SanDisk>
 - Phillips <https://en.wikipedia.org/wiki/Philips>
+
+-   Intel: <https://intel.taleo.net/careersection/10000/moresearch.ftl>.
+
+    Intel open source <https://01.org/>, <https://github.com/search?o=desc&q=user%3A01org&s=stars&type=Repositories&utf8=%E2%9C%93>
 
 ### low level
 
@@ -115,13 +146,17 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 
 ## Open source heavy
 
+- <http://www.fsf.org/resources/service/>
 - Mozilla: <https://careers.mozilla.org/en-US/listings/>
 - Red Hat: <http://jobs.redhat.com/job-search-results/>. No France. General application: <https://careers-redhat.icims.com/connect?hashed=-435800245>
 - Canonical: <http://www.canonical.com/careers/all-technical-and-engineering-vacancies>. Has remote.
 - <http://wso2.com/>
 - <http://www.fsf.org/resources/jobs/>
 - <https://www.linaro.org/careers/>
-- CEA <http://www-list.cea.fr/index.php/en/discover-cea-list/working-at-cea-list>
+
+### CEA
+
+http://www-list.cea.fr/index.php/en/discover-cea-list/working-at-cea-list
 
 ## Rails users
 
@@ -186,8 +221,6 @@ Famous international Rails dev enterprises:
 
     -   Cisco 70k
 
-    -   Qualcomm 31k
-
     -   Broadcom 10k
 
     -   QLogic 1k
@@ -200,3 +233,86 @@ Famous international Rails dev enterprises:
 
     - https://en.wikipedia.org/wiki/Linaro
 
+## Codeplay
+
+Low level
+
+- https://www.codeplay.com/company/jobs
+
+## Embecosm
+
+Compilers GCC, LLVM, GDB
+
+http://www.embecosm.com/about/careers/
+
+## Silicon tailor
+
+low-level
+
+compilers
+
+https://hired.co.uk/companies/silicon-tailor
+
+## Trust in soft
+
+open source, security
+
+http://trust-in-soft.com/
+
+Pascal Cuoq, SO monster, works there.
+
+CEO Fabrice Derepas is from polytechnique: https://www.linkedin.com/profile/view?id=1496759
+
+Julien Cretin is second degree connection through Noe
+
+CEA related 2015: https://www.youtube.com/watch?v=p-MCWwQfRvM
+
+RSA conf 2015: https://www.youtube.com/watch?v=Luyw9cMcVmk
+
+Product demo: https://www.youtube.com/watch?v=Qt9mqynLCH4
+
+Pacal Cuoq speaks at CEA event 2015: https://www.youtube.com/watch?v=MTdxe64CPuw
+
+## Hex rays
+
+Make IDA.
+
+Founded by a russian.
+
+https://www.hex-rays.com/index.shtml
+
+## HSA Foundation
+
+Not for profit standardization body for heterogeneous computing.
+
+Looks like Khronos?
+
+<http://www.hsafoundation.com/>
+
+## Solidsands
+
+<http://www.solidsands.nl/>
+
+ANSI C compiler test suite: <http://www.solidsands.nl/supertest-general>
+
+## Qualcomm
+
+31k people.
+
+In particular https://www.linkedin.com/company/qualcomm-innovation-center-inc (QuIC).
+
+## Undo software
+
+3 coders, 2014.
+
+http://undo-software.com/company/
+
+## Coverity
+
+static analisys
+
+http://www.coverity.com/
+
+They have a free SaaS scan? https://scan.coverity.com/projects/new
+
+No EU jobs: http://www.coverity.com/company/careers/

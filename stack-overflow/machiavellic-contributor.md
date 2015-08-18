@@ -13,9 +13,11 @@
     - the more upvotes, more likely people are to click it.
     - the OP is more likely to see your answer and feel good and upvote you
 
--   if a question only has one answer and you come with a better one, upvote the existing answer.
+-   if a question only has few answers and you come with a good one, upvote the existing ones.
 
-    People will still see your answer anyways, and this will lead to people to upvote you more just to make your better answer surpass the current first. Being second if often an asset.
+    This may lead to existing answers upvoting you.
+
+    Even if they don't, other people will still see your answer anyways, and this will lead to people to upvoting you more just to make your great answer surpass the current ones. Being second is often an asset.
 
 -   always upvote comments that favor you:
 
@@ -28,3 +30,11 @@
     - standards quoting
 
 -   be a programming monster
+
+-   don't invest a lot of time in edits.
+
+    They don't give you rep, and they can get reverted and waste your time.
+
+    Some people are over attached to their exact wording even if yours is better.
+
+    And sometimes your just wrong.
