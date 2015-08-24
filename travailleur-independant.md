@@ -35,3 +35,17 @@ http://www.acpi.fr/portage-salarial/portage-salarial-free-lance-ou-auto-entrepre
 
 - facture http://vosdroits.service-public.fr/professionnels-entreprises/F23208.xhtml
     - electronique http://vosdroits.service-public.fr/professionnels-entreprises/F31410.xhtml
+
+- http://www.dynamique-mag.com/article/que-coute-un-salarie.2282
+
+    The right pay is brut + 1.8
+
+    charges salariales vs patronales
+
+Qui paye impot en france:
+
+- qui doit declarer: http://vosdroits.service-public.fr/particuliers/F358.xhtml#N100FD
+- http://www.impots.gouv.fr/portal/dgi/public/popup;jsessionid=U3JX2HU1AJBRXQFIEIPSFEY?espId=1&typePage=cpr02&docOid=documentstandard_5968
+- http://www.impots.gouv.fr/portal/dgi/public/popup?typePage=cpr02&sfid=501&espId=1&communaute=1&impot=IR
+- combien: http://vosdroits.service-public.fr/particuliers/F357.xhtml
+- http://vosdroits.service-public.fr/particuliers/F1419.xhtml
