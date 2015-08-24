@@ -1,5 +1,7 @@
 # Project ideas
 
+This is a selection of big / hard / interesting projects from my TODO list.
+
 ## Data minint
 
 ### Stack overflow google rank rep
@@ -36,3 +38,9 @@ This should be implemented as an Stack Overflow http://stackapps.com/ and on Git
 ## GDB
 
 -   https://sourceware.org/bugzilla/show_bug.cgi?id=13984#add_comment
+
+## Hardware
+
+### plug and play
+
+Understand everything that happens between plugging in an USB and seeing `/dev/sdb` appear.

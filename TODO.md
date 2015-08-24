@@ -1,5 +1,19 @@
 # TODO
 
+-   create an `x86-bare-metal-examples` repo on GitHub. Add the following examples:
+
+    - minimal
+    - hello world
+    - shutdown
+
+-   how to mount a dump of `dd /dev/sda`? No better solution than `offset`: <https://major.io/2010/12/14/mounting-a-raw-partition-file-made-with-dd-or-dd_rescue-in-linux/> Update `# loop` in Linux cheat.
+
+-   what is a `+` sign on the output of `ls -l`? E.g.: `ls -l /dev/sr0`?
+
+-   fdisk what is `boot` column? What is boot partition? Can it not be the first one?
+
+-   http://stackoverflow.com/questions/20099235/who-is-the-user-with-the-longest-streak-on-github/27742165?noredirect=1#comment52117777_27742165
+
 -   http://stackoverflow.com/questions/22054578/run-a-program-without-an-operating-system
 
 -   list functions GDB python walk
