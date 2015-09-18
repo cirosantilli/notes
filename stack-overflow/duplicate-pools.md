@@ -17,6 +17,8 @@ enctype multipart form data:
 - http://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean/28380690#28380690
 - http://stackoverflow.com/questions/8659808/how-does-http-file-upload-work/26791188#26791188
 - http://stackoverflow.com/questions/913626/what-should-a-multipart-http-request-with-multiple-files-look-like
+- http://stackoverflow.com/questions/4238809/example-of-multipart-form-data
+- http://stackoverflow.com/questions/14551194/how-are-parameters-sent-in-an-http-post-request (unanswered)
 
 Rails pass values to view:
 
@@ -62,6 +64,34 @@ What is POSIX:
 
 - <http://unix.stackexchange.com/questions/11983/what-exactly-is-posix/220877#220877>
 - <http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix/31865755#31865755>
+
+Ubuntu get source `bzr`:
+
+- http://askubuntu.com/questions/28372/how-do-i-get-and-modify-the-source-code-of-packages-installed-through-apt-get/624762#624762
+- http://askubuntu.com/questions/167468/where-can-i-find-the-source-code-of-ubuntu/667049#667049
+
+Ubuntu `dpkg -S` symlink:
+
+- http://askubuntu.com/questions/453337/i-get-dpkg-query-no-path-found-matching-pattern-how-to-solve-this/667227#667227
+- http://superuser.com/questions/179353/how-do-i-find-out-which-package-owns-a-file/964671#964671
+
+shntool CUE APE split:
+
+- <http://superuser.com/questions/251362/split-monkeyaudio-ape-cue-log-of-whole-audio-cd-into-mp3-of-individual/966801#966801>
+- <http://unix.stackexchange.com/questions/165485/why-can-i-not-split-a-ape-file/227252#227252>
+
+Mount image with multiple partitions:
+
+- http://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
+- http://unix.stackexchange.com/questions/87183/creating-formatted-partition-from-nothing/229219#229219
+- http://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
+- http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
+- http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
+
+GRUB mkrescue config:
+
+- http://askubuntu.com/questions/437323/is-it-possible-to-edit-grub-cfg/674183#674183
+- http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image/973021#973021
 
 ### C
 

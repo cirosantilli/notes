@@ -4,19 +4,25 @@ Software clones:
 
 - <http://meta.stackexchange.com/questions/2267/stack-exchange-clones>
 
-Data clones:
+Data clones / scrappers:
 
+- <http://firstbestanswer.com/>
+- <http://goobbe.com/>
+- <http://iswwwup.com/>
+- <http://nerdanswer.com/>
+- <http://osquestions.com>, <http://stackanswers.com>
+- <http://programming.nullanswer.com/>
+- <http://solvedstack.com>
+- <http://www.cybertechquestions.com/>
 - <http://www.stackprinter.com/>
 - <http://www.widecodes.com/>
-- <http://firstbestanswer.com/>
-- <http://www.cybertechquestions.com/>
-- <http://programming.nullanswer.com/>
-- <http://goobbe.com/>
+- <http://zeering.com/>
 
 No attribution <http://meta.stackexchange.com/questions/200177/a-site-or-scraper-is-copying-content-from-stack-exchange-what-do-i-do>:
 
 - <http://databasefaq.com/>
 - <http://stackoverflow.cluat.com/>
+- <http://www.helplib.com>: looks like manual quesiton translations
 
 Bad attribution:
 

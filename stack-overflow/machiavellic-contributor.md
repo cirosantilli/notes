@@ -6,6 +6,12 @@
 
     Furthermore, closed questions continue netting rep to upvotes, and prevent new answers from coming in.
 
+-   look at the linked and related questions for duplicates and subsets (A also solves B), and cross site duplicates on Google.
+
+    It can happen that a better answer exists outside of the best question (oldest most upvotes).
+
+    From every non-best question, link to the best you've answered.
+
 -   follow on Twitter / RSS someone who comments on the top features of new software releases. E.g. for Git, follow GitHub on Twitter. Then run back to any question which has a new answer.
 
 -   always upvote the question when you answer it:

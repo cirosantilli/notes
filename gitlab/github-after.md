@@ -2,6 +2,7 @@
 
 A list of stuff that GitHub did after GitLab, in case there is a legal war.
 
+- https://github.com/blog/2051-protected-branches-and-required-status-checks
 - https://github.com/blog/1884-introducing-split-diffs
 - https://github.com/blog/1901-managing-issues-and-pull-requests-across-repositories
 

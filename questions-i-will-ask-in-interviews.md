@@ -74,10 +74,12 @@ Why does `ESP` exist? Answer: allow debugger to find the current stack frame, `a
 
 ## Linux
 
--   how does the shebang work? Interpreter vs ELF executable? Can you make Jar files executable in Linux? http://stackoverflow.com/questions/1667830/running-a-jar-file-without-directly-calling-java
-
 -   what system calls are likely called when you do *from Bash*, including the Bash part of:
 
         /usr/bin/echo a
 
     fork + exec + wait + write + exit
+
+-   what is the difference between `/dev/sda` and `/dev/sda1`? Do they start at the same disk position?
+
+-   how does the shebang work? Interpreter vs ELF executable? Can you make Jar files executable in Linux? http://stackoverflow.com/questions/1667830/running-a-jar-file-without-directly-calling-java

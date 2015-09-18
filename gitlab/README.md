@@ -1,5 +1,15 @@
 # GitLab
 
+## Domains
+
+- <http://www.gitlab.cc/> Chinese version
+
+## Public instances
+
+## Mods
+
+- <https://git.idehub.cn/>
+
 ## Smells
 
 Undesired whitespaces:

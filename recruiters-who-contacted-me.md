@@ -1,5 +1,7 @@
 # Recruiters who contacted me
 
+- 2015-09 - Stephanie Dupas https://www.linkedin.com/profile/view?id=AB4AAAbNArEB37-f2PymtfjEi7wi-Eyw1UPWPRU&authType=name&authToken=aX1v&trk=wonton-desktop - Sophia Antipolis
+- 2015-09 - Urban Linker: several. http://www.urbanlinker.com/en/ Paris only, great agency.
 - 2015-08 - Sandrine Touboul https://www.linkedin.com/profile/view?id=35292132 - http://www.lusis.fr/fr
 - 2015-07 - Coraline Harlé <https://www.linkedin.com/pub/coraline-harl%C3%A9/42/605/212> - UpSourcing for https://en.wikipedia.org/wiki/Neolane , Adobe subsidiary
 - 2015-07 - Danilo Alves <https://www.linkedin.com/pub/danilo-alves/9b/10/656> - <http://www.viavarejo.com.br/>
@@ -30,6 +32,10 @@
 - 2014 - <https://www.elliptic.co/>
 
 ## Standard reply
+
+Bonjour XXX. Pour l'instant je suis ouvert aux technologies suivantes: http://www.cirosantilli.com/interests/ CV avec tel: http://www.cirosantilli.com/files/cv.pdf
+
+### Old standard replies
 
 Bonjour,
 
