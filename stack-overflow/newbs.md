@@ -5,7 +5,12 @@ We all were, we all are :-)
 ## Generic titles
 
 > What does this code do?
-> Need some help understanding ...
+
+> Need some help understanding XXX
+
+> Doing XXX
+
+> A question about XXX
 
 - http://stackoverflow.com/questions/9223756/what-does-this-x86-64-assembly-line-do
 

@@ -1,24 +1,47 @@
 # TODO
 
--   create an `x86-bare-metal-examples` repo on GitHub. Add the following examples:
+-   fang sheng optimal sort
 
-    - minimal
-    - hello world
-    - shutdown
-
--   how to mount a dump of `dd /dev/sda`? No better solution than `offset`: <https://major.io/2010/12/14/mounting-a-raw-partition-file-made-with-dd-or-dd_rescue-in-linux/> Update `# loop` in Linux cheat.
-
--   what is a `+` sign on the output of `ls -l`? E.g.: `ls -l /dev/sr0`?
-
--   fdisk what is `boot` column? What is boot partition? Can it not be the first one?
-
--   http://stackoverflow.com/questions/20099235/who-is-the-user-with-the-longest-streak-on-github/27742165?noredirect=1#comment52117777_27742165
-
--   http://stackoverflow.com/questions/22054578/run-a-program-without-an-operating-system
+-   minimalize OpenGL offscreen example
 
 -   list functions GDB python walk
 
--   trustinsoft
+    - gdb python my tree walk improvement on stack overflow answer
+
+-   contact archiv.org, tell them to add article issues
+
+-   how to run UEFI hello world?
+
+-   http://stackoverflow.com/questions/16385826/concept-of-relocation
+
+    http://stackoverflow.com/questions/16847741/processing-elf-relocations-understanding-the-relocs-symbols-section-data-an
+
+    if not dupe close, reply http://stackoverflow.com/questions/19464265/how-exactly-does-linking-work?rq=1 
+
+    http://stackoverflow.com/questions/16847741/processing-elf-relocations-understanding-the-relocs-symbols-section-data-an
+
+-   inb outb answer with bare metal Tetris
+
+    - http://stackoverflow.com/questions/8365746/what-does-outb-in-att-asm-mean
+    - http://stackoverflow.com/questions/3215878/what-are-in-out-instructions-in-x86-used-for
+    - http://wiki.osdev.org/Text_UI
+    - http://wiki.osdev.org/GUI
+
+-   http://superuser.com/questions/130955/how-to-install-grub-into-an-img-file
+
+    http://unix.stackexchange.com/questions/163791/place-grub-on-virtual-disk
+
+    http://askubuntu.com/questions/180023/can-i-install-grub-on-an-usb-and-make-it-a-rescue-disk
+
+    http://askubuntu.com/questions/152535/why-cant-i-install-grub-on-my-usb-drive
+
+    https://wiki.archlinux.org/index.php/GRUB#Install_to_external_USB_stick
+
+    -   http://askubuntu.com/questions/10571/how-to-install-grub-on-usb-flash-drive reply comment there
+
+-   implement nslookup with posix
+
+    http://stackoverflow.com/questions/2157592/how-does-getaddrinfo-do-dns-lookup which system call?
 
 -   http://stackoverflow.com/questions/8878716/what-is-the-difference-between-hardware-and-software-breakpoints
 
@@ -26,42 +49,13 @@
     - example of hardware and software breakpoints (ptrace and hardware in assembly)
     - cpuinfo that enables hardware
 
-- bare metal x86
-
-- play with ARM cross compile
-
-- libisl example
-
 - libcc1 example
-
-- gdb python my tree walk improvement
 
 - https://breaz.io/
 
 - PR gas doc .data vs .section
 
--   GDB feature requests:
-
-    - disassemble with binutils as a library
-    - gdb up arrow history bug
-
-    - gdb python continue until a breakpoint that prints only exactly what I tell it to.
-    - rbreak full path, resolve path e.g. `./a.c`
-    - rbreak Regex for file to break in directory
-    - List all symbols
-    - Python get instruction memory from disassemble without an extra read
-    - Python breakpoint without message. `internal` has other side effects like not being able to list it. 
-
-    patches:
-
-    - add `if` to call
-    - compiled break condition
-    - compiled break action
-    - http://www.gnu.org/prep/maintain/maintain.html#Legal-Matters in GDB contribute update link
-
-- https://github.com/scality/RestBlockDriver
-
-## Pings
+### Pings
 
 Friday:
 
@@ -171,11 +165,6 @@ http://comments.gmane.org/gmane.comp.gcc.help/38052
 -   Ask why ignoring can lead to errors. Link to <http://stackoverflow.com/questions/1654923/in-the-13-years-that-java-has-been-around-are-there-any-specific-examples-of-ba> in the process
 
 -   <http://stackoverflow.com/questions/313584/what-is-the-concept-of-erasure-in-generics-in-java>, <http://stackoverflow.com/questions/339699/java-generics-type-erasure-when-and-what-happens?lq=1>
-
-### Read
-
-- <http://research.microsoft.com/en-us/people/mickens/thenightwatch.pdf>
-- <http://www.softpanorama.org/index.shtml>, in particular Linux vs Solaris and the creator.
 
 ### C
 

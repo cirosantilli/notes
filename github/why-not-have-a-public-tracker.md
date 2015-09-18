@@ -1,5 +1,7 @@
 # Why not have a public tracker
 
+Feature request at: https://github.com/isaacs/github/issues/6
+
 I wonder why they do it.
 
 Most likely:
@@ -9,5 +11,3 @@ Most likely:
 3. Prevent security issues. Someone may unknowingly report a bug which later proves to be a security problem.
 4. Hide their errors to look smart. If there is no list of bugs or feature requests, they look smarter.
 5. Prevent users from leaking their own private data.
-
-Feature request at: https://github.com/isaacs/github/issues/6
