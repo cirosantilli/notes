@@ -1,6 +1,10 @@
 # TODO
 
--   fang sheng optimal sort
+-   http://stackoverflow.com/questions/2030366/what-do-the-brackets-mean-in-x86-asm answer with general form s:[a + b*c + d]
+
+    http://stackoverflow.com/questions/10362511/basic-use-of-immediates-square-brackets-in-x86-assembly-and-yasm?lq=1
+
+-   http://stackoverflow.com/questions/3853730/printing-hexadecimal-digits-with-assembly
 
 -   minimalize OpenGL offscreen example
 
@@ -55,6 +59,23 @@
 
 - PR gas doc .data vs .section
 
+-   Answer with minimal examples:
+
+    http://stackoverflow.com/questions/4690300/how-to-make-an-bootable-isonot-cd-or-flash-drive-for-testing-your-own-boot-loa?rq=1
+
+    http://stackoverflow.com/questions/14432260/where-is-the-os-stored-on-disk-and-how-does-the-boot-loader-locate-it?rq=1
+
+    http://stackoverflow.com/questions/24692797/how-does-a-bootstrap-program-do-dual-booting-of-os?rq=1
+
+    http://stackoverflow.com/questions/2058690/what-is-significance-of-memory-at-00007c00-to-booting-sequence?rq=1
+
+    http://stackoverflow.com/questions/3743134/where-is-there-good-information-about-low-level-pc-booting?rq=1
+
+
+## Kernel
+
+http://superuser.com/questions/294681/how-does-a-computer-restart-itself
+
 ### Pings
 
 Friday:
@@ -62,8 +83,6 @@ Friday:
 -   https://sourceware.org/ml/gdb-patches/2015-07/threads.html#00932 Testsuite docs: explain ptrace_scope and core_pattern requirements
 
     Add latest prelink.
-
--   http://www.spinics.net/lists/linux-newbie/ make config
 
 ## GCC
 
@@ -103,8 +122,6 @@ Friday:
 
     http://stackoverflow.com/questions/17522307/getting-the-addresses-of-all-currently-used-variables-with-gdb?rq=1 consider .so variables
 
--   http://stackoverflow.com/questions/7346929/why-do-we-use-builtin-expect-when-a-straightforward-way-is-to-use-if-else
-
 -   arithmetic simplifications: https://gcc.gnu.org/bugzilla/show_bug.cgi?id=30475
 
     TODO find a "x + 10 > x" SO question I've seen once
@@ -138,19 +155,13 @@ Friday:
 
     http://www.quora.com/How-do-the-brk-and-mmap-system-calls-work-in-the-Linux-kernel interpreting glibc
 
-- gcc custom glibc answer
-
 - GDB multi-thread
 
-- VLA overhead <http://stackoverflow.com/questions/18848537/can-a-const-variable-be-used-to-declare-the-size-of-an-array-in-c/30312817#comment48721475_30312817> <http://stackoverflow.com/questions/2034712/overhead-of-using-variable-length-arrays>
+-   movabs instruction encoding
 
--   x86 instruction encoding
-
-    - LEA http://stackoverflo.com/questions/1658294/whats-the-purpose-of-the-lea-instruction explain why different from MOV on encoding level
     - http://reverseengineering.stackexchange.com/questions/2627/what-is-the-meaning-of-movabs-in-gas-x86-att-syntax
     - http://stackoverflow.com/questions/19415184/load-from-a-64-bit-address-into-other-register-than-rax
     - http://stackoverflow.com/questions/4182210/x86-64-assembly
-    - The reason why GCC uses a different name is likely linked to an encoding deviation in that case from the 32 bit. Understand what exactly.
 
 ## C++
 
