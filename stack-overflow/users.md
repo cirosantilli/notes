@@ -16,11 +16,13 @@ Programmers:
 Users I admire:
 
 - http://careers.stackoverflow.com/aaronasterling . Reminds me of early retirement extreme: http://earlyretirementextreme.com/ , the guy also lives in Hawaii I think.
+- http://stackoverflow.com/users/116908/carl-norum lots of low level C / C++, Appler
 
 Unknown true identity:
 
-- <http://stackoverflow.com/users/196561/osgx>
-- <http://stackoverflow.com/users/50617/employed-russian>
+- <http://stackoverflow.com/users/547981/jester>: low level assembly, boot sectors
+- <http://stackoverflow.com/users/196561/osgx>: C, C++
+- <http://stackoverflow.com/users/50617/employed-russian>: Binutils, ELF, GDB
 - <http://unix.stackexchange.com/users/885/gilles>
 - `linux-kernel` bronze badge: <http://stackoverflow.com/help/badges/3775/kernel>. Only 3 as of 2015.
 

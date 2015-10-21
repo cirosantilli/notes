@@ -1,20 +1,44 @@
 # TODO
 
+-   china answer
+
+-   reproduce and report bin-utils bug
+
+-   PIT minimal example
+
+-   http://stackoverflow.com/questions/14361248/whats-the-difference-of-section-and-segment-in-elf-file-format
+
+-   http://stackoverflow.com/questions/11247098/how-to-put-2-sections-in-1-segment-using-ld-scripts?rq=1
+
+    http://stackoverflow.com/questions/7863200/why-data-and-stack-segments-are-executable?rq=1
+
+    http://stackoverflow.com/questions/11884630/segments-within-a-executable-c-program?rq=1
+
+    http://stackoverflow.com/questions/7863200/why-data-and-stack-segments-are-executable?rq=1
+
+-   minimize OpenGL offscreen example
+
+-   how to run UEFI hello world?
+
+-   contact archiv.org, tell them to add article issues
+
+-   https://reverseengineering.stackexchange.com/questions/5/how-are-x86-cpu-instructions-encoded
+
+-   lea 8 and 16 bit
+
+    http://stackoverflow.com/questions/2716142/80x86-16-bit-asm-lea-cx-cx8cx-causes-error-on-nasm-compiling-com-file
+
+    http://stackoverflow.com/questions/8290865/asm-compile-issue
+
+    http://stackoverflow.com/questions/8290987/asm-error-message-rax-edx-4-is-not-a-valid-base-index-expression
+
 -   http://stackoverflow.com/questions/2030366/what-do-the-brackets-mean-in-x86-asm answer with general form s:[a + b*c + d]
 
     http://stackoverflow.com/questions/10362511/basic-use-of-immediates-square-brackets-in-x86-assembly-and-yasm?lq=1
 
--   http://stackoverflow.com/questions/3853730/printing-hexadecimal-digits-with-assembly
-
--   minimalize OpenGL offscreen example
-
 -   list functions GDB python walk
 
     - gdb python my tree walk improvement on stack overflow answer
-
--   contact archiv.org, tell them to add article issues
-
--   how to run UEFI hello world?
 
 -   http://stackoverflow.com/questions/16385826/concept-of-relocation
 
@@ -23,13 +47,6 @@
     if not dupe close, reply http://stackoverflow.com/questions/19464265/how-exactly-does-linking-work?rq=1 
 
     http://stackoverflow.com/questions/16847741/processing-elf-relocations-understanding-the-relocs-symbols-section-data-an
-
--   inb outb answer with bare metal Tetris
-
-    - http://stackoverflow.com/questions/8365746/what-does-outb-in-att-asm-mean
-    - http://stackoverflow.com/questions/3215878/what-are-in-out-instructions-in-x86-used-for
-    - http://wiki.osdev.org/Text_UI
-    - http://wiki.osdev.org/GUI
 
 -   http://superuser.com/questions/130955/how-to-install-grub-into-an-img-file
 

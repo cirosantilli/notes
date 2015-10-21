@@ -1,11 +1,14 @@
 # Clones
 
-Software clones:
+## Software clones
 
 - <http://meta.stackexchange.com/questions/2267/stack-exchange-clones>
 
-Data clones / scrappers:
+## Data clones / scrappers
 
+Attribution:
+
+- <http://www.chengxuyuans.com/qa/>
 - <http://firstbestanswer.com/>
 - <http://goobbe.com/>
 - <http://iswwwup.com/>
@@ -18,6 +21,9 @@ Data clones / scrappers:
 - <http://www.stackprinter.com/>
 - <http://www.widecodes.com/>
 - <http://zeering.com/>
+- <http://gadgetsytecnologia.com>
+- <http://www.scriptscoop.com>
+- <http://www.helptouser.coml> (Honk Kong)
 
 Chinese translations:
 
@@ -28,9 +34,12 @@ Chinese translations:
 
 No attribution <http://meta.stackexchange.com/questions/200177/a-site-or-scraper-is-copying-content-from-stack-exchange-what-do-i-do>:
 
+- <http://ask.programmershare.com>
 - <http://databasefaq.com/>
+- <http://sofa.developer-works.com/>
 - <http://stackoverflow.cluat.com/>
 - <http://www.helplib.com>: looks like manual quesiton translations
+- <http://www.programask.com> <http://www.programask.com/question_41117496_gas-altmacro-macro-with-a-percent-sign-in-a-default-parameter/#>
 
 Bad attribution:
 
