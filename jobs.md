@@ -34,6 +34,7 @@ France:
 - http://www.meteojob.com/
 - http://www.profilcall.com/
 - http://www.manageurs.com/
+- http://startuponly.com/
 
 Germany:
 
@@ -143,6 +144,7 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 
 - <https://en.wikipedia.org/wiki/Citrix_Systems> 10k employees <http://www.citrix.com/careers/home.html>
 - <http://www.scality.com/careers/>
+- Altera. Linux kernel contributors.
 
 ## Open source heavy
 
@@ -285,7 +287,7 @@ https://www.hex-rays.com/index.shtml
 
 Not for profit standardization body for heterogeneous computing.
 
-Looks like Khronos?
+Looks like Khronos? AKA an AMD alliance to beat NVIDIA.
 
 <http://www.hsafoundation.com/>
 

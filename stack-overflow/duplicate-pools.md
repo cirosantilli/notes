@@ -4,6 +4,10 @@ When I have a nice answer to a question with many upvotes, I immediately start l
 
 Make sure you shuffle the answers a bit or else a moderator might see the flag auto-raised, and delete your answer without thinking much even if it was the best one so far and the questions are not duplicates.
 
+The first on each list is the canonical source.
+
+I'm less likely to update closed questions.
+
 HTML boolean attributes:
 
 - http://stackoverflow.com/questions/16109358/readonly-attribute-syntax-for-input-text/24588427#24588427
@@ -42,19 +46,6 @@ Vim cscope:
 - <http://stackoverflow.com/questions/19469770/how-to-find-the-callers-and-callee-of-a-function-in-c-code-in-vi-vim/31501431#31501431>
 - <http://stackoverflow.com/questions/9616144/vim-how-to-find-all-occurrences-of-a-variable/31501988#31501988>
 
-Git annotated vs lightweight:
-
-- http://stackoverflow.com/questions/4092640/in-what-circumstances-should-i-add-the-a-flag-to-the-git-tag-command
-- http://stackoverflow.com/questions/11514075/what-is-the-difference-between-an-annotated-and-unannotated-tag
-- http://stackoverflow.com/questions/2289971/git-is-an-unannotated-tag-worse-than-a-tag-with-a-bad-annotation
-- (not answered) http://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags
-
-Git diff `@@` part:
-
-- <http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git/31615438#31615438>
-- <http://stackoverflow.com/questions/8558597/what-does-the-meta-line-with-at-signs-in-svn-diff-or-git-diff-mean/31367564#31367564>
-- <http://stackoverflow.com/questions/10950412/what-does-1-1-mean-in-gits-diff-output?lq=1> TODO answer this as well
-
 `readelf -d` recursively:
 
 - <http://stackoverflow.com/questions/1172649/how-to-know-which-dynamic-libraries-are-needed-by-an-elf>
@@ -92,6 +83,53 @@ GRUB mkrescue config:
 
 - http://askubuntu.com/questions/437323/is-it-possible-to-edit-grub-cfg/674183#674183
 - http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image/973021#973021
+
+ImageMagick view raw file types:
+
+- http://superuser.com/questions/294270/how-to-view-raw-binary-data-as-an-image-with-given-width-and-height/978432#978432
+- http://askubuntu.com/questions/147554/what-software-can-display-raw-bitmaps-on-linux/678569#678569
+
+ImageMagick black and white binary with `-monochrome`:
+
+- http://superuser.com/questions/75373/convert-color-photos-of-documents-to-good-black-and-white-bitonal-images/978438#978438
+- http://unix.stackexchange.com/questions/108613/how-do-you-binarize-a-colored-image/232107#232107
+- http://stackoverflow.com/questions/15861025/how-to-convert-an-image-to-1bit-px-binary-bitmap-with-imagemagick-or-rmagick/32789508#32789508
+- http://askubuntu.com/questions/9868/convert-an-image-from-grayscale-to-binary/678584#678584
+- http://askubuntu.com/questions/293672/how-can-i-batch-convert-images-to-b-w-while-preserving-the-folder-structure/678586#678586
+
+Load boot sector from drive:
+
+- http://stackoverflow.com/questions/15497842/read-a-sector-from-hard-drive-with-int-13h/32943546#32943546
+- http://stackoverflow.com/questions/2065370/how-to-load-second-stage-boot-loader-from-first-stage/32938408#32938408
+
+Python `__getitem__` tuple and `slice` syntax:
+
+- http://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences/33086813#33086813
+- http://stackoverflow.com/questions/3680262/slice-a-2d-python-array/33086948#33086948
+- http://stackoverflow.com/questions/9367813/python-list-indices-must-be-integers-not-tuple-error/33087117#33087117
+- http://stackoverflow.com/questions/21662532/python-list-indices-must-be-integers-not-tuple/33087324#33087324
+- http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
+
+### Git
+
+receive.denyCurrentBranch updateInstead:
+
+- http://stackoverflow.com/questions/279169/deploy-a-project-using-git-push/28381235#28381235
+- http://stackoverflow.com/questions/1764380/push-to-a-non-bare-git-repository/28381311#28381311
+- http://stackoverflow.com/questions/2816369/git-push-error-remote-rejected-master-master-branch-is-currently-checked/28383598#28383598
+
+Git annotated vs lightweight:
+
+- http://stackoverflow.com/questions/4092640/in-what-circumstances-should-i-add-the-a-flag-to-the-git-tag-command
+- http://stackoverflow.com/questions/11514075/what-is-the-difference-between-an-annotated-and-unannotated-tag
+- http://stackoverflow.com/questions/2289971/git-is-an-unannotated-tag-worse-than-a-tag-with-a-bad-annotation
+- (not answered) http://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags
+
+Git diff `@@` part:
+
+- <http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git/31615438#31615438>
+- <http://stackoverflow.com/questions/8558597/what-does-the-meta-line-with-at-signs-in-svn-diff-or-git-diff-mean/31367564#31367564>
+- <http://stackoverflow.com/questions/10950412/what-does-1-1-mean-in-gits-diff-output?lq=1> TODO answer this as well
 
 ### C
 
@@ -140,10 +178,10 @@ static enum, struct, class:
 
 Native:
 
-- http://stackoverflow.com/questions/18900736/what-exactly-are-native-methods-in-java-and-where-should-be-used/29311166#29311166
 - http://stackoverflow.com/questions/6101311/what-is-the-native-keyword-in-java-for/30635871#30635871
-- http://stackoverflow.com/questions/2902618/usage-of-native-in-java/30635999#30635999
 - http://stackoverflow.com/questions/557574/what-is-a-native-implementation-in-java/30636097#30636097
+- closed http://stackoverflow.com/questions/18900736/what-exactly-are-native-methods-in-java-and-where-should-be-used/29311166#29311166
+- closed http://stackoverflow.com/questions/2902618/usage-of-native-in-java/30635999#30635999
 
 assert, synthetic field:
 

@@ -23,6 +23,8 @@ User metrics:
 
 - <http://gitmostwanted.com/>
 
+- <https://libraries.io/>
+
 #### githubarchive
 
 ##### Old deprecated timeline queries
