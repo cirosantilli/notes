@@ -1,10 +1,20 @@
 # TODO
 
--   china answer
+-   GDB QEMU SMP
 
--   reproduce and report bin-utils bug
+-   how to start SMP in Intel
 
--   PIT minimal example
+    -   ask SMP possible with 16-bit real mode
+
+-   minimize OpenGL offscreen example
+
+-   make segmentation base offset work and answer: <http://stackoverflow.com/questions/3819699/what-does-ds40207a-mean-in-assembly>, link to http://stackoverflow.com/questions/4119504/real-mode-memory-addressing-explanation/33581044#33581044
+
+-   how to run UEFI hello world?
+
+-   PIT 32-bit
+
+-   http://stackoverflow.com/questions/15275059/whats-the-purpose-of-x86-cr0-wp-bit
 
 -   http://stackoverflow.com/questions/14361248/whats-the-difference-of-section-and-segment-in-elf-file-format
 
@@ -15,10 +25,6 @@
     http://stackoverflow.com/questions/11884630/segments-within-a-executable-c-program?rq=1
 
     http://stackoverflow.com/questions/7863200/why-data-and-stack-segments-are-executable?rq=1
-
--   minimize OpenGL offscreen example
-
--   how to run UEFI hello world?
 
 -   contact archiv.org, tell them to add article issues
 
@@ -39,14 +45,6 @@
 -   list functions GDB python walk
 
     - gdb python my tree walk improvement on stack overflow answer
-
--   http://stackoverflow.com/questions/16385826/concept-of-relocation
-
-    http://stackoverflow.com/questions/16847741/processing-elf-relocations-understanding-the-relocs-symbols-section-data-an
-
-    if not dupe close, reply http://stackoverflow.com/questions/19464265/how-exactly-does-linking-work?rq=1 
-
-    http://stackoverflow.com/questions/16847741/processing-elf-relocations-understanding-the-relocs-symbols-section-data-an
 
 -   http://superuser.com/questions/130955/how-to-install-grub-into-an-img-file
 
@@ -90,6 +88,19 @@
 
 
 ## Kernel
+
+-   http://unix.stackexchange.com/questions/145557/how-does-stack-allocation-work-in-linux
+
+        mm/fault.c:
+            do_page_fault
+            __do_page_fault
+        mm/mmap.c:
+            expand_stack.c
+            expand_downwards
+            acct_stack_growth
+
+                if (actual_size > READ_ONCE(rlim[RLIMIT_STACK].rlim_cur))
+                    return -ENOMEM;
 
 http://superuser.com/questions/294681/how-does-a-computer-restart-itself
 
@@ -180,6 +191,12 @@ Friday:
     - http://stackoverflow.com/questions/19415184/load-from-a-64-bit-address-into-other-register-than-rax
     - http://stackoverflow.com/questions/4182210/x86-64-assembly
 
+## GDB
+
+-   packet reply is too long kernel debugging https://sourceware.org/bugzilla/show_bug.cgi?id=13984#add_comment
+
+-   don't run <https://sourceware.org/bugzilla/show_bug.cgi?id=18704>
+
 ## C++
 
 http://comments.gmane.org/gmane.comp.gcc.help/38052
@@ -226,5 +243,3 @@ http://comments.gmane.org/gmane.comp.gcc.help/38052
 
 - Krusader: focus second item (not the `..`) by default if one exists. Amazing when there is a single directory inside a directory.
 - Guake rename tab not working
-
-1.9, 2.1, 2.3, 9.5, 9.6, 9.7, 11, 11.2, 11.6

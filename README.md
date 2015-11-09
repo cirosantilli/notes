@@ -1,3 +1,8 @@
+# Notes
+
+1.  [Project ideas](project-ideas.md)
+    1. [Computer vision and rendering in GPU](computer-vision-and-rendering-in-gpu.md)
+
 Random notes I want to backup.
 
 # Films

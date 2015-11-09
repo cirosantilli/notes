@@ -28,9 +28,12 @@ IT:
 - https://hired.com/
 - http://www.toptal.com/
 - https://breaz.io/
+- http://www.compilerjobs.com/db/jobs_list.php
+- https://www.hipeac.net/jobs/
 
 France:
 
+- http://academicpositions.fr/
 - http://www.meteojob.com/
 - http://www.profilcall.com/
 - http://www.manageurs.com/
@@ -44,10 +47,46 @@ India:
 
 - http://www.naukri.com/
 
-## Goverment
+## Government
 
 - https://www.hipeac.org/jobs/ : HPC, embedded, compilation
-- https://itea3.org/all-projects.html
+
+### EU
+
+-   https://itea3.org/all-projects.html
+
+-   http://cordis.europa.eu/project/rcn/197938_en.html
+
+### INRIA
+
+- https://team.inria.fr/alf/
+
+### Rennes
+
+- https://www.linkedin.com/pub/erven-rohou/1/b3/537
+
+### paris
+
+- https://who.rocq.inria.fr/Albert.Cohen/ Paris. Teaches at Polytech. 
+
+### IMAG
+
+### TIMA
+
+http://tima.imag.fr/tima/fr/index.html
+http://www-verimag.imag.fr/
+
+### ONERA
+
+http://www.onera.fr/en
+
+### CEA List
+
+- CEA List hardcore Linux people:
+
+    - https://www.linkedin.com/pub/r%C3%A9my-gauguey/13/55/a11/en
+    - https://www.linkedin.com/in/nicolasmareau
+    - https://www.linkedin.com/in/mrybczynska
 
 ## Interview prep
 
@@ -65,7 +104,7 @@ India:
 ### Job announcers
 
 - <https://twitter.com/kefletcher>. Educational software. Rails. 5 yrs + experience... Remote possible!
-- <http://stackoverflow.com/users/367273/npe> Google employee who looks for people with high SO reputation.
+- <http://stackoverflow.com/users/367273/npe> Google employee who looks for people with high SO reputation. Pinged him Nov 2015.
 
 ### Interesting people
 
@@ -130,15 +169,32 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 
 ### Hardware
 
-- http://jobsearch.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/searchJobsForm.jsp
-- Seagate: <https://careers.seagate.com/jobs?keywords=GRP&page=1>
-- <http://www.marvell.com/careers/>
-- <https://en.wikipedia.org/wiki/SanDisk>
-- Phillips <https://en.wikipedia.org/wiki/Philips>
+-   mentor graphics: many jobs in the EU
+
+-   http://jobsearch.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/searchJobsForm.jsp
+
+-   Seagate: <https://careers.seagate.com/jobs?keywords=GRP&page=1>
+
+-   <http://www.marvell.com/careers/>
+
+-   <https://en.wikipedia.org/wiki/SanDisk>
+
+-   Phillips <https://en.wikipedia.org/wiki/Philips>
 
 -   Intel: <https://intel.taleo.net/careersection/10000/moresearch.ftl>.
 
     Intel open source <https://01.org/>, <https://github.com/search?o=desc&q=user%3A01org&s=stars&type=Repositories&utf8=%E2%9C%93>
+
+-   STMicroelectronics French - Italian semi-conductor manufacturer. Largest in Europe.
+
+    - https://jobs.st.com/psp/ps/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL
+    - https://www.linkedin.com/pub/didier-fuin/0/234/784 polytech, grenoble name.lastname@polytechnique.org Message sent.
+    - https://www.linkedin.com/in/philippemagarshack philippe magarshack st com, contacted no reply
+    - https://www.linkedin.com/pub/christian-bertin/0/a61/7a0 **Compilation expertise center**, Grenoble. Attempted guessing email. Said no jobs for years!
+
+-   https://en.wikipedia.org/wiki/GlobalFoundries makes chips for AMD
+
+-   https://en.wikipedia.org/wiki/TSMC pure play foundry.
 
 ### low level
 
@@ -247,6 +303,24 @@ Compilers GCC, LLVM, GDB
 
 http://www.embecosm.com/about/careers/
 
+## Kalray
+
+<https://en.wikipedia.org/wiki/Network_on_a_chip>
+
+<http://www.kalrayinc.com/>
+
+They use Mentor Graphics Tools: https://www.mentor.com/products/fv/news/mentor-kalray-28nm-soc
+
+General info: <http://www.eetimes.com/document.asp?doc_id=1262484>
+
+<https://www.crunchbase.com/organization/kalray#/entity>
+
+50 minute presentation with Linux info <https://www.youtube.com/watch?v=STWpu4KcqwE>
+
+<https://www.linkedin.com/pub/benoit-dupont-de-dinechin/0/861/323>
+
+CEO fro Polytechnique: <https://www.linkedin.com/in/ericbaissus> name.lastname polytechnique edu Contacted, waiting for reply.
+
 ## Silicon tailor
 
 low-level
@@ -318,3 +392,15 @@ http://www.coverity.com/
 They have a free SaaS scan? https://scan.coverity.com/projects/new
 
 No EU jobs: http://www.coverity.com/company/careers/
+
+## Groups
+
+## Networks
+
+- <https://www.polytechnique.org/search?quick=Philippe+Magarshack>
+- <https://www.hipeac.net/>
+    - <http://www.criticalblue.com/careers.html>, contacted once Nov 2015.
+
+## Misc
+
+- <http://streamcomputing.eu/about-us/jobs/> Physics, GPU, OpenCL.
