@@ -8,6 +8,12 @@ The first on each list is the canonical source.
 
 I'm less likely to update closed questions.
 
+sudo ulimit operation not permitted:
+
+- http://unix.stackexchange.com/questions/81843/sudo-ulimit-command-not-found/169035#169035
+- http://unix.stackexchange.com/questions/31679/ulimit-pickle-operation-not-permitted-and-command-not-found/238413#238413
+- http://superuser.com/questions/79717/bash-ulimit-core-file-size-cannot-modify-limit-operation-not-permitted/991355#991355
+
 HTML boolean attributes:
 
 - http://stackoverflow.com/questions/16109358/readonly-attribute-syntax-for-input-text/24588427#24588427
@@ -110,6 +116,30 @@ Python `__getitem__` tuple and `slice` syntax:
 - http://stackoverflow.com/questions/21662532/python-list-indices-must-be-integers-not-tuple/33087324#33087324
 - http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
 
+### NVIDIA
+
+GPU NVIDIA check working:
+
+- http://unix.stackexchange.com/questions/16407/how-to-check-which-gpu-is-active/240036#240036
+- http://askubuntu.com/questions/68028/how-do-i-check-if-ubuntu-is-using-my-nvidia-graphics-card/692412#692412
+
+Install OpenCL:
+
+- http://stackoverflow.com/questions/7542808/what-is-needed-to-compile-opencl-on-ubuntu-and-by-extension-opencl-period/33483311#33483311
+- http://askubuntu.com/questions/541114/how-to-make-opencl-work-on-14-10-nvidia-331-89-drivers/693043#693043
+
+### x86
+
+iret and the automatically pushed error code:
+
+- http://stackoverflow.com/questions/10581224/why-does-iret-from-a-page-fault-handler-generate-interrupt-13-general-protectio/33398064#33398064
+- http://stackoverflow.com/questions/491613/return-from-interrupts-in-x86/33398480#33398480
+
+What is `int`:
+
+- http://stackoverflow.com/questions/1817577/what-does-int-0x80-mean-in-assembly-code/31836988#31836988
+- http://stackoverflow.com/questions/3392831/what-happens-in-an-interrupt-service-routine/33445235#33445235
+
 ### Git
 
 receive.denyCurrentBranch updateInstead:
@@ -174,6 +204,12 @@ static enum, struct, class:
 - <http://stackoverflow.com/a/31178186/895245>
 - <http://stackoverflow.com/questions/9321/how-do-you-create-a-static-class-in-c/31201984#31201984>
 
+### builtin_expect
+
+- <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
+- <http://stackoverflow.com/questions/7346929/why-do-we-use-builtin-expect-when-a-straightforward-way-is-to-use-if-else/31540623#31540623>
+- <http://unix.stackexchange.com/questions/11597/what-is-the-difference-between-likely-and-unlikely-calls-in-kernel/241329#241329>
+
 ### Java
 
 Native:
@@ -204,18 +240,25 @@ CSRF and SOP:
 - http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed
 - http://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important
 
+## Linux kernel
+
 Minimal Linux distro:
 
 -   <http://superuser.com/questions/307087/linux-distro-with-just-busybox-and-bash>
-
 -   <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone>
-
 -   <http://unix.stackexchange.com/questions/2692/what-is-the-smallest-possible-linux-implementation>
-
 -   Unanswered:
-
     - http://stackoverflow.com/questions/18441102/unable-to-run-linux-kernel-image-on-qemu
     - http://unix.stackexchange.com/questions/47619/load-linux-bzimage-in-qemu
+
+Linux that runs a single program only:
+
+- <http://superuser.com/questions/320529/single-application-linux/991733#991733>
+- <http://unix.stackexchange.com/questions/122717/custom-linux-distro-that-runs-just-one-program-nothing-else/238579#238579>
+
+dev/fb0 format:
+
+- http://stackoverflow.com/questions/1645181/taking-a-screen-shot-of-an-embedded-linux-framebuffer/33411543#33411543
 
 ## To be answered
 
