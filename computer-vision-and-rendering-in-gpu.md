@@ -37,3 +37,16 @@ Realistic animal games:
 Engines that allow to take the image from games:
 
 - <http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117>
+
+Animal intelligence:
+
+-   insects
+    -   fruit fly
+        - fly cyborg 2010 http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/cyborg-fly-pilots-robot-through-obstacle-course
+-   reptiles:
+    - informal <https://www.youtube.com/watch?v=hr1bKVPyqwU>
+-   birds
+    - crows:
+        - drop stones to raise water level, like in a fable, trained: <https://www.youtube.com/watch?v=lrYPm6DD44M>
+        - using sticks as tools: <https://www.youtube.com/watch?v=URZ_EciujrE>
+        - 3 tools in sequence: <https://www.youtube.com/watch?v=41Z6Mvjd9w0>
