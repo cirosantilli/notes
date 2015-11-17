@@ -116,6 +116,16 @@ Python `__getitem__` tuple and `slice` syntax:
 - http://stackoverflow.com/questions/21662532/python-list-indices-must-be-integers-not-tuple/33087324#33087324
 - http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
 
+What does the linker do:
+
+- http://stackoverflow.com/questions/3322911/what-do-linkers-do/33690144#33690144
+- http://stackoverflow.com/questions/12122446/how-does-c-linking-work-in-practice/30507725#30507725
+
+Firefox Prettify JavaScript source
+
+- http://stackoverflow.com/questions/3216583/beautify-javascript-and-css-in-firebug/33753982#33753982
+- http://stackoverflow.com/questions/4279319/is-there-a-plugin-that-allows-me-to-automatically-unminify-the-javascript-includ/33753040#33753040
+
 ### NVIDIA
 
 GPU NVIDIA check working:

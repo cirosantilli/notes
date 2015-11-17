@@ -48,3 +48,8 @@ Bad attribution:
 - <http://www.ciiycode.com/>
 - <http://cloudbings.com>
 - <http://stackoverflows.xyz/questions/29013457/how-to-store-releases-binaries-in-gitlab> (only visible as metadata)
+
+Cloned design:
+
+- <http://stackoverflow.topusers.net/>
+- <http://www.stackover.in/>

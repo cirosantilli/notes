@@ -91,3 +91,17 @@ Became fabless in 2009 after spinning out Global Foundries.
 ## Foundry
 
 https://en.wikipedia.org/wiki/Semiconductor_fabrication_plant
+
+The hardcore applied physics / robotics guys go there!
+
+## Head mounted display
+
+-   <https://en.wikipedia.org/wiki/Head-mounted_display>
+    - <https://en.wikipedia.org/wiki/Oculus_Rift>
+    - <https://en.wikipedia.org/wiki/HTC_Vive>
+
+## Size Weight and Power
+
+## SWaP
+
+-   <http://devblogs.nvidia.com/parallelforall/nvidia-jetson-tx1-supercomputer-on-module-drives-next-wave-of-autonomous-machines/>

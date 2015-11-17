@@ -44,3 +44,7 @@
     Some people are over attached to their exact wording even if yours is better.
 
     And sometimes your just wrong.
+
+-   newb without 15 rep asks question.
+
+    If you answer, find all his questions and upvote them, so that he can upvote your answer.

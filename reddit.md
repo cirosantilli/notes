@@ -16,17 +16,20 @@ For programmers:
 - https://www.reddit.com/r/askprogramming
 - https://www.reddit.com/r/MachineLearning/
 - https://www.reddit.com/r/Compilers/
+- https://www.reddit.com/r/artificial/
+- https://www.reddit.com/r/computervision/
+- https://www.reddit.com/r/machinelearning
 
 For engineers:
 
 - https://www.reddit.com/r/Simulated
-- https://www.reddit.com/r/EngineeringPorn
 - https://www.reddit.com/r/dataisbeautiful
     - https://www.reddit.com/r/dataporn
 - https://www.reddit.com/r/robotics/
 - https://www.reddit.com/r/ECE
 - https://www.reddit.com/r/ElectricalEngineering/
 - https://www.reddit.com/r/computertechs/
+- https://www.reddit.com/r/EngineeringPorn physical machines mostly
 
 Interesting:
 
