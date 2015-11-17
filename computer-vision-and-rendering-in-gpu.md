@@ -1,6 +1,11 @@
 # Rendering + Computer vision + AI Action simulation inside GPU
 
-Inside the GPU, render, do computer vision, take decisions, move based on decisions, loop.
+Inside the GPU, render, do computer vision (OpenCV supports CUDA only), take decisions, move based on decisions (Bullet Physics supports OpenCL), loop.
+
+Mixing stuff:
+
+- http://stackoverflow.com/questions/18086519/is-it-possible-to-bind-a-opencv-gpumat-as-an-opengl-texture
+- http://stackoverflow.com/questions/4005935/mix-opencl-with-opengl
 
 Literature:
 
@@ -28,11 +33,18 @@ Realistic animal games:
         -   <https://en.wikipedia.org/wiki/WolfQuest> 2011
             -   youtuber playing <https://www.youtube.com/watch?v=ck5BrLh2eqI>
         -   Minecraft?
-    -   iHasCupquake <https://www.youtube.com/channel/UCqg2eLFNUu3QN3dttNeOWkw> youtubber that reviews tons of games that have some potential.
+    -   iHasCupquake <https://www.youtube.com/channel/UCqg2eLFNUu3QN3dttNeOWkw>
+        youtubber that reviews tons of games that have some potential.
     -   Third person;
         - <https://en.wikipedia.org/wiki/Lion_%28video_game%29>
         - gameplay <https://www.youtube.com/watch?v=opDch4j8Bt8>
     -   <http://agar.io/>
+-   tier 2
+    -   https://www.youtube.com/watch?v=gYZyyWwqdiw
+    -   http://jobsimulatorgame.com/
+    -   baking simulator https://www.youtube.com/watch?v=qqwAnDgsi6Y
+    -   Pet simulator <https://www.youtube.com/watch?v=gYZyyWwqdiw>
+    -   http://boards.straightdope.com/sdmb/showthread.php?t=614572
 
 Engines that allow to take the image from games:
 
@@ -42,6 +54,7 @@ Animal intelligence:
 
 -   insects
     -   fruit fly
+        - fruit fly associate odour to electric shock <https://www.youtube.com/watch?v=-dPfZE5adYg>
         - fly cyborg 2010 http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/cyborg-fly-pilots-robot-through-obstacle-course
 -   reptiles:
     - informal <https://www.youtube.com/watch?v=hr1bKVPyqwU>
@@ -50,3 +63,5 @@ Animal intelligence:
         - drop stones to raise water level, like in a fable, trained: <https://www.youtube.com/watch?v=lrYPm6DD44M>
         - using sticks as tools: <https://www.youtube.com/watch?v=URZ_EciujrE>
         - 3 tools in sequence: <https://www.youtube.com/watch?v=41Z6Mvjd9w0>
+-   tier 2
+    - bear turns off electric power to eat deer: <https://www.youtube.com/watch?v=8eC9ZmCaIWY&feature=youtu.be>

@@ -45,3 +45,5 @@ I have the capacity to explain things to others so they will understand quickly.
     - http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix/31865755#31865755
 -   Bash
     - http://stackoverflow.com/questions/13542832/what-is-the-difference-between-single-and-double-square-brackets-in-bash/31366734#31366734
+-   glibc
+    - http://stackoverflow.com/questions/175882/whats-the-algorithm-behind-sleep/33639161#33639161

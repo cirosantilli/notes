@@ -30,6 +30,20 @@ Discovered:
 
 - <http://stackoverflow.com/users/379897/r> <https://twitter.com/RichFelker> Musl
 
+## Interesting
+
+-   <http://stackoverflow.com/users/116/mark-harrison>
+
+    > Prior to that I lived in China and was the Chief Software Architect at AsiaInfo, the company that built China's internet. While there my software was used to grow the China Internet from 200K to 65M users. Since I've left that's grown to about 350M users.
+
+    Wonder if he built the GFW >:-)
+
+-   <http://stackoverflow.com/users/120163/ira-baxter>
+
+    Got a ton of answers deleted for mentioning his enterprise's product.
+
+    <http://meta.stackexchange.com/questions/57497/limits-for-self-promotion-in-answers>
+
 ## Others
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism

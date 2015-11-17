@@ -43,19 +43,6 @@ Version is typical:
 
 > I have this weird internals in software X. (does not give version of X, no and one can reproduce).
 
-## Markdown related
-
-Using raw HTML where a Markdown element exists;
-
-- `<br/>`
-- `<pre/>`
-- `<code/>`
-
-Trailing space line breaks for code formatting:
-
-    line1<space><space>
-    line2<space><space>
-
 ## Terminal screenshots instead of text when color does not matter
 
 - <http://stackoverflow.com/questions/10369447/entry-get-into-the-different-address-from-the-entry-point-i-set-in-the-elf?rq=1>

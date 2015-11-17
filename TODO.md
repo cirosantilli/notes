@@ -1,10 +1,10 @@
 # TODO
 
+-   how linux sleep works?
+
+    -   <http://stackoverflow.com/questions/175882/whats-the-algorithm-behind-sleep/33639161#33639161>
+
 -   GDB QEMU SMP
-
--   how to start SMP in Intel
-
-    -   ask SMP possible with 16-bit real mode
 
 -   minimize OpenGL offscreen example
 
