@@ -24,6 +24,7 @@ Attribution:
 - <http://gadgetsytecnologia.com>
 - <http://www.scriptscoop.com>
 - <http://www.helptouser.coml> (Honk Kong)
+- <http://lxway.cc/>
 
 Chinese translations:
 
@@ -48,6 +49,7 @@ Bad attribution:
 - <http://www.ciiycode.com/>
 - <http://cloudbings.com>
 - <http://stackoverflows.xyz/questions/29013457/how-to-store-releases-binaries-in-gitlab> (only visible as metadata)
+- <http://w3javascript.com/>
 
 Cloned design:
 

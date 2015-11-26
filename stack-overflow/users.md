@@ -44,6 +44,8 @@ Discovered:
 
     <http://meta.stackexchange.com/questions/57497/limits-for-self-promotion-in-answers>
 
+-   <http://stackoverflow.com/users/3297613/avinash-raj> 100k with regex only! Notorious! :-)
+
 ## Others
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism

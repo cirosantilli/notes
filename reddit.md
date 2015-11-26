@@ -4,6 +4,8 @@ There is no profile page customization: https://www.reddit.com/r/TheoryOfReddit/
 
 Each reddit has a wiki: https://www.reddit.com/r/dailyprogrammer/wiki/index
 
+- `pay.reddit.com` <https://www.reddit.com/r/OutOfTheLoop/comments/1y9543/ive_seen_httpspayredditcomr_a_few_times_what/>
+
 ## Subreddits
 
 For programmers:
@@ -45,6 +47,12 @@ Adult:
 
 - https://www.reddit.com/r/porn
 - https://www.reddit.com/r/rule34
+
+## Flair
+
+## Country flags in r/China
+
+https://www.reddit.com/r/help/comments/2akq6x/how_do_i_display_a_country_flag_next_to_my/
 
 ## Metrics
 

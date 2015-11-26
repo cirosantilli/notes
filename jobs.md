@@ -119,7 +119,17 @@ Stack Overflow:
 - INRIA https://www.linkedin.com/in/jensgustedt/fr
 - Tulio Magno Quites Machado Filho https://www.linkedin.com/in/tuliom IBM LTC Campinas
 - Paul Zimmermann: <https://en.wikipedia.org/wiki/Paul_Zimmermann> INRIA, computational maths, open source zealot
+
+#### Google
+
 - Google, C, Linux, <http://stackoverflow.com/users/29157/adam-liss>
+- Ian Lance Taylor:
+    - linking master, wrote gold, likely for 
+    - he talks: https://youtu.be/p9VUCp98ay4?t=390
+    - Son/daugher does karate :-) : https://www.youtube.com/watch?v=13WZyr-W-As 
+-   Alexei Zverovitch
+    - Photo https://plus.google.com/wm/trollface-meme_trollize.com_viral-videos-funny-lol/102297261794011391506/posts
+    - Likely studied here https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London according to published papers on Google on TSP, but not much more online info about him.
 
 #### Brazil
 
@@ -400,6 +410,11 @@ No EU jobs: http://www.coverity.com/company/careers/
 - <https://www.polytechnique.org/search?quick=Philippe+Magarshack>
 - <https://www.hipeac.net/>
     - <http://www.criticalblue.com/careers.html>, contacted once Nov 2015.
+- <http://www.multicore-association.org/member/memberlist.php>
+
+### Conferences
+
+- https://en.wikipedia.org/wiki/Open_World_Forum French
 
 ## Misc
 
