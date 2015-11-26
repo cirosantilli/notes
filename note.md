@@ -1,5 +1,7 @@
 # Note
 
+cyrille.beraud 87 turbigo +15149942642 14h
+
 We are renting apartment in Paris from 14 December to 12 January. 45 m2, 2 rooms. Close metro Bastille. Daily price: 60 Euros. Dates have some flexibility.
 
 http://stackoverflow.com/questions/4584089/assembler-push-pop-registers
@@ -17,3 +19,24 @@ http://stackoverflow.com/questions/4584089/assembler-push-pop-registers
         - https://pt.wikipedia.org/wiki/Parque_Nacional_do_Pantanal_Matogrossense
 -   http://whc.unesco.org/en/list/999
     - https://www.youtube.com/watch?v=ry0S0sFHV48
+
+## Livro pai
+
+Marc Trévidic, Au cœur de l'antiterrorisme, Paris, éditions JC Lattès, 2011, 403 p. (ISBN 978-2-7096-3569-1)
+http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=0!1&Search=978-2-7096-3569-1&sft=1&sa=0
+
+Marc Trévidic, Terroristes : Les 7 piliers de la déraison, Paris, éditions JC Lattès, 2013, 220 p. (ISBN 978-2-7096-4294-1)
+http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=0!1&Search=978-2-7096-4294-1&sft=1&sa=0
+
+Marc Trévidic, Qui a peur du petit méchant juge ?, Paris, éditions JC Lattès, 2014, 200 p. (ISBN 978-2-7096-4654-3)
+http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=0!1&Search=978-2-7096-4654-3&sft=1&sa=0
+
+- tegra
+- nehalem
+- IO complexity
+- loop interchange
+    - gcc cloning versioning
+
+## vis
+
+https://github.com/almende/vis

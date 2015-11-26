@@ -2,18 +2,6 @@
 
 This is a selection of big / hard / interesting projects from my TODO list.
 
-## Data mining
-
-### Stack overflow question Google rank
-
-Apply Google rank to stack overflow questions.
-
-Consider question links only, simple stuff.
-
-Hard part is getting the data. Possibilities:
-
-- <http://neo4j.com/blog/import-10m-stack-overflow-questions/>
-
 ## GCC
 
 - GCC code injection on breakpoint conditions *and* action
@@ -68,3 +56,12 @@ Use QEMU to test an OS with assertions, like Selenium for browsers
 ### plug and play
 
 Understand everything that happens between plugging in an USB and seeing `/dev/sdb` appear.
+
+## Stack Overflow statistics
+
+How to do statistics on ratios:
+
+- high reputation / total posts
+- high profile views / reputation
+
+But consider users who have say, one post with a ton of upvotes as not significative.

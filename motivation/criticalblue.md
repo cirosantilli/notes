@@ -54,3 +54,21 @@ I'm also starting to understand OS-land:
 I'm very good a documenting stuff.
 
 Cheers.
+
+## Interview prep Jae Hossell
+
+- https://en.wikipedia.org/wiki/CriticalBlue
+- PRISM is the main product right?
+    - How much is the enterprise devoted to building it vs consulting with it?
+    - What does it do that is unique? What are the main data sources?
+        - CPU tooling
+        - compile time instrumentation? Do you have to recompile?
+        - debugging system calls + binary analysis
+        - cycle accurate simulators?
+    - why not iPhone as well?
+- what are the main client applications covered? Video games / more serious stuff?
+- do you do a lot of:
+    - parallelism? GPU?
+    - Linux kernel?
+- founded 2001
+- £35,000 national average

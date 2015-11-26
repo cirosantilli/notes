@@ -42,11 +42,6 @@ GDB close tui mode:
 - http://stackoverflow.com/questions/8409540/how-to-close-layout-src-windows-in-gdb/30763087#30763087
 - http://stackoverflow.com/a/30763033/895245
 
-Bash `[` vs `[[`:
-
-- <http://stackoverflow.com/questions/13542832/bash-if-difference-between-square-brackets-and-double-square-brackets/31366734#31366734>
-- <http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash/705144#705144>
-
 Vim cscope:
 
 - <http://stackoverflow.com/questions/19469770/how-to-find-the-callers-and-callee-of-a-function-in-c-code-in-vi-vim/31501431#31501431>
@@ -125,6 +120,18 @@ Firefox Prettify JavaScript source
 
 - http://stackoverflow.com/questions/3216583/beautify-javascript-and-css-in-firebug/33753982#33753982
 - http://stackoverflow.com/questions/4279319/is-there-a-plugin-that-allows-me-to-automatically-unminify-the-javascript-includ/33753040#33753040
+
+## bash
+
+loop over integer range:
+
+- <http://stackoverflow.com/questions/169511/how-do-i-iterate-over-a-range-of-numbers-defined-by-variables-in-bash/31365662#31365662>
+- <http://unix.stackexchange.com/questions/55392/in-bash-is-it-possible-to-use-an-integer-variable-in-the-loop-control-of-a-for/243801#243801>
+
+`[` vs `[[`:
+
+- <http://stackoverflow.com/questions/13542832/bash-if-difference-between-square-brackets-and-double-square-brackets/31366734#31366734>
+- <http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash/705144#705144>
 
 ### NVIDIA
 

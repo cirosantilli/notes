@@ -1,0 +1,5 @@
+*.7z
+*.sqlite3
+*.sqlite3-journal
+*.tmp
+*.xml

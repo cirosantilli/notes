@@ -1,5 +1,9 @@
 # TODO
 
+-   answer the other casperjs js not working question
+
+-   query that finds all users with no posts but more than 15 rep
+
 -   how linux sleep works?
 
     -   <http://stackoverflow.com/questions/175882/whats-the-algorithm-behind-sleep/33639161#33639161>
