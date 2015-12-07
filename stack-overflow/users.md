@@ -32,6 +32,10 @@ Discovered:
 
 ## Interesting
 
+-   <http://stackoverflow.com/users/1505939/m-m>
+
+    C monster.
+
 -   <http://stackoverflow.com/users/116/mark-harrison>
 
     > Prior to that I lived in China and was the Chief Software Architect at AsiaInfo, the company that built China's internet. While there my software was used to grow the China Internet from 200K to 65M users. Since I've left that's grown to about 350M users.

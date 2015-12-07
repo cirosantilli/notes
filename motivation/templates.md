@@ -47,3 +47,7 @@ I have the capacity to explain things to others so they will understand quickly.
     - http://stackoverflow.com/questions/13542832/what-is-the-difference-between-single-and-double-square-brackets-in-bash/31366734#31366734
 -   glibc
     - http://stackoverflow.com/questions/175882/whats-the-algorithm-behind-sleep/33639161#33639161
+-   Make
+    - http://stackoverflow.com/questions/5820303/how-do-i-force-make-gcc-to-show-me-the-commands/32010960#32010960
+-   HTML
+    - http://stackoverflow.com/questions/5874652/prop-vs-attr/24595458#24595458

@@ -105,3 +105,13 @@ The hardcore applied physics / robotics guys go there!
 ## SWaP
 
 -   <http://devblogs.nvidia.com/parallelforall/nvidia-jetson-tx1-supercomputer-on-module-drives-next-wave-of-autonomous-machines/>
+
+## BLCK
+
+## Overclocking
+
+<http://www.masterslair.com/determining-your-maximum-bclk-base-clock-frequency-i7-i5-i3>
+
+## SD card
+
+<https://en.wikipedia.org/wiki/Secure_Digital>

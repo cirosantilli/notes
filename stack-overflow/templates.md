@@ -34,5 +34,6 @@ Shorter version:
 [Intel Manual Volume 2 Instruction Set Reference - 325383-056US September 2015](https://web.archive.org/web/20151025081307/http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)
 [Intel Manual Volume 3 System Programming Guide - 325384-056US September 2015](https://web.archive.org/web/20151025081259/http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-system-programming-manual-325384.pdf)
 
+## Xperia
 
-MOVS/MOVSB/MOVSW/MOVSD/MOVSQ—Move Data from String to String
+Tested on Android 5.1.1, Sony Xperia Z3 d6643.

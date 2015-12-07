@@ -1,5 +1,7 @@
 # TODO
 
+-   what is SQL VACUUM?
+
 -   answer the other casperjs js not working question
 
 -   query that finds all users with no posts but more than 15 rep
