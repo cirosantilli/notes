@@ -20,6 +20,8 @@ Optional but very desirable requirements:
 
     The vote of people with higher rep should count more.
 
+    A possible problem is that an user with huge rep could copy someone else's answer and get more visibility.
+
 -   each time you upvote a given person, it has less positive impact on his reputation for that tag.
 
     This would counter voting fraud, e.g. of close groups of friends which upvote each other a lot.
@@ -56,6 +58,7 @@ They can't beat the older ones in total upvotes, but the upvote rate is a strong
 - http://meta.stackexchange.com/questions/125455/sorting-new-answers-to-old-questions?rq=1
 - http://meta.stackexchange.com/questions/6662/how-to-give-some-boost-to-some-really-good-answers-that-arrive-late?rq=1
 - http://meta.stackexchange.com/questions/15805/how-can-we-make-good-answers-to-old-questions-float-to-the-top
+- http://meta.stackoverflow.com/questions/272570/how-to-deal-with-hugely-upvoted-bad-and-outdated-answers
 
 Does Google consider post date?
 

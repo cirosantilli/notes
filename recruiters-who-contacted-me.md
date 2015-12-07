@@ -1,5 +1,6 @@
 # Recruiters who contacted me
 
+- 2015-12 - Alona Baertschi https://www.linkedin.com/in/alyonaadamova https://plus.google.com/111891239267045708094 - Google - after contact to http://stackoverflow.com/users/367273/npe
 - 2015-09 - Stephanie Dupas https://www.linkedin.com/profile/view?id=AB4AAAbNArEB37-f2PymtfjEi7wi-Eyw1UPWPRU&authType=name&authToken=aX1v&trk=wonton-desktop - Sophia Antipolis
 - 2015-09 - Urban Linker: several. http://www.urbanlinker.com/en/ Paris only, great agency.
 - 2015-08 - Sandrine Touboul https://www.linkedin.com/profile/view?id=35292132 - http://www.lusis.fr/fr

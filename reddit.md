@@ -42,6 +42,7 @@ Interesting:
 - https://www.reddit.com/r/HistoryPorn
 - https://www.reddit.com/r/outside
 - https://www.reddit.com/r/theydidthemath/
+- https://www.reddit.com/r/intrusivethoughts/
 
 Adult:
 
@@ -67,6 +68,8 @@ https://www.reddit.com/r/help/comments/2akq6x/how_do_i_display_a_country_flag_ne
 Glossary: https://www.reddit.com/r/help/comments/1a0mq2/im_new_to_reddit_tell_me_the_acronyms/
 
 OC: Original Content. Something created by the poster. Dedicated useless subreddit: https://www.reddit.com/r/original
+
+ELIX: Explain Like I'm X. E.g.: ELI5: 5 years old, ELIUndergrad, etc.
 
 ## Easter eggs
 
