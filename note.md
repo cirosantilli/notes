@@ -40,3 +40,11 @@ http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=0!1&Search=978-2-709
 ## vis
 
 https://github.com/almende/vis
+
+## chapada diamantina
+
+http://www.guiachapadadiamantina.com.br/categoria/onde-ficar/onde-ficar-lencois/
+
+
+
+Hey Jiaqi, why not use HashMap + LinkedList for the LRU cache instead of heap? https://docs.google.com/document/d/1bHIQBo-ASIWAczyMr6NMFcQA_aWIn5hZUaSdk5mO3M0/edit I'll try some other contact methods since I don't have your email, so ignore this if you've already gotten the message. Cheers!

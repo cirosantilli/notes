@@ -1,5 +1,9 @@
 # TODO
 
+-   answer http://stackoverflow.com/questions/2707322/what-is-null-in-java
+
+    Along: Has explicit bytecode support via the `aconst_null` and `ifnull` instructions.
+
 -   what is SQL VACUUM?
 
 -   answer the other casperjs js not working question
