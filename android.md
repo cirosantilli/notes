@@ -274,6 +274,13 @@ Find Linux kernel version:
 
 Usage data: <https://en.wikipedia.org/wiki/Android_version_history#/media/File:Android_historical_version_distribution_-_vector.svg>
 
+## HTML GUI
+
+<http://stackoverflow.com/questions/9045355/how-to-create-an-android-app-using-html-5>
+<http://developer.android.com/guide/webapps/index.html>
+
+Android uses it's custom GUI API. Some day, maybe.
+
 ### adb
 
 ### am
@@ -527,3 +534,9 @@ Reset home screen to device default:
 ## Blocking mode
 
 TODO where is it?? How to turn it on?
+
+## Linux run Android app natively
+
+- <http://thenextweb.com/google/2015/04/02/google-releases-a-tool-for-developers-to-launch-android-apps-on-windows-mac-linux-and-chrome-os/>
+- <https://www.linux.com/learn/tutorials/842630-installing-android-apps-on-linux-with-archon>
+- <https://www.maketecheasier.com/running-android-apps-on-linux/>
