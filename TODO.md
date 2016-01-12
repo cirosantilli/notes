@@ -1,8 +1,8 @@
 # TODO
 
--   answer http://stackoverflow.com/questions/2707322/what-is-null-in-java
+-   SO upvotes API
 
-    Along: Has explicit bytecode support via the `aconst_null` and `ifnull` instructions.
+-   ubuntu ubiquity
 
 -   what is SQL VACUUM?
 
@@ -95,7 +95,6 @@
     http://stackoverflow.com/questions/2058690/what-is-significance-of-memory-at-00007c00-to-booting-sequence?rq=1
 
     http://stackoverflow.com/questions/3743134/where-is-there-good-information-about-low-level-pc-booting?rq=1
-
 
 ## Kernel
 

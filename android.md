@@ -42,6 +42,8 @@ On Xperia Z3, Power key + volume down.
 
 -   <http://android.stackexchange.com/questions/98975/complete-list-of-lollipop-system-icons-shown-in-notification-bar>
     - only network symbols: <http://android.stackexchange.com/questions/56269/what-are-the-different-signal-indicators-avalable-on-the-notification-bar>
+-   4G vs H+ vs H
+    - completely different WWAN standards: http://android.stackexchange.com/questions/56269/what-are-the-different-signal-indicators-avalable-on-the-notification-bar
 
 ## Add contact to home page
 
@@ -75,15 +77,33 @@ Removed apparently in Android 5.
 
 - <http://android.stackexchange.com/questions/50177/android-4-3-how-to-get-the-notification-history>
 
+## Notifications
+
+- Disable application updated notifications: <http://android.stackexchange.com/questions/58021/how-to-get-rid-of-update-notifications-for-a-given-app-in-google-play-store>
+
 ## Apps
 
 TODO: how to add Skype number to a contact?
+
+### Transfer data to SD card notification
+
+- https://www.reddit.com/r/SonyXperia/comments/3101yj/how_do_i_disable_the_notification_transfer_data/
+- https://talk.sonymobile.com/t5/Xperia-Z-ZL-ZR/Transfer-data-to-SD-card-notification/td-p/318761
+
+### Block number
+
+- http://talk.sonymobile.com/t5/Xperia-Z1-Z1s/How-to-block-someones-call-and-sms-on-ma-xperia-z1/m-p/799031#M32118
+- http://android.stackexchange.com/questions/80806/how-to-block-a-number-in-sony-xperia-j
 
 ### Camera
 
 Sony Xperia stores camera pictures under `/sdcard/DSIM/100ANDRO`>
 
 <https://en.wikipedia.org/wiki/Data_center_infrastructure_management>
+
+#### Google photos
+
+Share all photos: <https://www.reddit.com/r/google/comments/3dqx07/google_photos_share_entire_library/>
 
 ### Play Music
 
@@ -119,6 +139,12 @@ Settings -> Apps -> All -> Xperia Home -> Clear data -> OK.
 Emoji: button to the left of text box!
 
 Web interface: https://web.whatsapp.com/ App menu does not have the button for me: <http://android.stackexchange.com/questions/96531/how-to-scan-qr-code-for-whatsapp-web#comment162747_96547>
+
+Double ticks: <https://www.quora.com/Do-double-grey-ticks-on-the-WhatsApp-mean-the-person-is-online>
+
+- 1 gray tick: sent to server
+- 2 gray ticks: sent to recipient's phone
+- 2 blue ticks: recipient read the message
 
 ### Facebook messenger
 
@@ -186,6 +212,14 @@ One way to do that is to reboot.
 From the CLI without rebooting: <http://android.stackexchange.com/questions/51784/can-i-trigger-a-media-scan-via-the-the-command-line>
 
 There's an app for that: <https://play.google.com/store/apps/details?id=com.addz.mediascanner>
+
+### Native development
+
+Dev android apps inside Android!
+
+<https://play.google.com/store/apps/details?id=com.aide.ui&feature=search_result>
+
+### Sky
 
 ## Bloatware
 
@@ -274,6 +308,10 @@ Find Linux kernel version:
 
 Usage data: <https://en.wikipedia.org/wiki/Android_version_history#/media/File:Android_historical_version_distribution_-_vector.svg>
 
+## App isolation
+
+Each App runs under a different UID: <http://security.stackexchange.com/questions/67188/android-app-isolation-risks-implementation> So it just reuses Linux's security.
+
 ## HTML GUI
 
 <http://stackoverflow.com/questions/9045355/how-to-create-an-android-app-using-html-5>
@@ -323,6 +361,8 @@ No JIT, full AOT is done.
 
 - <http://stackoverflow.com/questions/17770907/is-android-os-only-used-for-arm-cpus>
 - <http://www.android-x86.org/>
+
+    TODO: linked to the Intel partnership? Or that one is yet to be released?
 
 ### NDK
 
@@ -540,3 +580,7 @@ TODO where is it?? How to turn it on?
 - <http://thenextweb.com/google/2015/04/02/google-releases-a-tool-for-developers-to-launch-android-apps-on-windows-mac-linux-and-chrome-os/>
 - <https://www.linux.com/learn/tutorials/842630-installing-android-apps-on-linux-with-archon>
 - <https://www.maketecheasier.com/running-android-apps-on-linux/>
+
+## Peripherals
+
+- joystick root calibration method <https://www.youtube.com/watch?v=GwrGpVquGyo>

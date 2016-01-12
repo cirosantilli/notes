@@ -7,6 +7,8 @@
 - https://gitlab.com/u/cirosantilli
 - http://f.osdev.org/memberlist.php?mode=viewprofile&u=16372
 - http://forum.xda-developers.com/member.php?u=7116837
+- http://forums.androidcentral.com/members/cirosantilli-2734491/
+- http://www.bibsonomy.org/user/cirosantilli
 
 China:
 

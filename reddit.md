@@ -17,6 +17,7 @@ For programmers:
 - https://www.reddit.com/r/learnprogramming
 - https://www.reddit.com/r/askprogramming
 - https://www.reddit.com/r/MachineLearning/
+- https://www.reddit.com/r/datascience
 - https://www.reddit.com/r/Compilers/
 - https://www.reddit.com/r/artificial/
 - https://www.reddit.com/r/computervision/
@@ -108,3 +109,14 @@ The tags available on some subs (predefined by mods) are called "flairs" ...
 ## Karmawhoring
 
 https://www.reddit.com/comments/tx4mz/comment_karmawhoring_101_guide_to_racking_up/
+
+## Best time to post
+
+9AM East Coast?
+
+- http://marketersguidetoreddit.com/choosing-best-time-post-to-reddit/
+- https://www.redditlater.com/analysis/
+
+## Algorithms
+
+- https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.jkwsr7b8g

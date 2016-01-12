@@ -419,3 +419,5 @@ No EU jobs: http://www.coverity.com/company/careers/
 ## Misc
 
 - <http://streamcomputing.eu/about-us/jobs/> Physics, GPU, OpenCL.
+
+- <https://www.linkedin.com/in/keith-savage-158b6579> commented on x86 tutorial Disqus <http://www.cirosantilli.com/x86-paging/> Cornell, AMD, VIA (Centaur) 20 years.
