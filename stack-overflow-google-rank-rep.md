@@ -87,20 +87,15 @@ So generating meaningful test data would be a problem in itself.
 - http://meta.stackexchange.com/questions/64938/doesnt-science-have-a-better-reputation-system-than-stack-overflow
 - http://meta.stackexchange.com/questions/103735/modified-h-index-for-questions-and-answers
 
-A Google-rank-like (eigenvalue based) reputation metric for stack overflow that takes into account tags:
+Software:
 
-- if someone with high rep on a given tag upvotes you, you get a lot of rep on that tag
-- take into account a new property of tags: people can upvote tags if they think a tag fits a question well. Votes of people with more rep on a tag have more weight.
-- if you upvote a given person multiple times, each upvote has less effect on their rep
-
-This should be implemented as an Stack Overflow http://stackapps.com/ and on GitHub for languages with either GitHub API or http://ghtorrent.org/
-
-We could still have the current linear rep, but the overall ranking would be a nice complement. I wonder how much it would differ from linear rep.
-
-- https://github.com/networkx/networkx Python, does a lot of other graph things
-- https://github.com/louridas/pagerank C++
-- https://github.com/dcadenas/rankable_graph Ruby
-- https://github.com/dcadenas/pagerank/ Go, port of rankable_graph
+-   http://www.bibsonomy.org/
+    - https://bitbucket.org/bibsonomy/bibsonomy
+    - http://www2007.org/workshops/paper_25.pdf
+-   https://github.com/networkx/networkx Python, does a lot of other graph things
+-   https://github.com/louridas/pagerank C++
+-   https://github.com/dcadenas/rankable_graph Ruby
+-   https://github.com/dcadenas/pagerank/ Go, port of rankable_graph
 
 StackApps:
 

@@ -50,6 +50,16 @@ Discovered:
 
 -   <http://stackoverflow.com/users/3297613/avinash-raj> 100k with regex only! Notorious! :-)
 
+### Googlers with rep
+
+- <http://stackoverflow.com/users/95810/alex-martelli>
+- <http://stackoverflow.com/users/148870/amber> <https://plus.google.com/+AmberYust> <https://www.linkedin.com/in/amberyust> python
+- <http://stackoverflow.com/users/367273/npe> java
+- <http://stackoverflow.com/users/40342/joachim-sauer> <https://plus.google.com/+JoachimSauer1/about> java
+- <http://stackoverflow.com/users/136540/michael-aaron-safyan> C++, Java
+- <http://stackoverflow.com/users/279627/sven-marnach> <https://www.linkedin.com/in/sven-marnach-33290940> python
+- <http://stackoverflow.com/users/1269037/dan-dascalescu> <https://www.linkedin.com/in/dandv>
+
 ## Others
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism

@@ -6,8 +6,6 @@ https://en.wikipedia.org/wiki/Computer_case_screws
 
 - <https://en.wikipedia.org/wiki/RepRap_Project>
 
-## Thinkpad T430
-
 ## Smartphones
 
 Smartphones use complicated SoCs that includes an ARM CPU, GPU, modem and camera support, etc.
@@ -40,3 +38,13 @@ http://ark.intel.com/products/67355/Intel-Core-i5-3210M-Processor-3M-Cache-up-to
 ## OK Google from any screen
 
 TODO not working!
+
+## Display
+
+https://en.wikipedia.org/wiki/Multi-touch
+
+WWAN display? Why is this shown on display?
+
+### IPS
+
+https://www.reddit.com/r/buildapc/comments/1brd31/for_those_of_you_with_ips_monitors_was_it_worth/

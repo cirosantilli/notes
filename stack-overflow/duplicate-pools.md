@@ -277,6 +277,11 @@ dev/fb0 format:
 
 - http://stackoverflow.com/questions/1645181/taking-a-screen-shot-of-an-embedded-linux-framebuffer/33411543#33411543
 
+Get external IP:
+
+- http://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-bash/250794#250794
+- http://askubuntu.com/questions/95910/command-for-determining-my-public-ip/712144#712144
+
 ## To be answered
 
 QEMU errors:
