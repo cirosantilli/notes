@@ -17,13 +17,7 @@ Public contracts they've done already:
 
 ## Web presence
 
-<https://github.com/savoirfairelinux>
+- <https://twitter.com/sflinux>
+- <https://www.linkedin.com/company/savoir-faire-linux>
+- <https://github.com/savoirfairelinux>
 
-## People
-
-Ring:
-
-<https://www.linkedin.com/in/guillaume-roguez-10a3802> Ring leader.
-<https://www.linkedin.com/in/eloibail>
-<https://www.linkedin.com/in/jgrossholtz>
-<https://www.linkedin.com/in/alision>

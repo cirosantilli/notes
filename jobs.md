@@ -206,6 +206,8 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 
 -   https://en.wikipedia.org/wiki/TSMC pure play foundry.
 
+-   Imagination technologies. <https://en.wikipedia.org/wiki/Imagination_Technologies> Involved in MIPS.
+
 ### low level
 
 - <https://en.wikipedia.org/wiki/Citrix_Systems> 10k employees <http://www.citrix.com/careers/home.html>
@@ -221,6 +223,10 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 - <http://wso2.com/>
 - <http://www.fsf.org/resources/jobs/>
 - <https://www.linaro.org/careers/>
+
+### Open source hardware
+
+<https://twitter.com/antmicro>
 
 ### CEA
 

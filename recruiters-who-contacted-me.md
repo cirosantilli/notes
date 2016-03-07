@@ -1,6 +1,12 @@
 # Recruiters who contacted me
 
-- 2015-12 - https://www.linkedin.com/in/dfbrule 
+- 2016-03 - https://www.linkedin.com/in/victorquintiliani/en for Gandi https://en.wikipedia.org/wiki/Gandi
+- 2016-02 - Karine Francisco https://www.linkedin.com/in/karine-francisco-1b70311b from Astek likely for Amadeus
+- 2016-02 - DELEPLANQUE Simon HEZARD & Associés
+- 2016-02 - Stella Witow for unnamed 3D software editor on top 3 of the world, services Louis Vuiton, Nike, Adidas
+- 2016-01 - https://www.linkedin.com/in/diane-dumas-2a2b6744 theodo
+- 2016-01 - https://www.linkedin.com/in/david-petersen-257318108 for http://www.shift-technology.com/en/#page_4
+- 2015-12 - https://www.linkedin.com/in/dfbrule
 - 2015-12 - Alona Baertschi https://www.linkedin.com/in/alyonaadamova https://plus.google.com/111891239267045708094 - Google - after contact to http://stackoverflow.com/users/367273/npe
     Interviewer part 1: https://www.linkedin.com/in/jiaqizhai https://plus.google.com/114556650421629111973 https://www.facebook.com/jiaqi.zhai
 - 2015-09 - Stephanie Dupas https://www.linkedin.com/profile/view?id=AB4AAAbNArEB37-f2PymtfjEi7wi-Eyw1UPWPRU&authType=name&authToken=aX1v&trk=wonton-desktop - Sophia Antipolis

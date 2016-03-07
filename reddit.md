@@ -25,14 +25,18 @@ For programmers:
 
 For engineers:
 
-- https://www.reddit.com/r/Simulated
-- https://www.reddit.com/r/dataisbeautiful
-    - https://www.reddit.com/r/dataporn
-- https://www.reddit.com/r/robotics/
-- https://www.reddit.com/r/ECE
-- https://www.reddit.com/r/ElectricalEngineering/
-- https://www.reddit.com/r/computertechs/
-- https://www.reddit.com/r/EngineeringPorn physical machines mostly
+-   https://www.reddit.com/r/Simulated
+-   https://www.reddit.com/r/dataisbeautiful
+      - https://www.reddit.com/r/dataporn
+-   https://www.reddit.com/r/robotics/
+-   https://www.reddit.com/r/ECE
+-   https://www.reddit.com/r/ElectricalEngineering/
+-   https://www.reddit.com/r/computertechs/
+-   https://www.reddit.com/r/EngineeringPorn physical machines mostly
+-   companies
+    - https://www.reddit.com/r/google
+    - https://www.reddit.com/r/facebook
+    - https://www.reddit.com/r/twitter
 
 Interesting:
 
@@ -49,6 +53,7 @@ Adult:
 
 - https://www.reddit.com/r/porn
 - https://www.reddit.com/r/rule34
+- https://www.reddit.com/r/gonewild
 
 ## Flair
 
@@ -120,3 +125,13 @@ https://www.reddit.com/comments/tx4mz/comment_karmawhoring_101_guide_to_racking_
 ## Algorithms
 
 - https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.jkwsr7b8g
+
+## Users
+
+### Who are those?
+
+Likely ring devs:
+
+- <https://www.reddit.com/user/valgrid>
+- <https://www.reddit.com/user/BurningCa007>
+- <https://www.reddit.com/user/order_chaos> did mcgill, hockey, Android

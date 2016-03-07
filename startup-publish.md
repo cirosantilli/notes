@@ -1,6 +1,8 @@
+# Startup publish
+
 Information useful for startups with focus on publishing technology.
 
-# Funding
+## Funding
 
 Funding possibilities for startups with focus on the education / publishing domain.
 
@@ -30,11 +32,11 @@ General startup aggregators / incubators:
 
 - [AngelList](https://angel.co/)
 
-# Organizations
+## Organizations
 
 - <http://hybridpublishing.org>, <http://www.consortium.io>, <https://github.com/consortium/typesetr-converter>
 
-# News
+## News
 
 General:
 
@@ -57,26 +59,26 @@ Git:
 
 - Git Minutes <http://episodes.gitminutes.com/>
 
-# Education enterprises
+## Education enterprises
 
-## Online universities
+### Online universities
 
 No text development focus, only organize metadata on existing text:
 
 - Udemy <https://www.udemy.com>
 - Eliademy <https://eliademy.com>
 
-## Teaching
+### Teaching
 
 - <https://www.coursera.org/>
 - <http://www.blackboard.com?lang=en-us>
 
-## Huge tech oriented publishers
+### Huge tech oriented publishers
 
 - <http://se.macmillan.com/>
 - <http://www.oreilly.com/>
 
-# Developer tools
+## Developer tools
 
 Web IDEs with terminal:
 
@@ -85,11 +87,11 @@ Web IDEs with terminal:
 - <https://c9.io/>, <http://www.crunchbase.com/organization/ajax-cloud9-ide>
 - <https://www.sourcelair.com>, <http://www.crunchbase.com/organization/sourcelair>
 
-# Examination / certification focus
+## Examination / certification focus
 
 - <http://openbadges.org/>
 
-# Crowdfunding
+## Crowdfunding
 
 Solve issue and get paid.
 
@@ -107,7 +109,7 @@ Closed source, posted by companies mostly:
 - <https://hackerone.com>: security issues that company proposes.
 - <https://www.odesk.com/>
 
-# CI
+## CI
 
 -   <https://github.com/travis-ci/travis-ci>.
 

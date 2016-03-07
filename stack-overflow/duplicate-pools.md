@@ -120,8 +120,14 @@ Firefox Prettify JavaScript source
 
 - http://stackoverflow.com/questions/3216583/beautify-javascript-and-css-in-firebug/33753982#33753982
 - http://stackoverflow.com/questions/4279319/is-there-a-plugin-that-allows-me-to-automatically-unminify-the-javascript-includ/33753040#33753040
+- http://unix.stackexchange.com/questions/191694/how-to-put-a-newline-special-character-into-a-file-using-the-echo-command-and-re/257261#257261
 
 ## bash
+
+echo neline:
+
+- http://stackoverflow.com/questions/8467424/echo-new-line-in-bash-prints-literal-n/34947759#34947759
+- http://superuser.com/questions/443994/how-to-print-new-line-character-with-echo/1030499#1030499
 
 loop over integer range:
 
@@ -167,16 +173,17 @@ receive.denyCurrentBranch updateInstead:
 
 Git annotated vs lightweight:
 
-- http://stackoverflow.com/questions/4092640/in-what-circumstances-should-i-add-the-a-flag-to-the-git-tag-command
-- http://stackoverflow.com/questions/11514075/what-is-the-difference-between-an-annotated-and-unannotated-tag
-- http://stackoverflow.com/questions/2289971/git-is-an-unannotated-tag-worse-than-a-tag-with-a-bad-annotation
-- (not answered) http://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags
+- http://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags/35059291#35059291
+- http://stackoverflow.com/questions/4092640/in-what-circumstances-should-i-add-the-a-flag-to-the-git-tag-command/30186352#30186352
+- http://stackoverflow.com/questions/11514075/what-is-the-difference-between-an-annotated-and-unannotated-tag/25996877#25996877
+- http://stackoverflow.com/questions/2289971/git-is-an-unannotated-tag-worse-than-a-tag-with-a-bad-annotation/31255131#31255131
 
 Git diff `@@` part:
 
-- <http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git/31615438#31615438>
 - <http://stackoverflow.com/questions/8558597/what-does-the-meta-line-with-at-signs-in-svn-diff-or-git-diff-mean/31367564#31367564>
-- <http://stackoverflow.com/questions/10950412/what-does-1-1-mean-in-gits-diff-output?lq=1> TODO answer this as well
+- <http://stackoverflow.com/questions/10950412/what-does-1-1-mean-in-gits-diff-output>
+- <http://stackoverflow.com/questions/6508651/git-diff-header-number-meanings> TODO answer this one
+- <http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git/31615438#31615438>
 
 ### C
 
@@ -228,6 +235,13 @@ static enum, struct, class:
 - <http://unix.stackexchange.com/questions/11597/what-is-the-difference-between-likely-and-unlikely-calls-in-kernel/241329#241329>
 
 ### Java
+
+String interning, = vs equals for string:
+
+- http://stackoverflow.com/questions/2486191/what-is-the-java-string-pool-and-how-is-s-different-from-new-strings/29978564#29978564
+- http://stackoverflow.com/questions/10578984/what-is-string-interning/35360991#35360991
+- http://stackoverflow.com/questions/1091045/is-it-good-practice-to-use-java-lang-string-intern/35398984#35398984
+- http://stackoverflow.com/questions/7520432/what-is-the-difference-between-vs-equals-in-java/35399386#35399386
 
 Native:
 

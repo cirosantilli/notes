@@ -1,6 +1,6 @@
 # Collaborators
 
-While we don't have: https://github.com/isaacs/github/issues/444
+While we don't have: <https://github.com/isaacs/github/issues/444>
 
 <https://github.com/isaacs/github>:
 

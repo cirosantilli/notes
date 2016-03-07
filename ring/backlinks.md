@@ -1,0 +1,23 @@
+# Backlinks
+
+- <http://askubuntu.com/questions/14537/looking-for-a-commercial-grade-sip-softphone>
+- <http://askubuntu.com/questions/41970/what-floss-skype-alternatives-are-available>
+- <http://linuxfr.org/news/ring-la-plate-forme-de-communication-multimedia-distribuee-et-securisee>
+- <https://fosdem.org/2016/schedule/event/universal_network/>
+- <https://framasphere.org/posts/1464246>
+- <https://lobste.rs/s/ucwwtt/ring>
+- <https://news.ycombinator.com/item?id=11009182>
+- <https://www.reddit.com/r/linux/comments/43j641/ring_libre_p2p_chat_now_on_android/>
+- <https://www.youtube.com/watch?v=xAyIHhbQt3A> FOSDEM 2016 uploaded by Ciro Santilli
+- <http://blog.desdelinux.net/ring-un-sustituto-de-skype-en-gnulinux/>
+- <http://stackoverflow.com/questions/29714733/installing-the-ring-cx-sip-client-on-a-raspberry-pi>
+- magazines
+    - <http://www.linux-magazin.de/NEWS/Software-Telefon-SFLphone-KDE-1.3.0-veroeffentlicht>
+    - <http://www.techrepublic.com/article/privacy-focused-skype-alternative-ring-shows-promise/>
+-   blogs
+    -   <http://korben.info/ring-un-outil-securise-respectueux-de-la-vie-privee-et-libre-pour-communiquer-avec-vos-amis.html>
+    -   <https://habrahabr.ru/post/272937/>
+    -   <http://lamiradadelreplicante.com/2016/02/05/ring-alternativa-a-skype-segura-y-descentralizada/>
+-   wikis
+    -   <https://en.wikipedia.org/wiki/Ring_%28software%29> (nominated for deletion)
+    -   <http://www.voip-info.org/wiki/view/SFLphone>
