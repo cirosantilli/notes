@@ -10,3 +10,12 @@ Downsides:
 - Hard to see question upvote count
 - Cannot upvote questions: http://www.quora.com/Is-there-a-way-to-vote-questions-up-and-down-on-Quora-If-not-why-not
 - Questions don't show data anywhere by design! https://www.quora.com/Why-doesnt-Quora-show-when-a-question-was-added
+
+## Policies
+
+Real name mandatory: <https://www.quora.com/Do-I-have-to-use-my-real-name-on-Quora-What-is-Quoras-Real-Names-policy> Anonymous answers allowed.
+
+Profile picture is not as well regulated:
+
+- <https://www.quora.com/Should-Quora-have-a-policy-against-setting-a-picture-of-someone-else-as-your-profile-picture>
+- <https://www.quora.com/What-are-the-policies-and-guidelines-around-Quora-profile-pictures>

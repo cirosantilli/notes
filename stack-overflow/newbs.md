@@ -37,6 +37,10 @@ Common details:
 - what you were doing
 - generic things that you've tried: "I've read the manual and googled, it but could not find the answer."
 
+<http://askubuntu.com/revisions/156219/4>:
+
+> Refer to my title
+
 ## Missing fundamental details
 
 Version is typical:

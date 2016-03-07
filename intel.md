@@ -12,3 +12,7 @@ Looks like the generation: <http://ark.intel.com/products/88194/Intel-Core-i7-65
        ^
 
 means 6th gen.
+
+## 1B for Dell anti-trust accusation
+
+http://money.cnn.com/blogs/legalpad/2007/02/suit-intel-paid-dell-up-to-1-billion_15.html

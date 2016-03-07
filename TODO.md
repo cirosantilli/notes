@@ -1,8 +1,74 @@
 # TODO
 
--   SO upvotes API
+-   ranger requests on ranger/rc.conf
+-   add android java client example to server answer
+-   http://stackoverflow.com/questions/2014033/send-and-receive-a-file-in-socket-programming-in-linux-with-c-c-gcc-g
+    - http://stackoverflow.com/questions/15445207/sending-image-jpeg-through-socket-in-c-linux mark as dupe
+    - http://stackoverflow.com/questions/10686368/file-transfer-using-tcp-on-linux
+-   http://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
+-   http://stackoverflow.com/questions/3413470/what-is-stdmove-and-when-should-it-be-used Minimal example.
+-   http://stackoverflow.com/questions/27604455/is-android-posix-compatible
+-   http://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean
+-   banco pergunta
+-   add public key to website
+    - also mention `ctags --extra=+f`, which solves the problem completely!
+-   http://stackoverflow.com/questions/3321514/what-are-intent-filters-in-android minimal example
+-   Frame examples. TODO: do something interesting with them.
+    - http://stackoverflow.com/questions/5710573/need-a-fragments-example
+    - http://stackoverflow.com/questions/5159982/how-do-i-add-a-fragment-to-an-activity-with-a-programmatically-created-content-v
+-   android R. Show `android.R`. Get several examples working, e.g. layout, string.
+    -   http://stackoverflow.com/questions/4953077/android-what-is-r-why-is-it-so-cryptic
+    -   http://stackoverflow.com/questions/6804053/understand-the-r-class-in-android
+-   http://venturebeat.com/2015/07/24/firefox-is-getting-audio-indicators-to-show-noisy-tabs-and-will-let-you-mute-them/
+-   https://en.wikipedia.org/wiki/Alfresco_%28software%29 example of open source proprietary
+    - http://superuser.com/questions/531735/is-there-a-way-to-indicate-which-firefox-tab-is-making-sounds
+-   stack overflow
+    -   http://stackoverflow.com/posts/18431262/revisions add to upstream
+    -   swig
+        - http://stackoverflow.com/questions/1153577/integrate-python-and-c
+        - http://stackoverflow.com/questions/4596484/wrapping-a-c-class-in-python-using-swig
+        - http://stackoverflow.com/questions/8168517/generating-java-interface-with-swig
+    -   android
+        -   http://askubuntu.com/questions/318246/complete-installation-guide-for-android-sdk-adt-bundle-on-ubuntu
+            - http://stackoverflow.com/questions/17963508/how-to-install-android-sdk-build-tools-on-the-command-line
+        -   create project with gradle (default is ant):
+            - http://stackoverflow.com/questions/17470831/how-to-use-gradle-to-generate-eclipse-and-intellij-project-files-for-android-pro
+        -   compile project
+            - http://stackoverflow.com/questions/15285331/how-to-compile-apk-from-command-line . Improve info there:
+                - debug mode
+                - where the files are generated
+                - build.xml can also be generated with `android create project`.
+        -   install apk. Answer with insufficient permissions:
+            - http://stackoverflow.com/questions/7076240/install-an-apk-file-from-command-prompt
+            - http://android.stackexchange.com/questions/12961/command-to-install-app-from-phone
+        -   run with ant http://stackoverflow.com/questions/9026152/how-to-run-an-android-app-on-the-device-with-ant
+        -   insufficient permissions
+            - http://stackoverflow.com/questions/9350666/how-to-usb-connect-android-devices-with-adb-under-ubuntu
+            - http://stackoverflow.com/questions/5510284/adb-devices-command-not-working
+            - http://android.stackexchange.com/questions/74658/error-insufficient-permissions-for-device-how-to-add-permissions
+        -   find CLI for android platform installation:
+            - http://stackoverflow.com/questions/18068920/android-studio-failed-to-find-target-android-18
+            - http://stackoverflow.com/questions/33330964/error-failed-to-find-target-with-hash-string-android-21
+            - http://stackoverflow.com/questions/32715418/failed-to-find-target-with-hash-string-android-22
+-   TODO why noh gvim fails?
+-   minimize OpenGL offscreen example
 
--   ubuntu ubiquity
+## Tools
+
+-   zimbra
+    -   show avatar on sent emails: http://community.zimbra.com/collaboration/f/1886/t/1135438
+-   tuleap
+    - don't receive my own emails
+    - add title to browser title
+-   support
+    -   where is the bug tracker: email sent:
+        - <https://private.savoirfairelinux.com/f2t-ym.php> fill in multiple days at once
+        - propose everyone put RING number on private
+-   git commit message template with Tuleap
+-   android sync all labels of IMAP account. Possible for gmail account:
+    - https://support.google.com/mail/answer/2819491?hl=en
+
+## Secondary
 
 -   what is SQL VACUUM?
 
@@ -15,8 +81,6 @@
     -   <http://stackoverflow.com/questions/175882/whats-the-algorithm-behind-sleep/33639161#33639161>
 
 -   GDB QEMU SMP
-
--   minimize OpenGL offscreen example
 
 -   make segmentation base offset work and answer: <http://stackoverflow.com/questions/3819699/what-does-ds40207a-mean-in-assembly>, link to http://stackoverflow.com/questions/4119504/real-mode-memory-addressing-explanation/33581044#33581044
 
