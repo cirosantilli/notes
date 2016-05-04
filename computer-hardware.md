@@ -45,16 +45,6 @@ Wiki article also talks about DRAM taken to space to observe bit flip ratio, whi
 
 <https://en.wikipedia.org/wiki/Power_usage_effectiveness>
 
-## Open source hardware
-
-<https://en.wikipedia.org/wiki/Open_Compute_Project> server hardware, by Facebook and others joined, but not Google.
-
-### ARM CPU
-
-https://en.wikipedia.org/wiki/Amber_%28processor_core%29 TODO how does it compare?
-
-ARM has already sued people in the past for this: http://www.eetimes.com/author.asp?section_id=36&doc_id=1287452
-
 ## Screen resolution
 
 ## Display aspect ratio

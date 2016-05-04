@@ -93,6 +93,8 @@ Uses phone number contacts.
 
 Snowden says it's his app of choice.
 
+This company has teamed up with WhatsApp to implement such security, including ZRTP: http://techcrunch.com/2016/04/05/whatsapp-completes-end-to-end-encryption-rollout/
+
 ## Tor messenger
 
 <https://tlhp.cf/tor-messenger-review/>

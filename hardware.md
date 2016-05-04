@@ -18,10 +18,6 @@ Qualcomm currently dominates the market:
 <https://www.quora.com/Who-are-the-biggest-mobile-phone-processor-makers>
 <http://www.fool.com/investing/general/2013/10/16/which-company-makes-the-most-from-smartphone-proce.aspx>
 
-### NVIDIA NVS 5400M
-
-http://www.nvidia.com/object/nvs_techspecs.html
-
 ### Intel Core i5-3210M
 
 http://ark.intel.com/products/67355/Intel-Core-i5-3210M-Processor-3M-Cache-up-to-3_10-GHz-rPGA
@@ -33,10 +29,6 @@ http://ark.intel.com/products/67355/Intel-Core-i5-3210M-Processor-3M-Cache-up-to
 ## Recover lost phone
 
 - <https://www.google.com/android/devicemanager>
-
-## OK Google from any screen
-
-TODO not working!
 
 ## Display
 
@@ -52,3 +44,9 @@ https://www.reddit.com/r/buildapc/comments/1brd31/for_those_of_you_with_ips_moni
 
 Alpha board: <http://spin.atomicobject.com/2014/03/17/alpha-board-shorten-board-bring-up/>
 
+## Mount your own PC
+
+- <http://www.makeuseof.com/tag/still-cheaper-build-pc/>
+- <https://www.youtube.com/watch?v=0bUghCx9iso> video
+
+Laptop: possible? Likely not since all pieces must fit too closely together.

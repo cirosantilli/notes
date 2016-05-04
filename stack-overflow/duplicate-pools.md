@@ -26,9 +26,8 @@ enctype multipart form data:
 
 - http://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean/28380690#28380690
 - http://stackoverflow.com/questions/8659808/how-does-http-file-upload-work/26791188#26791188
-- http://stackoverflow.com/questions/913626/what-should-a-multipart-http-request-with-multiple-files-look-like
-- http://stackoverflow.com/questions/4238809/example-of-multipart-form-data
-- http://stackoverflow.com/questions/14551194/how-are-parameters-sent-in-an-http-post-request (unanswered)
+- http://stackoverflow.com/questions/913626/what-should-a-multipart-http-request-with-multiple-files-look-like (closed)
+- http://stackoverflow.com/questions/4238809/example-of-multipart-form-data (redirects clearly to canonical)
 
 Rails pass values to view:
 
@@ -36,11 +35,6 @@ Rails pass values to view:
 - http://stackoverflow.com/questions/4708369/injecting-variable-values-into-javascript-and-haml-in-ror
 - http://stackoverflow.com/questions/2721880/ruby-on-rails-send-javascript-variable-from-controller-to-external-javascript
 - http://stackoverflow.com/questions/6504092/erb-in-coffee-script-with-rails-3-1
-
-GDB close tui mode:
-
-- http://stackoverflow.com/questions/8409540/how-to-close-layout-src-windows-in-gdb/30763087#30763087
-- http://stackoverflow.com/a/30763033/895245
 
 Vim cscope:
 
@@ -116,11 +110,19 @@ What does the linker do:
 - http://stackoverflow.com/questions/3322911/what-do-linkers-do/33690144#33690144
 - http://stackoverflow.com/questions/12122446/how-does-c-linking-work-in-practice/30507725#30507725
 
+## JavaScript
+
 Firefox Prettify JavaScript source
 
 - http://stackoverflow.com/questions/3216583/beautify-javascript-and-css-in-firebug/33753982#33753982
 - http://stackoverflow.com/questions/4279319/is-there-a-plugin-that-allows-me-to-automatically-unminify-the-javascript-includ/33753040#33753040
 - http://unix.stackexchange.com/questions/191694/how-to-put-a-newline-special-character-into-a-file-using-the-echo-command-and-re/257261#257261
+
+Set:
+
+- http://stackoverflow.com/questions/7958292/mimicking-sets-in-javascript/14095368#14095368
+- http://stackoverflow.com/questions/2523436/javascript-implementation-of-a-set-data-structure/24231435#24231435
+- http://stackoverflow.com/questions/5657219/set-of-objects-in-javascript/25946469#25946469
 
 ## bash
 
@@ -228,6 +230,20 @@ static enum, struct, class:
 - <http://stackoverflow.com/a/31178186/895245>
 - <http://stackoverflow.com/questions/9321/how-do-you-create-a-static-class-in-c/31201984#31201984>
 
+`timespec_get`:
+
+- <http://stackoverflow.com/questions/361363/how-to-measure-time-in-milliseconds-using-ansi-c/36095407#36095407>
+- <http://stackoverflow.com/questions/5833094/get-a-timestamp-in-c-in-microseconds/36095514#36095514>
+- <http://stackoverflow.com/questions/3756323/getting-the-current-time-in-milliseconds/36095600#36095600>
+- <http://stackoverflow.com/questions/16275444/how-to-print-time-difference-in-accuracy-of-milliseconds-and-nanoseconds/36095783#36095783>
+
+`f()` vs `f(void)` in declarator:
+
+- <http://stackoverflow.com/questions/693788/is-it-better-to-use-c-void-arguments-void-foovoid-or-not-void-foo/36292431#36292431>
+- <http://stackoverflow.com/questions/51032/is-there-a-difference-between-foovoid-and-foo-in-c-or-c/36835303#36835303>
+- <http://stackoverflow.com/questions/416345/is-fvoid-deprecated-in-modern-c-and-c/36835586#36835586>
+- <http://programmers.stackexchange.com/questions/286490/what-is-the-difference-between-function-and-functionvoid> (already answered)
+
 ### builtin_expect
 
 - <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
@@ -295,6 +311,48 @@ Get external IP:
 
 - http://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-bash/250794#250794
 - http://askubuntu.com/questions/95910/command-for-determining-my-public-ip/712144#712144
+
+## OpenGL
+
+Normal:
+
+- <http://stackoverflow.com/questions/5906993/what-is-a-normal-in-opengl/36087311#36087311>
+- <http://gamedev.stackexchange.com/questions/50653/opengl-why-do-i-have-to-set-a-normal-with-glnormal/118476#118476>
+
+Offscreen rendering:
+
+- <http://stackoverflow.com/questions/3191978/how-to-use-glut-opengl-to-render-to-a-file>
+- <http://stackoverflow.com/questions/5844858/how-to-take-screenshot-in-opengl>
+- <http://stackoverflow.com/questions/19070333/saving-the-opengl-context-as-a-video-output/36488003#36488003>
+
+Billboard:
+
+- <http://gamedev.stackexchange.com/questions/5959/rendering-2d-sprites-into-a-3d-world/119739#119739>
+- <http://stackoverflow.com/questions/4282036/rendering-2d-sprites-in-a-3d-world/36568461#36568461>
+
+Text:
+
+- <http://stackoverflow.com/questions/8847899/opengl-how-to-draw-text-using-only-opengl-methods/36065835#36065835>
+- <http://stackoverflow.com/questions/2071621/how-to-do-opengl-live-text-rendering-for-a-gui/36965041#36965041>
+
+## FFmpeg
+
+Encode h264 and control key-frames:
+
+- <http://stackoverflow.com/questions/2289319/how-to-write-a-video-encoder-with-ffmpeg-that-explicitly-controls-the-position-o/36412909#36412909>
+- <http://stackoverflow.com/questions/2940671/how-does-one-encode-a-series-of-images-into-h264-using-the-x264-c-api/36405714#36405714>
+
+## GDB
+
+Close tui mode:
+
+- http://stackoverflow.com/questions/8409540/how-to-close-layout-src-windows-in-gdb/30763087#30763087
+- http://stackoverflow.com/a/30763033/895245
+
+Compile:
+
+- http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
+- http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
 
 ## To be answered
 

@@ -19,3 +19,8 @@
 -   https://www.quora.com/How-many-degrees-of-freedom-are-there-in-the-human-body
 
     Humans have 244 degrees of freedom.
+
+-   http://wiki.ros.org/urdf Unified Robot Description Format
+
+    - used in Gazebo
+    - bullet physics plays with it as well https://github.com/bulletphysics/bullet3/tree/2.83/examples/Importers/ImportURDFDemo

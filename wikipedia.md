@@ -35,3 +35,7 @@ For the authors:
 ## Pull requests
 
 https://en.wikipedia.org/wiki/Wikipedia:Pending_changes
+
+## URL shortener
+
+https://www.mediawiki.org/wiki/Requests_for_comment/URL_shortener

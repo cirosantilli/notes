@@ -20,8 +20,13 @@ For programmers:
 - https://www.reddit.com/r/datascience
 - https://www.reddit.com/r/Compilers/
 - https://www.reddit.com/r/artificial/
+    - https://www.reddit.com/r/gameai
 - https://www.reddit.com/r/computervision/
 - https://www.reddit.com/r/machinelearning
+
+Every language has a big sub, but they are mostly Stack Overflow duplication machines:
+
+- https://www.reddit.com/r/C_Programming
 
 For engineers:
 
