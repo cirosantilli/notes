@@ -16,3 +16,11 @@ means 6th gen.
 ## 1B for Dell anti-trust accusation
 
 http://money.cnn.com/blogs/legalpad/2007/02/suit-intel-paid-dell-up-to-1-billion_15.html
+
+## Libraries
+
+<https://en.wikipedia.org/wiki/Math_Kernel_Library>
+
+## Domains
+
+- <http://www.intc.com/>

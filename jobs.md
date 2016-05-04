@@ -206,13 +206,12 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 
 -   https://en.wikipedia.org/wiki/TSMC pure play foundry.
 
--   Imagination technologies. <https://en.wikipedia.org/wiki/Imagination_Technologies> Involved in MIPS.
-
 ### low level
 
 - <https://en.wikipedia.org/wiki/Citrix_Systems> 10k employees <http://www.citrix.com/careers/home.html>
 - <http://www.scality.com/careers/>
-- Altera. Linux kernel contributors.
+- Altera. Linux kernel contributors. Bought by Intel.
+- https://en.wikipedia.org/wiki/ASML_Holding
 
 ## Open source heavy
 
@@ -298,6 +297,8 @@ Famous international Rails dev enterprises:
     -   Broadcom 10k
 
     -   QLogic 1k
+
+    -   Arista 1k
 
 -   distros
 
@@ -427,3 +428,5 @@ No EU jobs: http://www.coverity.com/company/careers/
 - <http://streamcomputing.eu/about-us/jobs/> Physics, GPU, OpenCL.
 
 - <https://www.linkedin.com/in/keith-savage-158b6579> commented on x86 tutorial Disqus <http://www.cirosantilli.com/x86-paging/> Cornell, AMD, VIA (Centaur) 20 years.
+
+Sony research Paris: http://www.csl.sony.fr/language.php

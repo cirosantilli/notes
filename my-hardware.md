@@ -10,6 +10,8 @@
 
 ### W540
 
+I don't have access to this anymore.
+
 Released 2014, given to me 2016 by from Savoir-faire Linux.
 
 Specs: <http://shop.lenovo.com/us/en/laptops/thinkpad/w-series/w540/#tab-tech_specs>
@@ -20,15 +22,33 @@ Camera: `v4l2-ctl --list-formats-ext` says 720p 30 FPS.
 
 Display: 1080p 60FPS 15.6"
 
-Graphics: NVIDIA GK107GLM [Quadro K1100M]
+Graphics: NVIDIA GK107GLM [Quadro K1100M] http://silicongenesis.stanford.edu/complete_listing.html
 
 ### T430
 
 <http://shop.lenovo.com/us/en/laptops/thinkpad/t-series/t430/#tab-tech_specs>
 
+TYPE 2344-CTO PBXGKXD 12/10
+
+- Serial Number: 2344CTO
+- Machine Type: PBXG
+- Machine Type Model: PBXGKXD
+
 Released 2012.
 
 Graphics: NVIDIA NVS 5400M.
+
+### T400
+
+Sometimes it does not turn on.
+
+TYPE 2764-CTO S/N R8-07DF 10/03
+
+<https://support.lenovo.com/us/en/find-product-name> says:
+
+- Serial Number: R807DF
+- Machine Type: 2668
+- Machine Type Model: 2668KHU
 
 ## Sony Xperia
 
@@ -85,3 +105,9 @@ Bought: 2015
 Disable horrible Fn key behaviour: <http://askubuntu.com/questions/170819/how-to-program-logitech-function-keys> 
 
 Some other k models can configure hardware directly: <http://www.logitech.com/en-us/manuals/k380-setup-guide>
+
+## Washing machine
+
+Laden EV1049
+
+The filter is very small: https://www.youtube.com/watch?v=NQquRaHuGLw

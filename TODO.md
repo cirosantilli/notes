@@ -1,15 +1,19 @@
 # TODO
 
--   ranger requests on ranger/rc.conf
--   add android java client example to server answer
--   http://stackoverflow.com/questions/2014033/send-and-receive-a-file-in-socket-programming-in-linux-with-c-c-gcc-g
-    - http://stackoverflow.com/questions/15445207/sending-image-jpeg-through-socket-in-c-linux mark as dupe
-    - http://stackoverflow.com/questions/10686368/file-transfer-using-tcp-on-linux
--   http://stackoverflow.com/questions/1457540/how-to-navigate-in-large-project-in-vim
+-   improve IO bound: networking, GPU
+-   CV. TODO: download texlive full.
+
+
+-   add multiple frequency graph to audio encoding answer
+-   review korean + jiaozi
+-   opencl pixel calculation + fast to screen display. Compare to naive SDL. See also `OpenGL/TODO.md`.
+
+
+
+
 -   http://stackoverflow.com/questions/3413470/what-is-stdmove-and-when-should-it-be-used Minimal example.
 -   http://stackoverflow.com/questions/27604455/is-android-posix-compatible
 -   http://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean
--   banco pergunta
 -   add public key to website
     - also mention `ctags --extra=+f`, which solves the problem completely!
 -   http://stackoverflow.com/questions/3321514/what-are-intent-filters-in-android minimal example

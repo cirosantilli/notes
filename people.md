@@ -86,6 +86,13 @@ Stack overflow:
 - <http://stackoverflow.com/users/48500/bchhun>
 - <http://stackoverflow.com/users/753915/amelie-turgeon>
 
+## Simulation
+
+## Physics simulation
+
+- Erwin Coumans, Bullet creator and maintainer German with very heavy accent, wife is Japanese: <https://youtu.be/YKOji6NLaPo?t=249>
+- http://www.rchoetzlein.com/website/ https://www.linkedin.com/in/rama-hoetzlein-41360b8 physical simulation for intelligence, like me!
+
 ## Outside
 
 ### Users
@@ -133,3 +140,7 @@ Real cool moments: <https://www.youtube.com/watch?v=ER0wkPWykNE>
 -   Mathias Bengtsoon <https://twitter.com/mattias_jcb> Talked with Axilleas from GitLab. GNOME dev.
 -   Stephen J Smoogen <http://www.smoogespace.com/> <https://github.com/smooge> <https://twitter.com/SSmoogen>
 -   Giacomo Vacca <https://www.linkedin.com/in/giacomovacca> <https://twitter.com/giavac> <http://www.rtcsoft.net/>
+
+## Google
+
+- https://en.wikipedia.org/wiki/Behdad_Esfahbod randomly replied to me at https://github.com/rougier/freetype-gl/issues/112#issuecomment-216022190 http://behdad.org/

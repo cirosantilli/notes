@@ -24,4 +24,3 @@ Ergonomic:
 <http://www.daskeyboard.com/blog/what-is-a-mechanical-keyboard/>
 
 <http://www.daskeyboard.com/blog/mechanical-keyboard-guide/>
-

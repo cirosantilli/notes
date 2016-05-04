@@ -1,5 +1,15 @@
 # Recruiters who contacted me
 
+- 2016-04 - Jessica Sberro https://www.linkedin.com/in/jessica-sberro-47174525 for SOAT, services
+- 2016-04 - Lisa Dupre https://www.linkedin.com/in/lisa-dupre-121a66117/en Paris 16eme 50-55k ?
+- 2016-04 - Romain Lapeyre https://www.linkedin.com/in/romainlapeyre gorgias CEO
+- 2016-03 - Julien Onimus https://www.linkedin.com/in/julien-onimus-77a9592 for some fintech
+- 2016-03 - Florian Chauvin probablement pour e-fragrance https://www.linkedin.com/in/jean-larmanjat-0b071ba7/en
+- 2016-03 - Margaux Douchez https://www.linkedin.com/in/margaux-douchez-98a34b105 
+- 2016-03 - Celine COSTET https://www.linkedin.com/in/celinecostet/en from Skillink for SociAddict
+- 2016-03 - Claire de Rochefort https://www.linkedin.com/in/claire-de-rochefort-8aa184100/en from Pixtoox Recruitement for ?
+- 2016-03 - Pauline Queroy <https://www.linkedin.com/in/pauline-queroy-b3530489> for Misys, Java job.
+- 2016-03 - Gwénaëlle DUVAL <https://www.linkedin.com/in/gwenduval> HPC, banks
 - 2016-03 - https://www.linkedin.com/in/victorquintiliani/en for Gandi https://en.wikipedia.org/wiki/Gandi
 - 2016-02 - Karine Francisco https://www.linkedin.com/in/karine-francisco-1b70311b from Astek likely for Amadeus
 - 2016-02 - DELEPLANQUE Simon HEZARD & Associés
@@ -40,6 +50,13 @@
 - 2014 - <https://www.linkedin.com/in/christopherpruijsen>
 - 2014 - <https://www.elliptic.co/>
 
+## LinkedIn adds
+
+No message.
+
+- 2016 <https://www.linkedin.com/in/cypriengrau/en> Cyprien Grau, Decidata, Mexico
+- 2016 <https://www.linkedin.com/in/ramirosen> Rami Rosen, Intel, Linux kernel networking, http://ramirose.wix.com/ramirosen
+
 ## Standard reply
 
 Bonjour XXX. Pour l'instant je suis ouvert aux technologies suivantes: http://www.cirosantilli.com/interests/ CV avec tel: http://www.cirosantilli.com/files/cv.pdf
@@ -57,3 +74,4 @@ Je gagne XXX maintenant. Quel est environ le budget de votre client pour un prof
 Mon CV: http://www.cirosantilli.com/files/cv.pdf et mon homepage: http://www.cirosantilli.com/
 
 Ciro
+

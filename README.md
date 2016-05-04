@@ -10,6 +10,7 @@
         1.  [Snapdragon](snapdragon.md)
         1.  [Exynos](exynos.md)
         1.  [Atom](atom.md)
+    1.  [Fan](fan.md)
 1.  [French law](french-law.md)
     1.  [Travailleur independent](travailleur-independant.md)
 1.  Companies

@@ -3,7 +3,7 @@
 Domains:
 
 - <http://githubengineering.com/>
-- <http://git.io/>: URL shortener for GitHub-only
+- <http://git.io/>: URL shortener for GitHub-only. Also works on `github.io` pages. Note that `X.github.com` redirects to `X.github.io`.
 - <https://githubusercontent.com/>
 - <https://render.githubusercontent.com/>
 
@@ -26,3 +26,20 @@ User metrics:
 - <http://gitmostwanted.com/>
 
 - <https://libraries.io/>
+
+## Usernames
+
+Reserved:
+
+- now impossible
+    - <https://github.com/-> before `-` was forbidden as first or last character
+    - <https://github.com/a--b> before double `--` was forbidden
+- case insensitive
+    - <https://github.com/a>
+    - <https://github.com/A>
+
+## One of our mostly harmless robots seems to think you are not a human.
+
+Checked for too many free usernames, now this message shows everywhere!
+
+https://github.com/i1i
