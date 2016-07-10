@@ -2,8 +2,6 @@
 
 There is no profile page customization: https://www.reddit.com/r/TheoryOfReddit/comments/w17zv/how_the_lack_of_profile_shapes_reddit/
 
-Each reddit has a wiki: https://www.reddit.com/r/dailyprogrammer/wiki/index
-
 - `pay.reddit.com` <https://www.reddit.com/r/OutOfTheLoop/comments/1y9543/ive_seen_httpspayredditcomr_a_few_times_what/>
 
 ## Subreddits
@@ -23,6 +21,14 @@ For programmers:
     - https://www.reddit.com/r/gameai
 - https://www.reddit.com/r/computervision/
 - https://www.reddit.com/r/machinelearning
+
+Security focused:
+
+- https://www.reddit.com/r/netsec largest one, must say how
+- generic
+    - https://www.reddit.com/r/security/
+    - https://www.reddit.com/r/ComputerSecurity/
+    - https://www.reddit.com/r/pwned
 
 Every language has a big sub, but they are mostly Stack Overflow duplication machines:
 
@@ -131,6 +137,8 @@ https://www.reddit.com/comments/tx4mz/comment_karmawhoring_101_guide_to_racking_
 
 - https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.jkwsr7b8g
 
+TODO: how are subreddits taken into account and merged: <https://medium.com/@cirosantilli/how-are-followed-subreddits-taken-into-account-and-merged-into-a-single-custom-front-page-203742770fac#.g0b3xlpkk>
+
 ## Users
 
 ### Who are those?
@@ -140,3 +148,53 @@ Likely ring devs:
 - <https://www.reddit.com/user/valgrid>
 - <https://www.reddit.com/user/BurningCa007>
 - <https://www.reddit.com/user/order_chaos> did mcgill, hockey, Android
+
+## Business model
+
+<https://www.quora.com/What-is-Reddits-business-model-1>
+
+## Moderation system
+
+- sub creator can add other mods
+
+Opens up the following post level actions:
+
+- mark as spam
+- remove
+- lock: remains visible, but no new comments or upvotes are allowed: <https://www.reddit.com/r/modnews/comments/3qguqv/moderators_lock_a_post/>
+
+## hide
+
+Hides a post just for you:
+
+<https://www.reddit.com/r/help/comments/2annru/does_the_hideunhide_function_also_hide_the_topic/>
+
+To unhide there is a list of hidden posts in your preferences: <https://www.reddit.com/comments/fxxd9/how_to_unhide_posts/>
+
+## Public profile information
+
+Not public:
+
+- your list of subs: <https://www.reddit.com/r/help/comments/1cwv82/when_i_subscribe_a_subreddit_can_my_friendsother/>
+
+## Wiki
+
+Each reddit has a wiki: https://www.reddit.com/r/dailyprogrammer/wiki/index Seems to be a single page with an index.
+
+When creating a sub, you can configure wiki: disabled, admin only, anyone.
+
+## Create a subreddit
+
+There are some reputation requirements: <https://www.reddit.com/r/help/comments/2yob6r/creating_a_subreddit/>
+
+TODO: what subjects are accepted? Can you create a Reddit about anything at all that is legal, e.g. yourself?
+
+## Content policy
+
+<https://www.reddit.com/help/contentpolicy>
+
+<https://reddit.zendesk.com/hc/en-us/articles/204536499> definition of spam.
+
+## Internationalization
+
+Subs choose their main language as metadata.

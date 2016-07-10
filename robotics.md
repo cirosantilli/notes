@@ -24,3 +24,5 @@
 
     - used in Gazebo
     - bullet physics plays with it as well https://github.com/bulletphysics/bullet3/tree/2.83/examples/Importers/ImportURDFDemo
+
+-   https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping

@@ -9,6 +9,8 @@
 - http://stackoverflow.com/search?tab=votes&q=user%3a895245%20[android]
 - http://stackoverflow.com/search?tab=votes&q=user%3a895245%20[python]
 - http://stackoverflow.com/search?tab=votes&q=user%3a895245%20[opengl]
+- http://stackoverflow.com/search?tab=votes&q=user%3a895245%20[ffmpeg]
+- http://stackoverflow.com/search?tab=votes&q=user%3a895245%20[imagemagick]
 
 -   Linux kernel
     - http://unix.stackexchange.com/questions/43539/what-do-the-flags-in-proc-cpuinfo-mean/219674#219674
@@ -61,6 +63,7 @@
     - http://stackoverflow.com/questions/3191978/how-to-use-glut-opengl-to-render-to-a-file/14324292#14324292
     - http://stackoverflow.com/questions/2571402/explain-the-usage-of-glortho/36046924#36046924
     - http://stackoverflow.com/questions/8847899/opengl-how-to-draw-text-using-only-opengl-methods/36065835#36065835
+    - http://stackoverflow.com/questions/17789575/what-are-shaders-in-opengl-and-what-do-we-need-them-for/36211337#36211337
 -   Reading source code
     - http://unix.stackexchange.com/questions/19907/what-makes-grep-consider-a-file-to-be-binary/276028#276028
 -   Codec
@@ -69,6 +72,12 @@
     - https://github.com/rougier/freetype-gl/issues/94#issuecomment-215961903
 -   Bullet
     - http://stackoverflow.com/questions/11175694/bullet-physics-simplest-collision-example/36987063#36987063
+-   Networking
+    - http://superuser.com/questions/661188/what-is-in-the-local-address-of-netstat-output/802793#802793
+-   Rails
+    - http://stackoverflow.com/questions/2464966/passing-ruby-variables-to-javascript-function-in-rails-view/24456817#24456817
+-   VHDL
+    - http://electronics.stackexchange.com/questions/132611/whats-the-motivation-in-using-verilog-or-vhdl-over-c/241983#241983
 
 GitHub:
 

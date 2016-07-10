@@ -23,6 +23,7 @@ Attribution:
 - <http://www.helptouser.coml> (Honk Kong)
 - <http://www.neehome.com/>
 - <http://www.scriptscoop.com>
+- <http://www.scriptscoop2.com>
 - <http://www.stackprinter.com/>
 - <http://www.widecodes.com/>
 - <http://zeering.com/>
@@ -47,6 +48,10 @@ No attribution <http://meta.stackexchange.com/questions/200177/a-site-or-scraper
 - <http://www.dahuatu.com/57W6YeLLw4.html> <http://stackoverflow.com/questions/20099235/who-is-the-user-with-the-longest-streak-on-github/27742165#27742165>
 - <http://www.helplib.com>: looks like manual question translations
 - <http://www.programask.com> <http://www.programask.com/question_41117496_gas-altmacro-macro-with-a-percent-sign-in-a-default-parameter/#>
+- http://www.mzan.com/article/37115551-get-real-id-in-model-with-freindly-id.shtml TODO find SO version of posts
+- <http://www.ceus-now.com/tmux-how-to-open-file-under-cursor/> <http://stackoverflow.com/questions/35404267/tmux-how-to-open-file-under-cursor>
+- <http://earthwithsun.com/questions/603051/grub-mkrescue-not-producing-bootable-image> <http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image> same question ID however.
+- <http://www.stars-blog.com/is-there-a-way-to-use-gcc-as-a-library/> <http://programmers.stackexchange.com/questions/189949/is-there-a-way-to-use-gcc-as-a-library/323821#323821>
 
 Bad attribution:
 

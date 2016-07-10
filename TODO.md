@@ -1,16 +1,18 @@
 # TODO
 
+- index filter out my article downvotes, maybe find a way to include them
+
+- http://stackoverflow.com/questions/5906993/what-is-a-normal-in-opengl/36087311#36087311 draw normal diagram with angle, say that glortho is deprecated and point people to shaders
+
+- https://www.experts-exchange.com/ better understand them
+
+---
+
 -   improve IO bound: networking, GPU
 -   CV. TODO: download texlive full.
-
-
 -   add multiple frequency graph to audio encoding answer
 -   review korean + jiaozi
 -   opencl pixel calculation + fast to screen display. Compare to naive SDL. See also `OpenGL/TODO.md`.
-
-
-
-
 -   http://stackoverflow.com/questions/3413470/what-is-stdmove-and-when-should-it-be-used Minimal example.
 -   http://stackoverflow.com/questions/27604455/is-android-posix-compatible
 -   http://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean

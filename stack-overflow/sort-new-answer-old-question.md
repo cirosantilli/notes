@@ -1,13 +1,12 @@
 # Sort new answer old question
 
-http://meta.stackexchange.com/questions/263573/create-a-new-answer-order-that-considers-vote-count-how-old-it-is-and-answer-c
-
 Deleted after I've found:
 
+- http://meta.stackexchange.com/questions/263573/create-a-new-answer-order-that-considers-vote-count-how-old-it-is-and-answer-c
 - http://meta.stackexchange.com/questions/125455/sorting-new-answers-to-old-questions?rq=1
 - http://meta.stackexchange.com/questions/6662/how-to-give-some-boost-to-some-really-good-answers-that-arrive-late?rq=1
-
-This proposal tries to solve http://meta.stackexchange.com/questions/15805/how-can-we-make-good-answers-to-old-questions-float-to-the-top
+- http://meta.stackexchange.com/questions/15805/how-can-we-make-good-answers-to-old-questions-float-to-the-top
+- http://meta.stackoverflow.com/questions/267018/promoting-new-answers-to-old-questions
 
 If a new answer to an old question with lots of answers gets a few upvotes, it is a strong indicator that the answer is good:
 

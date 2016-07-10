@@ -43,3 +43,7 @@ Reserved:
 Checked for too many free usernames, now this message shows everywhere!
 
 https://github.com/i1i
+
+## API
+
+<http://stackoverflow.com/questions/22932422/get-github-avatar-from-email-or-name>
