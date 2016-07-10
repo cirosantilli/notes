@@ -14,14 +14,6 @@ sudo ulimit operation not permitted:
 - http://unix.stackexchange.com/questions/31679/ulimit-pickle-operation-not-permitted-and-command-not-found/238413#238413
 - http://superuser.com/questions/79717/bash-ulimit-core-file-size-cannot-modify-limit-operation-not-permitted/991355#991355
 
-HTML boolean attributes:
-
-- http://stackoverflow.com/questions/16109358/readonly-attribute-syntax-for-input-text/24588427#24588427
-- http://stackoverflow.com/questions/6961526/correct-value-for-disabled-attribute/24579932#24579932
-- http://stackoverflow.com/questions/7851868/whats-the-proper-value-for-a-checked-attribute-of-an-html-checkbox/24588369#24588369
-- http://stackoverflow.com/questions/6172911/what-is-the-difference-between-readonly-true-readonly-readonly/24588439#24588439
-- http://stackoverflow.com/questions/1033944/what-values-can-appear-in-the-selected-attribute-of-the-option-tag/24588336#24588336
-
 enctype multipart form data:
 
 - http://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean/28380690#28380690
@@ -126,7 +118,7 @@ Set:
 
 ## bash
 
-echo neline:
+echo newline:
 
 - http://stackoverflow.com/questions/8467424/echo-new-line-in-bash-prints-literal-n/34947759#34947759
 - http://superuser.com/questions/443994/how-to-print-new-line-character-with-echo/1030499#1030499
@@ -140,6 +132,11 @@ loop over integer range:
 
 - <http://stackoverflow.com/questions/13542832/bash-if-difference-between-square-brackets-and-double-square-brackets/31366734#31366734>
 - <http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash/705144#705144>
+
+Lines in one file by not in another:
+
+- <http://stackoverflow.com/questions/4366533/remove-lines-from-file-which-appear-in-another-file>
+- <http://unix.stackexchange.com/questions/87578/looking-for-lines-which-is-in-one-file-but-not-in-other-using-unix-and-awk/287393#287393>
 
 ### NVIDIA
 
@@ -165,6 +162,11 @@ What is `int`:
 - http://stackoverflow.com/questions/1817577/what-does-int-0x80-mean-in-assembly-code/31836988#31836988
 - http://stackoverflow.com/questions/3392831/what-happens-in-an-interrupt-service-routine/33445235#33445235
 
+Hyper-threading:
+
+- <http://superuser.com/questions/133082/hyper-threading-and-dual-core-whats-the-difference?rq=1>
+- <http://superuser.com/questions/122536/what-is-hyper-threading-and-how-does-it-work?lq=1> TODO answer
+
 ### Git
 
 receive.denyCurrentBranch updateInstead:
@@ -187,7 +189,19 @@ Git diff `@@` part:
 - <http://stackoverflow.com/questions/6508651/git-diff-header-number-meanings> TODO answer this one
 - <http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git/31615438#31615438>
 
+sha calculation:
+
+- <http://stackoverflow.com/questions/7225313/how-does-git-compute-file-hashes/37264486#37264486>
+- <http://stackoverflow.com/questions/552659/assigning-git-sha1s-without-git> TODO answer with blob, tree, commit and tag from `sha1sum`
+- <http://stackoverflow.com/questions/5290444/why-does-git-hash-object-return-a-different-hash-than-openssl-sha1> TODO answer
+- <http://stackoverflow.com/questions/8873169/is-sha-1-calculated-based-on-content> 
+
 ### C
+
+Compiler deterministic output:
+
+- <http://superuser.com/questions/639351/does-recompiling-a-program-produce-a-bit-for-bit-identical-binary/1092566#1092566>
+- <http://stackoverflow.com/questions/14653874/deterministic-binary-output-with-g/31019307#31019307>
 
 static:
 
@@ -244,6 +258,19 @@ static enum, struct, class:
 - <http://stackoverflow.com/questions/416345/is-fvoid-deprecated-in-modern-c-and-c/36835586#36835586>
 - <http://programmers.stackexchange.com/questions/286490/what-is-the-difference-between-function-and-functionvoid> (already answered)
 
+C print / get time:
+
+- <http://stackoverflow.com/questions/1442116/how-to-get-date-and-time-value-in-c-program/30759067#30759067> non answer, but Googles well. OP asked how to get values, I answered formatting
+- <http://stackoverflow.com/questions/3673226/how-to-print-time-in-format-2009-08-10-181754-811> actual formatting
+
+`sizeof` integer types:
+
+- http://stackoverflow.com/questions/11438794/is-the-size-of-c-int-2-bytes-or-4-bytes/37124176#37124176
+- http://stackoverflow.com/questions/12279060/difference-between-short-int-and-int-in-c/37124246#37124246
+- http://stackoverflow.com/questions/7279504/why-do-c-compilers-specify-long-to-be-32-bit-and-long-long-to-be-64-bit/37124098#37124098
+- http://stackoverflow.com/questions/1738568/any-guaranteed-minimum-sizes-for-types-in-c/37130668#37130668
+- http://stackoverflow.com/questions/18901080/why-is-the-sizeofint-sizeoflong already answered http://stackoverflow.com/a/18901178/895245
+
 ### builtin_expect
 
 - <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
@@ -284,8 +311,17 @@ BST vs Binary Heap:
 
 CSRF and SOP:
 
-- http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed
-- http://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important
+- <http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token/26895980#26895980>
+- <http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed/26819187#26819187>
+- <http://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important/72569#72569>
+
+## POSIX
+
+PTY
+
+- <http://stackoverflow.com/questions/8374000/how-to-use-pseudo-terminals-in-linux-with-c>
+- <http://unix.stackexchange.com/questions/21147/what-are-pseudo-terminals-pty-tty>
+- <http://stackoverflow.com/questions/4426280/what-do-pty-and-tty-mean>
 
 ## Linux kernel
 
@@ -297,6 +333,7 @@ Minimal Linux distro:
 -   Unanswered:
     - http://stackoverflow.com/questions/18441102/unable-to-run-linux-kernel-image-on-qemu
     - http://unix.stackexchange.com/questions/47619/load-linux-bzimage-in-qemu
+    - <http://unix.stackexchange.com/questions/136278/what-are-the-minimum-root-filesystem-applications-that-are-required-to-fully-boo>
 
 Linux that runs a single program only:
 
@@ -353,6 +390,47 @@ Compile:
 
 - http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
 - http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
+
+## HTML
+
+Boolean attributes:
+
+- http://stackoverflow.com/questions/16109358/readonly-attribute-syntax-for-input-text/24588427#24588427
+- http://stackoverflow.com/questions/6961526/correct-value-for-disabled-attribute/24579932#24579932
+- http://stackoverflow.com/questions/7851868/whats-the-proper-value-for-a-checked-attribute-of-an-html-checkbox/24588369#24588369
+- http://stackoverflow.com/questions/6172911/what-is-the-difference-between-readonly-true-readonly-readonly/24588439#24588439
+- http://stackoverflow.com/questions/1033944/what-values-can-appear-in-the-selected-attribute-of-the-option-tag/24588336#24588336
+- http://stackoverflow.com/questions/10881448/html-multi-select-option-how-to-mark-selected-options/37532516#37532516
+- http://stackoverflow.com/questions/2874949/what-is-the-syntax-for-boolean-attributes-e-g-a-checked-checkbox-in-html/37540858#37540858
+- http://stackoverflow.com/questions/3004703/required-attribute-html5 not sure, the question is too unclear
+
+PUT, PATCH and DELETE on forms:
+
+- http://stackoverflow.com/questions/165779/are-the-put-delete-head-etc-methods-available-in-most-web-browsers/26897298#26897298
+- http://stackoverflow.com/questions/8054165/using-put-method-in-html-form/37125568#37125568
+
+Repeated `input name`:
+
+- http://stackoverflow.com/questions/452066/html-form-with-multiple-hidden-control-elements-of-the-same-name/37579281#37579281
+- http://webmasters.stackexchange.com/questions/9775/is-it-valid-to-have-multiple-form-input-elements-with-the-same-name/93882#93882
+- http://stackoverflow.com/questions/2906793/is-it-valid-to-have-two-input-elements-with-the-same-name marked as duplicate, not answered
+
+## Ubuntu
+
+- http://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
+- http://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network TODO answer if not marked as duplicate
+
+## VHDL
+
+- <http://electronics.stackexchange.com/questions/51848/when-to-use-std-logic-over-bit-in-vhdl/241653#241653>
+- <http://stackoverflow.com/questions/12504884/what-is-the-purpose-of-the-std-logic-enumerated-type-in-vhdl/37899976#37899976>
+
+## Android
+
+Minimum memory requirements:
+
+- <http://android.stackexchange.com/questions/34958/what-are-the-minimum-hardware-specifications-for-android/149226#149226>
+- <https://www.quora.com/What-is-the-minimum-RAM-size-needed-to-run-Android-5-1-or-6/answer/Ciro-Santilli>
 
 ## To be answered
 

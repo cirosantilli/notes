@@ -11,7 +11,7 @@ My job status is written at:
 
 - <http://www.cirosantilli.com/>
 - <https://www.linkedin.com/>
-- <http://stackoverflow.com/users/895245/>
 <!--
+- <http://stackoverflow.com/users/895245/>
 - <https://github.com/cirosantilli>
 -->

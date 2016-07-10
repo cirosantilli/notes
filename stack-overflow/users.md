@@ -31,7 +31,7 @@ Unknown true identity:
 - <http://stackoverflow.com/users/547981/jester>: low level assembly, boot sectors
 - <http://stackoverflow.com/users/196561/osgx>: C, C++
 - <http://stackoverflow.com/users/50617/employed-russian>: Binutils, ELF, GDB
-- <http://unix.stackexchange.com/users/885/gilles>
+- <http://unix.stackexchange.com/users/885/gilles>. 300k on SU, but 20k+ on MANY other websites! Insane!
 - `linux-kernel` bronze badge: <http://stackoverflow.com/help/badges/3775/kernel>. Only 3 as of 2015.
 - <http://stackoverflow.com/users/44729/genpfault> OpenGL. Some game dev. <https://github.com/genpfault> <https://www.reddit.com/user/genpfault> Large comment karma.
 - <http://stackoverflow.com/users/3723423/christophe>
@@ -86,6 +86,10 @@ Discovered:
 - <http://stackoverflow.com/users/1988713/tim-murray> RenderScript. Ex NVIDIA. <https://www.linkedin.com/in/tim-murray-7aa93728>
 - <http://stackoverflow.com/users/1305501/nosid> Java, C++
 - <http://stackoverflow.com/users/87234/gmannickg> C++ <https://twitter.com/gmannickg> <https://www.linkedin.com/in/nicholasbgorski>
+- <http://stackoverflow.com/users/2167655/aaronman> C++
+- <http://stackoverflow.com/users/4490873/mosha-pasumansky> BigQuery, ex Microsoft where he created MDX... has wiki page: <https://en.wikipedia.org/wiki/Mosha_Pasumansky>
+- <http://stackoverflow.com/users/1375400/jeremy-condit> BigQuery
+- <http://stackoverflow.com/users/272031/eduardo> BigQuery, analytics, Brazilian: <https://www.linkedin.com/in/eduardocereto>
 
 Ex:
 
@@ -93,6 +97,7 @@ Ex:
 - <http://stackoverflow.com/users/14637/thomas> C++, Python, now makes games...
 - <https://www.linkedin.com/in/andymcfadden> Android video / graphics mega master
 - <http://stackoverflow.com/users/90848/laurence-gonsalves> <https://www.linkedin.com/in/laurencegonsalves> <http://www.xenomachina.com/> 9 years there, Java, AdSense.
+- <http://stackoverflow.com/users/105570/dan-tao>
 
 ### NVIDIA
 
@@ -105,7 +110,7 @@ Ex:
 
 ### Apple
 
-- http://stackoverflow.com/users/116908/carl-norum lots of low level C / C++, Appler
+- http://stackoverflow.com/users/116908/carl-norum lots of low level C / C++, Appler GitHub commit email: carl@norum.ca
 - http://stackoverflow.com/users/298225/eric-postpischil
 
 Ex:
@@ -116,6 +121,7 @@ Ex:
 
 - <http://stackoverflow.com/users/135360/pierre-antoine-lafayette> Android, VR
 - <http://stackoverflow.com/users/4421/pixelbeat> coreutils maintainer, ex RedHat.
+- <http://stackoverflow.com/users/506367/marek-sapota>
 
 ### Yahoo
 
@@ -129,6 +135,8 @@ Ex:
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism
 - http://stackoverflow.com/users/1120273/dietmar-k%C3%BChl Bloomberg, C++ hardcore
+- http://stackoverflow.com/users/165520/prasoon-saurav Arista
+- http://stackoverflow.com/users/787480/sneftel Havoc
 
 ## Met personally
 

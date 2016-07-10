@@ -75,9 +75,9 @@ Battery removal is non trivial if you have no experience: <https://www.youtube.c
 
 Service menu review: <https://www.youtube.com/watch?v=msHrHeLX1Ok>
 
-Chipset: Qualcomm MSM8974AC Snapdragon 801, Quad-core 2.5GHz, 64-bit.
+SoC: Qualcomm MSM8974AC Snapdragon 801, Quad-core 2.5GHz, 64-bit.
 
-CPU: Krait 400 https://en.wikipedia.org/wiki/Krait_%28CPU%29
+CPU: Krait 400 <https://en.wikipedia.org/wiki/Krait_%28CPU%29> ARMv7-A architecture custom core (architecture license).
 
 GPU: Adreno 330
 

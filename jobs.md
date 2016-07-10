@@ -19,6 +19,7 @@ When you find a company that interested you, even if you don't get hired look ar
 - http://www.profilcall.com
 - http://www.crunchboard.com/jobs/
 - http://careers.stackoverflow.com/
+    - http://stackoverflow.com/jobs?tags=c
 - https://jobs.github.com/positions
 - https://www.wfh.io/
 - https://remote.co/
@@ -30,6 +31,10 @@ IT:
 - https://breaz.io/
 - http://www.compilerjobs.com/db/jobs_list.php
 - https://www.hipeac.net/jobs/
+
+US:
+
+- http://www.upscored.com
 
 France:
 
@@ -221,7 +226,8 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 - Canonical: <http://www.canonical.com/careers/all-technical-and-engineering-vacancies>. Has remote.
 - <http://wso2.com/>
 - <http://www.fsf.org/resources/jobs/>
-- <https://www.linaro.org/careers/>
+- <https://www.linaro.org/careers/>, consortium of large guys like ARM and friends, Cambridge, for stars only
+- <https://en.wikipedia.org/wiki/Collabora>
 
 ### Open source hardware
 
@@ -314,38 +320,6 @@ Low level
 
 - https://www.codeplay.com/company/jobs
 
-## Embecosm
-
-Compilers GCC, LLVM, GDB
-
-http://www.embecosm.com/about/careers/
-
-## Kalray
-
-<https://en.wikipedia.org/wiki/Network_on_a_chip>
-
-<http://www.kalrayinc.com/>
-
-They use Mentor Graphics Tools: https://www.mentor.com/products/fv/news/mentor-kalray-28nm-soc
-
-General info: <http://www.eetimes.com/document.asp?doc_id=1262484>
-
-<https://www.crunchbase.com/organization/kalray#/entity>
-
-50 minute presentation with Linux info <https://www.youtube.com/watch?v=STWpu4KcqwE>
-
-<https://www.linkedin.com/pub/benoit-dupont-de-dinechin/0/861/323>
-
-CEO fro Polytechnique: <https://www.linkedin.com/in/ericbaissus> name.lastname polytechnique edu Contacted, waiting for reply.
-
-## Silicon tailor
-
-low-level
-
-compilers
-
-https://hired.co.uk/companies/silicon-tailor
-
 ## Trust in soft
 
 open source, security
@@ -394,6 +368,8 @@ ANSI C compiler test suite: <http://www.solidsands.nl/supertest-general>
 
 In particular https://www.linkedin.com/company/qualcomm-innovation-center-inc (QuIC).
 
+<https://en.wikipedia.org/wiki/CSR_(company)> Cambridge UK acquisition, 2.5 bi, 2,108, renamed to "Qualcomm Technologies International, Ltd".
+
 ## Undo software
 
 3 coders, 2014.
@@ -430,3 +406,79 @@ No EU jobs: http://www.coverity.com/company/careers/
 - <https://www.linkedin.com/in/keith-savage-158b6579> commented on x86 tutorial Disqus <http://www.cirosantilli.com/x86-paging/> Cornell, AMD, VIA (Centaur) 20 years.
 
 Sony research Paris: http://www.csl.sony.fr/language.php
+
+## Embedded
+
+### Embecosm
+
+Compilers GCC, LLVM, GDB
+
+http://www.embecosm.com/about/careers/
+
+### Kalray
+
+<https://en.wikipedia.org/wiki/Network_on_a_chip>
+
+<http://www.kalrayinc.com/>
+
+They use Mentor Graphics Tools: https://www.mentor.com/products/fv/news/mentor-kalray-28nm-soc
+
+General info: <http://www.eetimes.com/document.asp?doc_id=1262484>
+
+<https://www.crunchbase.com/organization/kalray#/entity>
+
+50 minute presentation with Linux info <https://www.youtube.com/watch?v=STWpu4KcqwE>
+
+<https://www.linkedin.com/pub/benoit-dupont-de-dinechin/0/861/323>
+
+CEO fro Polytechnique: <https://www.linkedin.com/in/ericbaissus> name.lastname polytechnique edu Contacted, waiting for reply.
+
+### Silicon tailor
+
+https://hired.co.uk/companies/silicon-tailor
+
+low-level
+
+compilers
+
+### Adeneo
+
+### AdetelGroup
+
+Embedded, France, Germany, US, 70 people:
+
+<http://www.adeneo-embedded.com/About-Us/Careers>
+
+Bought by d’AdetelGroup, 650 engineers.
+
+<https://twitter.com/adetelgroup>
+
+### Rambus
+
+<https://www.rambus.com/>
+
+RDDR4 memory, security stuff,
+
+425 people, Sunnyvale
+
+### Leaflabs
+
+<http://leaflabs.com/>
+
+MIT.
+
+- Ara: Google composable cell phone.
+- Maple: lowly arm board
+- Neuroscience stuff
+
+## Defense
+
+<https://en.wikipedia.org/wiki/Leonardo-Finmeccanica>
+
+## NXP
+
+<https://en.wikipedia.org/wiki/NXP_Semiconductors>
+
+45k people, Netherlands, Phillips bough VLSI and spun this off in 1999.
+
+VLSI is another Fairchild spinoff. Lol.

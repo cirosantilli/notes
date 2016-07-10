@@ -144,3 +144,11 @@ Real cool moments: <https://www.youtube.com/watch?v=ER0wkPWykNE>
 ## Google
 
 - https://en.wikipedia.org/wiki/Behdad_Esfahbod randomly replied to me at https://github.com/rougier/freetype-gl/issues/112#issuecomment-216022190 http://behdad.org/
+
+## GitLab
+
+- <https://github.com/holman> jumped ship to GitLab? Profile says advising GitLab.
+
+    https://news.ycombinator.com/item?id=11756674
+
+    https://www.reddit.com/r/programming/duplicates/4krpom/zach_holman_joins_gitlab_as_advisor/

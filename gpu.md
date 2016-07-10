@@ -85,4 +85,23 @@ Top consoles use it instead of NVIDIA, it seems that they license IP:
 
 Presentation video: <https://www.youtube.com/watch?v=Y0oBFeFUG4w>
 
-## Conferences
+## Mobile
+
+Major IP implementations:
+
+- ARM Mali
+- Imagination PowerVR
+- Vivante
+- Qualcomm Adreno
+- Broadcom VideoCore
+- NVIDIA ULP
+
+2013 market share: <http://jonpeddie.com/press-releases/details/qualcomm-single-largest-proprietary-gpu-supplier-imagination-technologies-t/>
+
+- http://www.cnx-software.com/2013/01/19/gpus-comparison-arm-mali-vs-vivante-gcxxx-vs-powervr-sgx-vs-nvidia-geforce-ulp/
+
+## Unified memory architecture
+
+<https://devblogs.nvidia.com/parallelforall/unified-memory-in-cuda-6/>
+
+GPU and CPU share RAM.
