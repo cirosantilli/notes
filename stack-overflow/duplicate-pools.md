@@ -102,6 +102,16 @@ What does the linker do:
 - http://stackoverflow.com/questions/3322911/what-do-linkers-do/33690144#33690144
 - http://stackoverflow.com/questions/12122446/how-does-c-linking-work-in-practice/30507725#30507725
 
+One instruction movfuscator:
+
+- http://stackoverflow.com/questions/3711443/minimal-instruction-set-to-solve-any-problem-with-a-computer-program/38523869#38523869
+- http://programmers.stackexchange.com/questions/230538/what-is-the-absolute-minimum-set-of-instructions-required-to-build-a-turing-comp/325501#325501
+
+SD card locked:
+
+- http://askubuntu.com/questions/213889/microsd-card-is-set-to-read-only-state-how-can-i-write-data-on-it/814585#814585
+- http://raspberrypi.stackexchange.com/questions/8225/trying-to-image-sd-card-not-working-read-only-file-system/8226#8226
+
 ## JavaScript
 
 Firefox Prettify JavaScript source
@@ -137,6 +147,11 @@ Lines in one file by not in another:
 
 - <http://stackoverflow.com/questions/4366533/remove-lines-from-file-which-appear-in-another-file>
 - <http://unix.stackexchange.com/questions/87578/looking-for-lines-which-is-in-one-file-but-not-in-other-using-unix-and-awk/287393#287393>
+
+cp transfer speed:
+
+- <http://askubuntu.com/questions/17275/progress-and-speed-with-cp>
+- <http://unix.stackexchange.com/questions/65077/is-it-possible-to-see-cp-speed-and-percent-copied/309923#309923>
 
 ### NVIDIA
 

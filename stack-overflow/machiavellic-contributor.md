@@ -48,3 +48,7 @@
 -   newb without 15 rep asks question.
 
     If you answer, find all his questions and upvote them, so that he can upvote your answer.
+
+-   link to questions you've answered on comments at the top of the page.
+
+    Only link to other questions at the bottom of your answer.

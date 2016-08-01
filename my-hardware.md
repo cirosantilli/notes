@@ -111,3 +111,15 @@ Some other k models can configure hardware directly: <http://www.logitech.com/en
 Laden EV1049
 
 The filter is very small: https://www.youtube.com/watch?v=NQquRaHuGLw
+
+## Orange Pi PC
+
+Board LED does not turn on (turned on on first plug, Ethernet always turns on):
+
+- <http://www.orangepi.org/orangepibbsen/forum.php?mod=viewthread&tid=470>
+- <https://www.youtube.com/watch?v=ZtUn-dnJFdU> says only one specific supply worked..
+- <https://www.reddit.com/r/raspberry_pi/comments/3jamn1/any_orange_pi_owners_here_help_with_power_imput/> Comment <https://www.reddit.com/r/raspberry_pi/comments/3jamn1/any_orange_pi_owners_here_help_with_power_imput/cy79a7w> says it only worked with the official supply...
+
+Now just HDMI does not work. Possibly a monitor vs television problem:
+
+- <http://www.orangepi.org/orangepibbsen/forum.php?mod=viewthread&tid=475>

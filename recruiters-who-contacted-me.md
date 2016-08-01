@@ -1,5 +1,6 @@
 # Recruiters who contacted me
 
+- 2016-09 - <https://www.linkedin.com/in/marianne-damstra-9917a31> <http://www.solidsands.nl/>
 - 2016-06 - Alain Fitaluci, MOA consultant
 - 2016-06 - <https://www.linkedin.com/in/joão-vitor-gonçalves-266b7969> for <http://www.tfgco.com/#who-we-are>
 - 2016-05 - Maddoju, Hymavathi - AWS Sydney system dev 4 years experience
