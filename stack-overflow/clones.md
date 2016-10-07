@@ -9,6 +9,7 @@
 Attribution:
 
 - <http://ambracode.com/index/show/2249917>
+- <http://blog.naver.com/PostView.nhn?blogId=gh2501&logNo=220765895863&categoryNo=39&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView>
 - <http://firstbestanswer.com/>
 - <http://gadgetsytecnologia.com>
 - <http://goobbe.com/>
@@ -19,19 +20,19 @@ Attribution:
 - <http://programming.nullanswer.com/>
 - <http://solvedstack.com>
 - <http://www.chengxuyuans.com/qa/>
+- <http://www.civilnet.cn/talk/topicno/78827>
 - <http://www.cybertechquestions.com/>
 - <http://www.helptouser.coml> (Honk Kong)
+- <http://www.it1me.com/>
 - <http://www.neehome.com/>
 - <http://www.scriptscoop.com>
 - <http://www.scriptscoop2.com>
 - <http://www.stackprinter.com/>
 - <http://www.widecodes.com/>
 - <http://zeering.com/>
-- <http://www.civilnet.cn/talk/topicno/78827>
 
 Chinese translations:
 
-- <http://stackoverflow.duapp.com/>
 - <http://www.28im.com/>
 - <http://www.99answer.top/answers/62551647.html>
 - <http://www.codeqa.cn/>
@@ -65,3 +66,4 @@ Cloned design:
 - <http://stackoverflow.topusers.net/>
 - <http://www.stackover.in/>
 - <http://stackoverflow.25lm.com/q/2822005>
+- <http://stackoverflow.duapp.com/>

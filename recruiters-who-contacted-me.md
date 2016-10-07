@@ -1,6 +1,13 @@
 # Recruiters who contacted me
 
 - 2016-09 - <https://www.linkedin.com/in/marianne-damstra-9917a31> <http://www.solidsands.nl/>
+- 2016-09 - <https://www.linkedin.com/in/simon-deleplanque-79741384> generic tech
+- 2016-09 - Christelle REGIS https://fr.linkedin.com/in/christelle-regis-55040bb for Teksys
+- 2016-09 - Christophe Delaplace - XaaS - Generic.
+- 2016-09 - Florent MULLER - Urban Linker - General contact.
+- 2016-08 - Riya Kapoor for some web design consultancy
+- 2016-08 - Melissa Fisher https://www.xing.com/profile/Melissa_Fisher3 ? for https://en.wikipedia.org/wiki/Hola_(VPN) - 
+- 2016-07 - Freddie de Metz - Amazon and some startups.
 - 2016-06 - Alain Fitaluci, MOA consultant
 - 2016-06 - <https://www.linkedin.com/in/joão-vitor-gonçalves-266b7969> for <http://www.tfgco.com/#who-we-are>
 - 2016-05 - Maddoju, Hymavathi - AWS Sydney system dev 4 years experience
@@ -81,4 +88,3 @@ Je gagne XXX maintenant. Quel est environ le budget de votre client pour un prof
 Mon CV: http://www.cirosantilli.com/files/cv.pdf et mon homepage: http://www.cirosantilli.com/
 
 Ciro
-

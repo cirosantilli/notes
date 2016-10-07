@@ -482,3 +482,7 @@ MIT.
 45k people, Netherlands, Phillips bough VLSI and spun this off in 1999.
 
 VLSI is another Fairchild spinoff. Lol.
+
+## GPU
+
+- <https://web.archive.org/save/http://stackoverflow.com/jobs/125263/graphics-modeling-engineer-apple>

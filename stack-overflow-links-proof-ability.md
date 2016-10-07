@@ -78,6 +78,9 @@
     - http://stackoverflow.com/questions/2464966/passing-ruby-variables-to-javascript-function-in-rails-view/24456817#24456817
 -   VHDL
     - http://electronics.stackexchange.com/questions/132611/whats-the-motivation-in-using-verilog-or-vhdl-over-c/241983#241983
+-   Buildroot
+    - http://unix.stackexchange.com/questions/70931/install-x11-on-my-own-linux-system/306116#306116
+    - http://unix.stackexchange.com/questions/17779/how-can-i-build-a-custom-distribution-for-running-a-simple-web-browser/306192#306192
 
 GitHub:
 

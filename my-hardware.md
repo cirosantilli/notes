@@ -114,6 +114,8 @@ The filter is very small: https://www.youtube.com/watch?v=NQquRaHuGLw
 
 ## Orange Pi PC
 
+<http://www.orangepi.org/orangepipc/>
+
 Board LED does not turn on (turned on on first plug, Ethernet always turns on):
 
 - <http://www.orangepi.org/orangepibbsen/forum.php?mod=viewthread&tid=470>
@@ -123,3 +125,11 @@ Board LED does not turn on (turned on on first plug, Ethernet always turns on):
 Now just HDMI does not work. Possibly a monitor vs television problem:
 
 - <http://www.orangepi.org/orangepibbsen/forum.php?mod=viewthread&tid=475>
+
+## TTL to USB
+
+- https://web.archive.org/web/20160903121838/http://www.ebay.co.uk/itm/CP2102-Micro-USB-to-UART-TTL-Serial-Adapter-3-3V-5V-6Pin-for-ESP8266-Arduino-Pi-/181919478543 idVendor=10c4  idProduct=ea60
+
+## Raspberry Pi 2
+
+<https://www.raspberrypi.org/products/raspberry-pi-2-model-b/>
