@@ -4,6 +4,7 @@ I'm currently attacking Chinese censors with my username / profile picture at:
 
 - <http://stackoverflow.com/users/895245>
 - <https://github.com/cirosantilli> with image and other meta data
+    - <https://hackaday.io/cirosantilli>
 - <https://launchpad.net/~cirosantilli>
 - <https://www.quora.com/profile/Ciro-Santilli> username was forbidden, using Bio instead
 

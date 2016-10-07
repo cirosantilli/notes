@@ -65,6 +65,7 @@ Mount image with multiple partitions:
 - http://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
 - http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
 - http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
+- http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
 
 GRUB mkrescue config:
 
@@ -343,8 +344,9 @@ PTY
 Minimal Linux distro:
 
 -   <http://superuser.com/questions/307087/linux-distro-with-just-busybox-and-bash>
--   <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone>
+-   <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone> minimal, buildroot
 -   <http://unix.stackexchange.com/questions/2692/what-is-the-smallest-possible-linux-implementation>
+-   <http://stackoverflow.com/questions/24583614/want-to-build-bare-linux-system-that-has-only-a-kernel-and-one-binary/30056182#30056182> minimal
 -   Unanswered:
     - http://stackoverflow.com/questions/18441102/unable-to-run-linux-kernel-image-on-qemu
     - http://unix.stackexchange.com/questions/47619/load-linux-bzimage-in-qemu
@@ -354,6 +356,7 @@ Linux that runs a single program only:
 
 - <http://superuser.com/questions/320529/single-application-linux/991733#991733>
 - <http://unix.stackexchange.com/questions/122717/custom-linux-distro-that-runs-just-one-program-nothing-else/238579#238579>
+- <http://unix.stackexchange.com/questions/136278/what-are-the-minimum-root-filesystem-applications-that-are-required-to-fully-boo/305406#305406>
 
 dev/fb0 format:
 
@@ -363,6 +366,16 @@ Get external IP:
 
 - http://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-bash/250794#250794
 - http://askubuntu.com/questions/95910/command-for-determining-my-public-ip/712144#712144
+
+SSHD QEMU Buildroot:
+
+- <http://stackoverflow.com/questions/27145967/cannot-ssh-scp-to-qemu-based-powerpc-vm/39301480#39301480>
+- <http://unix.stackexchange.com/questions/124681/ssh-from-host-to-guest-using-qemu/307557#307557>
+
+Merge config fragments:
+
+- <http://unix.stackexchange.com/questions/19905/non-interactive-configuration-of-linux-kernel/309264#309264>
+- <http://stackoverflow.com/questions/7505164/how-do-you-non-interactively-turn-on-features-in-a-linux-kernel-config-file/39440863#39440863>
 
 ## OpenGL
 
@@ -386,6 +399,12 @@ Text:
 
 - <http://stackoverflow.com/questions/8847899/opengl-how-to-draw-text-using-only-opengl-methods/36065835#36065835>
 - <http://stackoverflow.com/questions/2071621/how-to-do-opengl-live-text-rendering-for-a-gui/36965041#36965041>
+
+GLES Ubuntu:
+
+- <http://stackoverflow.com/questions/3809236/how-to-develop-opengl-es-gles-2-0-applications-on-linux/39356268#39356268>
+- <http://stackoverflow.com/questions/12045488/any-gles-examples-in-c-on-x86-linux/39356199#39356199>
+- <http://askubuntu.com/questions/244133/how-do-i-get-egl-and-opengles-libraries-for-ubuntu-running-on-virtualbox/821812#821812>
 
 ## FFmpeg
 
@@ -446,6 +465,24 @@ Minimum memory requirements:
 
 - <http://android.stackexchange.com/questions/34958/what-are-the-minimum-hardware-specifications-for-android/149226#149226>
 - <https://www.quora.com/What-is-the-minimum-RAM-size-needed-to-run-Android-5-1-or-6/answer/Ciro-Santilli>
+
+## Raspberry pi
+
+SSH direct Ethernet cable:
+
+- https://raspberrypi.stackexchange.com/questions/38/prepare-for-ssh-without-a-screen/54394#54394
+- https://raspberrypi.stackexchange.com/questions/3867/ssh-to-rpi-without-a-network-connection/53823#53823
+- http://stackoverflow.com/questions/16040128/hook-up-raspberry-pi-via-ethernet-to-laptop-without-router/39086537#39086537
+
+Buildroot SSH:
+
+- http://unix.stackexchange.com/questions/205271/sshd-not-starting-after-boot-on-embedded-linux-built-with-buildroot/307652#307652
+- http://raspberrypi.stackexchange.com/questions/41568/how-to-connect-and-use-ssh-without-a-screen-using-buildroot/54424#54424
+
+Emulation:
+
+- http://raspberrypi.stackexchange.com/questions/165/emulation-on-a-linux-pc/53991#53991
+- http://raspberrypi.stackexchange.com/questions/38009/cannot-emulate-raspberry-pi-using-qemu-kernel-panic/53993#53993
 
 ## To be answered
 

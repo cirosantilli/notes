@@ -1,10 +1,15 @@
 # TODO
 
+- http://stackoverflow.com/questions/1263710/minimal-linux-distrobution-with-sdl-support-and-no-xwindows
+
+- http://raspberrypi.stackexchange.com/questions/41568/how-to-connect-and-use-ssh-without-a-screen-using-buildroot
+    - http://unix.stackexchange.com/questions/205271/sshd-not-starting-after-boot-on-embedded-linux-built-with-buildroot
+
+- wayland
+
 - index filter out my article downvotes, maybe find a way to include them
 
 - http://stackoverflow.com/questions/5906993/what-is-a-normal-in-opengl/36087311#36087311 draw normal diagram with angle, say that glortho is deprecated and point people to shaders
-
-- https://www.experts-exchange.com/ better understand them
 
 ---
 
@@ -58,21 +63,6 @@
             - http://stackoverflow.com/questions/32715418/failed-to-find-target-with-hash-string-android-22
 -   TODO why noh gvim fails?
 -   minimize OpenGL offscreen example
-
-## Tools
-
--   zimbra
-    -   show avatar on sent emails: http://community.zimbra.com/collaboration/f/1886/t/1135438
--   tuleap
-    - don't receive my own emails
-    - add title to browser title
--   support
-    -   where is the bug tracker: email sent:
-        - <https://private.savoirfairelinux.com/f2t-ym.php> fill in multiple days at once
-        - propose everyone put RING number on private
--   git commit message template with Tuleap
--   android sync all labels of IMAP account. Possible for gmail account:
-    - https://support.google.com/mail/answer/2819491?hl=en
 
 ## Secondary
 
