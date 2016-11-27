@@ -1,5 +1,7 @@
 # Recruiters who contacted me
 
+- 2016-10 - <https://www.linkedin.com/in/victorquintiliani>, generic, second contact
+- 2016-10 - <https://www.linkedin.com/in/emile-pennes-98289747> medical startup
 - 2016-09 - <https://www.linkedin.com/in/marianne-damstra-9917a31> <http://www.solidsands.nl/>
 - 2016-09 - <https://www.linkedin.com/in/simon-deleplanque-79741384> generic tech
 - 2016-09 - Christelle REGIS https://fr.linkedin.com/in/christelle-regis-55040bb for Teksys

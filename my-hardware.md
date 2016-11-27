@@ -133,3 +133,7 @@ Now just HDMI does not work. Possibly a monitor vs television problem:
 ## Raspberry Pi 2
 
 <https://www.raspberrypi.org/products/raspberry-pi-2-model-b/>
+
+## BBC Micro Bit
+
+<https://en.wikipedia.org/wiki/Micro_Bit>

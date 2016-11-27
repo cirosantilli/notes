@@ -228,6 +228,7 @@ IBM Linux Technology Center: http://www-03.ibm.com/linux/ltc/
 - <http://www.fsf.org/resources/jobs/>
 - <https://www.linaro.org/careers/>, consortium of large guys like ARM and friends, Cambridge, for stars only
 - <https://en.wikipedia.org/wiki/Collabora>
+- <http://stackoverflow.com/jobs/companies/tuxera>
 
 ### Open source hardware
 
@@ -401,8 +402,6 @@ No EU jobs: http://www.coverity.com/company/careers/
 
 ## Misc
 
-- <http://streamcomputing.eu/about-us/jobs/> Physics, GPU, OpenCL.
-
 - <https://www.linkedin.com/in/keith-savage-158b6579> commented on x86 tutorial Disqus <http://www.cirosantilli.com/x86-paging/> Cornell, AMD, VIA (Centaur) 20 years.
 
 Sony research Paris: http://www.csl.sony.fr/language.php
@@ -486,3 +485,5 @@ VLSI is another Fairchild spinoff. Lol.
 ## GPU
 
 - <https://web.archive.org/save/http://stackoverflow.com/jobs/125263/graphics-modeling-engineer-apple>
+- <http://streamcomputing.eu/about-us/jobs/> Physics, GPU, OpenCL.
+- <https://en.wikipedia.org/wiki/ArrayFire> As you learn GPGPU, you will fall upon their publications.

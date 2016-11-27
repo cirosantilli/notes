@@ -43,52 +43,10 @@ What is POSIX:
 - <http://unix.stackexchange.com/questions/11983/what-exactly-is-posix/220877#220877>
 - <http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix/31865755#31865755>
 
-Ubuntu get source `bzr`:
-
-- http://askubuntu.com/questions/28372/how-do-i-get-and-modify-the-source-code-of-packages-installed-through-apt-get/624762#624762
-- http://askubuntu.com/questions/167468/where-can-i-find-the-source-code-of-ubuntu/667049#667049
-
-Ubuntu `dpkg -S` symlink:
-
-- http://askubuntu.com/questions/453337/i-get-dpkg-query-no-path-found-matching-pattern-how-to-solve-this/667227#667227
-- http://superuser.com/questions/179353/how-do-i-find-out-which-package-owns-a-file/964671#964671
-
 shntool CUE APE split:
 
 - <http://superuser.com/questions/251362/split-monkeyaudio-ape-cue-log-of-whole-audio-cd-into-mp3-of-individual/966801#966801>
 - <http://unix.stackexchange.com/questions/165485/why-can-i-not-split-a-ape-file/227252#227252>
-
-Mount image with multiple partitions:
-
-- http://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
-- http://unix.stackexchange.com/questions/87183/creating-formatted-partition-from-nothing/229219#229219
-- http://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
-- http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
-- http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
-- http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
-
-GRUB mkrescue config:
-
-- http://askubuntu.com/questions/437323/is-it-possible-to-edit-grub-cfg/674183#674183
-- http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image/973021#973021
-
-ImageMagick view raw file types:
-
-- http://superuser.com/questions/294270/how-to-view-raw-binary-data-as-an-image-with-given-width-and-height/978432#978432
-- http://askubuntu.com/questions/147554/what-software-can-display-raw-bitmaps-on-linux/678569#678569
-
-ImageMagick black and white binary with `-monochrome`:
-
-- http://superuser.com/questions/75373/convert-color-photos-of-documents-to-good-black-and-white-bitonal-images/978438#978438
-- http://unix.stackexchange.com/questions/108613/how-do-you-binarize-a-colored-image/232107#232107
-- http://stackoverflow.com/questions/15861025/how-to-convert-an-image-to-1bit-px-binary-bitmap-with-imagemagick-or-rmagick/32789508#32789508
-- http://askubuntu.com/questions/9868/convert-an-image-from-grayscale-to-binary/678584#678584
-- http://askubuntu.com/questions/293672/how-can-i-batch-convert-images-to-b-w-while-preserving-the-folder-structure/678586#678586
-
-Load boot sector from drive:
-
-- http://stackoverflow.com/questions/15497842/read-a-sector-from-hard-drive-with-int-13h/32943546#32943546
-- http://stackoverflow.com/questions/2065370/how-to-load-second-stage-boot-loader-from-first-stage/32938408#32938408
 
 Python `__getitem__` tuple and `slice` syntax:
 
@@ -112,6 +70,50 @@ SD card locked:
 
 - http://askubuntu.com/questions/213889/microsd-card-is-set-to-read-only-state-how-can-i-write-data-on-it/814585#814585
 - http://raspberrypi.stackexchange.com/questions/8225/trying-to-image-sd-card-not-working-read-only-file-system/8226#8226
+
+## ImageMagick
+
+ImageMagick view raw file types:
+
+- http://superuser.com/questions/294270/how-to-view-raw-binary-data-as-an-image-with-given-width-and-height/978432#978432
+- http://askubuntu.com/questions/147554/what-software-can-display-raw-bitmaps-on-linux/678569#678569
+
+ImageMagick black and white binary with `-monochrome`:
+
+- http://superuser.com/questions/75373/convert-color-photos-of-documents-to-good-black-and-white-bitonal-images/978438#978438
+- http://unix.stackexchange.com/questions/108613/how-do-you-binarize-a-colored-image/232107#232107
+- http://stackoverflow.com/questions/15861025/how-to-convert-an-image-to-1bit-px-binary-bitmap-with-imagemagick-or-rmagick/32789508#32789508
+- http://askubuntu.com/questions/9868/convert-an-image-from-grayscale-to-binary/678584#678584
+- http://askubuntu.com/questions/293672/how-can-i-batch-convert-images-to-b-w-while-preserving-the-folder-structure/678586#678586
+
+## Boot
+
+## Partitions
+
+Mount image with multiple partitions:
+
+- http://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
+- http://unix.stackexchange.com/questions/87183/creating-formatted-partition-from-nothing/229219#229219
+- http://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
+- http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
+- http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
+- http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
+
+GRUB mkrescue config:
+
+- http://askubuntu.com/questions/437323/is-it-possible-to-edit-grub-cfg/674183#674183
+- http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image/973021#973021
+
+Non-interactive partition creation:
+
+- <http://superuser.com/questions/332252/creating-and-formating-a-partition-using-a-bash-script/1132834#1132834>
+- <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891>
+- <http://stackoverflow.com/questions/12150116/how-to-script-sfdisk-or-parted-for-multiple-partitions/39935542#39935542>
+
+Load boot sector from drive:
+
+- http://stackoverflow.com/questions/15497842/read-a-sector-from-hard-drive-with-int-13h/32943546#32943546
+- http://stackoverflow.com/questions/2065370/how-to-load-second-stage-boot-loader-from-first-stage/32938408#32938408
 
 ## JavaScript
 
@@ -221,8 +223,8 @@ Compiler deterministic output:
 
 static:
 
-- http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program
-- http://stackoverflow.com/questions/558122/what-is-a-static-function
+- <http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program/14339047#14339047>
+- <http://stackoverflow.com/questions/558122/what-is-a-static-function/30319812#30319812>
 
 GCC uninstall source:
 
@@ -454,6 +456,21 @@ Repeated `input name`:
 - http://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
 - http://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network TODO answer if not marked as duplicate
 
+Get source with `bzr`:
+
+- http://askubuntu.com/questions/28372/how-do-i-get-and-modify-the-source-code-of-packages-installed-through-apt-get/624762#624762
+- http://askubuntu.com/questions/167468/where-can-i-find-the-source-code-of-ubuntu/667049#667049
+
+`dpkg -S` symlink:
+
+- http://askubuntu.com/questions/453337/i-get-dpkg-query-no-path-found-matching-pattern-how-to-solve-this/667227#667227
+- http://superuser.com/questions/179353/how-do-i-find-out-which-package-owns-a-file/964671#964671
+
+Launch program and monitor CPU and memory usage:
+
+- <http://stackoverflow.com/questions/1221555/how-can-i-get-the-cpu-usage-and-memory-usage-of-a-single-process-on-linux-ubunt/40576129#40576129>
+- <http://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process/322992#322992>
+
 ## VHDL
 
 - <http://electronics.stackexchange.com/questions/51848/when-to-use-std-logic-over-bit-in-vhdl/241653#241653>
@@ -483,6 +500,11 @@ Emulation:
 
 - http://raspberrypi.stackexchange.com/questions/165/emulation-on-a-linux-pc/53991#53991
 - http://raspberrypi.stackexchange.com/questions/38009/cannot-emulate-raspberry-pi-using-qemu-kernel-panic/53993#53993
+
+Blinker:
+
+- http://stackoverflow.com/questions/29837892/running-a-c-program-with-no-os-on-raspberry-pi/40063032#40063032
+- http://raspberrypi.stackexchange.com/questions/542/using-raspberry-pi-without-a-linux-os/56372#56372
 
 ## To be answered
 
