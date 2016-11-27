@@ -103,6 +103,8 @@ Ex:
 
 - <http://stackoverflow.com/users/749748/harrism>
 - <http://gamedev.stackexchange.com/users/9894/nathan-reed> Freaking coined the term GPGPU!
+- <http://stackoverflow.com/users/319204/thecodeartist>
+- <http://stackoverflow.com/users/1695960/robert-crovella> <https://www.linkedin.com/in/robert-crovella-0ab46330>
 
 ### Oracle
 
