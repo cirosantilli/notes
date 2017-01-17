@@ -90,6 +90,9 @@ Discovered:
 - <http://stackoverflow.com/users/4490873/mosha-pasumansky> BigQuery, ex Microsoft where he created MDX... has wiki page: <https://en.wikipedia.org/wiki/Mosha_Pasumansky>
 - <http://stackoverflow.com/users/1375400/jeremy-condit> BigQuery
 - <http://stackoverflow.com/users/272031/eduardo> BigQuery, analytics, Brazilian: <https://www.linkedin.com/in/eduardocereto>
+- <http://stackoverflow.com/users/242762/oak> LLVM
+- <http://stackoverflow.com/users/1339987/djechlin>
+- <http://stackoverflow.com/users/1097780/andreas-rossberg>
 
 Ex:
 
