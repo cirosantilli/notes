@@ -500,6 +500,7 @@ Emulation:
 
 - http://raspberrypi.stackexchange.com/questions/165/emulation-on-a-linux-pc/53991#53991
 - http://raspberrypi.stackexchange.com/questions/38009/cannot-emulate-raspberry-pi-using-qemu-kernel-panic/53993#53993
+- http://stackoverflow.com/questions/38837606/emulate-raspberry-pi-raspbian-with-qemu already answered correctly by someone else
 
 Blinker:
 
