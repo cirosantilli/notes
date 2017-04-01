@@ -52,3 +52,5 @@
 -   link to questions you've answered on comments at the top of the page.
 
     Only link to other questions at the bottom of your answer.
+
+-   only accept answers at the end of the day to get the legendary badge

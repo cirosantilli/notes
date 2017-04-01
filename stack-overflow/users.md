@@ -72,6 +72,7 @@ Discovered:
 
 ### Googlers with rep
 
+- <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
 - <http://stackoverflow.com/users/95810/alex-martelli>
 - <http://stackoverflow.com/users/148870/amber> <https://plus.google.com/+AmberYust> <https://www.linkedin.com/in/amberyust> <https://codingkilledthecat.wordpress.com/about/> python
 - <http://stackoverflow.com/users/367273/npe> java
@@ -93,6 +94,10 @@ Discovered:
 - <http://stackoverflow.com/users/242762/oak> LLVM
 - <http://stackoverflow.com/users/1339987/djechlin>
 - <http://stackoverflow.com/users/1097780/andreas-rossberg>
+- <http://stackoverflow.com/users/481267/brian>
+- <http://stackoverflow.com/users/68507/ben-s> iPhone, one of the people who ports Google apps to the competitor :-)
+- <http://stackoverflow.com/users/1027966/nick-desaulniers> android low level
+- <http://stackoverflow.com/users/422/chris-bunch> Play Music
 
 Ex:
 
@@ -137,7 +142,11 @@ Ex:
 
 - <http://stackoverflow.com/users/2094884/ph0b> Android expert.
 
-## Others
+### Imagination technologies
+
+- http://stackoverflow.com/users/2659313/mohit-jain
+
+### Others
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism
 - http://stackoverflow.com/users/1120273/dietmar-k%C3%BChl Bloomberg, C++ hardcore

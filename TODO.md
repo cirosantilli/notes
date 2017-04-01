@@ -1,5 +1,7 @@
 # TODO
 
+- outputiterator conversion
+
 - http://stackoverflow.com/questions/1263710/minimal-linux-distrobution-with-sdl-support-and-no-xwindows
 
 - http://raspberrypi.stackexchange.com/questions/41568/how-to-connect-and-use-ssh-without-a-screen-using-buildroot
