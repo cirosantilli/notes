@@ -35,6 +35,7 @@ Vim cscope:
 
 `readelf -d` recursively:
 
+- <http://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux/43026880#43026880>
 - <http://stackoverflow.com/questions/1172649/how-to-know-which-dynamic-libraries-are-needed-by-an-elf>
 - <http://unix.stackexchange.com/questions/120015/how-to-find-out-the-dynamic-libraries-executables-loads-when-run>
 
@@ -46,7 +47,7 @@ What is POSIX:
 shntool CUE APE split:
 
 - <http://superuser.com/questions/251362/split-monkeyaudio-ape-cue-log-of-whole-audio-cd-into-mp3-of-individual/966801#966801>
-- <http://unix.stackexchange.com/questions/165485/why-can-i-not-split-a-ape-file/227252#227252>
+- <http://unix.stackexchange.com/questions/165485/why-can-i-not-split-a-ape-file/227252#227252> without error message, which OP already gave
 
 Python `__getitem__` tuple and `slice` syntax:
 
@@ -70,6 +71,18 @@ SD card locked:
 
 - http://askubuntu.com/questions/213889/microsd-card-is-set-to-read-only-state-how-can-i-write-data-on-it/814585#814585
 - http://raspberrypi.stackexchange.com/questions/8225/trying-to-image-sd-card-not-working-read-only-file-system/8226#8226
+
+cmake / ccmake show options:
+
+- http://stackoverflow.com/questions/9298278/cmake-print-out-all-accessible-variables-in-a-script/42945643#42945643
+- http://stackoverflow.com/questions/16851084/list-cmake-build-option/42945360#42945360
+- http://stackoverflow.com/questions/32425599/where-is-the-cmake-gui-for-linux/42921972#42921972
+
+## Program without OS
+
+- <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
+- <http://softwareengineering.stackexchange.com/questions/171127/how-do-operating-systems-run-without-having-an-os-to-run-in/345301#345301>
+- <http://softwareengineering.stackexchange.com/questions/249915/how-to-operate-a-computer-without-an-operating-system/345300#345300> answer deleted to avoid dupehammer with above question.
 
 ## ImageMagick
 
@@ -107,8 +120,8 @@ GRUB mkrescue config:
 Non-interactive partition creation:
 
 - <http://superuser.com/questions/332252/creating-and-formating-a-partition-using-a-bash-script/1132834#1132834>
-- <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891>
 - <http://stackoverflow.com/questions/12150116/how-to-script-sfdisk-or-parted-for-multiple-partitions/39935542#39935542>
+- <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891>, made just a link to others
 
 Load boot sector from drive:
 
@@ -155,6 +168,11 @@ cp transfer speed:
 
 - <http://askubuntu.com/questions/17275/progress-and-speed-with-cp>
 - <http://unix.stackexchange.com/questions/65077/is-it-possible-to-see-cp-speed-and-percent-copied/309923#309923>
+
+diff color
+
+- <http://stackoverflow.com/questions/8800578/colorize-diff-on-the-command-line/41770560#41770560>
+- <http://unix.stackexchange.com/questions/196565/color-diff-output/338960#338960>
 
 ### NVIDIA
 
@@ -204,7 +222,7 @@ Git diff `@@` part:
 
 - <http://stackoverflow.com/questions/8558597/what-does-the-meta-line-with-at-signs-in-svn-diff-or-git-diff-mean/31367564#31367564>
 - <http://stackoverflow.com/questions/10950412/what-does-1-1-mean-in-gits-diff-output>
-- <http://stackoverflow.com/questions/6508651/git-diff-header-number-meanings> TODO answer this one
+- <http://stackoverflow.com/questions/6508651/git-diff-header-number-meanings>. Duped.
 - <http://stackoverflow.com/questions/2529441/how-to-work-with-diff-representation-in-git/31615438#31615438>
 
 sha calculation:
@@ -262,12 +280,14 @@ static enum, struct, class:
 - <http://stackoverflow.com/a/31178186/895245>
 - <http://stackoverflow.com/questions/9321/how-do-you-create-a-static-class-in-c/31201984#31201984>
 
-`timespec_get`:
+`timespec_get` and family:
 
-- <http://stackoverflow.com/questions/361363/how-to-measure-time-in-milliseconds-using-ansi-c/36095407#36095407>
-- <http://stackoverflow.com/questions/5833094/get-a-timestamp-in-c-in-microseconds/36095514#36095514>
-- <http://stackoverflow.com/questions/3756323/getting-the-current-time-in-milliseconds/36095600#36095600>
+- <http://stackoverflow.com/questions/13263277/difference-between-stdsystem-clock-and-stdsteady-clock/41203433#41203433>
 - <http://stackoverflow.com/questions/16275444/how-to-print-time-difference-in-accuracy-of-milliseconds-and-nanoseconds/36095783#36095783>
+- <http://stackoverflow.com/questions/3523442/difference-between-clock-realtime-and-clock-monotonic/41203566#41203566>
+- <http://stackoverflow.com/questions/361363/how-to-measure-time-in-milliseconds-using-ansi-c/36095407#36095407>
+- <http://stackoverflow.com/questions/3756323/getting-the-current-time-in-milliseconds/36095600#36095600>
+- <http://stackoverflow.com/questions/5833094/get-a-timestamp-in-c-in-microseconds/36095514#36095514>
 
 `f()` vs `f(void)` in declarator:
 
@@ -345,20 +365,22 @@ PTY
 
 Minimal Linux distro:
 
--   <http://superuser.com/questions/307087/linux-distro-with-just-busybox-and-bash>
--   <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone> minimal, buildroot
--   <http://unix.stackexchange.com/questions/2692/what-is-the-smallest-possible-linux-implementation>
--   <http://stackoverflow.com/questions/24583614/want-to-build-bare-linux-system-that-has-only-a-kernel-and-one-binary/30056182#30056182> minimal
--   Unanswered:
-    - http://stackoverflow.com/questions/18441102/unable-to-run-linux-kernel-image-on-qemu
-    - http://unix.stackexchange.com/questions/47619/load-linux-bzimage-in-qemu
-    - <http://unix.stackexchange.com/questions/136278/what-are-the-minimum-root-filesystem-applications-that-are-required-to-fully-boo>
-
-Linux that runs a single program only:
-
-- <http://superuser.com/questions/320529/single-application-linux/991733#991733>
-- <http://unix.stackexchange.com/questions/122717/custom-linux-distro-that-runs-just-one-program-nothing-else/238579#238579>
-- <http://unix.stackexchange.com/questions/136278/what-are-the-minimum-root-filesystem-applications-that-are-required-to-fully-boo/305406#305406>
+-   Busybox methods:
+    -   <http://unix.stackexchange.com/questions/2692/what-is-the-smallest-possible-linux-implementation>
+    -   <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone>
+    -   <http://superuser.com/questions/307087/linux-distro-with-just-busybox-and-bash> single executable moved to bottom
+    -   Unanswered:
+        - http://stackoverflow.com/questions/18441102/unable-to-run-linux-kernel-image-on-qemu
+        - http://unix.stackexchange.com/questions/47619/load-linux-bzimage-in-qemu
+-   answered with hello world init:
+    -   <http://stackoverflow.com/questions/24583614/want-to-build-bare-linux-system-that-has-only-a-kernel-and-one-binary/30056182#30056182> minimal
+    -   <http://superuser.com/questions/320529/single-application-linux/991733#991733>
+    -   <http://unix.stackexchange.com/questions/122717/custom-linux-distro-that-runs-just-one-program-nothing-else/238579#238579>
+    -   <http://unix.stackexchange.com/questions/136278/what-are-the-minimum-root-filesystem-applications-that-are-required-to-fully-boo/305406#305406>
+    -   unanswered: more explicit about graphic environment that end user cannot escape:
+        - <http://superuser.com/questions/606811/how-start-a-single-program-within-a-new-xserver-instance-in-full-screen-mode>
+        - <http://unix.stackexchange.com/questions/129367/dedicated-purpose-single-application-linux-boxes>
+        - <http://stackoverflow.com/questions/22395295/linux-box-with-only-one-application-which-is-fullscreen>
 
 dev/fb0 format:
 
@@ -378,6 +400,17 @@ Merge config fragments:
 
 - <http://unix.stackexchange.com/questions/19905/non-interactive-configuration-of-linux-kernel/309264#309264>
 - <http://stackoverflow.com/questions/7505164/how-do-you-non-interactively-turn-on-features-in-a-linux-kernel-config-file/39440863#39440863>
+
+Shebang:
+
+- <http://stackoverflow.com/questions/2429511/why-do-people-write-usr-bin-env-python-on-the-first-line-of-a-python-script/40938801#40938801>
+- <http://stackoverflow.com/questions/3009192/how-does-the-shebang-work/40938907#40938907>
+
+QEMU + GDB + Linux kernel:
+
+- http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu
+- http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607
+- http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971
 
 ## OpenGL
 
@@ -414,6 +447,11 @@ Encode h264 and control key-frames:
 
 - <http://stackoverflow.com/questions/2289319/how-to-write-a-video-encoder-with-ffmpeg-that-explicitly-controls-the-position-o/36412909#36412909>
 - <http://stackoverflow.com/questions/2940671/how-does-one-encode-a-series-of-images-into-h264-using-the-x264-c-api/36405714#36405714>
+
+VLC ffmpeg low frame rates:
+
+- <http://unix.stackexchange.com/questions/68770/converting-png-frames-to-video-at-1-fps/339399#339399>
+- <http://stackoverflow.com/questions/19267443/playback-issues-in-vlc-with-low-fps-video-from-images-using-ffmpeg/41797724#41797724>
 
 ## GDB
 
@@ -517,7 +555,6 @@ Blinker:
 QEMU errors:
 
 - http://unix.stackexchange.com/questions/117041/running-kernel-on-qemu
-- http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu
 - http://unix.stackexchange.com/questions/48302/running-bzimage-in-qemu
 - http://unix.stackexchange.com/questions/67462/linux-kernel-is-not-finding-the-initrd-correctly
 

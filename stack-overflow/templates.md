@@ -43,3 +43,10 @@ Shorter version:
 ## Xperia
 
 Tested on Android 5.1.1, Sony Xperia Z3 d6643.
+
+## Ask your question publicly
+
+Please post questions somewhere public, so that others may share the result of this conversation. Either:
+
+- Stack Overflow, and make it as minimal and concrete as possible, tag it correctly, and send me the link. But it will be answered by the time I see it :-)
+- or if it super specific to my tutorial, add a comment or create a GitHub issue for it: https://github.com/cirosantilli/cirosantilli.github.io

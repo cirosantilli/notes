@@ -1,5 +1,6 @@
 # Recruiters who contacted me
 
+- 2017-01 - Jamie Mathers <https://www.linkedin.com/in/jamie-mathers-83655894> from represent-talent.com for unknown web / app outsourcing company in Paris
 - 2016-10 - <https://www.linkedin.com/in/victorquintiliani>, generic, second contact
 - 2016-10 - <https://www.linkedin.com/in/emile-pennes-98289747> medical startup
 - 2016-09 - <https://www.linkedin.com/in/marianne-damstra-9917a31> <http://www.solidsands.nl/>
