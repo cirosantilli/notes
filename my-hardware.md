@@ -1,5 +1,7 @@
 # My hardware
 
+Mine, or that I've had access to at some point.
+
 -   Sony Xperia
     -   Sony Xperia U ST25i. Released May 2012, stuck at Android 4.0.4. The second smartphone released by Sony, after it bought Motorola mobile.
         -   No SD card slot <http://forum.xda-developers.com/xperia-u/issues/micro-sd-card-slot-t1860365>
@@ -38,6 +40,24 @@ Released 2012.
 
 Graphics: NVIDIA NVS 5400M.
 
+### Intel i5-3210M CPU
+
+<https://ark.intel.com/products/67355/Intel-Core-i5-3210M-Processor-3M-Cache-up-to-3_10-GHz-rPGA>
+
+Launch date: Q2'12
+
+Price: 225 USD
+
+TDP: 35W
+
+2.5GHz
+
+Cores: 2
+
+AVX extension (4 32-bit floats).
+
+FMA GFLOPS: 2.5 * 2 * 4 = 20
+
 ### T400
 
 Sometimes it does not turn on.
@@ -49,6 +69,34 @@ TYPE 2764-CTO S/N R8-07DF 10/03
 - Serial Number: R807DF
 - Machine Type: 2668
 - Machine Type Model: 2668KHU
+
+### ThinkStation P700
+
+#### NVIDIA NVS 310 GPU
+
+Release date: 2012
+
+Price: 130 dollars.
+
+GFLOPS: TODO.
+
+#### Intel Xeon E5-1660 v3 CPU
+
+<https://ark.intel.com/products/82766/Intel-Xeon-Processor-E5-1660-v3-20M-Cache-3_00-GHz>
+
+Price: 1000 dollars.
+
+TDP: 140 W
+
+Release date: Q3'14
+
+3.0GHz
+
+Cores: 16
+
+AVX2 extension (8 32-bit floats).
+
+FMA GFLOPS: 3.0 * 16 * 8 = 384
 
 ## Sony Xperia
 

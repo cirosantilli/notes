@@ -18,7 +18,7 @@ enctype multipart form data:
 
 - http://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean/28380690#28380690
 - http://stackoverflow.com/questions/8659808/how-does-http-file-upload-work/26791188#26791188
-- http://stackoverflow.com/questions/913626/what-should-a-multipart-http-request-with-multiple-files-look-like (closed)
+- http://stackoverflow.com/questions/913626/what-should-a-multipart-http-request-with-multiple-files-look-like (closed, redirects to canonical)
 - http://stackoverflow.com/questions/4238809/example-of-multipart-form-data (redirects clearly to canonical)
 
 Rails pass values to view:
@@ -65,6 +65,7 @@ What does the linker do:
 One instruction movfuscator:
 
 - http://stackoverflow.com/questions/3711443/minimal-instruction-set-to-solve-any-problem-with-a-computer-program/38523869#38523869
+- http://stackoverflow.com/questions/9439001/what-is-the-minimum-instruction-set-required-for-any-assembly-language-to-be-con/43570571#43570571
 - http://programmers.stackexchange.com/questions/230538/what-is-the-absolute-minimum-set-of-instructions-required-to-build-a-turing-comp/325501#325501
 
 SD card locked:
