@@ -73,6 +73,7 @@ Discovered:
 ### Googlers with rep
 
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
+- <http://stackoverflow.com/users/368821/mgiuca> chromium
 - <http://stackoverflow.com/users/95810/alex-martelli>
 - <http://stackoverflow.com/users/148870/amber> <https://plus.google.com/+AmberYust> <https://www.linkedin.com/in/amberyust> <https://codingkilledthecat.wordpress.com/about/> python
 - <http://stackoverflow.com/users/367273/npe> java
@@ -94,10 +95,15 @@ Discovered:
 - <http://stackoverflow.com/users/242762/oak> LLVM
 - <http://stackoverflow.com/users/1339987/djechlin>
 - <http://stackoverflow.com/users/1097780/andreas-rossberg>
+<<<<<<< 2eb53596c6d7952a0b2379f859f3bda24609540d
 - <http://stackoverflow.com/users/481267/brian>
 - <http://stackoverflow.com/users/68507/ben-s> iPhone, one of the people who ports Google apps to the competitor :-)
 - <http://stackoverflow.com/users/1027966/nick-desaulniers> android low level
 - <http://stackoverflow.com/users/422/chris-bunch> Play Music
+=======
+- <http://stackoverflow.com/users/82294/dietrich-epp> C C++
+- <http://stackoverflow.com/users/624900/jterrace>
+>>>>>>> hardware
 
 Ex:
 
@@ -121,6 +127,7 @@ Ex:
 
 ### Apple
 
+- http://stackoverflow.com/users/63147/tim-henigan
 - http://stackoverflow.com/users/116908/carl-norum lots of low level C / C++, Appler GitHub commit email: carl@norum.ca
 - http://stackoverflow.com/users/298225/eric-postpischil
 
@@ -140,13 +147,22 @@ Ex:
 
 ### Intel
 
+- <http://stackoverflow.com/users/1084/nathan-fellman>
 - <http://stackoverflow.com/users/2094884/ph0b> Android expert.
 
+<<<<<<< 2eb53596c6d7952a0b2379f859f3bda24609540d
 ### Imagination technologies
 
 - http://stackoverflow.com/users/2659313/mohit-jain
 
 ### Others
+=======
+### Mozilla
+
+- <http://stackoverflow.com/users/168225/georg-fritzsche>
+
+## Others
+>>>>>>> hardware
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism
 - http://stackoverflow.com/users/1120273/dietmar-k%C3%BChl Bloomberg, C++ hardcore
