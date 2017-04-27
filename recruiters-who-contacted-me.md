@@ -1,5 +1,7 @@
 # Recruiters who contacted me
 
+- 2017-04 - Olivier Paul <https://www.linkedin.com/in/olivier-paul-56681b96> Django Python
+- 2017-04 - <https://www.linkedin.com/in/emre-bilinc-581906138/> hedge fund startup
 - 2017-01 - Jamie Mathers <https://www.linkedin.com/in/jamie-mathers-83655894> from represent-talent.com for unknown web / app outsourcing company in Paris
 - 2016-10 - <https://www.linkedin.com/in/victorquintiliani>, generic, second contact
 - 2016-10 - <https://www.linkedin.com/in/emile-pennes-98289747> medical startup
