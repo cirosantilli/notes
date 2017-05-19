@@ -397,6 +397,11 @@ SSHD QEMU Buildroot:
 - <http://stackoverflow.com/questions/27145967/cannot-ssh-scp-to-qemu-based-powerpc-vm/39301480#39301480>
 - <http://unix.stackexchange.com/questions/124681/ssh-from-host-to-guest-using-qemu/307557#307557>
 
+Buildroot QEMU kernel module:
+
+- <http://stackoverflow.com/questions/32124246/how-to-build-and-run-a-linux-kernel-module-on-qemu/38813400#38813400>
+- <http://stackoverflow.com/questions/40307328/how-to-add-linux-driver-as-a-buildroot-package/43874273#43874273>
+
 Merge config fragments:
 
 - <http://unix.stackexchange.com/questions/19905/non-interactive-configuration-of-linux-kernel/309264#309264>

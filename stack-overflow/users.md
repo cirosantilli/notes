@@ -95,15 +95,13 @@ Discovered:
 - <http://stackoverflow.com/users/242762/oak> LLVM
 - <http://stackoverflow.com/users/1339987/djechlin>
 - <http://stackoverflow.com/users/1097780/andreas-rossberg>
-<<<<<<< 2eb53596c6d7952a0b2379f859f3bda24609540d
 - <http://stackoverflow.com/users/481267/brian>
 - <http://stackoverflow.com/users/68507/ben-s> iPhone, one of the people who ports Google apps to the competitor :-)
 - <http://stackoverflow.com/users/1027966/nick-desaulniers> android low level
 - <http://stackoverflow.com/users/422/chris-bunch> Play Music
-=======
 - <http://stackoverflow.com/users/82294/dietrich-epp> C C++
 - <http://stackoverflow.com/users/624900/jterrace>
->>>>>>> hardware
+- <http://stackoverflow.com/users/1090562/salvador-dali> contact for job interview
 
 Ex:
 
@@ -150,19 +148,15 @@ Ex:
 - <http://stackoverflow.com/users/1084/nathan-fellman>
 - <http://stackoverflow.com/users/2094884/ph0b> Android expert.
 
-<<<<<<< 2eb53596c6d7952a0b2379f859f3bda24609540d
 ### Imagination technologies
 
 - http://stackoverflow.com/users/2659313/mohit-jain
 
-### Others
-=======
 ### Mozilla
 
 - <http://stackoverflow.com/users/168225/georg-fritzsche>
 
 ## Others
->>>>>>> hardware
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism
 - http://stackoverflow.com/users/1120273/dietmar-k%C3%BChl Bloomberg, C++ hardcore
