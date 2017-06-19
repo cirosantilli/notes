@@ -8,6 +8,11 @@ The first on each list is the canonical source.
 
 I'm less likely to update closed questions.
 
+`screen` terminates as non-root:
+
+- <https://superuser.com/questions/781591/screen-is-terminating-for-non-root/1213391#1213391>
+- <https://unix.stackexchange.com/questions/93892/screen-is-terminating>
+
 sudo ulimit operation not permitted:
 
 - http://unix.stackexchange.com/questions/81843/sudo-ulimit-command-not-found/169035#169035
@@ -356,6 +361,12 @@ CSRF and SOP:
 
 ## POSIX
 
+`poll`:
+
+-   <https://stackoverflow.com/questions/5857461/how-to-use-the-poll-c-function-to-watch-named-pipes-in-linux/44126952#44126952>
+-   <https://stackoverflow.com/questions/12444679/poll-function-in-c-how-does-it-work/44127590#44127590>
+    - <https://stackoverflow.com/questions/24791625/linux-socket-handling-revents-pollerr-pollhup-pollnval/44149710#44149710>
+
 PTY
 
 - <http://stackoverflow.com/questions/8374000/how-to-use-pseudo-terminals-in-linux-with-c>
@@ -364,9 +375,16 @@ PTY
 
 ## Linux kernel
 
+User vs kernel land:
+
+- <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809>
+- <https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space/368313#368313>
+    - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered
+- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-os>
+
 Minimal Linux distro:
 
--   Busybox methods:
+-   BusyBox methods:
     -   <http://unix.stackexchange.com/questions/2692/what-is-the-smallest-possible-linux-implementation>
     -   <http://unix.stackexchange.com/questions/17122/is-it-possible-to-install-the-linux-kernel-alone>
     -   <http://superuser.com/questions/307087/linux-distro-with-just-busybox-and-bash> single executable moved to bottom
@@ -414,9 +432,24 @@ Shebang:
 
 QEMU + GDB + Linux kernel:
 
-- http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu
-- http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607
-- http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971
+-   http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu no KGDB
+-   http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607 QEMU
+-   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971 copy paste from above
+    - https://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/44226360#44226360 KGDB, second answer on same question
+    - https://unix.stackexchange.com/questions/105222/how-can-i-run-gdb-in-one-machine-and-run-kgdb-kernel-in-another-machine/367735#367735 KGDB
+    - https://stackoverflow.com/questions/22004616/qemu-kernel-debugging-with-kgdb/44197715#44197715 KGDB on QEMU only
+
+`ioctl`:
+
+- <https://stackoverflow.com/questions/2264384/how-do-i-use-ioctl-to-manipulate-my-kernel-module/44613896#44613896>
+- <https://askubuntu.com/questions/54239/problem-with-ioctl-in-a-simple-kernel-module/926675#926675>
+
+`EXPORT_SYMBOL` module dependencies:
+
+- <https://stackoverflow.com/questions/12311867/how-to-call-exported-kernel-module-functions-from-another-module>
+- unanswered:
+    - <https://stackoverflow.com/questions/413955/how-to-write-linux-driver-module-call-use-another-driver-module>
+    - <https://stackoverflow.com/questions/9820458/how-to-define-a-function-in-one-linux-kernel-module-and-use-it-in-another/9820518#9820518>
 
 ## OpenGL
 
@@ -470,6 +503,12 @@ Compile:
 
 - http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
 - http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
+
+gdbserver restart executable:
+
+- https://stackoverflow.com/questions/75255/how-do-you-start-running-the-program-over-again-in-gdb-with-target-remote/44161527#44161527 (wiki)
+- https://electronics.stackexchange.com/questions/28480/restart-execution-from-the-start-without-having-to-reload/307191#307191
+- https://stackoverflow.com/questions/20870338/how-to-terminate-gdbserver/44162888#44162888 how to exit only
 
 ## HTML
 

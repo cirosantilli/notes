@@ -6,7 +6,9 @@
 
 ## Mark old as duplicate of new
 
-Current consensus is to close by "quality": http://meta.stackexchange.com/questions/147643/should-i-vote-to-close-a-duplicate-question-even-though-its-much-newer-and-ha Since "quality" is not measurable, I just go by upvotes. ;-) Likely it comes down to which question hit the best newb Google keywords on the title.
+Current consensus is to close by "quality": http://meta.stackexchange.com/questions/147643/should-i-vote-to-close-a-duplicate-question-even-though-its-much-newer-and-ha Since "quality" is not measurable, I just go by upvotes. ;-) Likely it comes down to which question hit the best newbie Google keywords on the title.
+
+I encourage you to simply copy your answer there with a disclaimer added at the bottom, and link from this one, in case it closes.
 
 ## SmokeDetector
 
