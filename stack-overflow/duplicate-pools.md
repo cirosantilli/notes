@@ -451,6 +451,20 @@ QEMU + GDB + Linux kernel:
     - <https://stackoverflow.com/questions/413955/how-to-write-linux-driver-module-call-use-another-driver-module>
     - <https://stackoverflow.com/questions/9820458/how-to-define-a-function-in-one-linux-kernel-module-and-use-it-in-another/9820518#9820518>
 
+QEMU + Buildroot setup:
+
+- <https://stackoverflow.com/questions/26323280/learning-linux-kernel-programming-on-a-virtual-machine-on-ubuntu/44624802#44624802>
+- <https://stackoverflow.com/questions/6764301/using-qemu-for-learning-linux-kernel-for-arm/44624969#44624969>
+- <https://stackoverflow.com/questions/19532564/linux-kernel-development-using-qemu/44625213#44625213>
+- <https://stackoverflow.com/questions/3503414/distro-for-linux-kernel-development/44625382#44625382>
+- <https://www.quora.com/What-are-the-some-good-sources-to-learn-kernel-module-programming/answer/Ciro-Santilli>
+- comments on closed questions:
+    - <https://stackoverflow.com/questions/8865731/how-to-get-started-with-linux-kernel-development#comment76236059_8865731>
+    - <https://stackoverflow.com/questions/11220720/linux-kernel-device-driver-programming#comment76234847_11220720>
+    - <https://stackoverflow.com/questions/7132397/virtual-environment-for-linux-kernel-hacking#comment76236159_7132397>
+- unanswered because dupes:
+    - <https://stackoverflow.com/questions/12449868/best-linux-distribution-to-do-kernel-module-programming>
+
 ## OpenGL
 
 Normal:
@@ -589,6 +603,14 @@ Blinker:
 
 - http://stackoverflow.com/questions/29837892/running-a-c-program-with-no-os-on-raspberry-pi/40063032#40063032
 - http://raspberrypi.stackexchange.com/questions/542/using-raspberry-pi-without-a-linux-os/56372#56372
+
+## QEMU
+
+Platform device:
+
+- https://stackoverflow.com/questions/15610570/what-is-the-difference-between-a-linux-platform-driver-and-normal-device-driver/44994739#44994739
+- https://stackoverflow.com/questions/28315265/how-to-add-a-new-device-in-qemu-source-code/44612957#44612957
+- https://stackoverflow.com/questions/17488320/how-to-program-device-tree-file-dts/44994940#44994940
 
 ## To be answered
 
