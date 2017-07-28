@@ -454,6 +454,11 @@ Repeated `input name`:
 - http://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
 - http://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network TODO answer if not marked as duplicate
 
+dconf dump load:
+
+- https://askubuntu.com/questions/26056/where-are-gnome-keyboard-shortcuts-stored/746262#746262
+- https://askubuntu.com/questions/72070/how-do-i-change-dconf-keys-without-a-gui-for-a-post-install-script/940731#940731
+
 ## VHDL
 
 - <http://electronics.stackexchange.com/questions/51848/when-to-use-std-logic-over-bit-in-vhdl/241653#241653>
