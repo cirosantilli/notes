@@ -51,6 +51,7 @@ What is POSIX:
 
 shntool CUE APE split:
 
+- <https://unix.stackexchange.com/questions/10251/how-do-i-split-a-flac-with-a-cue/382908#382908>
 - <http://superuser.com/questions/251362/split-monkeyaudio-ape-cue-log-of-whole-audio-cd-into-mp3-of-individual/966801#966801>
 - <http://unix.stackexchange.com/questions/165485/why-can-i-not-split-a-ape-file/227252#227252> without error message, which OP already gave
 
@@ -373,6 +374,13 @@ PTY
 - <http://unix.stackexchange.com/questions/21147/what-are-pseudo-terminals-pty-tty>
 - <http://stackoverflow.com/questions/4426280/what-do-pty-and-tty-mean>
 
+## Eclipse
+
+`gdbserver`:
+
+- <https://stackoverflow.com/questions/15685104/remote-debugging-c-applications-with-eclipse-cdt-rse-rdt/45658783#45658783>
+- <https://stackoverflow.com/questions/4038760/how-to-set-up-the-eclipse-for-remote-c-debugging-with-gdbserver/45608937#45608937>
+
 ## Linux kernel
 
 User vs kernel land:
@@ -464,6 +472,21 @@ QEMU + Buildroot setup:
     - <https://stackoverflow.com/questions/7132397/virtual-environment-for-linux-kernel-hacking#comment76236159_7132397>
 - unanswered because dupes:
     - <https://stackoverflow.com/questions/12449868/best-linux-distribution-to-do-kernel-module-programming>
+
+How is dev created:
+
+- <https://unix.stackexchange.com/questions/241173/how-are-dev-linux-files-created/384287#384287>
+- <https://serverfault.com/questions/303085/what-is-mdev-and-how-to-dev-nodes-get-created-in-linux/867119#867119>
+
+`file_operations` hello worlds:
+
+- <https://stackoverflow.com/questions/22632713/how-to-write-a-simple-linux-device-driver/44640466#44640466>
+- <https://unix.stackexchange.com/questions/37829/understanding-character-device-or-character-special-files/371758#371758>
+
+`O_LARGEFILE`:
+
+- <https://stackoverflow.com/questions/560238/how-to-create-a-file-of-size-more-than-2gb-in-linux-unix/45574824#45574824>
+- <https://serverfault.com/questions/24803/why-cant-i-create-files-larger-than-2-gb-on-linux/867573#867573>
 
 ## OpenGL
 
