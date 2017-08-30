@@ -35,6 +35,7 @@ Unknown true identity:
 - `linux-kernel` bronze badge: <http://stackoverflow.com/help/badges/3775/kernel>. Only 3 as of 2015.
 - <http://stackoverflow.com/users/44729/genpfault> OpenGL. Some game dev. <https://github.com/genpfault> <https://www.reddit.com/user/genpfault> Large comment karma.
 - <http://stackoverflow.com/users/3723423/christophe>
+- <https://stackoverflow.com/users/1880339/artless-noise>: ARM employee.
 
 Discovered:
 
