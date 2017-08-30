@@ -483,11 +483,6 @@ How is dev created:
 - <https://stackoverflow.com/questions/22632713/how-to-write-a-simple-linux-device-driver/44640466#44640466>
 - <https://unix.stackexchange.com/questions/37829/understanding-character-device-or-character-special-files/371758#371758>
 
-`O_LARGEFILE`:
-
-- <https://stackoverflow.com/questions/560238/how-to-create-a-file-of-size-more-than-2gb-in-linux-unix/45574824#45574824>
-- <https://serverfault.com/questions/24803/why-cant-i-create-files-larger-than-2-gb-on-linux/867573#867573>
-
 ## OpenGL
 
 Normal:
@@ -615,6 +610,7 @@ SSH direct Ethernet cable:
 - https://raspberrypi.stackexchange.com/questions/38/prepare-for-ssh-without-a-screen/54394#54394
 - https://raspberrypi.stackexchange.com/questions/3867/ssh-to-rpi-without-a-network-connection/53823#53823
 - http://stackoverflow.com/questions/16040128/hook-up-raspberry-pi-via-ethernet-to-laptop-without-router/39086537#39086537
+- https://stackoverflow.com/questions/28880833/emulating-the-raspberry-pi-2/45814913#45814913
 
 Buildroot SSH:
 
@@ -625,7 +621,8 @@ Emulation:
 
 - http://raspberrypi.stackexchange.com/questions/165/emulation-on-a-linux-pc/53991#53991
 - http://raspberrypi.stackexchange.com/questions/38009/cannot-emulate-raspberry-pi-using-qemu-kernel-panic/53993#53993
-- http://stackoverflow.com/questions/38837606/emulate-raspberry-pi-raspbian-with-qemu already answered correctly by someone else
+- https://stackoverflow.com/questions/28880833/emulating-the-raspberry-pi-2/45814913#45814913
+- http://stackoverflow.com/questions/38837606/emulate-raspberry-pi-raspbian-with-qemu answered only with the `-raspi2` method
 
 Blinker:
 
