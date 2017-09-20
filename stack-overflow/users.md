@@ -73,6 +73,7 @@ Discovered:
 
 ### Googlers with rep
 
+- <https://stackoverflow.com/users/1172428/fatalerror> Bash, C, ex CISCO
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
 - <http://stackoverflow.com/users/368821/mgiuca> chromium
 - <http://stackoverflow.com/users/95810/alex-martelli>
