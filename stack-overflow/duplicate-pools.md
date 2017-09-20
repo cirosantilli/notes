@@ -33,16 +33,12 @@ Rails pass values to view:
 - http://stackoverflow.com/questions/2721880/ruby-on-rails-send-javascript-variable-from-controller-to-external-javascript
 - http://stackoverflow.com/questions/6504092/erb-in-coffee-script-with-rails-3-1
 
-Vim cscope:
-
-- <http://stackoverflow.com/questions/19469770/how-to-find-the-callers-and-callee-of-a-function-in-c-code-in-vi-vim/31501431#31501431>
-- <http://stackoverflow.com/questions/9616144/vim-how-to-find-all-occurrences-of-a-variable/31501988#31501988>
-
-`readelf -d` recursively:
+`readelf -d` recursively + `/proc/*/maps`:
 
 - <http://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux/43026880#43026880>
-- <http://stackoverflow.com/questions/1172649/how-to-know-which-dynamic-libraries-are-needed-by-an-elf>
+- <http://stackoverflow.com/questions/1172649/how-to-know-which-dynamic-libraries-are-needed-by-an-elf> small
 - <http://unix.stackexchange.com/questions/120015/how-to-find-out-the-dynamic-libraries-executables-loads-when-run>
+- <https://superuser.com/questions/310199/see-currently-loaded-shared-objects-in-linux/1243089#1243089>
 
 What is POSIX:
 
@@ -541,6 +537,18 @@ gdbserver restart executable:
 - https://stackoverflow.com/questions/75255/how-do-you-start-running-the-program-over-again-in-gdb-with-target-remote/44161527#44161527 (wiki)
 - https://electronics.stackexchange.com/questions/28480/restart-execution-from-the-start-without-having-to-reload/307191#307191
 - https://stackoverflow.com/questions/20870338/how-to-terminate-gdbserver/44162888#44162888 how to exit only
+
+## VIM
+
+Vim cscope:
+
+- <http://stackoverflow.com/questions/19469770/how-to-find-the-callers-and-callee-of-a-function-in-c-code-in-vi-vim/31501431#31501431>
+- <http://stackoverflow.com/questions/9616144/vim-how-to-find-all-occurrences-of-a-variable/31501988#31501988>
+
+Vim gdb `edit`:
+
+- <https://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how/46253096#46253096>
+- <https://vi.stackexchange.com/questions/2046/how-can-i-integrate-gdb-with-vim/13596#13596>
 
 ## HTML
 
