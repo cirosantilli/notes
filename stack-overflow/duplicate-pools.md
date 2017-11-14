@@ -464,14 +464,6 @@ Shebang:
 
 QEMU + GDB + Linux kernel:
 
-<<<<<<< HEAD
--   http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu no KGDB
--   http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607 QEMU
--   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971 copy paste from above
-    - https://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/44226360#44226360 KGDB, second answer on same question
-    - https://unix.stackexchange.com/questions/105222/how-can-i-run-gdb-in-one-machine-and-run-kgdb-kernel-in-another-machine/367735#367735 KGDB
-    - https://stackoverflow.com/questions/22004616/qemu-kernel-debugging-with-kgdb/44197715#44197715 KGDB on QEMU only
-
 `ioctl`:
 
 - <https://stackoverflow.com/questions/2264384/how-do-i-use-ioctl-to-manipulate-my-kernel-module/44613896#44613896>
@@ -507,7 +499,6 @@ How is dev created:
 
 - <https://stackoverflow.com/questions/22632713/how-to-write-a-simple-linux-device-driver/44640466#44640466>
 - <https://unix.stackexchange.com/questions/37829/understanding-character-device-or-character-special-files/371758#371758>
-=======
 -   http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu
 -   http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607
 -   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971
@@ -529,7 +520,6 @@ Auto load modules at startup:
 
 - https://linux-tips.com/t/auto-load-kernel-module-on-boot/432/2
 - https://superuser.com/questions/397842/automatically-load-kernel-module-at-boot-angstrom/1267464#1267464
->>>>>>> bak
 
 ## OpenGL
 
@@ -638,11 +628,14 @@ Repeated `input name`:
 - http://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
 - http://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network TODO answer if not marked as duplicate
 
+<<<<<<< HEAD
 dconf dump load:
 
 - https://askubuntu.com/questions/26056/where-are-gnome-keyboard-shortcuts-stored/746262#746262
 - https://askubuntu.com/questions/72070/how-do-i-change-dconf-keys-without-a-gui-for-a-post-install-script/940731#940731
 
+=======
+>>>>>>> notes/master
 Get source with `bzr`:
 
 - http://askubuntu.com/questions/28372/how-do-i-get-and-modify-the-source-code-of-packages-installed-through-apt-get/624762#624762
