@@ -36,6 +36,7 @@ Unknown true identity:
 - <http://stackoverflow.com/users/44729/genpfault> OpenGL. Some game dev. <https://github.com/genpfault> <https://www.reddit.com/user/genpfault> Large comment karma.
 - <http://stackoverflow.com/users/3723423/christophe>
 - <https://stackoverflow.com/users/1880339/artless-noise>: ARM employee.
+- <https://stackoverflow.com/users/533037/solidpixel> ARM Mali?
 
 Discovered:
 
@@ -73,37 +74,39 @@ Discovered:
 
 ### Googlers with rep
 
+- <https://stackoverflow.com/users/1027966/nick-desaulniers> android low level
+- <https://stackoverflow.com/users/1090562/salvador-dali> contact for job interview
+- <https://stackoverflow.com/users/1097780/andreas-rossberg>
 - <https://stackoverflow.com/users/1172428/fatalerror> Bash, C, ex CISCO
+- <https://stackoverflow.com/users/1269037/dan-dascalescu> <https://www.linkedin.com/in/dandv>
+- <https://stackoverflow.com/users/1305501/nosid> Java, C++
+- <https://stackoverflow.com/users/1339987/djechlin>
+- <https://stackoverflow.com/users/136540/michael-aaron-safyan> C++, Java
+- <https://stackoverflow.com/users/1375400/jeremy-condit> BigQuery
+- <https://stackoverflow.com/users/148870/amber> <https://plus.google.com/+AmberYust> <https://www.linkedin.com/in/amberyust> <https://codingkilledthecat.wordpress.com/about/> python
+- <https://stackoverflow.com/users/1988713/tim-murray> RenderScript. Ex NVIDIA. <https://www.linkedin.com/in/tim-murray-7aa93728>
+- <https://stackoverflow.com/users/207442/sigfpe> <https://www.linkedin.com/in/sigfpe/> Life Sciences
+- <https://stackoverflow.com/users/2167655/aaronman> C++
+- <https://stackoverflow.com/users/23584/scott-lamb> Linux
+- <https://stackoverflow.com/users/242762/oak> LLVM
+- <https://stackoverflow.com/users/272031/eduardo> BigQuery, analytics, Brazilian: <https://www.linkedin.com/in/eduardocereto>
+- <https://stackoverflow.com/users/279627/sven-marnach> <https://www.linkedin.com/in/sven-marnach-33290940> python
+- <https://stackoverflow.com/users/298575/romain-guy> Romain Guy <http://www.curious-creature.com/> <https://plus.google.com/+RomainGuy/posts> <https://www.linkedin.com/in/romainguy>
+- <https://stackoverflow.com/users/345717/ebomike> android + video game master <https://plus.google.com/u/0/108410866291813017116/posts> <https://www.linkedin.com/in/ebomike>
+- <https://stackoverflow.com/users/367273/npe> java
+- <https://stackoverflow.com/users/368821/mgiuca> chromium
+- <https://stackoverflow.com/users/40342/joachim-sauer> <https://plus.google.com/+JoachimSauer1/about> java
+- <https://stackoverflow.com/users/422/chris-bunch> Play Music
+- <https://stackoverflow.com/users/4490873/mosha-pasumansky> BigQuery, ex Microsoft where he created MDX... has wiki page: <https://en.wikipedia.org/wiki/Mosha_Pasumansky>
+- <https://stackoverflow.com/users/481267/brian>
+- <https://stackoverflow.com/users/624900/jterrace>
+- <https://stackoverflow.com/users/68507/ben-s> iPhone, one of the people who ports Google apps to the competitor :-)
+- <https://stackoverflow.com/users/822/reto-meier> android
+- <https://stackoverflow.com/users/82294/dietrich-epp> C C++
+- <https://stackoverflow.com/users/844882/alex-lockwood> android
+- <https://stackoverflow.com/users/87234/gmannickg> C++ <https://twitter.com/gmannickg> <https://www.linkedin.com/in/nicholasbgorski>
+- <https://stackoverflow.com/users/95810/alex-martelli>
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
-- <http://stackoverflow.com/users/368821/mgiuca> chromium
-- <http://stackoverflow.com/users/95810/alex-martelli>
-- <http://stackoverflow.com/users/148870/amber> <https://plus.google.com/+AmberYust> <https://www.linkedin.com/in/amberyust> <https://codingkilledthecat.wordpress.com/about/> python
-- <http://stackoverflow.com/users/367273/npe> java
-- <http://stackoverflow.com/users/40342/joachim-sauer> <https://plus.google.com/+JoachimSauer1/about> java
-- <http://stackoverflow.com/users/136540/michael-aaron-safyan> C++, Java
-- <http://stackoverflow.com/users/279627/sven-marnach> <https://www.linkedin.com/in/sven-marnach-33290940> python
-- <http://stackoverflow.com/users/1269037/dan-dascalescu> <https://www.linkedin.com/in/dandv>
-- <http://stackoverflow.com/users/345717/ebomike> android + video game master <https://plus.google.com/u/0/108410866291813017116/posts> <https://www.linkedin.com/in/ebomike>
-- <http://stackoverflow.com/users/822/reto-meier> android
-- <http://stackoverflow.com/users/298575/romain-guy> Romain Guy <http://www.curious-creature.com/> <https://plus.google.com/+RomainGuy/posts> <https://www.linkedin.com/in/romainguy>
-- <http://stackoverflow.com/users/844882/alex-lockwood> android
-- <http://stackoverflow.com/users/1988713/tim-murray> RenderScript. Ex NVIDIA. <https://www.linkedin.com/in/tim-murray-7aa93728>
-- <http://stackoverflow.com/users/1305501/nosid> Java, C++
-- <http://stackoverflow.com/users/87234/gmannickg> C++ <https://twitter.com/gmannickg> <https://www.linkedin.com/in/nicholasbgorski>
-- <http://stackoverflow.com/users/2167655/aaronman> C++
-- <http://stackoverflow.com/users/4490873/mosha-pasumansky> BigQuery, ex Microsoft where he created MDX... has wiki page: <https://en.wikipedia.org/wiki/Mosha_Pasumansky>
-- <http://stackoverflow.com/users/1375400/jeremy-condit> BigQuery
-- <http://stackoverflow.com/users/272031/eduardo> BigQuery, analytics, Brazilian: <https://www.linkedin.com/in/eduardocereto>
-- <http://stackoverflow.com/users/242762/oak> LLVM
-- <http://stackoverflow.com/users/1339987/djechlin>
-- <http://stackoverflow.com/users/1097780/andreas-rossberg>
-- <http://stackoverflow.com/users/481267/brian>
-- <http://stackoverflow.com/users/68507/ben-s> iPhone, one of the people who ports Google apps to the competitor :-)
-- <http://stackoverflow.com/users/1027966/nick-desaulniers> android low level
-- <http://stackoverflow.com/users/422/chris-bunch> Play Music
-- <http://stackoverflow.com/users/82294/dietrich-epp> C C++
-- <http://stackoverflow.com/users/624900/jterrace>
-- <http://stackoverflow.com/users/1090562/salvador-dali> contact for job interview
 
 Ex:
 
@@ -115,11 +118,12 @@ Ex:
 
 ### NVIDIA
 
-- <http://gamedev.stackexchange.com/users/9894/nathan-reed> Freaking coined the term GPGPU!
+- <http://gamedev.stackexchange.com/users/9894/nathan-reed>
 - <http://stackoverflow.com/users/1154447/bruziuz>
 - <http://stackoverflow.com/users/1695960/robert-crovella> <https://www.linkedin.com/in/robert-crovella-0ab46330>
 - <http://stackoverflow.com/users/319204/thecodeartist>
-- <http://stackoverflow.com/users/749748/harrism>
+- <http://stackoverflow.com/users/749748/harrism> <https://en.wikipedia.org/wiki/Mark_Harris_(programmer)> Freaking coined the term GPGPU!
+- <http://stackoverflow.com/users/214473/tom> <https://www.linkedin.com/in/tmjbradley/> (photo match)
 
 ### Oracle
 
@@ -154,16 +158,25 @@ Ex:
 
 - http://stackoverflow.com/users/2659313/mohit-jain
 
+<<<<<<< HEAD
 ### Mozilla
 
 - <http://stackoverflow.com/users/168225/georg-fritzsche>
 
 ## Others
+=======
+### ARM
+
+- https://stackoverflow.com/users/2308031/jan-harald
+
+### Others
+>>>>>>> bak
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism
 - http://stackoverflow.com/users/1120273/dietmar-k%C3%BChl Bloomberg, C++ hardcore
 - http://stackoverflow.com/users/165520/prasoon-saurav Arista
 - http://stackoverflow.com/users/787480/sneftel Havoc
+- https://stackoverflow.com/users/1051115/krazy-glew https://www.linkedin.com/in/andyglew/ NVIDIA, MIPS, many many others. Started as low level software and crossed the HW barrier into simulation. A model for me.
 
 ## Met personally
 
