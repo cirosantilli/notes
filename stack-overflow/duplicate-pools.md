@@ -13,6 +13,14 @@ I'm less likely to update closed questions.
 - <https://superuser.com/questions/781591/screen-is-terminating-for-non-root/1213391#1213391>
 - <https://unix.stackexchange.com/questions/93892/screen-is-terminating>
 
+`sudo` redirect to file with `dd`:
+
+- <https://askubuntu.com/questions/230476/when-using-sudo-with-redirection-i-get-permission-denied/919621#919621>
+- <https://unix.stackexchange.com/questions/106663/how-do-you-process-an-entire-command-as-sudo-that-involves-redirecting-or-piping/367709#367709>
+- already answered by others:
+    - <https://superuser.com/questions/54814/sudo-unable-to-write-to-etc-profile/743444#743444>
+    - <https://stackoverflow.com/questions/82256/how-do-i-use-sudo-to-redirect-output-to-a-location-i-dont-have-permission-to-wr/8213307#8213307>
+
 sudo ulimit operation not permitted:
 
 - http://unix.stackexchange.com/questions/81843/sudo-ulimit-command-not-found/169035#169035
@@ -51,14 +59,6 @@ shntool CUE APE split:
 - <http://superuser.com/questions/251362/split-monkeyaudio-ape-cue-log-of-whole-audio-cd-into-mp3-of-individual/966801#966801>
 - <http://unix.stackexchange.com/questions/165485/why-can-i-not-split-a-ape-file/227252#227252> without error message, which OP already gave
 
-Python `__getitem__` tuple and `slice` syntax:
-
-- http://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences/33086813#33086813
-- http://stackoverflow.com/questions/3680262/slice-a-2d-python-array/33086948#33086948
-- http://stackoverflow.com/questions/9367813/python-list-indices-must-be-integers-not-tuple-error/33087117#33087117
-- http://stackoverflow.com/questions/21662532/python-list-indices-must-be-integers-not-tuple/33087324#33087324
-- http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
-
 What does the linker do:
 
 - http://stackoverflow.com/questions/3322911/what-do-linkers-do/33690144#33690144
@@ -80,6 +80,26 @@ cmake / ccmake show options:
 - http://stackoverflow.com/questions/9298278/cmake-print-out-all-accessible-variables-in-a-script/42945643#42945643
 - http://stackoverflow.com/questions/16851084/list-cmake-build-option/42945360#42945360
 - http://stackoverflow.com/questions/32425599/where-is-the-cmake-gui-for-linux/42921972#42921972
+
+- netcat ECHO server:
+
+- https://stackoverflow.com/questions/8375860/echo-server-with-bash/44246455#44246455
+- https://serverfault.com/questions/346481/echo-server-with-netcat-or-socat/852847#852847
+
+## Python
+
+Python `__getitem__` tuple and `slice` syntax:
+
+- http://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences/33086813#33086813
+- http://stackoverflow.com/questions/3680262/slice-a-2d-python-array/33086948#33086948
+- http://stackoverflow.com/questions/9367813/python-list-indices-must-be-integers-not-tuple-error/33087117#33087117
+- http://stackoverflow.com/questions/21662532/python-list-indices-must-be-integers-not-tuple/33087324#33087324
+- http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
+
+Python `OrderedDict` for balanced BST:
+
+- <http://stackoverflow.com/questions/1109804/does-python-have-a-sorted-list/44056049#44056049>
+- <http://stackoverflow.com/questions/2298165/pythons-standard-library-is-there-a-module-for-balanced-binary-tree/44026570#44026570>
 
 ## Program without OS
 
@@ -114,6 +134,7 @@ Mount image with multiple partitions:
 - http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
 - http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
 - http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
+- https://superuser.com/questions/211338/mounting-a-multi-partition-disk-image-in-linux/1263401#1263401
 
 GRUB mkrescue config:
 
@@ -122,9 +143,10 @@ GRUB mkrescue config:
 
 Non-interactive partition creation:
 
-- <http://superuser.com/questions/332252/creating-and-formating-a-partition-using-a-bash-script/1132834#1132834>
 - <http://stackoverflow.com/questions/12150116/how-to-script-sfdisk-or-parted-for-multiple-partitions/39935542#39935542>
-- <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891>, made just a link to others
+- <http://superuser.com/questions/332252/creating-and-formating-a-partition-using-a-bash-script/1132834#1132834>
+- <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891> minimal linking to others
+- <http://askubuntu.com/questions/22381/how-to-format-a-usb-flash-drive/672126#672126> minimal linking to others
 
 Load boot sector from drive:
 
@@ -205,6 +227,11 @@ Hyper-threading:
 
 - <http://superuser.com/questions/133082/hyper-threading-and-dual-core-whats-the-difference?rq=1>
 - <http://superuser.com/questions/122536/what-is-hyper-threading-and-how-does-it-work?lq=1> TODO answer
+
+Paging vs segmentation:
+
+- <https://stackoverflow.com/questions/16643180/differences-or-similarities-between-segmented-paging-and-paged-segmentation/44485294#44485294>
+- <https://softwareengineering.stackexchange.com/questions/100047/why-not-segmentation/350662#350662>
 
 ### Git
 
@@ -322,7 +349,8 @@ C print / get time:
 
 String interning, = vs equals for string:
 
-- http://stackoverflow.com/questions/2486191/what-is-the-java-string-pool-and-how-is-s-different-from-new-strings/29978564#29978564
+- http://stackoverflow.com/questions/3052442/what-is-the-difference-between-text-and-new-stringtext/43423384#43423384
+- http://stackoverflow.com/questions/2486191/what-is-the-java-string-pool-and-how-is-s-different-from-new-strings/29978564#29978564 closed as duplicate
 - http://stackoverflow.com/questions/10578984/what-is-string-interning/35360991#35360991
 - http://stackoverflow.com/questions/1091045/is-it-good-practice-to-use-java-lang-string-intern/35398984#35398984
 - http://stackoverflow.com/questions/7520432/what-is-the-difference-between-vs-equals-in-java/35399386#35399386
@@ -330,7 +358,7 @@ String interning, = vs equals for string:
 Native:
 
 - http://stackoverflow.com/questions/6101311/what-is-the-native-keyword-in-java-for/30635871#30635871
-- http://stackoverflow.com/questions/557574/what-is-a-native-implementation-in-java/30636097#30636097
+- closed http://stackoverflow.com/questions/557574/what-is-a-native-implementation-in-java/30636097#30636097
 - closed http://stackoverflow.com/questions/18900736/what-exactly-are-native-methods-in-java-and-where-should-be-used/29311166#29311166
 - closed http://stackoverflow.com/questions/2902618/usage-of-native-in-java/30635999#30635999
 
@@ -436,6 +464,7 @@ Shebang:
 
 QEMU + GDB + Linux kernel:
 
+<<<<<<< HEAD
 -   http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu no KGDB
 -   http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607 QEMU
 -   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971 copy paste from above
@@ -478,6 +507,29 @@ How is dev created:
 
 - <https://stackoverflow.com/questions/22632713/how-to-write-a-simple-linux-device-driver/44640466#44640466>
 - <https://unix.stackexchange.com/questions/37829/understanding-character-device-or-character-special-files/371758#371758>
+=======
+-   http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu
+-   http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607
+-   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971
+-   http://stackoverflow.com/questions/28607538/debugging-linux-kernel-module-on-qemu module GDB specific
+-   no debug
+    - http://stackoverflow.com/questions/32124246/how-to-build-and-run-a-linux-kernel-module-on-qemu/38813400#38813400 semi dupe, module specific
+    - http://stackoverflow.com/questions/40307328/how-to-add-linux-driver-as-a-buildroot-package/43874273#43874273 qemu + kernel module
+
+Physical to virtual:
+
+- https://stackoverflow.com/questions/5748492/is-there-any-api-for-determining-the-physical-address-from-virtual-address-in-li/45128487#45128487
+- https://stackoverflow.com/questions/17021214/how-to-decode-proc-pid-pagemap-entries-in-linux/45126141#45126141
+- https://stackoverflow.com/questions/6284810/proc-pid-pagemaps-and-proc-pid-maps-linux/45500208#45500208 dump all pages
+- devmem2
+    - https://stackoverflow.com/questions/44312599/write-and-read-registers-in-linux-on-arm/45499234#45499234
+    - https://stackoverflow.com/questions/12040303/accessing-physical-address-from-user-space/45127890#45127890
+
+Auto load modules at startup:
+
+- https://linux-tips.com/t/auto-load-kernel-module-on-boot/432/2
+- https://superuser.com/questions/397842/automatically-load-kernel-module-at-boot-angstrom/1267464#1267464
+>>>>>>> bak
 
 ## OpenGL
 
@@ -532,6 +584,7 @@ Compile:
 - http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
 - http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
 
+<<<<<<< HEAD
 gdbserver restart executable:
 
 - https://stackoverflow.com/questions/75255/how-do-you-start-running-the-program-over-again-in-gdb-with-target-remote/44161527#44161527 (wiki)
@@ -549,6 +602,12 @@ Vim gdb `edit`:
 
 - <https://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how/46253096#46253096>
 - <https://vi.stackexchange.com/questions/2046/how-can-i-integrate-gdb-with-vim/13596#13596>
+=======
+rr:
+
+- https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380
+- https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
+>>>>>>> bak
 
 ## HTML
 

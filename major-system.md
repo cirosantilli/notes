@@ -10,9 +10,12 @@
 - 5 l: L is the Roman numeral for 50.
 - 6 j, sh, soft ch, dg, zh, soft g: a script j has a lower loop like 6. These letters also have a ‘whistle-like’ sound, and 6 looks like a whistle.
 - 7 k, hard c, hard g, q, qu: capital K contains two 7s (on their sides, back to back).
-- 8 v, f: think of v as in a V8 motor. f sounds similar (notice how your teeth touch your lips for both).
+- 8 v, f: think of v as in a V8 motor. f sounds similar (notice how your teeth touch your lips for both), hand written f looks like 8
 - 9 b, p: p is a mirror-image 9. b sounds similar and resembles a 9 rolled around (also notice how your lip movement is the same when pronouncing these letters.)
-- – vowel sounds, w, h, y: These sounds can be used anywhere without changing a word’s number value.
+
+Rules:
+
+- vowel sounds, w, h, y: These sounds can be used anywhere without changing a word’s number value.
 
            | 0    | 1    | 2    | 3     | 4     | 5     | 6     | 7    | 8     | 9
 -----------|------|------|------|-------|-------|-------|-------|------|-------|------

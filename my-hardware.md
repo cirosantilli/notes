@@ -26,6 +26,93 @@ Display: 1080p 60FPS 15.6"
 
 Graphics: NVIDIA GK107GLM [Quadro K1100M] http://silicongenesis.stanford.edu/complete_listing.html
 
+### P710 with NVIDIA GTX 1080
+
+Ubuntu 16.10:
+
+`__GL_SYNC_TO_VBLANK=0 glxgears`: 27k FPS :-)
+
+`glmark2`:
+
+    =======================================================
+        glmark2 2014.03+git20150611.fa71af2d
+    =======================================================
+        OpenGL Information
+        GL_VENDOR: 	NVIDIA Corporation
+        GL_RENDERER:   GeForce GTX 1080/PCIe/SSE2
+        GL_VERSION:	4.5.0 NVIDIA 375.39
+    =======================================================
+    [build] use-vbo=false: FPS: 11541 FrameTime: 0.087 ms
+    [build] use-vbo=true: FPS: 24095 FrameTime: 0.042 ms
+    [texture] texture-filter=nearest: FPS: 23185 FrameTime: 0.043 ms
+    [texture] texture-filter=linear: FPS: 23179 FrameTime: 0.043 ms
+    [texture] texture-filter=mipmap: FPS: 23209 FrameTime: 0.043 ms
+    [shading] shading=gouraud: FPS: 22256 FrameTime: 0.045 ms
+    [shading] shading=blinn-phong-inf: FPS: 22304 FrameTime: 0.045 ms
+    [shading] shading=phong: FPS: 21591 FrameTime: 0.046 ms
+    [shading] shading=cel: FPS: 21558 FrameTime: 0.046 ms
+    [bump] bump-render=high-poly: FPS: 17197 FrameTime: 0.058 ms
+    [bump] bump-render=normals: FPS: 24586 FrameTime: 0.041 ms
+    [bump] bump-render=height: FPS: 23935 FrameTime: 0.042 ms
+    [effect2d] kernel=0,1,0;1,-4,1;0,1,0;: FPS: 20152 FrameTime: 0.050 ms
+    [effect2d] kernel=1,1,1,1,1;1,1,1,1,1;1,1,1,1,1;: FPS: 15354 FrameTime: 0.065 ms
+    [pulsar] light=false:quads=5:texture=false: FPS: 23693 FrameTime: 0.042 ms
+    [desktop] blur-radius=5:effect=blur:passes=1:separable=true:windows=4: FPS: 7046 FrameTime: 0.142 ms
+    [desktop] effect=shadow:windows=4: FPS: 9241 FrameTime: 0.108 ms
+    [buffer] columns=200:interleave=false:update-dispersion=0.9:update-fraction=0.5:update-method=map: FPS: 1270 FrameTime: 0.787 ms
+    [buffer] columns=200:interleave=false:update-dispersion=0.9:update-fraction=0.5:update-method=subdata: FPS: 1370 FrameTime: 0.730 ms
+    [buffer] columns=200:interleave=true:update-dispersion=0.9:update-fraction=0.5:update-method=map: FPS: 1365 FrameTime: 0.733 ms
+    [ideas] speed=duration: FPS: 11825 FrameTime: 0.085 ms
+    [jellyfish] <default>: FPS: 17647 FrameTime: 0.057 ms
+    [terrain] <default>: FPS: 1683 FrameTime: 0.594 ms
+    [shadow] <default>: FPS: 17168 FrameTime: 0.058 ms
+    [refract] <default>: FPS: 6382 FrameTime: 0.157 ms
+    [conditionals] fragment-steps=0:vertex-steps=0: FPS: 22375 FrameTime: 0.045 ms
+    [conditionals] fragment-steps=5:vertex-steps=0: FPS: 22355 FrameTime: 0.045 ms
+    [conditionals] fragment-steps=0:vertex-steps=5: FPS: 22480 FrameTime: 0.044 ms
+    [function] fragment-complexity=low:fragment-steps=5: FPS: 22616 FrameTime: 0.044 ms
+    [function] fragment-complexity=medium:fragment-steps=5: FPS: 22500 FrameTime: 0.044 ms
+    [loop] fragment-loop=false:fragment-steps=5:vertex-steps=5: FPS: 22584 FrameTime: 0.044 ms
+    [loop] fragment-steps=5:fragment-uniform=false:vertex-steps=5: FPS: 22530 FrameTime: 0.044 ms
+    [loop] fragment-steps=5:fragment-uniform=true:vertex-steps=5: FPS: 22352 FrameTime: 0.045 ms
+    =======================================================
+                                    glmark2 Score: 17352
+    =======================================================
+
+### P51
+
+Bought: 2017.
+
+HW specs:
+
+- Intel Core i7-7820HQ Processor (8MB Cache, up to 3.90GHz)
+- Windows 10 Pro 64
+- Windows 10 Pro 64 WE (EN/FR/DE/NL/IT)
+- 15.6" FHD (1920x1080), anti-glare, IPS
+- 32GB(16+16) DDR4 2400MHz SODIMM
+- NVIDIA Quadro M1200 4GB GDDR5
+- With Color Sensor
+- 720p HD Camera with Microphone
+- Keyboard with Number Pad - Euro English
+- 3+3BCP, Fingerprint Reader,Color Sensor
+- Integrated Fingerprint Reader
+- Hardware dTPM2.0 Enabled
+- 1TB 5400rpm HDD
+- 512GB SSD PCIe TLC OPAL2
+- 1.5TB
+- 170W AC Adapter - UK(3pin)
+- 6 Cell Li-Polymer Battery, 90Wh
+- Intel Dual Band Wireless AC(2x2) 8265, Bluetooth Version 4.1, vPro
+
+Ubuntu 17.10 setup fun:
+
+- partition setup: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
+- NVIDIA: install from gtk-software-properties, disable secure boot on BIOS settings (otherwise driver nicely ignored), then boot gets stuck at a message "nvidia persistence daemon". Then reboot three times and it started re-working
+
+vbank_mode=0 glxgears no NVIDIA driver: 9k FPS
+
+vbank_mode=0 glxgears no NVIDIA driver: 14k FPS
+
 ### T430
 
 <http://shop.lenovo.com/us/en/laptops/thinkpad/t-series/t430/#tab-tech_specs>
@@ -40,7 +127,7 @@ Released 2012.
 
 Graphics: NVIDIA NVS 5400M.
 
-### Intel i5-3210M CPU
+#### Intel i5-3210M CPU
 
 <https://ark.intel.com/products/67355/Intel-Core-i5-3210M-Processor-3M-Cache-up-to-3_10-GHz-rPGA>
 
@@ -58,7 +145,56 @@ AVX extension (4 32-bit floats).
 
 FMA GFLOPS: 2.5 * 2 * 4 = 20
 
+Ubuntu 16.10 `glmark2`:
+
+    =======================================================
+        glmark2 2014.03+git20150611.fa71af2d
+    =======================================================
+        OpenGL Information
+        GL_VENDOR:     NVIDIA Corporation
+        GL_RENDERER:   NVS 5400M/PCIe/SSE2
+        GL_VERSION:    4.5.0 NVIDIA 375.39
+    =======================================================
+    [build] use-vbo=false: FPS: 2341 FrameTime: 0.427 ms
+    [build] use-vbo=true: FPS: 2286 FrameTime: 0.437 ms
+    [texture] texture-filter=nearest: FPS: 2146 FrameTime: 0.466 ms
+    [texture] texture-filter=linear: FPS: 2261 FrameTime: 0.442 ms
+    [texture] texture-filter=mipmap: FPS: 2366 FrameTime: 0.423 ms
+    [shading] shading=gouraud: FPS: 2028 FrameTime: 0.493 ms
+    [shading] shading=blinn-phong-inf: FPS: 1846 FrameTime: 0.542 ms
+    [shading] shading=phong: FPS: 1521 FrameTime: 0.657 ms
+    [shading] shading=cel: FPS: 1554 FrameTime: 0.644 ms
+    [bump] bump-render=high-poly: FPS: 956 FrameTime: 1.046 ms
+    [bump] bump-render=normals: FPS: 2265 FrameTime: 0.442 ms
+    [bump] bump-render=height: FPS: 2228 FrameTime: 0.449 ms
+    [effect2d] kernel=0,1,0;1,-4,1;0,1,0;: FPS: 1180 FrameTime: 0.847 ms
+    [effect2d] kernel=1,1,1,1,1;1,1,1,1,1;1,1,1,1,1;: FPS: 504 FrameTime: 1.984 ms
+    [pulsar] light=false:quads=5:texture=false: FPS: 1205 FrameTime: 0.830 ms
+    [desktop] blur-radius=5:effect=blur:passes=1:separable=true:windows=4: FPS: 401 FrameTime: 2.494 ms
+    [desktop] effect=shadow:windows=4: FPS: 634 FrameTime: 1.577 ms
+    [buffer] columns=200:interleave=false:update-dispersion=0.9:update-fraction=0.5:update-method=map: FPS: 464 FrameTime: 2.155 ms
+    [buffer] columns=200:interleave=false:update-dispersion=0.9:update-fraction=0.5:update-method=subdata: FPS: 709 FrameTime: 1.410 ms
+    [buffer] columns=200:interleave=true:update-dispersion=0.9:update-fraction=0.5:update-method=map: FPS: 685 FrameTime: 1.460 ms
+    [ideas] speed=duration: FPS: 1336 FrameTime: 0.749 ms
+    [jellyfish] <default>: FPS: 605 FrameTime: 1.653 ms
+    [terrain] <default>: FPS: 64 FrameTime: 15.625 ms
+    [shadow] <default>: FPS: 745 FrameTime: 1.342 ms
+    [refract] <default>: FPS: 199 FrameTime: 5.025 ms
+    [conditionals] fragment-steps=0:vertex-steps=0: FPS: 1065 FrameTime: 0.939 ms
+    [conditionals] fragment-steps=5:vertex-steps=0: FPS: 769 FrameTime: 1.300 ms
+    [conditionals] fragment-steps=0:vertex-steps=5: FPS: 1168 FrameTime: 0.856 ms
+    [function] fragment-complexity=low:fragment-steps=5: FPS: 1196 FrameTime: 0.836 ms
+    [function] fragment-complexity=medium:fragment-steps=5: FPS: 1080 FrameTime: 0.926 ms
+    [loop] fragment-loop=false:fragment-steps=5:vertex-steps=5: FPS: 1216 FrameTime: 0.822 ms
+    [loop] fragment-steps=5:fragment-uniform=false:vertex-steps=5: FPS: 1172 FrameTime: 0.853 ms
+    [loop] fragment-steps=5:fragment-uniform=true:vertex-steps=5: FPS: 1077 FrameTime: 0.929 ms
+    =======================================================
+                                    glmark2 Score: 1250 
+    =======================================================
+
 ### T400
+
+Thrown out: 2017
 
 Sometimes it does not turn on.
 
@@ -129,6 +265,10 @@ CPU: Krait 400 <https://en.wikipedia.org/wiki/Krait_%28CPU%29> ARMv7-A architect
 
 GPU: Adreno 330
 
+### L1 G3311
+
+Bought: 2017.
+
 ## Logitech C920 webcam
 
 Savoir-faire Linux, given to me 2016.
@@ -185,3 +325,10 @@ Now just HDMI does not work. Possibly a monitor vs television problem:
 ## BBC Micro Bit
 
 <https://en.wikipedia.org/wiki/Micro_Bit>
+
+## Internet speed
+
+Home 2017/08
+
+- 3.66 Mbps download
+- 0.74 Mbps up
