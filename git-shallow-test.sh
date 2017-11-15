@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# https://github.com/cirosantilli/test-submodule-mod
+# https://github.com/cirosantilli/test-submodule-top
+# https://github.com/cirosantilli/test-submodule-top-shallow
+
 set -ex
 
 rm -rf *
