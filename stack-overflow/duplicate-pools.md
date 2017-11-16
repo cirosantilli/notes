@@ -167,6 +167,10 @@ Set:
 - http://stackoverflow.com/questions/2523436/javascript-implementation-of-a-set-data-structure/24231435#24231435
 - http://stackoverflow.com/questions/5657219/set-of-objects-in-javascript/25946469#25946469
 
+## nodejss
+
+- <https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612>
+
 ## bash
 
 echo newline:
