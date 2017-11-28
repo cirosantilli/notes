@@ -158,19 +158,15 @@ Ex:
 
 - http://stackoverflow.com/users/2659313/mohit-jain
 
-<<<<<<< HEAD
 ### Mozilla
 
 - <http://stackoverflow.com/users/168225/georg-fritzsche>
 
-## Others
-=======
 ### ARM
 
 - https://stackoverflow.com/users/2308031/jan-harald
 
 ### Others
->>>>>>> bak
 
 - https://web.archive.org/web/20150715225030/https://stackoverflow.com/users/319403/chao I wonder how he would feel about anti communism
 - http://stackoverflow.com/users/1120273/dietmar-k%C3%BChl Bloomberg, C++ hardcore
