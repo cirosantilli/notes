@@ -521,6 +521,18 @@ Auto load modules at startup:
 - https://linux-tips.com/t/auto-load-kernel-module-on-boot/432/2
 - https://superuser.com/questions/397842/automatically-load-kernel-module-at-boot-angstrom/1267464#1267464
 
+## NodeJS
+
+Install with NVM:
+
+- <https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612>
+- <https://stackoverflow.com/questions/34974535/install-latest-nodejs-version-in-ubuntu-14-04/47376405#47376405>
+- <https://stackoverflow.com/questions/16898001/installing-a-specific-node-version-in-ubuntu/47376491#47376491>
+- already answered by someone else:
+    - <https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version/441527#441527>
+- marked as dupes:
+    - https://askubuntu.com/questions/562417/how-do-you-update-npm-to-the-latest-version?noredirect=1&lq=1
+
 ## OpenGL
 
 Normal:

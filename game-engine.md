@@ -4,17 +4,18 @@ C++ lightweight options 2017: good starting point: <https://github.com/fffaraz/a
 
 -   https://github.com/urho3d/Urho3D just work C++ examples, no bullshit.
 
-    Box2D and Bullet backends, SDL based.
+    Box2D and Bullet backends, SDL based. Feels elegant.
 
-    No official platformer example :-( https://github.com/urho3d/Urho3D/pull/641
+    No official platformer example :-( Very few examples overall: https://github.com/urho3d/Urho3D/pull/641
+
+    2D feels second-rate compared to 3D:
+
+    - https://stackoverflow.com/questions/47488411/how-to-scale-a-sprite2d-in-urho3d-without-rescaling-the-entire-node
+    - no arbitrary shaders? Only bitmaps?
+        - https://discourse.urho3d.io/t/2d-lights-shaders-glow-shadows/251
+        - https://github.com/urho3d/Urho3D/issues/462
 
     Has a headless mode, and frame limiting removal.
-
--   https://github.com/ivansafrin/Polycode
-
-    sudo apt-get install libphysfs-dev libopenal-dev
-
-    Bleh, was annoying to compile on Ubuntu, so I quit for a while.
 
 -   Cocos2d-x: by far the most popular FOSS engine, but build is annoying on Ubuntu.
 
@@ -23,7 +24,6 @@ C++ lightweight options 2017: good starting point: <https://github.com/fffaraz/a
     Surprisingly few larger game examples on GitHub however.
 
     Fix this build failure:
-
 
         relocation R_X86_64_32 against symbol_ZN15CProfileManager4RootE' can not be used when making a shared object; recompile with -fPIC`
 
@@ -54,4 +54,31 @@ C++ lightweight options 2017: good starting point: <https://github.com/fffaraz/a
 
     fails and makes me sad.
 
+-   https://github.com/ivansafrin/Polycode
+
+    sudo apt-get install libphysfs-dev libopenal-dev libfreetype6-dev
+
+    Bleh, was annoying to compile on Ubuntu, so I quit for a while.
+
+        CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+        Please set them or make sure they are set and tested correctly in the CMake files:                       
+        ASSIMP_INCLUDE_DIR
+          used as include directory in directory /home/ciro/git/Polycode/Tools/Contents/polyimport
+
+    Dead since 2015.
+
+    Demos seem promising, actual platformers and pong: https://www.youtube.com/watch?v=Ik3ImYElcD0
+
+    Bullet and box2d frontends.
+
+-   https://github.com/oxygine/oxygine-framework
+
+    Well, the distinctively named "Game" example compiled fine, but I get bad vibes from that project for some reason. Not that many examples either.
+
+    Box2D is not integrated apparently, one of the examples copy pastes Box2D source into the tree to use it.
+
 -   Godot: too much emphasis on scripting BS :-)
+
+-   irrilicht: no rigid body physics, only hard collision, and some bullet3d hacks which I dare not touch ever :-)
+
+-   atomic: Urho3D fork, which was later re-open sourced. More focus on scripting apparently? Fail :-(

@@ -107,11 +107,22 @@ HW specs:
 Ubuntu 17.10 setup fun:
 
 - partition setup: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
-- NVIDIA: install from gtk-software-properties, disable secure boot on BIOS settings (otherwise driver nicely ignored), then boot gets stuck at a message "nvidia persistence daemon". Then reboot three times and it started re-working
+- BIOS:
+    - for NVIDIA driver: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
+    - for KVM, required by Android Emulator: enable virtualization extensions
+- TODO fix the brightness keys:
+    - failed: https://askubuntu.com/questions/769006/brightness-key-not-working-ubuntu-16-04-lts/770100#770100
 
-vbank_mode=0 glxgears no NVIDIA driver: 9k FPS
+Reddit threads:
 
-vbank_mode=0 glxgears no NVIDIA driver: 14k FPS
+- https://www.reddit.com/r/linux4noobs/comments/5zyejw/update_1604_tp_1610_boot_hangs_at_started_nvidia/
+- https://www.reddit.com/r/Lenovo/comments/6g8m9w/ubuntu_on_lenovo_p51/
+- https://www.reddit.com/r/thinkpad/comments/6hi0zn/if_youre_thinking_of_running_linux_on_a_p51_read/
+
+Battery:
+
+- before GPU: 8h
+- after GPU: 6.5h
 
 ### T430
 
@@ -126,6 +137,8 @@ TYPE 2344-CTO PBXGKXD 12/10
 Released 2012.
 
 Graphics: NVIDIA NVS 5400M.
+
+1600x900 max resolution.
 
 #### Intel i5-3210M CPU
 
