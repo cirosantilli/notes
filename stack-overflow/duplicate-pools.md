@@ -590,7 +590,6 @@ Compile:
 - http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
 - http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
 
-<<<<<<< HEAD
 gdbserver restart executable:
 
 - https://stackoverflow.com/questions/75255/how-do-you-start-running-the-program-over-again-in-gdb-with-target-remote/44161527#44161527 (wiki)
@@ -608,12 +607,11 @@ Vim gdb `edit`:
 
 - <https://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how/46253096#46253096>
 - <https://vi.stackexchange.com/questions/2046/how-can-i-integrate-gdb-with-vim/13596#13596>
-=======
+
 rr:
 
 - https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380
 - https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
->>>>>>> bak
 
 ## HTML
 
@@ -644,14 +642,11 @@ Repeated `input name`:
 - http://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
 - http://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network TODO answer if not marked as duplicate
 
-<<<<<<< HEAD
 dconf dump load:
 
 - https://askubuntu.com/questions/26056/where-are-gnome-keyboard-shortcuts-stored/746262#746262
 - https://askubuntu.com/questions/72070/how-do-i-change-dconf-keys-without-a-gui-for-a-post-install-script/940731#940731
 
-=======
->>>>>>> notes/master
 Get source with `bzr`:
 
 - http://askubuntu.com/questions/28372/how-do-i-get-and-modify-the-source-code-of-packages-installed-through-apt-get/624762#624762
