@@ -53,3 +53,7 @@ To export large data sets, you need Google Cloud Storage. Create a bucket named 
 ## Patents
 
 <https://patents.google.com/>
+
+## Interesting Googlers
+
+- <http://www.barroso.org/bio.html> from Rio

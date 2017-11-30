@@ -413,10 +413,10 @@ PTY
 
 User vs kernel land:
 
+- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems>
 - <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809>
 - <https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space/368313#368313>
-    - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered
-- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-os>
+    - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered, now closed as duplicate
 
 Minimal Linux distro:
 
@@ -678,6 +678,11 @@ Minimum memory requirements:
 
 - <http://android.stackexchange.com/questions/34958/what-are-the-minimum-hardware-specifications-for-android/149226#149226>
 - <https://www.quora.com/What-is-the-minimum-RAM-size-needed-to-run-Android-5-1-or-6/answer/Ciro-Santilli>
+
+.so include in project:
+
+- <https://stackoverflow.com/questions/9870435/how-to-link-a-prebuilt-shared-library-to-an-android-ndk-project/47558694#47558694>
+- <https://stackoverflow.com/questions/24357687/how-to-include-so-library-in-android-studio/47571737#47571737>
 
 ## Raspberry pi
 

@@ -107,6 +107,7 @@ Discovered:
 - <https://stackoverflow.com/users/87234/gmannickg> C++ <https://twitter.com/gmannickg> <https://www.linkedin.com/in/nicholasbgorski>
 - <https://stackoverflow.com/users/95810/alex-martelli>
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
+- <https://stackoverflow.com/users/19868/drakosha>
 
 Ex:
 
