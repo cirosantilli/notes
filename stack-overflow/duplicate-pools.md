@@ -187,6 +187,7 @@ loop over integer range:
 
 - <http://stackoverflow.com/questions/13542832/bash-if-difference-between-square-brackets-and-double-square-brackets/31366734#31366734>
 - <http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash/705144#705144>
+- <https://unix.stackexchange.com/questions/306111/confused-about-operators-vs-vs-vs/408003#408003>
 
 Lines in one file by not in another:
 
