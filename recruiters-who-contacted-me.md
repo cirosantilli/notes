@@ -1,5 +1,6 @@
 # Recruiters who contacted me
 
+- 2017-12 - Baptiste Guillaumet from GetPro - Automate Dental Tracking startup
 - 2017-09 - Damiel Heyman for CondenSys <https://www.linkedin.com/in/danielheyman1/> <https://www.linkedin.com/in/jasonyiconsensys/>
 - 2017-07 - Milda Belkeviciute Xing Java in Paris <https://www.linkedin.com/in/milda-belkeviciute-309870b9>
 - 2017-06 - Ya Sun <https://www.linkedin.com/in/sylviayasun> GreenRide Sharing Limited
