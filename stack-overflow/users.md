@@ -37,6 +37,7 @@ Unknown true identity:
 - <http://stackoverflow.com/users/3723423/christophe>
 - <https://stackoverflow.com/users/1880339/artless-noise>: ARM employee.
 - <https://stackoverflow.com/users/533037/solidpixel> ARM Mali?
+- <https://stackoverflow.com/users/16007/old-timer>: ARM employee?
 
 Discovered:
 

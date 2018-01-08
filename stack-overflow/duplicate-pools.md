@@ -101,6 +101,11 @@ Python `OrderedDict` for balanced BST:
 - <http://stackoverflow.com/questions/1109804/does-python-have-a-sorted-list/44056049#44056049>
 - <http://stackoverflow.com/questions/2298165/pythons-standard-library-is-there-a-module-for-balanced-binary-tree/44026570#44026570>
 
+Jupyter get HTML from CLI:
+
+- <https://stackoverflow.com/questions/15998491/how-to-convert-ipython-notebooks-to-pdf-and-html/47773252#47773252>
+- <https://stackoverflow.com/questions/36901154/how-export-a-jupyter-notebook-to-html-from-the-command-line/47773056#47773056>
+
 ## Program without OS
 
 - <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
