@@ -420,6 +420,7 @@ PTY
 User vs kernel land:
 
 - <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems>
+- <https://stackoverflow.com/questions/1311402/differences-between-user-and-kernel-modes/48829759#48829759>
 - <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809>
 - <https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space/368313#368313>
     - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered, now closed as duplicate
