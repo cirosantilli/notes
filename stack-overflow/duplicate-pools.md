@@ -186,6 +186,7 @@ loop over integer range:
 `[` vs `[[`:
 
 - <http://stackoverflow.com/questions/13542832/bash-if-difference-between-square-brackets-and-double-square-brackets/31366734#31366734>
+- <https://stackoverflow.com/questions/669452/is-preferable-over-in-bash/47576482#47576482>
 - <http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash/705144#705144>
 
 Lines in one file by not in another:
@@ -343,6 +344,14 @@ C print / get time:
 - http://stackoverflow.com/questions/1738568/any-guaranteed-minimum-sizes-for-types-in-c/37130668#37130668
 - http://stackoverflow.com/questions/18901080/why-is-the-sizeofint-sizeoflong already answered http://stackoverflow.com/a/18901178/895245
 
+### C++
+
+Lambda + map to replace switch:
+
+- <https://stackoverflow.com/questions/9432226/how-do-i-select-a-range-of-values-in-a-switch-statement/42331563#42331563> range
+- <https://stackoverflow.com/questions/650162/why-switch-statement-cannot-be-applied-on-strings/42462552#42462552> non-integers
+- <https://stackoverflow.com/questions/8049834/case-expression-not-constant/48201962#48201962> non-constants
+
 ### builtin_expect
 
 - <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
@@ -416,7 +425,7 @@ User vs kernel land:
 - <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809>
 - <https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space/368313#368313>
     - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered
-- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-os>
+- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems/44483439#44483439>
 
 Minimal Linux distro:
 
@@ -590,7 +599,6 @@ Compile:
 - http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
 - http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
 
-<<<<<<< HEAD
 gdbserver restart executable:
 
 - https://stackoverflow.com/questions/75255/how-do-you-start-running-the-program-over-again-in-gdb-with-target-remote/44161527#44161527 (wiki)
@@ -608,12 +616,11 @@ Vim gdb `edit`:
 
 - <https://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how/46253096#46253096>
 - <https://vi.stackexchange.com/questions/2046/how-can-i-integrate-gdb-with-vim/13596#13596>
-=======
-rr:
 
-- https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380
-- https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
->>>>>>> bak
+GDB reverse:
+
+- <https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380>
+- <https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927>
 
 ## HTML
 
@@ -644,14 +651,11 @@ Repeated `input name`:
 - http://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
 - http://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network TODO answer if not marked as duplicate
 
-<<<<<<< HEAD
 dconf dump load:
 
 - https://askubuntu.com/questions/26056/where-are-gnome-keyboard-shortcuts-stored/746262#746262
 - https://askubuntu.com/questions/72070/how-do-i-change-dconf-keys-without-a-gui-for-a-post-install-script/940731#940731
 
-=======
->>>>>>> notes/master
 Get source with `bzr`:
 
 - http://askubuntu.com/questions/28372/how-do-i-get-and-modify-the-source-code-of-packages-installed-through-apt-get/624762#624762
@@ -666,6 +670,13 @@ Launch program and monitor CPU and memory usage:
 
 - <http://stackoverflow.com/questions/1221555/how-can-i-get-the-cpu-usage-and-memory-usage-of-a-single-process-on-linux-ubunt/40576129#40576129>
 - <http://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process/322992#322992>
+
+### Tor
+
+Change IP from terminal:
+
+- <https://askubuntu.com/questions/499995/change-ip-address-which-is-given-by-tor-using-the-terminal/989108#989108>
+- <https://stackoverflow.com/questions/1969958/how-to-change-the-tor-exit-node-programmatically-to-get-a-new-ip/33726166#33726166>
 
 ## VHDL
 

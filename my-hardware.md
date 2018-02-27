@@ -278,6 +278,18 @@ CPU: Krait 400 <https://en.wikipedia.org/wiki/Krait_%28CPU%29> ARMv7-A architect
 
 GPU: Adreno 330
 
+2018: I think the SD card got pulled out, then:
+
+- it takes a while for display to show up after phone sleeps (power button, and wait a few minutes. Immediate wakeup works, it must enter some sleep mode afterwards)
+- there are random flickers / static after it comes back, or when some actions come up:
+    - <https://www.youtube.com/watch?v=y-BYsu1h7RA>
+    - <https://www.youtube.com/watch?v=9LBR9cGs_xs>
+    - <https://talk.sonymobile.com/t5/Xperia-Z2/Colored-Lines-on-Screen-and-Flickering/td-p/1096112>
+
+I removed SD card, and did factory reset, but nothing.
+
+Safe mode: hold power button, then hold power off on screen, then it asks you. Disables all third party apps (non-pre installed).
+
 ### L1 G3311
 
 Bought: 2017.

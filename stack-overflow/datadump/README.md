@@ -27,7 +27,7 @@ Existing scripts:
 
 The problem is that I could not find decent tools to manipulate large XML files from the command line easily.
 
-But since the data is well formated (one entry per line, no inner `"`), it is possible to use `sed` to parse it.
+But since the data is well formatted (one entry per line, no inner `"`), it is possible to use `sed` to parse it.
 
 Keep only the attribute names:
 
