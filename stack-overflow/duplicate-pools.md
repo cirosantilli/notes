@@ -532,6 +532,14 @@ Auto load modules at startup:
 - https://linux-tips.com/t/auto-load-kernel-module-on-boot/432/2
 - https://superuser.com/questions/397842/automatically-load-kernel-module-at-boot-angstrom/1267464#1267464
 
+Find cache sizes, `getconft` and `/sys` methods where missing:
+
+- https://superuser.com/questions/55776/finding-l2-cache-size-in-linux/1298808#1298808
+- https://superuser.com/questions/837970/is-there-any-way-to-know-the-size-of-l1-l2-l3-cache-and-ram-in-ubuntu/1298805#1298805
+- https://unix.stackexchange.com/questions/167038/is-there-any-way-to-know-the-size-of-l1-l2-l3-cache-and-ram-in-linux/426918#426918
+- https://stackoverflow.com/questions/30207256/how-to-get-the-size-of-cpu-cache-in-linux/49008279#49008279
+- https://askubuntu.com/questions/724449/view-size-of-cpu-cache-through-the-command-line/1010260#1010260
+
 ## NodeJS
 
 Install with NVM:
