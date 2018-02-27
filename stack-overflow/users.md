@@ -37,6 +37,7 @@ Unknown true identity:
 - <http://stackoverflow.com/users/3723423/christophe>
 - <https://stackoverflow.com/users/1880339/artless-noise>: ARM employee.
 - <https://stackoverflow.com/users/533037/solidpixel> ARM Mali?
+- <https://stackoverflow.com/users/16007/old-timer>: ARM employee?
 
 Discovered:
 
@@ -107,6 +108,7 @@ Discovered:
 - <https://stackoverflow.com/users/87234/gmannickg> C++ <https://twitter.com/gmannickg> <https://www.linkedin.com/in/nicholasbgorski>
 - <https://stackoverflow.com/users/95810/alex-martelli>
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
+- <https://stackoverflow.com/users/19868/drakosha>
 
 Ex:
 

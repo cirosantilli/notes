@@ -101,6 +101,11 @@ Python `OrderedDict` for balanced BST:
 - <http://stackoverflow.com/questions/1109804/does-python-have-a-sorted-list/44056049#44056049>
 - <http://stackoverflow.com/questions/2298165/pythons-standard-library-is-there-a-module-for-balanced-binary-tree/44026570#44026570>
 
+Jupyter get HTML from CLI:
+
+- <https://stackoverflow.com/questions/15998491/how-to-convert-ipython-notebooks-to-pdf-and-html/47773252#47773252>
+- <https://stackoverflow.com/questions/36901154/how-export-a-jupyter-notebook-to-html-from-the-command-line/47773056#47773056>
+
 ## Program without OS
 
 - <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
@@ -188,6 +193,7 @@ loop over integer range:
 - <http://stackoverflow.com/questions/13542832/bash-if-difference-between-square-brackets-and-double-square-brackets/31366734#31366734>
 - <https://stackoverflow.com/questions/669452/is-preferable-over-in-bash/47576482#47576482>
 - <http://serverfault.com/questions/52034/what-is-the-difference-between-double-and-single-square-brackets-in-bash/705144#705144>
+- <https://unix.stackexchange.com/questions/306111/confused-about-operators-vs-vs-vs/408003#408003>
 
 Lines in one file by not in another:
 
@@ -422,10 +428,11 @@ PTY
 
 User vs kernel land:
 
+- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems>
+- <https://stackoverflow.com/questions/1311402/differences-between-user-and-kernel-modes/48829759#48829759>
 - <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809>
 - <https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space/368313#368313>
-    - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered
-- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems/44483439#44483439>
+- <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered, now closed as duplicate
 
 Minimal Linux distro:
 
@@ -534,6 +541,14 @@ Auto load modules at startup:
 - https://linux-tips.com/t/auto-load-kernel-module-on-boot/432/2
 - https://superuser.com/questions/397842/automatically-load-kernel-module-at-boot-angstrom/1267464#1267464
 
+Find cache sizes, `getconft` and `/sys` methods where missing:
+
+- https://superuser.com/questions/55776/finding-l2-cache-size-in-linux/1298808#1298808
+- https://superuser.com/questions/837970/is-there-any-way-to-know-the-size-of-l1-l2-l3-cache-and-ram-in-ubuntu/1298805#1298805
+- https://unix.stackexchange.com/questions/167038/is-there-any-way-to-know-the-size-of-l1-l2-l3-cache-and-ram-in-linux/426918#426918
+- https://stackoverflow.com/questions/30207256/how-to-get-the-size-of-cpu-cache-in-linux/49008279#49008279
+- https://askubuntu.com/questions/724449/view-size-of-cpu-cache-through-the-command-line/1010260#1010260
+
 ## NodeJS
 
 Install with NVM:
@@ -616,11 +631,19 @@ Vim gdb `edit`:
 
 - <https://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how/46253096#46253096>
 - <https://vi.stackexchange.com/questions/2046/how-can-i-integrate-gdb-with-vim/13596#13596>
+<<<<<<< HEAD
 
 GDB reverse:
 
 - <https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380>
 - <https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927>
+=======
+
+rr:
+
+- https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380
+- https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
+>>>>>>> bd4436eb5fc0c0674d83faa37e4627dbea30bc69
 
 ## HTML
 
@@ -689,6 +712,11 @@ Minimum memory requirements:
 
 - <http://android.stackexchange.com/questions/34958/what-are-the-minimum-hardware-specifications-for-android/149226#149226>
 - <https://www.quora.com/What-is-the-minimum-RAM-size-needed-to-run-Android-5-1-or-6/answer/Ciro-Santilli>
+
+.so include in project:
+
+- <https://stackoverflow.com/questions/9870435/how-to-link-a-prebuilt-shared-library-to-an-android-ndk-project/47558694#47558694>
+- <https://stackoverflow.com/questions/24357687/how-to-include-so-library-in-android-studio/47571737#47571737>
 
 ## Raspberry pi
 
