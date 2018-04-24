@@ -1,5 +1,7 @@
 # Recruiters who contacted me
 
+- 2018-04 - <https://www.linkedin.com/in/jamie-mathers-83655894/> frontend for a meetup platform
+- 2018-03 - Marcus Pitts from Parallel Consulting for Benelux on Python Django 1 year contract
 - 2017-12 - Baptiste Guillaumet from GetPro - Automate Dental Tracking startup
 - 2017-09 - Damiel Heyman for CondenSys <https://www.linkedin.com/in/danielheyman1/> <https://www.linkedin.com/in/jasonyiconsensys/>
 - 2017-07 - Milda Belkeviciute Xing Java in Paris <https://www.linkedin.com/in/milda-belkeviciute-309870b9>

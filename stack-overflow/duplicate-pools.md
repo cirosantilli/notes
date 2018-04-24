@@ -140,6 +140,8 @@ Mount image with multiple partitions:
 - http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
 - http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
 - https://superuser.com/questions/211338/mounting-a-multi-partition-disk-image-in-linux/1263401#1263401
+- not focused on multi partition images:
+  - https://unix.stackexchange.com/questions/316401/how-to-mount-a-disk-image-from-the-command-line/430415#430415 
 
 GRUB mkrescue config:
 
@@ -210,6 +212,11 @@ diff color
 - <http://stackoverflow.com/questions/8800578/colorize-diff-on-the-command-line/41770560#41770560>
 - <http://unix.stackexchange.com/questions/196565/color-diff-output/338960#338960>
 
+Escape built-in:
+
+- <https://unix.stackexchange.com/questions/242551/use-system-command-instead-of-bash-builtin-without-specifying-the-full-path/435627#435627>
+- <https://stackoverflow.com/questions/29540540/how-do-i-prevent-bash-to-use-a-builtin-command/49661512#49661512>
+
 ### NVIDIA
 
 GPU NVIDIA check working:
@@ -273,6 +280,11 @@ sha calculation:
 - <http://stackoverflow.com/questions/5290444/why-does-git-hash-object-return-a-different-hash-than-openssl-sha1> TODO answer
 - <http://stackoverflow.com/questions/8873169/is-sha-1-calculated-based-on-content> 
 
+Author vs committer:
+
+- <https://stackoverflow.com/questions/6755824/what-is-the-difference-between-author-and-committer-in-git/49123153#49123153>
+- <https://stackoverflow.com/questions/18750808/difference-between-author-and-committer-in-git/23108169#23108169>
+
 ### C
 
 Compiler deterministic output:
@@ -293,7 +305,7 @@ GCC uninstall source:
 
 `char[]` vs `char*`:
 
-- <http://stackoverflow.com/questions/1335786/c-differences-between-char-pointer-and-array/30661000#30661000>
+- <http://stackoverflow.com/questions/1335786/c-differences-between-char-pointer-and-array/30661000#30661000> closed as dupe
 - <http://stackoverflow.com/questions/10186765/char-array-vs-char-pointer-in-c/30661089#30661089>
 - <http://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s-in-c/30660839#30660839>
 - <http://stackoverflow.com/questions/164194/why-do-i-get-a-segmentation-fault-when-writing-to-a-string/30662213#30662213>
@@ -481,8 +493,13 @@ Shebang:
 
 - <http://stackoverflow.com/questions/2429511/why-do-people-write-usr-bin-env-python-on-the-first-line-of-a-python-script/40938801#40938801>
 - <http://stackoverflow.com/questions/3009192/how-does-the-shebang-work/40938907#40938907>
+- <https://unix.stackexchange.com/questions/87560/does-the-shebang-determine-the-shell-which-runs-the-script/434088#434088>
+- <https://askubuntu.com/questions/238002/is-bin-sh-read-by-the-interpreter/1019972#1019972>
 
-QEMU + GDB + Linux kernel:
+Execute non executable file:
+
+- <https://askubuntu.com/questions/25681/can-scripts-run-even-when-they-are-not-set-as-executable/1019992#1019992>
+- <https://superuser.com/questions/341439/can-i-execute-a-linux-binary-without-the-execute-permission-bit-being-set/1308772#1308772>
 
 `ioctl`:
 
@@ -496,10 +513,12 @@ QEMU + GDB + Linux kernel:
     - <https://stackoverflow.com/questions/413955/how-to-write-linux-driver-module-call-use-another-driver-module>
     - <https://stackoverflow.com/questions/9820458/how-to-define-a-function-in-one-linux-kernel-module-and-use-it-in-another/9820518#9820518>
 
-QEMU + Buildroot setup:
+QEMU + Buildroot setup is awesome:
 
-- <https://stackoverflow.com/questions/26323280/learning-linux-kernel-programming-on-a-virtual-machine-on-ubuntu/44624802#44624802>
+- <https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-kernel-master-recompile-it-and-boot-it-wi/49349237#49349237> just work commands for aarch64, comment on how to replace kernel
+    - <https://stackoverflow.com/questions/48021127/build-powerpc-kernel-and-boot-powerpc-kernel-on-qemu/49349262#49349262> just work commands for PPC, comment on how to replace kernel
 - <https://stackoverflow.com/questions/6764301/using-qemu-for-learning-linux-kernel-for-arm/44624969#44624969>
+- <https://stackoverflow.com/questions/26323280/learning-linux-kernel-programming-on-a-virtual-machine-on-ubuntu/44624802#44624802>
 - <https://stackoverflow.com/questions/19532564/linux-kernel-development-using-qemu/44625213#44625213>
 - <https://stackoverflow.com/questions/3503414/distro-for-linux-kernel-development/44625382#44625382>
 - <https://www.quora.com/What-are-the-some-good-sources-to-learn-kernel-module-programming/answer/Ciro-Santilli>
@@ -519,13 +538,17 @@ How is dev created:
 
 - <https://stackoverflow.com/questions/22632713/how-to-write-a-simple-linux-device-driver/44640466#44640466>
 - <https://unix.stackexchange.com/questions/37829/understanding-character-device-or-character-special-files/371758#371758>
+
+QEMU + GDB + Linux kernel:
+
 -   http://stackoverflow.com/questions/11408041/how-to-debug-the-linux-kernel-with-gdb-and-qemu
 -   http://stackoverflow.com/questions/4943857/linux-kernel-live-debugging-how-its-done-and-what-tools-are-used/42316607#42316607
--   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971
 -   http://stackoverflow.com/questions/28607538/debugging-linux-kernel-module-on-qemu module GDB specific
+-   http://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu/345971#345971
 -   no debug
     - http://stackoverflow.com/questions/32124246/how-to-build-and-run-a-linux-kernel-module-on-qemu/38813400#38813400 semi dupe, module specific
     - http://stackoverflow.com/questions/40307328/how-to-add-linux-driver-as-a-buildroot-package/43874273#43874273 qemu + kernel module
+    - https://stackoverflow.com/questions/48620622/how-to-solve-qemu-gdb-debug-error-remote-g-packet-reply-is-too-long/49348616#49348616
 
 Physical to virtual:
 
@@ -548,6 +571,16 @@ Find cache sizes, `getconft` and `/sys` methods where missing:
 - https://unix.stackexchange.com/questions/167038/is-there-any-way-to-know-the-size-of-l1-l2-l3-cache-and-ram-in-linux/426918#426918
 - https://stackoverflow.com/questions/30207256/how-to-get-the-size-of-cpu-cache-in-linux/49008279#49008279
 - https://askubuntu.com/questions/724449/view-size-of-cpu-cache-through-the-command-line/1010260#1010260
+
+`pr_debug` module text address:
+
+- https://unix.stackexchange.com/questions/194405/get-base-address-and-size-of-a-loaded-kernel-module/437817#437817
+- https://stackoverflow.com/questions/6384605/how-to-get-the-address-of-a-kernel-module-that-was-using-insmod/49836301#49836301
+
+`nokaslr`:
+
+- https://stackoverflow.com/questions/44612822/unable-to-debug-kernel-with-qemu-gdb/49840927#49840927
+- https://unix.stackexchange.com/questions/397939/turning-off-kaslr-to-debug-linux-kernel-using-qemu-and-gdb/421287#421287
 
 ## NodeJS
 
@@ -694,6 +727,12 @@ Launch program and monitor CPU and memory usage:
 - <http://stackoverflow.com/questions/1221555/how-can-i-get-the-cpu-usage-and-memory-usage-of-a-single-process-on-linux-ubunt/40576129#40576129>
 - <http://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process/322992#322992>
 
+build-dep add sources:
+
+- <https://askubuntu.com/questions/826890/apt-build-dep-fails-unable-to-locate-source-package-despite-deb-src-lines-pres/1022915#1022915>
+- <https://unix.stackexchange.com/questions/158395/apt-get-build-dep-is-unable-to-find-a-source-package/436248#436248>
+- <https://askubuntu.com/questions/826890/apt-build-dep-fails-unable-to-locate-source-package-despite-deb-src-lines-pres/1022915#1022915>
+
 ### Tor
 
 Change IP from terminal:
@@ -717,6 +756,19 @@ Minimum memory requirements:
 
 - <https://stackoverflow.com/questions/9870435/how-to-link-a-prebuilt-shared-library-to-an-android-ndk-project/47558694#47558694>
 - <https://stackoverflow.com/questions/24357687/how-to-include-so-library-in-android-studio/47571737#47571737>
+
+## GCC
+
+No such file or directory:
+
+- https://stackoverflow.com/questions/31929092/trying-to-run-a-cross-compiled-executable-on-target-device-fails-with-no-such-f/49993116#49993116 BBB flavour
+- https://unix.stackexchange.com/questions/101429/no-such-file-or-directory-when-executing-a-cross-compiled-program-on-a-raspber/439634#439634 RPI flavour
+- https://askubuntu.com/questions/904685/cross-compilation-for-arm-error-no-such-file-or-directory/1027651#1027651 vanilla flavour
+
+RPI cross compiler:
+
+- https://raspberrypi.stackexchange.com/questions/64273/installing-raspberry-pi-cross-compiler/83215#83215
+- https://askubuntu.com/questions/218158/how-to-cross-compile-programs-for-the-raspberry-pi-with-gcc/1027658#1027658
 
 ## Raspberry pi
 

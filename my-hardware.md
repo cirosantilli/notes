@@ -290,9 +290,13 @@ I removed SD card, and did factory reset, but nothing.
 
 Safe mode: hold power button, then hold power off on screen, then it asks you. Disables all third party apps (non-pre installed).
 
+Tried opening it, it was hard, all glued crap. Managed, but could see nothing wrong with display cable.
+
 ### L1 G3311
 
 Bought: 2017.
+
+<https://www.gsmarena.com/sony_xperia_l1-8619.php>
 
 ## Logitech C920 webcam
 
@@ -353,7 +357,12 @@ Now just HDMI does not work. Possibly a monitor vs television problem:
 
 ## Internet speed
 
-Home 2017/08
+Home 2017/08 TalkTalk 38Mbps nominal, Google M-lab speed test:
 
-- 3.66 Mbps download
-- 0.74 Mbps up
+- 36.4 Mbps download
+- 9.15 Mbps up
+- 58 ms latency over 80km of first world
+
+## Kindle
+
+Kindle D01100

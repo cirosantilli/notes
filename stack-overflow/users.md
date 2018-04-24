@@ -109,6 +109,7 @@ Discovered:
 - <https://stackoverflow.com/users/95810/alex-martelli>
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
 - <https://stackoverflow.com/users/19868/drakosha>
+- <https://stackoverflow.com/users/359178/juan-a-navarro> London, infrastructure.
 
 Ex:
 

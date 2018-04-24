@@ -1,8 +1,13 @@
 # GEM5
 
+## Feature ideas
+
+- Set meaningful checkpoint names. Current mechanism sucks, you have to remember 1, 2, 3, etc.
+- Improve telnet / shell behaviour. E.g. arrow keys.
+
 ## Publications
 
-* https://fenix.tecnico.ulisboa.pt/downloadFile/563345090413270/resumo.pdf
+- https://fenix.tecnico.ulisboa.pt/downloadFile/563345090413270/resumo.pdf
 
 ## Tutorials
 
