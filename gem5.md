@@ -34,3 +34,7 @@ Entry point:
     src/sim/main.cc
 
 How it interacts with Python: <https://github.com/pybind/pybind11>
+
+## Trivia
+
+Andreas Hansson says that HP McPat is a random number generator: <https://www.mail-archive.com/gem5-users@gem5.org/msg13725.html>

@@ -582,6 +582,21 @@ Find cache sizes, `getconft` and `/sys` methods where missing:
 - https://stackoverflow.com/questions/44612822/unable-to-debug-kernel-with-qemu-gdb/49840927#49840927
 - https://unix.stackexchange.com/questions/397939/turning-off-kaslr-to-debug-linux-kernel-using-qemu-and-gdb/421287#421287
 
+Log new process, `CONFIG_PROC_EVENTS`, execsnoop:
+
+- https://stackoverflow.com/questions/6075013/detect-launching-of-programs-on-linux-platform/50197895#50197895 `execsnoop`
+- https://unix.stackexchange.com/questions/260162/how-to-track-newly-created-processes-in-linux/345021#345021 `CONFIG_PROC_EVENTS`
+- https://superuser.com/questions/222912/how-can-i-log-all-process-launches-in-linux/1320165#1320165 `execsnoop` and `CONFIG_PROC_EVENTS`
+- https://unix.stackexchange.com/questions/163681/print-pids-and-names-of-processes-as-they-are-created unanswered due to name constraint on title, `execsnoop` already answered
+  - https://unix.stackexchange.com/questions/44208/does-linux-log-when-a-process-is-started-and-the-pid-that-gets-assigned-to-it dupe
+- https://serverfault.com/questions/199654/does-anyone-know-a-simple-way-to-monitor-root-process-spawn/907847#907847 unanswered due to "created by root" requirement on title
+
+`sched_setaffinity`:
+
+- https://stackoverflow.com/questions/663958/how-to-control-which-core-a-process-runs-on/50210009#50210009
+- https://stackoverflow.com/questions/10490756/how-to-use-sched-getaffinity-and-sched-setaffinity-in-linux-from-c/50117787#50117787
+- https://unix.stackexchange.com/questions/73/how-can-i-set-the-processor-affinity-of-a-process-on-linux/441098#441098
+
 ## NodeJS
 
 Install with NVM:
@@ -664,19 +679,17 @@ Vim gdb `edit`:
 
 - <https://stackoverflow.com/questions/3536600/do-you-debug-c-code-in-vim-how/46253096#46253096>
 - <https://vi.stackexchange.com/questions/2046/how-can-i-integrate-gdb-with-vim/13596#13596>
-<<<<<<< HEAD
 
 GDB reverse:
 
 - <https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380>
 - <https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927>
-=======
 
 rr:
 
 - https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380
 - https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
->>>>>>> bd4436eb5fc0c0674d83faa37e4627dbea30bc69
+- https://stackoverflow.com/questions/27770896/how-to-debug-a-rare-deadlock/50073993#50073993
 
 ## HTML
 
