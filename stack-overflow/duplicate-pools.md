@@ -133,12 +133,12 @@ ImageMagick black and white binary with `-monochrome`:
 
 Mount image with multiple partitions:
 
-- http://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
-- http://unix.stackexchange.com/questions/87183/creating-formatted-partition-from-nothing/229219#229219
-- http://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
-- http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
-- http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
-- http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
+- https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
+- https://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
+- https://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
+- https://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
+- https://unix.stackexchange.com/questions/87183/creating-formatted-partition-from-nothing/229219#229219
+- https://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
 - https://superuser.com/questions/211338/mounting-a-multi-partition-disk-image-in-linux/1263401#1263401
 - not focused on multi partition images:
   - https://unix.stackexchange.com/questions/316401/how-to-mount-a-disk-image-from-the-command-line/430415#430415 
