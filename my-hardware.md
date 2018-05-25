@@ -315,13 +315,27 @@ H.264 encoding on board
 
 Implements the <https://en.wikipedia.org/wiki/USB_video_device_class> standard, which has an implementation on the Linux kernel.
 
-## Logitech k400r wireless keyboard
+## Keyboard
+
+### Kinesis Advantage 2
+
+
+
+Serial: 45470A2
+
+Buy date: 2018-04-10
+
+Supplier: Osmond Group Limited
+
+### Logitech k400r wireless keyboard
 
 Bought: 2015
 
 Disable horrible Fn key behaviour: <http://askubuntu.com/questions/170819/how-to-program-logitech-function-keys> 
 
 Some other k models can configure hardware directly: <http://www.logitech.com/en-us/manuals/k380-setup-guide>
+
+## Logitech k400r wireless keyboard
 
 ## Washing machine
 

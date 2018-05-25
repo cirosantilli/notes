@@ -804,6 +804,11 @@ RPI cross compiler:
 - https://askubuntu.com/questions/218158/how-to-cross-compile-programs-for-the-raspberry-pi-with-gcc/1027658#1027658
 - https://askubuntu.com/questions/250696/cross-compile-for-arm/1046033#1046033
 
+Bionic POSIX compliance:
+
+- <https://stackoverflow.com/questions/27604455/is-android-posix-compatible/47340898#47340898>
+- <https://stackoverflow.com/questions/12111640/what-are-the-most-important-posix-functions-not-available-in-android/50175945#50175945>
+
 ## Raspberry pi
 
 SSH direct Ethernet cable:
