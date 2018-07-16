@@ -160,6 +160,13 @@ Load boot sector from drive:
 - http://stackoverflow.com/questions/15497842/read-a-sector-from-hard-drive-with-int-13h/32943546#32943546
 - http://stackoverflow.com/questions/2065370/how-to-load-second-stage-boot-loader-from-first-stage/32938408#32938408
 
+Mount without sudo:
+
+- https://unix.stackexchange.com/questions/96625/allow-non-superusers-to-mount-any-filesystem/450288#450288
+- https://serverfault.com/questions/403175/possible-to-mount-an-ext4-partition-image-via-fuse/917007#917007
+- https://askubuntu.com/questions/670701/mount-file-without-root/1047357#1047357
+- all point to: https://serverfault.com/questions/246835/convert-directory-to-qemu-kvm-virtual-disk-image/916697#916697 for creation
+
 ## JavaScript
 
 Firefox Prettify JavaScript source
@@ -597,6 +604,14 @@ Log new process, `CONFIG_PROC_EVENTS`, execsnoop:
 - https://stackoverflow.com/questions/10490756/how-to-use-sched-getaffinity-and-sched-setaffinity-in-linux-from-c/50117787#50117787
 - https://unix.stackexchange.com/questions/73/how-can-i-set-the-processor-affinity-of-a-process-on-linux/441098#441098
 
+Ctrl + alt + del:
+
+- https://unix.stackexchange.com/questions/42573/meaning-and-commands-for-ctrlaltdel/444969#444969
+- https://superuser.com/questions/193652/does-linux-have-a-ctrlaltdel-equivalent/1324415#1324415
+
+- https://stackoverflow.com/questions/2463150/what-is-the-fpie-option-for-position-independent-executables-in-gcc-and-ld/51308031#51308031
+- https://unix.stackexchange.com/questions/89211/how-to-test-whether-a-linux-binary-was-compiled-as-position-independent-code/435038#435038
+
 ## NodeJS
 
 Install with NVM:
@@ -656,6 +671,11 @@ Close tui mode:
 
 - http://stackoverflow.com/questions/8409540/how-to-close-layout-src-windows-in-gdb/30763087#30763087
 - http://stackoverflow.com/a/30763033/895245
+
+GDB dashboard:
+
+- https://stackoverflow.com/questions/10115540/gdb-split-view-with-code/51301717#51301717
+- https://askubuntu.com/questions/40241/is-there-any-interactive-or-more-user-friendly-version-of-gdb-for-debugging/1054455#1054455
 
 Compile:
 
@@ -782,6 +802,7 @@ RPI cross compiler:
 
 - https://raspberrypi.stackexchange.com/questions/64273/installing-raspberry-pi-cross-compiler/83215#83215
 - https://askubuntu.com/questions/218158/how-to-cross-compile-programs-for-the-raspberry-pi-with-gcc/1027658#1027658
+- https://askubuntu.com/questions/250696/cross-compile-for-arm/1046033#1046033
 
 ## Raspberry pi
 
@@ -816,6 +837,16 @@ Platform device:
 - https://stackoverflow.com/questions/15610570/what-is-the-difference-between-a-linux-platform-driver-and-normal-device-driver/44994739#44994739
 - https://stackoverflow.com/questions/28315265/how-to-add-a-new-device-in-qemu-source-code/44612957#44612957
 - https://stackoverflow.com/questions/17488320/how-to-program-device-tree-file-dts/44994940#44994940
+
+Ubuntu on QEMU;
+
+- https://askubuntu.com/questions/884534/how-to-run-ubuntu-16-04-desktop-on-qemu/1046792#1046792
+- https://unix.stackexchange.com/questions/108122/how-to-install-ubuntu-13-0-desktop-in-qemu/450236#450236
+
+## Chinese
+
+- https://www.quora.com/How-are-the-names-of-the-letters-in-the-Latin-alphabet-spelled-out-in-Pinyin/answer/Ciro-Santilli
+- https://www.quora.com/How-do-I-pronounce-the-Latin-Alphabet-letters-in-Chinese/answer/Ciro-Santilli
 
 ## To be answered
 

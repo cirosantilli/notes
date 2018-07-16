@@ -36,6 +36,7 @@ Unknown true identity:
 - <http://stackoverflow.com/users/44729/genpfault> OpenGL. Some game dev. <https://github.com/genpfault> <https://www.reddit.com/user/genpfault> Large comment karma.
 - <http://stackoverflow.com/users/3723423/christophe>
 - <https://stackoverflow.com/users/1880339/artless-noise>: ARM employee.
+- <https://stackoverflow.com/users/3156750/notlikethat> arm employee.
 - <https://stackoverflow.com/users/533037/solidpixel> ARM Mali?
 - <https://stackoverflow.com/users/16007/old-timer>: ARM employee?
 
@@ -110,6 +111,7 @@ Discovered:
 - <https://www.linkedin.com/in/r-samuel-klatchko-5880562/>
 - <https://stackoverflow.com/users/19868/drakosha>
 - <https://stackoverflow.com/users/359178/juan-a-navarro> London, infrastructure.
+- <https://reverseengineering.stackexchange.com/users/264/zach-riggle>
 
 Ex:
 
