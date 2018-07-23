@@ -28,6 +28,8 @@ Graphics: NVIDIA GK107GLM [Quadro K1100M] http://silicongenesis.stanford.edu/com
 
 ### P710 with NVIDIA GTX 1080
 
+### P710 with NVIDIA GTX 1080
+
 Ubuntu 16.10:
 
 `__GL_SYNC_TO_VBLANK=0 glxgears`: 27k FPS :-)
@@ -218,8 +220,6 @@ TYPE 2764-CTO S/N R8-07DF 10/03
 - Serial Number: R807DF
 - Machine Type: 2668
 - Machine Type Model: 2668KHU
-
-### ThinkStation P700
 
 #### NVIDIA NVS 310 GPU
 

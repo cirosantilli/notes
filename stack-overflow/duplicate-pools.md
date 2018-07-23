@@ -106,12 +106,6 @@ Jupyter get HTML from CLI:
 - <https://stackoverflow.com/questions/15998491/how-to-convert-ipython-notebooks-to-pdf-and-html/47773252#47773252>
 - <https://stackoverflow.com/questions/36901154/how-export-a-jupyter-notebook-to-html-from-the-command-line/47773056#47773056>
 
-## Program without OS
-
-- <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
-- <http://softwareengineering.stackexchange.com/questions/171127/how-do-operating-systems-run-without-having-an-os-to-run-in/345301#345301>
-- <http://softwareengineering.stackexchange.com/questions/249915/how-to-operate-a-computer-without-an-operating-system/345300#345300> answer deleted to avoid dupehammer with above question.
-
 ## ImageMagick
 
 ImageMagick view raw file types:
@@ -133,20 +127,17 @@ ImageMagick black and white binary with `-monochrome`:
 
 Mount image with multiple partitions:
 
-- https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
-- https://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
-- https://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
-- https://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
-- https://unix.stackexchange.com/questions/87183/creating-formatted-partition-from-nothing/229219#229219
-- https://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
+- https://unix.stackexchange.com/questions/87183/how-to-create-a-formatted-partition-image-file-from-scratch/229219#229219
+- http://unix.stackexchange.com/questions/9099/reading-a-filesystem-from-a-whole-disk-image/229218#229218
+- https://unix.stackexchange.com/questions/342463/mount-multiple-partitions-from-disk-image-simultaneously/447977#447977
+- https://unix.stackexchange.com/questions/82314/how-to-find-the-type-of-an-img-file-and-mount-it/447978#447978
+- http://superuser.com/questions/117136/how-can-i-mount-a-partition-from-dd-created-image-of-a-block-device-e-g-hdd-u/972020#972020
+- http://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device/673257#673257
+- http://askubuntu.com/questions/333875/creating-filesystem-from-nothing/673275#673275
+- http://stackoverflow.com/questions/1419489/loopback-mounting-individual-partitions-from-within-a-file-that-contains-a-parti/39675265#39675265
 - https://superuser.com/questions/211338/mounting-a-multi-partition-disk-image-in-linux/1263401#1263401
 - not focused on multi partition images:
   - https://unix.stackexchange.com/questions/316401/how-to-mount-a-disk-image-from-the-command-line/430415#430415 
-
-GRUB mkrescue config:
-
-- http://askubuntu.com/questions/437323/is-it-possible-to-edit-grub-cfg/674183#674183
-- http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image/973021#973021
 
 Non-interactive partition creation:
 
@@ -154,6 +145,11 @@ Non-interactive partition creation:
 - <http://superuser.com/questions/332252/creating-and-formating-a-partition-using-a-bash-script/1132834#1132834>
 - <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891> minimal linking to others
 - <http://askubuntu.com/questions/22381/how-to-format-a-usb-flash-drive/672126#672126> minimal linking to others
+
+GRUB mkrescue config:
+
+- http://askubuntu.com/questions/437323/is-it-possible-to-edit-grub-cfg/674183#674183
+- http://superuser.com/questions/603051/grub-mkrescue-not-producing-bootable-image/973021#973021
 
 Load boot sector from drive:
 
@@ -258,6 +254,16 @@ Paging vs segmentation:
 - <https://stackoverflow.com/questions/16643180/differences-or-similarities-between-segmented-paging-and-paged-segmentation/44485294#44485294>
 - <https://softwareengineering.stackexchange.com/questions/100047/why-not-segmentation/350662#350662>
 
+### arm
+
+Learn assembly:
+
+- https://stackoverflow.com/questions/2313949/learning-arm-assembly/51472813#51472813
+- https://raspberrypi.stackexchange.com/questions/1732/writing-arm-assembly-code/87260#87260
+- https://www.raspberrypi.org/forums/viewtopic.php?f=49&t=159409&p=1343716#p1343716
+- https://www.quora.com/What-is-the-best-way-to-learn-arm-architecture-How-can-I-understand-the-basics-of-any-processor-and-arm/answer/Ciro-Santilli
+- https://www.quora.com/How-do-I-learn-ARM-assembly-language-in-detail/answer/Ciro-Santilli
+
 ### Git
 
 receive.denyCurrentBranch updateInstead:
@@ -303,12 +309,6 @@ static:
 
 - <http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program/14339047#14339047>
 - <http://stackoverflow.com/questions/558122/what-is-a-static-function/30319812#30319812>
-
-GCC uninstall source:
-
-- http://stackoverflow.com/questions/25303928/how-to-uninstall-gcc-installed-from-source/30760423#30760423
-- http://askubuntu.com/questions/101471/how-to-uninstall-gcc-4-6-2-installed-from-source/634730#634730
-- http://superuser.com/questions/663788/uninstall-gcc-from-source/926224#926224
 
 `char[]` vs `char*`:
 
@@ -609,8 +609,18 @@ Ctrl + alt + del:
 - https://unix.stackexchange.com/questions/42573/meaning-and-commands-for-ctrlaltdel/444969#444969
 - https://superuser.com/questions/193652/does-linux-have-a-ctrlaltdel-equivalent/1324415#1324415
 
+fpie:
+
 - https://stackoverflow.com/questions/2463150/what-is-the-fpie-option-for-position-independent-executables-in-gcc-and-ld/51308031#51308031
 - https://unix.stackexchange.com/questions/89211/how-to-test-whether-a-linux-binary-was-compiled-as-position-independent-code/435038#435038
+
+## Bare metal
+
+- <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
+- <http://softwareengineering.stackexchange.com/questions/171127/how-do-operating-systems-run-without-having-an-os-to-run-in/345301#345301>
+- <http://softwareengineering.stackexchange.com/questions/249915/how-to-operate-a-computer-without-an-operating-system/345300#345300> answer deleted to avoid dupehammer with above question.
+- <https://www.quora.com/Where-can-I-learn-bare-metal-coding-on-x86-I-want-to-use-C-as-well-as-try-other-languages/answer/Ciro-Santilli>
+- <https://www.quora.com/How-can-I-run-a-C-code-on-bare-metal/answer/Ciro-Santilli>
 
 ## NodeJS
 
@@ -808,6 +818,17 @@ Bionic POSIX compliance:
 
 - <https://stackoverflow.com/questions/27604455/is-android-posix-compatible/47340898#47340898>
 - <https://stackoverflow.com/questions/12111640/what-are-the-most-important-posix-functions-not-available-in-android/50175945#50175945>
+
+Bionic POSIX compliance:
+
+- <https://stackoverflow.com/questions/27604455/is-android-posix-compatible/47340898#47340898>
+- <https://stackoverflow.com/questions/12111640/what-are-the-most-important-posix-functions-not-available-in-android/50175945#50175945>
+
+GCC uninstall source:
+
+- http://stackoverflow.com/questions/25303928/how-to-uninstall-gcc-installed-from-source/30760423#30760423
+- http://askubuntu.com/questions/101471/how-to-uninstall-gcc-4-6-2-installed-from-source/634730#634730
+- http://superuser.com/questions/663788/uninstall-gcc-from-source/926224#926224
 
 ## Raspberry pi
 
