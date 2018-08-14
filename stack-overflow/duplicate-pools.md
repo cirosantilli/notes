@@ -106,6 +106,12 @@ Jupyter get HTML from CLI:
 - <https://stackoverflow.com/questions/15998491/how-to-convert-ipython-notebooks-to-pdf-and-html/47773252#47773252>
 - <https://stackoverflow.com/questions/36901154/how-export-a-jupyter-notebook-to-html-from-the-command-line/47773056#47773056>
 
+`pip install` cannot import name 'main':
+
+- <https://askubuntu.com/questions/1025793/running-pip3-importerror-cannot-import-name-main/1065352#1065352>
+- <https://stackoverflow.com/questions/49836676/error-after-upgrading-pip-cannot-import-name-main/51846054#51846054>
+- <https://stackoverflow.com/questions/43675074/python3-6-importerror-cannot-import-name-main-linux-rhel6/49994490#49994490> answered by someone else
+
 ## ImageMagick
 
 ImageMagick view raw file types:
