@@ -226,6 +226,11 @@ Escape built-in:
 - <https://unix.stackexchange.com/questions/242551/use-system-command-instead-of-bash-builtin-without-specifying-the-full-path/435627#435627>
 - <https://stackoverflow.com/questions/29540540/how-do-i-prevent-bash-to-use-a-builtin-command/49661512#49661512>
 
+Get nth characters in string:
+
+- https://stackoverflow.com/questions/18488270/how-to-check-the-first-character-in-a-string-in-unix/51719870#51719870
+- https://unix.stackexchange.com/questions/9468/how-to-get-the-char-at-a-given-position-of-a-string-in-shell-script/460966#460966
+
 ### NVIDIA
 
 GPU NVIDIA check working:
@@ -383,6 +388,11 @@ Lambda + map to replace switch:
 - <https://stackoverflow.com/questions/650162/why-switch-statement-cannot-be-applied-on-strings/42462552#42462552> non-integers
 - <https://stackoverflow.com/questions/8049834/case-expression-not-constant/48201962#48201962> non-constants
 
+C from C++ and vice versa:
+
+- <https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c/30526795#30526795>
+- <https://stackoverflow.com/questions/13694605/how-to-use-c-source-files-in-a-c-project/51912672#51912672>
+
 ### builtin_expect
 
 - <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
@@ -441,6 +451,17 @@ PTY
 - <http://stackoverflow.com/questions/8374000/how-to-use-pseudo-terminals-in-linux-with-c>
 - <http://unix.stackexchange.com/questions/21147/what-are-pseudo-terminals-pty-tty>
 - <http://stackoverflow.com/questions/4426280/what-do-pty-and-tty-mean>
+
+setpgid process group ID, Ctrl + C sent to child:
+
+- https://unix.stackexchange.com/questions/149741/why-is-sigint-not-propagated-to-child-process-when-sent-to-its-parent-process/465112#465112
+- https://stackoverflow.com/questions/6108953/how-does-ctrl-c-terminate-a-child-process/52042970#52042970
+- https://stackoverflow.com/questions/31907212/will-ctrlc-send-sigint-signals-to-both-parent-and-child-processes-in-linux/52042820#52042820
+
+print int from signal handler:
+
+- https://stackoverflow.com/questions/14573000/print-int-from-signal-handler-using-write-or-async-safe-functions/52111436#52111436
+- https://stackoverflow.com/questions/16891019/how-to-avoid-using-printf-in-a-signal-handler/52145149#52145149
 
 ## Eclipse
 
@@ -843,7 +864,6 @@ SSH direct Ethernet cable:
 - https://raspberrypi.stackexchange.com/questions/38/prepare-for-ssh-without-a-screen/54394#54394
 - https://raspberrypi.stackexchange.com/questions/3867/ssh-to-rpi-without-a-network-connection/53823#53823
 - http://stackoverflow.com/questions/16040128/hook-up-raspberry-pi-via-ethernet-to-laptop-without-router/39086537#39086537
-- https://stackoverflow.com/questions/28880833/emulating-the-raspberry-pi-2/45814913#45814913
 
 Buildroot SSH:
 

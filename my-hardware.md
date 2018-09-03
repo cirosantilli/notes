@@ -319,15 +319,19 @@ Implements the <https://en.wikipedia.org/wiki/USB_video_device_class> standard, 
 
 ### Kinesis Advantage 2
 
-
-
 Serial: 45470A2
 
 Buy date: 2018-04-10
 
 Supplier: Osmond Group Limited
 
-### Logitech k400r wireless keyboard
+## Motorola 6G
+
+https://www.gsmarena.com/motorola_moto_g6-9000.php
+
+Bought: 2018
+
+## Logitech k400r wireless keyboard
 
 Bought: 2015
 
@@ -361,9 +365,21 @@ Now just HDMI does not work. Possibly a monitor vs television problem:
 
 - https://web.archive.org/web/20160903121838/http://www.ebay.co.uk/itm/CP2102-Micro-USB-to-UART-TTL-Serial-Adapter-3-3V-5V-6Pin-for-ESP8266-Arduino-Pi-/181919478543 idVendor=10c4  idProduct=ea60
 
-## Raspberry Pi 2
+## Raspberry Pi
+
+### Raspberry Pi 2
+
+Model B V 1.1.
+
+SoC: BMC2836
 
 <https://www.raspberrypi.org/products/raspberry-pi-2-model-b/>
+
+### Raspberry Pi 3
+
+Model B V 1.2.
+
+SoC: BCM2837
 
 ## BBC Micro Bit
 
