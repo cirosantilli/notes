@@ -243,6 +243,11 @@ Install OpenCL:
 - http://stackoverflow.com/questions/7542808/what-is-needed-to-compile-opencl-on-ubuntu-and-by-extension-opencl-period/33483311#33483311
 - http://askubuntu.com/questions/541114/how-to-make-opencl-work-on-14-10-nvidia-331-89-drivers/693043#693043
 
+`nvidia-settings`:
+
+- https://askubuntu.com/questions/68028/how-do-i-check-if-ubuntu-is-using-my-nvidia-graphics-card/692412#692412
+- https://unix.stackexchange.com/questions/16407/how-to-check-which-gpu-is-active-in-linux/240036#240036
+
 ### x86
 
 iret and the automatically pushed error code:
@@ -286,9 +291,9 @@ receive.denyCurrentBranch updateInstead:
 Git annotated vs lightweight:
 
 - http://stackoverflow.com/questions/4971746/why-should-i-care-about-lightweight-vs-annotated-tags/35059291#35059291
-- http://stackoverflow.com/questions/4092640/in-what-circumstances-should-i-add-the-a-flag-to-the-git-tag-command/30186352#30186352
 - http://stackoverflow.com/questions/11514075/what-is-the-difference-between-an-annotated-and-unannotated-tag/25996877#25996877
-- http://stackoverflow.com/questions/2289971/git-is-an-unannotated-tag-worse-than-a-tag-with-a-bad-annotation/31255131#31255131
+- http://stackoverflow.com/questions/4092640/in-what-circumstances-should-i-add-the-a-flag-to-the-git-tag-command/30186352#30186352 smaller question, link to larger
+- http://stackoverflow.com/questions/2289971/git-is-an-unannotated-tag-worse-than-a-tag-with-a-bad-annotation/31255131#31255131 smaller question, link to larger
 
 Git diff `@@` part:
 
@@ -308,6 +313,16 @@ Author vs committer:
 
 - <https://stackoverflow.com/questions/6755824/what-is-the-difference-between-author-and-committer-in-git/49123153#49123153>
 - <https://stackoverflow.com/questions/18750808/difference-between-author-and-committer-in-git/23108169#23108169>
+
+Clone a single file or directory:
+
+-   directory:
+    - <https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/13738951#13738951>
+    - <https://unix.stackexchange.com/questions/233327/is-it-possible-to-clone-only-part-of-a-git-project/468182#468182>
+    - <https://stackoverflow.com/questions/180052/checkout-subdirectories-in-git/52270636#52270636> minor modification to avoid dupe detector
+-   file:
+    - <https://stackoverflow.com/questions/2466735/how-to-checkout-only-one-file-from-git-repository-sparse-checkout/52270527#52270527>
+    - <https://askubuntu.com/questions/460885/how-to-clone-git-repository-only-some-directories/1074185#1074185>
 
 ### C
 
