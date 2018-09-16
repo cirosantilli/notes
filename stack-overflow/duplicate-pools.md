@@ -324,6 +324,21 @@ Clone a single file or directory:
     - <https://stackoverflow.com/questions/2466735/how-to-checkout-only-one-file-from-git-repository-sparse-checkout/52270527#52270527>
     - <https://askubuntu.com/questions/460885/how-to-clone-git-repository-only-some-directories/1074185#1074185>
 
+`allowReachableSHA1InWant` clone a single commit:
+
+-   https://serverfault.com/questions/117255/git-pull-specific-revision-from-remote-repository/713065#713065
+-   https://stackoverflow.com/questions/3555107/git-clone-particular-version-of-remote-repository/52309172#52309172
+-   answered by others (and larger):
+    - https://stackoverflow.com/questions/3489173/how-to-clone-git-repository-with-specific-revision-changeset
+    - https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository
+    - https://stackoverflow.com/questions/31278902/how-to-shallow-clone-a-specific-commit-with-depth-1/43136160#43136160
+
+Upload release asset with script:
+
+- <https://stackoverflow.com/questions/5207269/releasing-a-build-artifact-on-github/52354732#52354732> `hub` + Python
+- <https://stackoverflow.com/questions/21214562/how-to-release-versions-on-github-through-the-command-line/52353299#52353299> `hub`
+- <https://stackoverflow.com/questions/38153418/can-someone-give-a-python-requests-example-of-uploading-a-release-asset-in-githu/52354681#52354681> Python
+
 ### C
 
 Compiler deterministic output:
