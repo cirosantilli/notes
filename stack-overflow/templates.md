@@ -16,7 +16,7 @@ DISCLAIMER: part of this answer comes from [my earlier answer](). I believe that
 
 ## C++11 N3337 draft
 
-[C++11 N3337 standard draft](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3337.pdf)
+[C++11 N3337 standard draft](https://github.com/cplusplus/draft/raw/master/papers/n3337.pdf)
 
 ## System V ABI
 

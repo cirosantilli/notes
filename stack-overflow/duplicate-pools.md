@@ -90,11 +90,11 @@ cmake / ccmake show options:
 
 Python `__getitem__` tuple and `slice` syntax:
 
+- http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
 - http://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences/33086813#33086813
 - http://stackoverflow.com/questions/3680262/slice-a-2d-python-array/33086948#33086948
 - http://stackoverflow.com/questions/9367813/python-list-indices-must-be-integers-not-tuple-error/33087117#33087117
 - http://stackoverflow.com/questions/21662532/python-list-indices-must-be-integers-not-tuple/33087324#33087324
-- http://stackoverflow.com/questions/772124/what-does-the-python-ellipsis-object-do/33087462#33087462
 
 Python `OrderedDict` for balanced BST:
 
@@ -230,6 +230,12 @@ Get nth characters in string:
 
 - https://stackoverflow.com/questions/18488270/how-to-check-the-first-character-in-a-string-in-unix/51719870#51719870
 - https://unix.stackexchange.com/questions/9468/how-to-get-the-char-at-a-given-position-of-a-string-in-shell-script/460966#460966
+
+column -t tables in awk:
+
+- https://stackoverflow.com/questions/12768907/how-to-align-the-columns-of-tables-in-bash/52209504#52209504
+- https://unix.stackexchange.com/questions/17664/a-shell-tool-to-tablify-input-data/467356#467356
+- https://superuser.com/questions/183861/how-to-align-columns-in-output-from-a-unix-command/1355908#1355908
 
 ### NVIDIA
 
@@ -418,16 +424,20 @@ Lambda + map to replace switch:
 - <https://stackoverflow.com/questions/650162/why-switch-statement-cannot-be-applied-on-strings/42462552#42462552> non-integers
 - <https://stackoverflow.com/questions/8049834/case-expression-not-constant/48201962#48201962> non-constants
 
+<<<<<<< HEAD
 C from C++ and vice versa:
 
 - <https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c/30526795#30526795>
 - <https://stackoverflow.com/questions/13694605/how-to-use-c-source-files-in-a-c-project/51912672#51912672>
 
 ### builtin_expect
+=======
+Step debug into C++ standard library to see what they contain:
+>>>>>>> bak
 
-- <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
-- <http://stackoverflow.com/questions/7346929/why-do-we-use-builtin-expect-when-a-straightforward-way-is-to-use-if-else/31540623#31540623>
-- <http://unix.stackexchange.com/questions/11597/what-is-the-difference-between-likely-and-unlikely-calls-in-kernel/241329#241329>
+- https://stackoverflow.com/questions/2558153/what-is-the-underlying-data-structure-of-a-stl-set-in-c/51944661#51944661
+- https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
+- https://stackoverflow.com/questions/11266360/when-should-i-use-make-heap-vs-priority-queue/51945521#51945521
 
 ### Java
 
@@ -886,6 +896,12 @@ GCC uninstall source:
 - http://stackoverflow.com/questions/25303928/how-to-uninstall-gcc-installed-from-source/30760423#30760423
 - http://askubuntu.com/questions/101471/how-to-uninstall-gcc-4-6-2-installed-from-source/634730#634730
 - http://superuser.com/questions/663788/uninstall-gcc-from-source/926224#926224
+
+builtin_expect:
+
+- <http://stackoverflow.com/questions/109710/likely-unlikely-macros-in-the-linux-kernel-how-do-they-work-whats-their/31133787#31133787>
+- <http://stackoverflow.com/questions/7346929/why-do-we-use-builtin-expect-when-a-straightforward-way-is-to-use-if-else/31540623#31540623>
+- <http://unix.stackexchange.com/questions/11597/what-is-the-difference-between-likely-and-unlikely-calls-in-kernel/241329#241329>
 
 ## Raspberry pi
 
