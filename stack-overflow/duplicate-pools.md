@@ -416,6 +416,17 @@ C print / get time:
 - http://stackoverflow.com/questions/1738568/any-guaranteed-minimum-sizes-for-types-in-c/37130668#37130668
 - http://stackoverflow.com/questions/18901080/why-is-the-sizeofint-sizeoflong already answered http://stackoverflow.com/a/18901178/895245
 
+Get call graph:
+
+- https://stackoverflow.com/questions/517589/tools-to-get-a-pictorial-function-call-graph-of-code/31190167#31190167
+- https://stackoverflow.com/questions/16393985/getting-control-flow-graph-from-ansi-c-code/52437315#52437315
+
+C treads:
+
+- https://stackoverflow.com/questions/56810/how-do-i-start-threads-in-plain-c/52453291#52453291
+- https://stackoverflow.com/questions/3908031/how-to-multithread-c-code/52453354#52453354
+- https://stackoverflow.com/questions/25319825/how-to-use-atomic-variables-in-c/43993821#43993821
+
 ### C++
 
 Lambda + map to replace switch:
