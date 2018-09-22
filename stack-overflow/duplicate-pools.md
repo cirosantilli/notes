@@ -435,16 +435,14 @@ Lambda + map to replace switch:
 - <https://stackoverflow.com/questions/650162/why-switch-statement-cannot-be-applied-on-strings/42462552#42462552> non-integers
 - <https://stackoverflow.com/questions/8049834/case-expression-not-constant/48201962#48201962> non-constants
 
-<<<<<<< HEAD
 C from C++ and vice versa:
 
 - <https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c/30526795#30526795>
 - <https://stackoverflow.com/questions/13694605/how-to-use-c-source-files-in-a-c-project/51912672#51912672>
 
 ### builtin_expect
-=======
+
 Step debug into C++ standard library to see what they contain:
->>>>>>> bak
 
 - https://stackoverflow.com/questions/2558153/what-is-the-underlying-data-structure-of-a-stl-set-in-c/51944661#51944661
 - https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
