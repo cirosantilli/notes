@@ -44,6 +44,10 @@ Discovered:
 
 - <http://stackoverflow.com/users/379897/r> <https://twitter.com/RichFelker> Musl
 
+Users who look like me:
+
+- https://stackoverflow.com/users/55075/kenorb it is uncanny. He answers almost only old important questions as can be seen from: https://data.stackexchange.com/stackoverflow/query/300735/users-with-most-necromancer-badges-at-a-given-date?Date=2019-06-17 and makes a lot of edits, just like me. We must have very similar personalities.
+
 ## Interesting
 
 -   <http://stackoverflow.com/users/1505939/m-m>
