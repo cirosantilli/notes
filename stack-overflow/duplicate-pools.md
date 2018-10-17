@@ -81,10 +81,18 @@ cmake / ccmake show options:
 - http://stackoverflow.com/questions/16851084/list-cmake-build-option/42945360#42945360
 - http://stackoverflow.com/questions/32425599/where-is-the-cmake-gui-for-linux/42921972#42921972
 
-- netcat ECHO server:
+netcat ECHO server:
 
 - https://stackoverflow.com/questions/8375860/echo-server-with-bash/44246455#44246455
 - https://serverfault.com/questions/346481/echo-server-with-netcat-or-socat/852847#852847
+
+netcat HTTP request:
+
+-   https://stackoverflow.com/questions/32341518/how-to-make-an-http-get-request-manually-with-netcat/52662497#52662497 HTTP + HTTPS
+-   https://unix.stackexchange.com/questions/15799/how-do-i-get-a-url-over-http-with-netcat unanswered
+-   HTTPS only questions:
+    - https://serverfault.com/questions/102032/connecting-to-https-with-netcat-nc/650189#650189
+    - https://superuser.com/questions/346958/can-the-telnet-or-netcat-clients-communicate-over-ssl already answered by others
 
 ## Python
 
@@ -145,10 +153,10 @@ Mount image with multiple partitions:
 - not focused on multi partition images:
   - https://unix.stackexchange.com/questions/316401/how-to-mount-a-disk-image-from-the-command-line/430415#430415 
 
-Non-interactive partition creation:
+Non-interactive partition creation with `sfdisk`:
 
-- <http://stackoverflow.com/questions/12150116/how-to-script-sfdisk-or-parted-for-multiple-partitions/39935542#39935542>
 - <http://superuser.com/questions/332252/creating-and-formating-a-partition-using-a-bash-script/1132834#1132834>
+- <http://stackoverflow.com/questions/12150116/how-to-script-sfdisk-or-parted-for-multiple-partitions/39935542#39935542>
 - <http://serverfault.com/questions/320590/non-interactively-create-one-partition-with-all-available-disk-size/807891#807891> minimal linking to others
 - <http://askubuntu.com/questions/22381/how-to-format-a-usb-flash-drive/672126#672126> minimal linking to others
 
@@ -168,6 +176,17 @@ Mount without sudo:
 - https://serverfault.com/questions/403175/possible-to-mount-an-ext4-partition-image-via-fuse/917007#917007
 - https://askubuntu.com/questions/670701/mount-file-without-root/1047357#1047357
 - all point to: https://serverfault.com/questions/246835/convert-directory-to-qemu-kvm-virtual-disk-image/916697#916697 for creation
+
+Create ext partition images without sudo:
+
+- https://superuser.com/questions/605196/how-to-create-ext2-image-without-superuser-rights/1366762#1366762
+- https://unix.stackexchange.com/questions/423965/create-a-filesystem-as-a-non-root-user/475484#475484
+
+Create multi partition image without sudo:
+
+- https://stackoverflow.com/questions/10949169/creating-sd-image-without-root-privileges/52850819#52850819
+- https://superuser.com/questions/367196/linux-how-to-format-multiple-file-systems-within-one-file/1367534#1367534
+- https://unix.stackexchange.com/questions/157876/creating-disk-device-in-a-file/475985#475985 link only
 
 ## JavaScript
 
@@ -420,12 +439,20 @@ Get call graph:
 
 - https://stackoverflow.com/questions/517589/tools-to-get-a-pictorial-function-call-graph-of-code/31190167#31190167
 - https://stackoverflow.com/questions/16393985/getting-control-flow-graph-from-ansi-c-code/52437315#52437315
+- https://stackoverflow.com/questions/311840/tool-to-trace-local-function-calls-in-linux/31814494#31814494 kcachegrind only, etrace already mentioned on other answer
 
 C treads:
 
 - https://stackoverflow.com/questions/56810/how-do-i-start-threads-in-plain-c/52453291#52453291
 - https://stackoverflow.com/questions/3908031/how-to-multithread-c-code/52453354#52453354
 - https://stackoverflow.com/questions/25319825/how-to-use-atomic-variables-in-c/43993821#43993821
+
+Build glibc from source and use it:
+
+- https://stackoverflow.com/questions/847179/multiple-glibc-libraries-on-a-single-host/52454603#52454603
+- https://stackoverflow.com/questions/10412684/compiling-your-own-glibc/52454710#52454710
+- https://stackoverflow.com/questions/2856438/how-can-i-link-to-a-specific-glibc-version/52550158#52550158 more focus on symbol versioning, but no one knows how to do it, so I answered
+- https://stackoverflow.com/questions/10763394/how-to-build-a-c-program-using-a-custom-version-of-glibc-and-static-linking/52454681#52454681 with `-static` modification to match question
 
 ### C++
 
@@ -690,6 +717,18 @@ fpie:
 - https://stackoverflow.com/questions/2463150/what-is-the-fpie-option-for-position-independent-executables-in-gcc-and-ld/51308031#51308031
 - https://unix.stackexchange.com/questions/89211/how-to-test-whether-a-linux-binary-was-compiled-as-position-independent-code/435038#435038
 
+System call tracing with ftrace and friends:
+
+- https://stackoverflow.com/questions/29840213/how-do-i-trace-a-system-call-in-linux/51856306#51856306 main
+- https://stackoverflow.com/questions/21889563/how-to-trace-the-write-system-call-in-the-linux-kernel/52776478#52776478 subdupe of main
+- https://stackoverflow.com/questions/52764544/how-to-trace-just-system-call-events-with-ftrace-without-showing-any-other-funct/52765387#52765387 subquestion
+
+Overlayfs multiple layers:
+
+- https://stackoverflow.com/questions/31044982/how-to-use-multiple-lower-layers-in-overlayfs/52792397#52792397
+- https://unix.stackexchange.com/questions/341138/can-overlayfs-support-more-than-two-layers/475252#475252
+- https://askubuntu.com/questions/143176/overlayfs-reload-with-multiple-layers-migration-away-from-aufs/1083452#1083452
+
 ## Bare metal
 
 - <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
@@ -852,6 +891,25 @@ build-dep add sources:
 - <https://unix.stackexchange.com/questions/158395/apt-get-build-dep-is-unable-to-find-a-source-package/436248#436248>
 - <https://askubuntu.com/questions/826890/apt-build-dep-fails-unable-to-locate-source-package-despite-deb-src-lines-pres/1022915#1022915>
 
+Login as user without password:
+
+- https://serverfault.com/questions/747215/create-user-without-password-in-ubuntu-with-su-access/933768#933768
+- https://askubuntu.com/questions/446818/create-user-with-a-blank-password/1080575#1080575
+- https://unix.stackexchange.com/questions/56765/creating-an-user-without-a-password/472968#472968
+- https://unix.stackexchange.com/questions/192945/user-without-a-password-how-can-one-login-into-that-account-from-a-non-root-ac/472966#472966
+
+debootstrap:
+
+- https://askubuntu.com/questions/281763/is-there-any-prebuilt-qemu-ubuntu-image32bit-online/1081171#1081171
+- https://unix.stackexchange.com/questions/275429/creating-bootable-debian-image-with-debootstrap/473256#473256
+- https://askubuntu.com/questions/998564/how-to-boot-a-debootstrap-ed-system-bare-metal/1081180#1081180 answer link only
+- https://unix.stackexchange.com/questions/441417/having-a-bit-of-trouble-debootstrapping-a-ubuntu-18-04-via-debian-8-10 comment link only
+
+Detect if in KVM:
+
+- https://superuser.com/questions/425878/how-to-tell-if-i-am-on-a-xen-or-kvm-server/1363921#1363921
+- https://serverfault.com/questions/179105/how-to-find-out-if-running-inside-kvm-guest/933994#933994
+
 ### Tor
 
 Change IP from terminal:
@@ -949,6 +1007,7 @@ Ubuntu on QEMU;
 
 - https://askubuntu.com/questions/884534/how-to-run-ubuntu-16-04-desktop-on-qemu/1046792#1046792
 - https://unix.stackexchange.com/questions/108122/how-to-install-ubuntu-13-0-desktop-in-qemu/450236#450236
+- https://askubuntu.com/questions/419958/why-am-i-getting-a-black-screen-when-booting-vm-using-qemu very similar, but apparently solved with `-enable-kvm` Commenting only for now...
 
 ## Chinese
 

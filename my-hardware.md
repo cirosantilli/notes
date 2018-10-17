@@ -329,7 +329,9 @@ Supplier: Osmond Group Limited
 
 https://www.gsmarena.com/motorola_moto_g6-9000.php
 
-Bought: 2018
+Bought: 2018. Price: ~150 USD.
+
+2018-11: screen broken when a bowl fell on it from just one foot height...
 
 ## Logitech k400r wireless keyboard
 
