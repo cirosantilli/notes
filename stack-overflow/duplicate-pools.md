@@ -453,6 +453,8 @@ Build glibc from source and use it:
 - https://stackoverflow.com/questions/10412684/compiling-your-own-glibc/52454710#52454710
 - https://stackoverflow.com/questions/2856438/how-can-i-link-to-a-specific-glibc-version/52550158#52550158 more focus on symbol versioning, but no one knows how to do it, so I answered
 - https://stackoverflow.com/questions/10763394/how-to-build-a-c-program-using-a-custom-version-of-glibc-and-static-linking/52454681#52454681 with `-static` modification to match question
+- crosstool-NG getting started beauty:
+  - https://stackoverflow.com/questions/51310756/how-to-gdb-step-debug-a-dynamically-linked-executable-in-qemu-user-mode
 
 ### C++
 
