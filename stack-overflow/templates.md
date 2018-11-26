@@ -8,11 +8,17 @@ DISCLAIMER: part of this answer comes from [my earlier answer](). I did not know
 
 DISCLAIMER: part of this answer comes from [my earlier answer](). I believe that I have directly answered the OP's question in each. 
 
+## C11 N1570 draft
+
+[C11 N1570 standard draft](http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1570.pdf)
+
 ## C99 N1256 draft
 
 [C99 N1256 standard draft](http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf)
 
-[C11 N1570 standard draft](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
+## C++17 N3337 draft
+
+[C++17 n4659 standard draft](https://github.com/cplusplus/draft/blob/master/papers/n4659.pdf)
 
 ## C++11 N3337 draft
 

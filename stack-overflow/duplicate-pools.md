@@ -378,11 +378,11 @@ static:
 
 `char[]` vs `char*`:
 
-- <http://stackoverflow.com/questions/1335786/c-differences-between-char-pointer-and-array/30661000#30661000> closed as dupe
-- <http://stackoverflow.com/questions/10186765/char-array-vs-char-pointer-in-c/30661089#30661089>
 - <http://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s-in-c/30660839#30660839>
+- <http://stackoverflow.com/questions/10186765/char-array-vs-char-pointer-in-c/30661089#30661089>
 - <http://stackoverflow.com/questions/164194/why-do-i-get-a-segmentation-fault-when-writing-to-a-string/30662213#30662213>
-- <http://stackoverflow.com/questions/2589949/c-string-literals-where-do-they-go/30662565#30662565>
+- <http://stackoverflow.com/questions/2589949/c-string-literals-where-do-they-go/30662565#30662565> similar, but not direct dupe answer
+- <http://stackoverflow.com/questions/1335786/c-differences-between-char-pointer-and-array/30661000#30661000> closed as dupe
 
 `restrict` keyword:
 
@@ -835,8 +835,10 @@ GDB reverse:
 rr:
 
 - https://stackoverflow.com/questions/1206872/go-to-previous-line-in-gdb/46996380#46996380
+- https://stackoverflow.com/questions/1470434/how-does-reverse-debugging-work/53063242#53063242
 - https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
 - https://stackoverflow.com/questions/27770896/how-to-debug-a-rare-deadlock/50073993#50073993
+- https://stackoverflow.com/questions/522619/how-to-do-bidirectional-or-reverse-debugging-of-programs/50074106#50074106 link only
 
 ## HTML
 
@@ -935,6 +937,13 @@ Minimum memory requirements:
 
 - <https://stackoverflow.com/questions/9870435/how-to-link-a-prebuilt-shared-library-to-an-android-ndk-project/47558694#47558694>
 - <https://stackoverflow.com/questions/24357687/how-to-include-so-library-in-android-studio/47571737#47571737>
+
+## POSIX
+
+How to download the POSIX standard:
+
+- https://unix.stackexchange.com/questions/340285/install-the-latest-posix-man-pages/483198#483198
+- https://stackoverflow.com/questions/453993/where-is-the-list-of-the-posix-c-api-functions/45832939#45832939
 
 ## GCC
 
