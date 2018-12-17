@@ -443,8 +443,8 @@ Get call graph:
 
 C treads:
 
-- https://stackoverflow.com/questions/56810/how-do-i-start-threads-in-plain-c/52453291#52453291
-- https://stackoverflow.com/questions/3908031/how-to-multithread-c-code/52453354#52453354
+- https://stackoverflow.com/questions/56810/how-do-i-start-threads-in-plain-c/52453291#52453291 main
+- https://stackoverflow.com/questions/3908031/how-to-multithread-c-code/52453354#52453354 I mark as dupe
 - https://stackoverflow.com/questions/25319825/how-to-use-atomic-variables-in-c/43993821#43993821
 
 Build glibc from source and use it:
@@ -468,6 +468,11 @@ C from C++ and vice versa:
 
 - <https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c/30526795#30526795>
 - <https://stackoverflow.com/questions/13694605/how-to-use-c-source-files-in-a-c-project/51912672#51912672>
+
+Restore `std::cout` state:
+
+- https://stackoverflow.com/questions/10599068/how-do-i-print-bytes-as-hexadecimal/53673624#53673624
+- https://stackoverflow.com/questions/12560291/set-back-default-precision-c/53673686#53673686
 
 ### builtin_expect
 
