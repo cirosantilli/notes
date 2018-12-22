@@ -380,7 +380,8 @@ static:
 
 - <http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program/14339047#14339047>
 - <http://stackoverflow.com/questions/558122/what-is-a-static-function/30319812#30319812>
-- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715 C and C++ and const, links to others
+- <https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715> C and C++ and const, links to others
+- <https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files/30523790#30523790> extern only
 
 `char[]` vs `char*`:
 
@@ -462,6 +463,12 @@ Build glibc from source and use it:
 - crosstool-NG getting started beauty:
   - https://stackoverflow.com/questions/51310756/how-to-gdb-step-debug-a-dynamically-linked-executable-in-qemu-user-mode
 
+Subnormal, denormal:
+
+- https://stackoverflow.com/questions/8341395/what-is-a-subnormal-floating-point-number/53203428#53203428 primary
+- https://stackoverflow.com/questions/14001910/what-is-this-denormal-data-about-c/53203740#53203740 secondary, change Subnormal to Denormal in title
+- https://stackoverflow.com/questions/10108053/ranges-of-floating-point-datatype-in-c/53204544#53204544 slight code reuse, not dupe
+
 ### C++
 
 Lambda + map to replace switch:
@@ -480,13 +487,15 @@ Restore `std::cout` state:
 - https://stackoverflow.com/questions/10599068/how-do-i-print-bytes-as-hexadecimal/53673624#53673624
 - https://stackoverflow.com/questions/12560291/set-back-default-precision-c/53673686#53673686
 
-### builtin_expect
+C++ standard library data structures:
 
-Step debug into C++ standard library to see what they contain:
-
-- https://stackoverflow.com/questions/2558153/what-is-the-underlying-data-structure-of-a-stl-set-in-c/51944661#51944661
-- https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
-- https://stackoverflow.com/questions/11266360/when-should-i-use-make-heap-vs-priority-queue/51945521#51945521
+-   BST vs Binary Heap:
+    - http://stackoverflow.com/questions/6147242/heap-vs-binary-search-tree-bst/27074221#27074221
+    - http://cs.stackexchange.com/questions/27860/whats-the-difference-between-a-binary-search-tree-and-a-binary-heap
+-   `std::set`, `std::map`, vs `std::make_heap` vs `std::priority_queue`:
+    - https://stackoverflow.com/questions/2558153/what-is-the-underlying-data-structure-of-a-stl-set-in-c/51944661#51944661
+    - https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
+    - https://stackoverflow.com/questions/11266360/when-should-i-use-make-heap-vs-priority-queue/51945521#51945521
 
 ### Java
 
@@ -514,13 +523,6 @@ assert, synthetic field:
 - <http://stackoverflow.com/questions/13657026/variables-having-same-name-but-different-type/31355548#31355548>
 - <http://stackoverflow.com/questions/11474109/overload-java-data-field-type-by-another-field-type/31355675#31355675>
 
-## Cross site
-
-BST vs Binary Heap:
-
-- http://stackoverflow.com/questions/6147242/heap-vs-binary-search-tree-bst/27074221#27074221
-- http://cs.stackexchange.com/questions/27860/whats-the-difference-between-a-binary-search-tree-and-a-binary-heap
-
 CSRF and SOP:
 
 - <http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token/26895980#26895980>
@@ -543,8 +545,9 @@ PTY
 
 setpgid process group ID, Ctrl + C sent to child:
 
-- https://unix.stackexchange.com/questions/149741/why-is-sigint-not-propagated-to-child-process-when-sent-to-its-parent-process/465112#465112
 - https://stackoverflow.com/questions/6108953/how-does-ctrl-c-terminate-a-child-process/52042970#52042970
+- https://unix.stackexchange.com/questions/149741/why-is-sigint-not-propagated-to-child-process-when-sent-to-its-parent-process/465112#465112
+- https://stackoverflow.com/questions/1046933/posix-process-groups/53759402#53759402
 - https://stackoverflow.com/questions/31907212/will-ctrlc-send-sigint-signals-to-both-parent-and-child-processes-in-linux/52042820#52042820
 
 print int from signal handler:
@@ -803,6 +806,11 @@ VLC ffmpeg low frame rates:
 - <http://unix.stackexchange.com/questions/68770/converting-png-frames-to-video-at-1-fps/339399#339399>
 - <http://stackoverflow.com/questions/19267443/playback-issues-in-vlc-with-low-fps-video-from-images-using-ffmpeg/41797724#41797724>
 
+GIF from images:
+
+- https://askubuntu.com/questions/648244/how-to-create-a-gif-from-the-command-line/1102183#1102183
+- https://unix.stackexchange.com/questions/24014/creating-a-gif-animation-from-png-files/489210#489210
+
 ## GDB
 
 Close tui mode:
@@ -883,7 +891,8 @@ Repeated `input name`:
 dconf dump load:
 
 - https://askubuntu.com/questions/26056/where-are-gnome-keyboard-shortcuts-stored/746262#746262
-- https://askubuntu.com/questions/72070/how-do-i-change-dconf-keys-without-a-gui-for-a-post-install-script/940731#940731
+- https://askubuntu.com/questions/72070/how-do-i-change-dconf-keys-without-a-gui-for-a-post-intall-script/940731#940731
+- https://askubuntu.com/questions/26056/where-are-gnome-keyboard-shortcuts-stored/746262#746262
 
 Get source with `bzr`:
 
@@ -904,14 +913,17 @@ build-dep add sources:
 
 - <https://askubuntu.com/questions/826890/apt-build-dep-fails-unable-to-locate-source-package-despite-deb-src-lines-pres/1022915#1022915>
 - <https://unix.stackexchange.com/questions/158395/apt-get-build-dep-is-unable-to-find-a-source-package/436248#436248>
-- <https://askubuntu.com/questions/826890/apt-build-dep-fails-unable-to-locate-source-package-despite-deb-src-lines-pres/1022915#1022915>
+- <https://askubuntu.com/questions/826890/apt-build-dep-fails-unable-to-locate-source-package-despite-deb-src-lines-pres/1022915#1022915> Swap order of sections.
 
 Login as user without password:
 
-- https://serverfault.com/questions/747215/create-user-without-password-in-ubuntu-with-su-access/933768#933768
-- https://askubuntu.com/questions/446818/create-user-with-a-blank-password/1080575#1080575
 - https://unix.stackexchange.com/questions/56765/creating-an-user-without-a-password/472968#472968
 - https://unix.stackexchange.com/questions/192945/user-without-a-password-how-can-one-login-into-that-account-from-a-non-root-ac/472966#472966
+- https://serverfault.com/questions/747215/create-user-without-password-in-ubuntu-with-su-access/933768#933768
+- https://askubuntu.com/questions/446818/create-user-with-a-blank-password/1080575#1080575
+- busybox:
+  - https://unix.stackexchange.com/questions/196485/auto-login-into-router-running-busybox/474733#474733
+  - https://unix.stackexchange.com/questions/299408/how-to-login-automatically-without-typing-the-root-username-or-password-in-build/300152#300152
 
 debootstrap:
 
@@ -924,6 +936,32 @@ Detect if in KVM:
 
 - https://superuser.com/questions/425878/how-to-tell-if-i-am-on-a-xen-or-kvm-server/1363921#1363921
 - https://serverfault.com/questions/179105/how-to-find-out-if-running-inside-kvm-guest/933994#933994
+
+Transfer files between computers:
+
+- https://askubuntu.com/questions/310180/how-to-share-files-through-the-local-network/1089904#1089904
+- https://askubuntu.com/questions/107208/how-to-transfer-files-between-ubuntu-and-windows/781941#781941
+- https://askubuntu.com/questions/3815/how-to-share-files-between-ubuntu-and-osx/1089906#1089906
+
+`/etc/apt/sources.list` "You must put some 'source' URIs in your sources.list":
+
+- https://askubuntu.com/questions/496549/error-you-must-put-some-source-uris-in-your-sources-list/857433#857433 primary
+- https://unix.stackexchange.com/questions/158395/apt-get-build-dep-is-unable-to-find-a-source-package/436248#436248 removed the go an upvote note
+
+arm Ubuntu QEMU:
+
+- https://askubuntu.com/questions/797599/how-to-run-ubuntu-16-04-arm-in-qemu/1047315#1047315
+- https://superuser.com/questions/942657/how-to-test-arm-ubuntu-under-qemu-the-easiest-way/1376628#1376628
+
+guvcview webcam:
+
+- https://unix.stackexchange.com/questions/3304/how-do-i-watch-my-webcams-feed-in-linux/328287#328287
+- https://askubuntu.com/questions/536563/how-to-record-the-screen-and-webcam-at-the-same-time/857472#857472
+
+Upgrade to 18.10 from 18.04 enable upgrade to non-LTS:
+
+- https://askubuntu.com/questions/1085295/upgrade-form-18-04-to-18-10-issue/1100915#1100915
+- https://askubuntu.com/questions/1093573/cant-upgrade-from-18-04-1-lts-to-18-10/1100922#1100922
 
 ### Tor
 

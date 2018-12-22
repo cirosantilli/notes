@@ -12,6 +12,8 @@
 
     From every non-best question, link to the best you've answered.
 
+-   Only mark something to close or as a duplicate if it will bring you some advantage, because closing things creates enemies.
+
 -   follow on Twitter / RSS someone who comments on the top features of new software releases. E.g. for Git, follow GitHub on Twitter. Then run back to any question which has a new answer.
 
 -   always upvote the question when you answer it:
