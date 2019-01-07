@@ -305,6 +305,11 @@ Learn assembly:
 - https://www.quora.com/What-is-the-best-way-to-learn-arm-architecture-How-can-I-understand-the-basics-of-any-processor-and-arm/answer/Ciro-Santilli
 - https://www.quora.com/How-do-I-learn-ARM-assembly-language-in-detail/answer/Ciro-Santilli
 
+RPI peripherals:
+
+- https://raspberrypi.stackexchange.com/questions/45759/where-can-i-find-the-documentation-for-the-bcm2837/92555#92555
+- https://stackoverflow.com/questions/44222273/where-can-i-find-documentation-on-the-raspberry-pi-3-peripherals/54011458#54011458
+
 ### Git
 
 receive.denyCurrentBranch updateInstead:
@@ -375,6 +380,7 @@ static:
 
 - <http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program/14339047#14339047>
 - <http://stackoverflow.com/questions/558122/what-is-a-static-function/30319812#30319812>
+- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715 C and C++ and const, links to others
 
 `char[]` vs `char*`:
 
