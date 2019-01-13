@@ -380,7 +380,6 @@ static:
 
 - <http://stackoverflow.com/questions/572547/what-does-static-mean-in-a-c-program/14339047#14339047>
 - <http://stackoverflow.com/questions/558122/what-is-a-static-function/30319812#30319812>
-- <https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715> C and C++ and const, links to others
 - <https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files/30523790#30523790> extern only
 
 `char[]` vs `char*`:
@@ -496,6 +495,15 @@ C++ standard library data structures:
     - https://stackoverflow.com/questions/2558153/what-is-the-underlying-data-structure-of-a-stl-set-in-c/51944661#51944661
     - https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
     - https://stackoverflow.com/questions/11266360/when-should-i-use-make-heap-vs-priority-queue/51945521#51945521
+
+Inline variable:
+
+- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715
+- https://stackoverflow.com/questions/38043442/how-do-inline-variables-work/53896763#53896763
+- https://stackoverflow.com/questions/12042549/define-constant-variables-in-c-header/53541011#53541011
+- https://stackoverflow.com/questions/2190919/mixing-extern-and-const/53898717#53898717
+- https://stackoverflow.com/questions/30208685/how-to-declare-constexpr-extern/53896773#53896773
+- https://stackoverflow.com/questions/14872240/unique-address-for-constexpr-variable/53898701#53898701
 
 ### Java
 
@@ -690,7 +698,7 @@ Auto load modules at startup:
 - https://linux-tips.com/t/auto-load-kernel-module-on-boot/432/2
 - https://superuser.com/questions/397842/automatically-load-kernel-module-at-boot-angstrom/1267464#1267464
 
-Find cache sizes, `getconft` and `/sys` methods where missing:
+Find cache sizes, `getconf`, `CPUID` and `/sys` methods where missing:
 
 - https://superuser.com/questions/55776/finding-l2-cache-size-in-linux/1298808#1298808
 - https://superuser.com/questions/837970/is-there-any-way-to-know-the-size-of-l1-l2-l3-cache-and-ram-in-ubuntu/1298805#1298805
@@ -810,6 +818,8 @@ GIF from images:
 
 - https://askubuntu.com/questions/648244/how-to-create-a-gif-from-the-command-line/1102183#1102183
 - https://unix.stackexchange.com/questions/24014/creating-a-gif-animation-from-png-files/489210#489210
+- https://askubuntu.com/questions/648603/how-to-create-an-animated-gif-from-mp4-video-via-command-line/837574#837574 GIF from video
+- https://stackoverflow.com/questions/24961127/how-to-create-a-video-from-images-with-ffmpeg/37478183#37478183 video from images
 
 ## GDB
 
@@ -1037,6 +1047,7 @@ SSH direct Ethernet cable:
 - https://raspberrypi.stackexchange.com/questions/38/prepare-for-ssh-without-a-screen/54394#54394
 - https://raspberrypi.stackexchange.com/questions/3867/ssh-to-rpi-without-a-network-connection/53823#53823
 - http://stackoverflow.com/questions/16040128/hook-up-raspberry-pi-via-ethernet-to-laptop-without-router/39086537#39086537
+- https://raspberrypi.stackexchange.com/questions/58478/ssh-not-working-with-fresh-install/92315#92315 just SSHD part
 
 Buildroot SSH:
 
@@ -1054,6 +1065,11 @@ Blinker:
 
 - http://stackoverflow.com/questions/29837892/running-a-c-program-with-no-os-on-raspberry-pi/40063032#40063032
 - http://raspberrypi.stackexchange.com/questions/542/using-raspberry-pi-without-a-linux-os/56372#56372
+
+Incremental linking / partial linking:
+
+- https://stackoverflow.com/questions/3349521/what-is-incremental-linking/53959661#53959661
+- https://stackoverflow.com/questions/29391965/what-is-partial-linking-in-gnu-linker/53959624#53959624
 
 ## QEMU
 

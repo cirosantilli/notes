@@ -1,0 +1,418 @@
+ciro-p51
+    description: Notebook
+    product: 20HHCTO1WW (LENOVO_MT_20HH_BU_Think_FM_ThinkPad P51)
+    vendor: LENOVO
+    version: ThinkPad P51
+    serial: PF0V5V5N
+    width: 64 bits
+    capabilities: smbios-3.0 dmi-3.0 smp vsyscall32
+    configuration: administrator_password=disabled chassis=notebook family=ThinkPad P51 power-on_password=disabled sku=LENOVO_MT_20HH_BU_Think_FM_ThinkPad P51 uuid=4CABD60B-ED20-B211-A85C-91ABB48966EC
+*-core
+    description: Motherboard
+    product: 20HHCTO1WW
+    vendor: LENOVO
+    physical id: 0
+    version: SDK0J40697 WIN
+    serial: L1HF7AL005E
+    slot: Not Available
+    *-memory
+        description: System Memory
+        physical id: 3
+        slot: System board or motherboard
+        size: 32GiB
+        *-bank:0
+            description: SODIMM DDR4 Synchronous Unbuffered (Unregistered) 2400 MHz (0.4 ns)
+            product: M471A2K43BB1-CRC
+            vendor: Samsung
+            physical id: 0
+            serial: 373DD61E
+            slot: ChannelA-DIMM0
+            size: 16GiB
+            width: 64 bits
+            clock: 2400MHz (0.4ns)
+        *-bank:1
+            description: [empty]
+            physical id: 1
+            slot: ChannelA-DIMM1
+        *-bank:2
+            description: SODIMM DDR4 Synchronous Unbuffered (Unregistered) 2400 MHz (0.4 ns)
+            product: M471A2K43BB1-CRC
+            vendor: Samsung
+            physical id: 2
+            serial: 373DD6B3
+            slot: ChannelB-DIMM0
+            size: 16GiB
+            width: 64 bits
+            clock: 2400MHz (0.4ns)
+        *-bank:3
+            description: [empty]
+            physical id: 3
+            slot: ChannelB-DIMM1
+    *-cache:0
+        description: L1 cache
+        physical id: 9
+        slot: L1 Cache
+        size: 256KiB
+        capacity: 256KiB
+        capabilities: synchronous internal write-back unified
+        configuration: level=1
+    *-cache:1
+        description: L2 cache
+        physical id: a
+        slot: L2 Cache
+        size: 1MiB
+        capacity: 1MiB
+        capabilities: synchronous internal write-back unified
+        configuration: level=2
+    *-cache:2
+        description: L3 cache
+        physical id: b
+        slot: L3 Cache
+        size: 8MiB
+        capacity: 8MiB
+        capabilities: synchronous internal write-back unified
+        configuration: level=3
+    *-cpu
+        description: CPU
+        product: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz
+        vendor: Intel Corp.
+        physical id: c
+        bus info: cpu@0
+        version: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz
+        serial: None
+        slot: U3E1
+        size: 3595MHz
+        capacity: 3900MHz
+        width: 64 bits
+        clock: 100MHz
+        capabilities: x86-64 fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp flush_l1d cpufreq
+        configuration: cores=4 enabledcores=4 threads=8
+    *-firmware
+        description: BIOS
+        vendor: LENOVO
+        physical id: d
+        version: N1UET40W (1.14 )
+        date: 09/28/2017
+        size: 128KiB
+        capacity: 15MiB
+        capabilities: pci pnp upgrade shadowing cdboot bootselect edd int13floppy720 int5printscreen int9keyboard int14serial int17printer int10video acpi usb biosbootspecification uefi
+    *-pci
+        description: Host bridge
+        product: Xeon E3-1200 v6/7th Gen Core Processor Host Bridge/DRAM Registers
+        vendor: Intel Corporation
+        physical id: 100
+        bus info: pci@0000:00:00.0
+        version: 05
+        width: 32 bits
+        clock: 33MHz
+        *-pci:0
+            description: PCI bridge
+            product: Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16)
+            vendor: Intel Corporation
+            physical id: 1
+            bus info: pci@0000:00:01.0
+            version: 05
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pci pm msi pciexpress normal_decode bus_master cap_list
+            configuration: driver=pcieport
+            resources: irq:16 ioport:d000(size=4096) memory:eb000000-ec0fffff ioport:c0000000(size=301989888)
+        *-display
+                description: VGA compatible controller
+                product: GM107GLM [Quadro M1200 Mobile]
+                vendor: NVIDIA Corporation
+                physical id: 0
+                bus info: pci@0000:01:00.0
+                version: a2
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm msi pciexpress vga_controller bus_master cap_list rom
+                configuration: driver=nvidia latency=0
+                resources: irq:135 memory:eb000000-ebffffff memory:c0000000-cfffffff memory:d0000000-d1ffffff ioport:d000(size=128) memory:ec000000-ec07ffff
+        *-generic:0 UNCLAIMED
+            description: System peripheral
+            product: Xeon E3-1200 v5/v6 / E3-1500 v5 / 6th/7th Gen Core Processor Gaussian Mixture Model
+            vendor: Intel Corporation
+            physical id: 8
+            bus info: pci@0000:00:08.0
+            version: 00
+            width: 64 bits
+            clock: 33MHz
+            capabilities: msi pm cap_list
+            configuration: latency=0
+            resources: iomemory:2f0-2ef memory:2ff2018000-2ff2018fff
+        *-usb
+            description: USB controller
+            product: 100 Series/C230 Series Chipset Family USB 3.0 xHCI Controller
+            vendor: Intel Corporation
+            physical id: 14
+            bus info: pci@0000:00:14.0
+            version: 31
+            width: 64 bits
+            clock: 33MHz
+            capabilities: pm msi xhci bus_master cap_list
+            configuration: driver=xhci_hcd latency=0
+            resources: irq:121 memory:ed820000-ed82ffff
+        *-generic:1
+            description: Signal processing controller
+            product: 100 Series/C230 Series Chipset Family Thermal Subsystem
+            vendor: Intel Corporation
+            physical id: 14.2
+            bus info: pci@0000:00:14.2
+            version: 31
+            width: 64 bits
+            clock: 33MHz
+            capabilities: pm msi cap_list
+            configuration: driver=intel_pch_thermal latency=0
+            resources: iomemory:2f0-2ef irq:19 memory:2ff2017000-2ff2017fff
+        *-generic:2
+            description: Signal processing controller
+            product: 100 Series/C230 Series Chipset Family Serial IO I2C Controller #0
+            vendor: Intel Corporation
+            physical id: 15
+            bus info: pci@0000:00:15.0
+            version: 31
+            width: 64 bits
+            clock: 33MHz
+            capabilities: pm bus_master cap_list
+            configuration: driver=intel-lpss latency=0
+            resources: iomemory:2f0-2ef irq:16 memory:2ff2016000-2ff2016fff
+        *-communication:0
+            description: Communication controller
+            product: 100 Series/C230 Series Chipset Family MEI Controller #1
+            vendor: Intel Corporation
+            physical id: 16
+            bus info: pci@0000:00:16.0
+            version: 31
+            width: 64 bits
+            clock: 33MHz
+            capabilities: pm msi bus_master cap_list
+            configuration: driver=mei_me latency=0
+            resources: iomemory:2f0-2ef irq:124 memory:2ff2015000-2ff2015fff
+        *-communication:1
+            description: Serial controller
+            product: 100 Series/C230 Series Chipset Family KT Redirection
+            vendor: Intel Corporation
+            physical id: 16.3
+            bus info: pci@0000:00:16.3
+            version: 31
+            width: 32 bits
+            clock: 66MHz
+            capabilities: msi pm 16550 cap_list
+            configuration: driver=serial latency=0
+            resources: irq:19 ioport:e048(size=8) memory:ed838000-ed838fff
+        *-storage
+            description: SATA controller
+            product: Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]
+            vendor: Intel Corporation
+            physical id: 17
+            bus info: pci@0000:00:17.0
+            version: 31
+            width: 32 bits
+            clock: 66MHz
+            capabilities: storage msi pm ahci_1.0 bus_master cap_list
+            configuration: driver=ahci latency=0
+            resources: irq:122 memory:ed834000-ed835fff memory:ed837000-ed8370ff ioport:e040(size=8) ioport:e050(size=4) ioport:e020(size=32) memory:ed836000-ed8367ff
+        *-pci:1
+            description: PCI bridge
+            product: 100 Series/C230 Series Chipset Family PCI Express Root Port #1
+            vendor: Intel Corporation
+            physical id: 1c
+            bus info: pci@0000:00:1c.0
+            version: f1
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pci pciexpress msi pm normal_decode cap_list
+            configuration: driver=pcieport
+            resources: irq:16 ioport:c000(size=4096) memory:ece00000-ed7fffff ioport:ec100000(size=10485760)
+        *-pci:2
+            description: PCI bridge
+            product: 100 Series/C230 Series Chipset Family PCI Express Root Port #3
+            vendor: Intel Corporation
+            physical id: 1c.2
+            bus info: pci@0000:00:1c.2
+            version: f1
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pci pciexpress msi pm normal_decode bus_master cap_list
+            configuration: driver=pcieport
+            resources: irq:18 memory:ecd00000-ecdfffff
+        *-network
+                description: Wireless interface
+                product: Wireless 8265 / 8275
+                vendor: Intel Corporation
+                physical id: 0
+                bus info: pci@0000:04:00.0
+                logical name: wlp4s0
+                version: 78
+                serial: 44:03:2c:a2:27:81
+                width: 64 bits
+                clock: 33MHz
+                capabilities: pm msi pciexpress bus_master cap_list ethernet physical wireless
+                configuration: broadcast=yes driver=iwlwifi driverversion=4.18.0-13-generic firmware=36.e91976c0.0 ip=192.168.1.7 latency=0 link=yes multicast=yes wireless=IEEE 802.11
+                resources: irq:136 memory:ecd00000-ecd01fff
+        *-pci:3
+            description: PCI bridge
+            product: 100 Series/C230 Series Chipset Family PCI Express Root Port #5
+            vendor: Intel Corporation
+            physical id: 1c.4
+            bus info: pci@0000:00:1c.4
+            version: f1
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pci pciexpress msi pm normal_decode bus_master cap_list
+            configuration: driver=pcieport
+            resources: irq:16 ioport:2000(size=4096) memory:d4000000-ea0fffff ioport:2fd0000000(size=570425344)
+        *-pci:4
+            description: PCI bridge
+            product: 100 Series/C230 Series Chipset Family PCI Express Root Port #9
+            vendor: Intel Corporation
+            physical id: 1d
+            bus info: pci@0000:00:1d.0
+            version: f1
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pci pciexpress msi pm normal_decode bus_master cap_list
+            configuration: driver=pcieport
+            resources: irq:16 memory:ecc00000-eccfffff
+        *-storage
+                description: Non-Volatile memory controller
+                product: NVMe SSD Controller SM981/PM981
+                vendor: Samsung Electronics Co Ltd
+                physical id: 0
+                bus info: pci@0000:3e:00.0
+                version: 00
+                width: 64 bits
+                clock: 33MHz
+                capabilities: storage pm msi pciexpress msix nvm_express bus_master cap_list
+                configuration: driver=nvme latency=0
+                resources: irq:16 memory:ecc00000-ecc03fff
+        *-pci:5
+            description: PCI bridge
+            product: 100 Series/C230 Series Chipset Family PCI Express Root Port #13
+            vendor: Intel Corporation
+            physical id: 1d.4
+            bus info: pci@0000:00:1d.4
+            version: f1
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pci pciexpress msi pm normal_decode bus_master cap_list
+            configuration: driver=pcieport
+            resources: irq:16 memory:ecb00000-ecbfffff
+        *-generic
+                description: Unassigned class
+                product: RTS525A PCI Express Card Reader
+                vendor: Realtek Semiconductor Co., Ltd.
+                physical id: 0
+                bus info: pci@0000:3f:00.0
+                version: 01
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm msi pciexpress bus_master cap_list
+                configuration: driver=rtsx_pci latency=0
+                resources: irq:123 memory:ecb00000-ecb00fff
+        *-isa
+            description: ISA bridge
+            product: CM238 Chipset LPC/eSPI Controller
+            vendor: Intel Corporation
+            physical id: 1f
+            bus info: pci@0000:00:1f.0
+            version: 31
+            width: 32 bits
+            clock: 33MHz
+            capabilities: isa bus_master
+            configuration: latency=0
+        *-memory UNCLAIMED
+            description: Memory controller
+            product: 100 Series/C230 Series Chipset Family Power Management Controller
+            vendor: Intel Corporation
+            physical id: 1f.2
+            bus info: pci@0000:00:1f.2
+            version: 31
+            width: 32 bits
+            clock: 33MHz (30.3ns)
+            configuration: latency=0
+            resources: memory:ed830000-ed833fff
+        *-multimedia
+            description: Audio device
+            product: CM238 HD Audio Controller
+            vendor: Intel Corporation
+            physical id: 1f.3
+            bus info: pci@0000:00:1f.3
+            version: 31
+            width: 64 bits
+            clock: 33MHz
+            capabilities: pm msi bus_master cap_list
+            configuration: driver=snd_hda_intel latency=64
+            resources: iomemory:2f0-2ef iomemory:2f0-2ef irq:125 memory:2ff2010000-2ff2013fff memory:2ff2000000-2ff200ffff
+        *-serial
+            description: SMBus
+            product: 100 Series/C230 Series Chipset Family SMBus
+            vendor: Intel Corporation
+            physical id: 1f.4
+            bus info: pci@0000:00:1f.4
+            version: 31
+            width: 64 bits
+            clock: 33MHz
+            configuration: driver=i801_smbus latency=0
+            resources: iomemory:2f0-2ef irq:16 memory:2ff2014000-2ff20140ff ioport:efa0(size=32)
+        *-network
+            description: Ethernet interface
+            product: Ethernet Connection (5) I219-LM
+            vendor: Intel Corporation
+            physical id: 1f.6
+            bus info: pci@0000:00:1f.6
+            logical name: enp0s31f6
+            version: 31
+            serial: 54:e1:ad:b5:5b:08
+            capacity: 1Gbit/s
+            width: 32 bits
+            clock: 33MHz
+            capabilities: pm msi bus_master cap_list ethernet physical tp 10bt 10bt-fd 100bt 100bt-fd 1000bt-fd autonegotiation
+            configuration: autonegotiation=on broadcast=yes driver=e1000e driverversion=3.2.6-k firmware=0.1-3 latency=0 link=no multicast=yes port=twisted pair
+            resources: irq:127 memory:ed800000-ed81ffff
+    *-scsi
+        physical id: 0
+        logical name: scsi3
+        capabilities: emulated
+        *-disk
+            description: ATA Disk
+            product: ST1000LM035-1RK1
+            vendor: Seagate
+            physical id: 0.0.0
+            bus info: scsi@3:0.0.0
+            logical name: /dev/sda
+            version: LNM6
+            serial: WDEM08PX
+            size: 931GiB (1TB)
+            capabilities: gpt-1.00 partitioned partitioned:gpt
+            configuration: ansiversion=5 guid=a6025590-b5a6-4e26-828a-df13706e1274 logicalsectorsize=512 sectorsize=4096
+        *-volume:0
+                description: reserved partition
+                vendor: Windows
+                physical id: 1
+                bus info: scsi@3:0.0.0,1
+                logical name: /dev/sda1
+                serial: 0ccc4fc7-6f83-43fc-b562-06d158a04b40
+                capacity: 127MiB
+                capabilities: nofs
+                configuration: name=Microsoft reserved partition
+        *-volume:1
+                description: EXT4 volume
+                vendor: Linux
+                physical id: 3
+                bus info: scsi@3:0.0.0,3
+                logical name: /dev/sda3
+                logical name: /mnt/sda3
+                version: 1.0
+                serial: 5b8b8cae-a4ed-4aa0-a7f8-20500ca39b5d
+                size: 931GiB
+                capabilities: journaled extended_attributes large_files huge_files dir_nlink recover extents ext4 ext2 initialized
+                configuration: created=2018-01-15 12:02:30 filesystem=ext4 lastmountpoint=/mnt/sda3 modified=2018-12-24 09:48:21 mount.fstype=ext4 mount.options=rw,relatime mounted=2018-12-24 09:48:21 state=mounted
+*-battery
+    product: 00NY493
+    vendor: SMP
+    physical id: 1
+    slot: Front
+    capacity: 90000mWh
+    configuration: voltage=11.2V

@@ -28,8 +28,6 @@ Graphics: NVIDIA GK107GLM [Quadro K1100M] http://silicongenesis.stanford.edu/com
 
 ### P710 with NVIDIA GTX 1080
 
-### P710 with NVIDIA GTX 1080
-
 Ubuntu 16.10:
 
 `__GL_SYNC_TO_VBLANK=0 glxgears`: 27k FPS :-)
@@ -83,15 +81,20 @@ Ubuntu 16.10:
 
 ### P51
 
+Summary string:
+
+    Lenovo ThinkPad P51 laptop, Intel Core i7-7820HQ CPU (4 cores / 8 threads), 2x Samsung M471A2K43BB1-CRC RAM (2x 16GiB), Samsung MZVLB512HAJQ-000L7 SSD (3,000 MB/s).
+
 Bought: 2017.
 
 HW specs:
 
-- Intel Core i7-7820HQ Processor (8MB Cache, up to 3.90GHz)
+- 32GB(16+16) DDR4 2400MHz SODIMM
+- 512GB SSD PCIe TLC OPAL2
+- 1TB hard disk
 - Windows 10 Pro 64
 - Windows 10 Pro 64 WE (EN/FR/DE/NL/IT)
 - 15.6" FHD (1920x1080), anti-glare, IPS
-- 32GB(16+16) DDR4 2400MHz SODIMM
 - NVIDIA Quadro M1200 4GB GDDR5
 - With Color Sensor
 - 720p HD Camera with Microphone
@@ -100,8 +103,6 @@ HW specs:
 - Integrated Fingerprint Reader
 - Hardware dTPM2.0 Enabled
 - 1TB 5400rpm HDD
-- 512GB SSD PCIe TLC OPAL2
-- 1.5TB
 - 170W AC Adapter - UK(3pin)
 - 6 Cell Li-Polymer Battery, 90Wh
 - Intel Dual Band Wireless AC(2x2) 8265, Bluetooth Version 4.1, vPro
@@ -121,10 +122,114 @@ Reddit threads:
 - https://www.reddit.com/r/Lenovo/comments/6g8m9w/ubuntu_on_lenovo_p51/
 - https://www.reddit.com/r/thinkpad/comments/6hi0zn/if_youre_thinking_of_running_linux_on_a_p51_read/
 
-Battery:
+Battery life:
 
 - before GPU: 8h
 - after GPU: 6.5h
+
+lshw: [p51-lshw](p51-lshw)
+
+hwinfo: [p51-hwinfo](p51-hwinfo)
+
+dmidecode: [p51-dmidecode](p51-dmidecode)
+
+#### P51 CPU
+
+Intel Core i7-7820HQ.
+
+https://ark.intel.com/products/97496/Intel-Core-i7-7820HQ-Processor-8M-Cache-up-to-3-90-GHz- | http://web.archive.org/web/20181224203737/https://ark.intel.com/products/97496/Intel-Core-i7-7820HQ-Processor-8M-Cache-up-to-3-90-GHz-
+
+8MB Cache, up to 3.90GHz, 4 cores / 8 threads.
+
+Recommended customer price: 378.00 USD. Launch date: Q1'17, process: 14 nm.
+
+`cat /proc/cpuinfo`:
+
+    processor       : 0
+    vendor_id       : GenuineIntel
+    cpu family      : 6
+    model           : 158
+    model name      : Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz
+    stepping        : 9
+    microcode       : 0x8e
+    cpu MHz         : 1029.568
+    cache size      : 8192 KB
+    physical id     : 0
+    siblings        : 8
+    core id         : 0
+    cpu cores       : 4
+    apicid          : 0
+    initial apicid  : 0
+    fpu             : yes
+    fpu_exception   : yes
+    cpuid level     : 22
+    wp              : yes
+    flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_g
+    ood nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsav
+    e avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx rdseed a
+    dx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp flush_l1d
+    bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf
+    bogomips        : 5808.00
+    clflush size    : 64
+    cache_alignment : 64
+    address sizes   : 39 bits physical, 48 bits virtual
+    power management:
+
+`getconf -a | grep CACHE`:
+
+    LEVEL1_ICACHE_SIZE                 32768
+    LEVEL1_ICACHE_ASSOC                8
+    LEVEL1_ICACHE_LINESIZE             64
+    LEVEL1_DCACHE_SIZE                 32768
+    LEVEL1_DCACHE_ASSOC                8
+    LEVEL1_DCACHE_LINESIZE             64
+    LEVEL2_CACHE_SIZE                  262144
+    LEVEL2_CACHE_ASSOC                 4
+    LEVEL2_CACHE_LINESIZE              64
+    LEVEL3_CACHE_SIZE                  8388608
+    LEVEL3_CACHE_ASSOC                 16
+    LEVEL3_CACHE_LINESIZE              64
+    LEVEL4_CACHE_SIZE                  0
+    LEVEL4_CACHE_ASSOC                 0
+    LEVEL4_CACHE_LINESIZE              0
+
+#### P51 RAM
+
+2x Samsung M471A2K43BB1-CRC (2x 16GiB)
+
+https://www.samsung.com/semiconductor/dram/module/M471A2K43BB1-CRC/ | http://web.archive.org/web/20181224202657/https://www.samsung.com/semiconductor/dram/module/M471A2K43BB1-CRC/
+
+https://www.amazon.co.uk/Samsung-DDR4-16-GB-DDR4-2400-MHz-Memory-Module/dp/B016N24XKQ | http://web.archive.org/web/20181224203214/https://www.amazon.co.uk/Samsung-DDR4-16-GB-DDR4-2400-MHz-Memory-Module/dp/B016N24XKQ 355.43 UK Pounds for 2x 16 GiB.
+
+#### P51 SSD
+
+Samsung MZVLB512HAJQ-000L7, 512GB.
+
+https://www.samsung.com/semiconductor/ssd/client-ssd/MZVLB512HAJQ/ | http://web.archive.org/web/20181224225400/https://www.samsung.com/semiconductor/ssd/client-ssd/MZVLB512HAJQ/
+
+https://www.samsung.com/semiconductor/global.semi/file/resource/2018/05/PM981_M.2_SSD_Datasheet_v1.3_for_General.pdf | http://web.archive.org/web/20181224225410/https://www.samsung.com/semiconductor/global.semi/file/resource/2018/05/PM981_M.2_SSD_Datasheet_v1.3_for_General.pdf
+
+hdparam
+
+    Timing cached reads:   30426 MB in  1.99 seconds = 15273.67 MB/sec
+    Timing buffered disk reads: 4570 MB in  3.00 seconds = 1523.14 MB/sec
+
+Nominal maximum sequential read speed: 3,000 MB/s
+
+#### P51 Hard disk
+
+Seagate ST1000LM035-1RK1, 1TB.
+
+https://www.disctech.com/Seagate-ST1000LM035-1TB-SATA-Hard-Drive 80 USD | http://web.archive.org/web/20181224201408/https://www.disctech.com/Seagate-ST1000LM035-1TB-SATA-Hard-Drive
+
+https://www.seagate.com/www-content/datasheets/pdfs/mobile-hddDS1861-2-1603-en_US.pdf | http://web.archive.org/web/20181225095438/https://www.seagate.com/www-content/datasheets/pdfs/mobile-hddDS1861-2-1603-en_US.pdf
+
+hdparam
+
+    Timing cached reads:   34128 MB in  1.99 seconds = 17136.31 MB/sec
+    Timing buffered disk reads: 388 MB in  3.01 seconds = 129.00 MB/sec
+
+Nominal maximum speed: 140MB/s
 
 ### T430
 
@@ -204,7 +309,7 @@ Ubuntu 16.10 `glmark2`:
     [loop] fragment-steps=5:fragment-uniform=false:vertex-steps=5: FPS: 1172 FrameTime: 0.853 ms
     [loop] fragment-steps=5:fragment-uniform=true:vertex-steps=5: FPS: 1077 FrameTime: 0.929 ms
     =======================================================
-                                    glmark2 Score: 1250 
+                                    glmark2 Score: 1250
     =======================================================
 
 ### T400
@@ -268,7 +373,7 @@ Released 2015, bought dec 2015 in Brazil.
 
 Brazil only model it seems, <http://forum.xda-developers.com/z3/help/how-to-proceed-d6643-model-t2960099>, but very similar to the more international D6653.
 
-Battery removal is non trivial if you have no experience: <https://www.youtube.com/watch?v=lKkqT5nF7Yw> Requires the sucking 
+Battery removal is non trivial if you have no experience: <https://www.youtube.com/watch?v=lKkqT5nF7Yw> Requires the sucking
 
 Service menu review: <https://www.youtube.com/watch?v=msHrHeLX1Ok>
 
@@ -337,7 +442,7 @@ Bought: 2018. Price: ~150 USD.
 
 Bought: 2015
 
-Disable horrible Fn key behaviour: <http://askubuntu.com/questions/170819/how-to-program-logitech-function-keys> 
+Disable horrible Fn key behaviour: <http://askubuntu.com/questions/170819/how-to-program-logitech-function-keys>
 
 Some other k models can configure hardware directly: <http://www.logitech.com/en-us/manuals/k380-setup-guide>
 
@@ -377,11 +482,21 @@ SoC: BMC2836
 
 <https://www.raspberrypi.org/products/raspberry-pi-2-model-b/>
 
+As of 2018-12, I believe that I might have fried the UART on this board when I burnt my last UART to USB converter by connecting ground to 5V.
+
+Linux kernel logs don't show, but do show with the exact same components on the Pi 3 (SD card with `enable_uart=1` + image Raspbian Lite 2018-11-03 and UART cables).
+
+Linux on SSH and bare metal blinker both work on this board, so the rest of the board seems alive.
+
+Serial from `cat /proc/cpuinfo`: 00000000a50c1f69
+
 ### Raspberry Pi 3
 
 Model B V 1.2.
 
 SoC: BCM2837
+
+Serial from `cat /proc/cpuinfo`: 00000000c77ddb77
 
 ## BBC Micro Bit
 

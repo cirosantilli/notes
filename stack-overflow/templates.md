@@ -18,7 +18,7 @@ DISCLAIMER: part of this answer comes from [my earlier answer](). I believe that
 
 ## C++17 N3337 draft
 
-[C++17 n4659 standard draft](https://github.com/cplusplus/draft/blob/master/papers/n4659.pdf)
+[C++17 N4659 standard draft](https://github.com/cplusplus/draft/blob/master/papers/n4659.pdf)
 
 ## C++11 N3337 draft
 
@@ -45,6 +45,12 @@ Shorter version:
 [Intel Manual Volume 1 Basic Architecture -  253665-056US September 2015](https://web.archive.org/web/20151025081316/http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-1-manual.pdf)
 [Intel Manual Volume 2 Instruction Set Reference - 325383-056US September 2015](https://web.archive.org/web/20151025081307/http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)
 [Intel Manual Volume 3 System Programming Guide - 325384-056US September 2015](https://web.archive.org/web/20151025081259/http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-system-programming-manual-325384.pdf)
+
+## ARM manuals
+
+[ARMv7 DDI 0406C.d manual](https://static.docs.arm.com/ddi0406/cd/DDI0406C_d_armv7ar_arm.pdf)
+
+[ARMv8 DDI 0487C.a manual](https://static.docs.arm.com/ddi0487/ca/DDI0487C_a_armv8_arm.pdf)
 
 ## Xperia
 
