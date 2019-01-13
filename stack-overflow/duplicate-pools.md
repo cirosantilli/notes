@@ -256,6 +256,16 @@ column -t tables in awk:
 - https://unix.stackexchange.com/questions/17664/a-shell-tool-to-tablify-input-data/467356#467356
 - https://superuser.com/questions/183861/how-to-align-columns-in-output-from-a-unix-command/1355908#1355908
 
+`find -execdir` rename:
+
+- https://stackoverflow.com/questions/16541582/finding-multiple-files-recursively-and-renaming-in-linux/54163971#54163971
+- https://superuser.com/questions/213134/recursively-rename-files-change-extension-in-linux/1393599#1393599
+- https://askubuntu.com/questions/621132/why-using-the-execdir-action-is-insecure-for-directory-which-is-in-the-path/1109378#1109378 just the `find` source analysis for the relative `PATH` madness
+- https://unix.stackexchange.com/questions/227662/how-to-rename-multiple-files-using-find/261048#261048 answered by someone else
+- link only:
+    - https://unix.stackexchange.com/questions/141086/how-can-i-use-rename-to-recursively-rename-everyting-to-uppercase/494263#494263
+    - https://unix.stackexchange.com/questions/5412/lowercasing-all-directories-under-a-directory/494262#494262
+
 ### NVIDIA
 
 GPU NVIDIA check working:
