@@ -983,6 +983,13 @@ Upgrade to 18.10 from 18.04 enable upgrade to non-LTS:
 - https://askubuntu.com/questions/1085295/upgrade-form-18-04-to-18-10-issue/1100915#1100915
 - https://askubuntu.com/questions/1093573/cant-upgrade-from-18-04-1-lts-to-18-10/1100922#1100922
 
+Cloud image password:
+
+- https://stackoverflow.com/questions/29137679/login-credentials-of-ubuntu-cloud-server-image/53373376#53373376
+- https://serverfault.com/questions/920117/how-do-i-set-a-password-on-an-ubuntu-cloud-image/940686#940686
+- https://askubuntu.com/questions/507345/how-to-set-a-password-for-ubuntu-cloud-images-ie-not-use-ssh/1094189#1094189
+- https://askubuntu.com/questions/451673/default-username-password-for-ubuntu-cloud-image/1110245#1110245 link only
+
 ### Tor
 
 Change IP from terminal:
