@@ -763,6 +763,11 @@ Overlayfs multiple layers:
 - https://unix.stackexchange.com/questions/341138/can-overlayfs-support-more-than-two-layers/475252#475252
 - https://askubuntu.com/questions/143176/overlayfs-reload-with-multiple-layers-migration-away-from-aufs/1083452#1083452
 
+List build-in kernel modules:
+
+- https://superuser.com/questions/577307/how-to-get-a-list-of-active-drivers-that-are-statically-built-into-the-linux-ker/1400594#1400594
+- https://askubuntu.com/questions/163304/which-device-drivers-are-built-into-the-kernel/1114400#1114400
+
 ## Bare metal
 
 - <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
