@@ -438,6 +438,8 @@ Bought: 2018. Price: ~150 USD.
 
 2018-11: screen broken when a bowl fell on it from just one foot height...
 
+Cannot get compass working... seems to work only when on a car moving fast.
+
 ## Logitech k400r wireless keyboard
 
 Bought: 2015
@@ -513,3 +515,33 @@ Home 2017/08 TalkTalk 38Mbps nominal, Google M-lab speed test:
 ## Kindle
 
 Kindle D01100
+
+## House
+
+### House 2018-01
+
+#### Toilet mirror lamps
+
+When I came, two Bell GU4 (MR11) 20W 12v.
+
+One burnt. Put in an ASDA halogen one.
+
+ASDA burnt, put in TopLux on right, old Bell left.
+
+2019-01-24, right one burnt a few days ago, old Bell still works. Inner part black, and black dot on the wire. Putting new TopLux again, but this time on the left, old bell on right.
+
+2019-01-24 toilet top lamp also burnt a few days ago, nut not at the same time as mirror. Diall, 240V 40W, GU10. Putting in IKEA 240V 32W.
+
+2019-02-02 toilet mirror lamp left (TopLux) burt. Don't know what to do anymore. Only the magic Bell lamp works.
+
+## Bicycle
+
+### Flourish FS 2
+
+Bought: 2019-01, 400 pounds, XS.
+
+https://www.liv-cycling.com/ie/flourish-fs-2 | http://web.archive.org/web/20190124201848/https://www.liv-cycling.com/ie/flourish-fs-2
+
+#### Kryptonite NEW-U - KRYPTOLOK STANDARD
+
+https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information/current-key/002031.html | http://web.archive.org/web/20190124201119/https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information/current-key/002031.html

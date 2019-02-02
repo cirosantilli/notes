@@ -508,12 +508,14 @@ C++ standard library data structures:
 
 Inline variable:
 
-- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715
-- https://stackoverflow.com/questions/38043442/how-do-inline-variables-work/53896763#53896763
-- https://stackoverflow.com/questions/12042549/define-constant-variables-in-c-header/53541011#53541011
-- https://stackoverflow.com/questions/2190919/mixing-extern-and-const/53898717#53898717
-- https://stackoverflow.com/questions/30208685/how-to-declare-constexpr-extern/53896773#53896773
-- https://stackoverflow.com/questions/14872240/unique-address-for-constexpr-variable/53898701#53898701
+- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715 inline variable, extern const, standard quote
+- https://stackoverflow.com/questions/38043442/how-do-inline-variables-work/53896763#53896763 inline variable, extern in header
+- https://stackoverflow.com/questions/12042549/define-constant-variables-in-c-header/53541011#53541011 inline variable, standard quote
+- https://stackoverflow.com/questions/2190919/mixing-extern-and-const/53898717#53898717 inline variable, extern in header
+- https://stackoverflow.com/questions/30208685/how-to-declare-constexpr-extern/53896773#53896773 inline variable
+- https://stackoverflow.com/questions/14872240/unique-address-for-constexpr-variable/53898701#53898701 inline variable
+- https://stackoverflow.com/questions/3709207/c-semantics-of-static-const-vs-const/54377560#54377560 standard quote, link to usage
+- https://stackoverflow.com/questions/2268749/defining-global-constant-in-c/54377737#54377737 inline variable
 
 ### Java
 
