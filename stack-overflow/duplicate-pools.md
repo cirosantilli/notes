@@ -740,6 +740,7 @@ Log new process, `CONFIG_PROC_EVENTS`, execsnoop:
 `sched_setaffinity`:
 
 - https://stackoverflow.com/questions/663958/how-to-control-which-core-a-process-runs-on/50210009#50210009
+- https://stackoverflow.com/questions/280909/cpu-affinity/54478296#54478296
 - https://stackoverflow.com/questions/10490756/how-to-use-sched-getaffinity-and-sched-setaffinity-in-linux-from-c/50117787#50117787
 - https://unix.stackexchange.com/questions/73/how-can-i-set-the-processor-affinity-of-a-process-on-linux/441098#441098
 
@@ -769,6 +770,11 @@ List build-in kernel modules:
 
 - https://superuser.com/questions/577307/how-to-get-a-list-of-active-drivers-that-are-statically-built-into-the-linux-ker/1400594#1400594
 - https://askubuntu.com/questions/163304/which-device-drivers-are-built-into-the-kernel/1114400#1114400
+
+List of system calls:
+
+- https://reverseengineering.stackexchange.com/questions/16917/arm64-syscalls-table/18834#18834
+- https://unix.stackexchange.com/questions/421750/where-do-you-find-the-syscall-table-for-linux/499016#499016
 
 ## Bare metal
 
