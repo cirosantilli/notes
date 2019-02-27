@@ -320,6 +320,11 @@ RPI peripherals:
 - https://raspberrypi.stackexchange.com/questions/45759/where-can-i-find-the-documentation-for-the-bcm2837/92555#92555
 - https://stackoverflow.com/questions/44222273/where-can-i-find-documentation-on-the-raspberry-pi-3-peripherals/54011458#54011458
 
+GDB print floating point:
+
+- https://reverseengineering.stackexchange.com/questions/8992/floating-point-registers-on-arm/20623#20623
+- https://stackoverflow.com/questions/35518673/gdb-print-aarch64-advanced-simd-vector-registers-is-it-possible/54711214#54711214
+
 ### Git
 
 receive.denyCurrentBranch updateInstead:
@@ -360,6 +365,7 @@ Clone a single file or directory:
     - <https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/13738951#13738951>
     - <https://unix.stackexchange.com/questions/233327/is-it-possible-to-clone-only-part-of-a-git-project/468182#468182>
     - <https://stackoverflow.com/questions/180052/checkout-subdirectories-in-git/52270636#52270636> minor modification to avoid dupe detector
+    - <https://stackoverflow.com/questions/2425059/how-to-pull-specific-directory-with-git/54910376#54910376> link only, I've had enough :-)
 -   file:
     - <https://stackoverflow.com/questions/2466735/how-to-checkout-only-one-file-from-git-repository-sparse-checkout/52270527#52270527>
     - <https://askubuntu.com/questions/460885/how-to-clone-git-repository-only-some-directories/1074185#1074185>
