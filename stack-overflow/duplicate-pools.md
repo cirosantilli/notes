@@ -782,6 +782,11 @@ List of system calls:
 - https://reverseengineering.stackexchange.com/questions/16917/arm64-syscalls-table/18834#18834
 - https://unix.stackexchange.com/questions/421750/where-do-you-find-the-syscall-table-for-linux/499016#499016
 
+View core file:
+
+- https://stackoverflow.com/questions/8305866/how-to-analyze-a-programs-core-dump-file-with-gdb/54943610#54943610
+- https://unix.stackexchange.com/questions/89933/how-to-view-core-files-for-debugging-purposes-in-linux/202443#202443
+
 ## Bare metal
 
 - <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
