@@ -188,6 +188,13 @@ Create multi partition image without sudo:
 - https://superuser.com/questions/367196/linux-how-to-format-multiple-file-systems-within-one-file/1367534#1367534
 - https://unix.stackexchange.com/questions/157876/creating-disk-device-in-a-file/475985#475985 link only
 
+## Filesystems
+
+`du` apparent vs total:
+
+- https://unix.stackexchange.com/questions/173947/du-s-apparent-size-vs-du-s/510476#510476
+- https://stackoverflow.com/questions/5694741/why-is-the-output-of-du-often-so-different-from-du-b/55514003#55514003
+
 ## JavaScript
 
 Firefox Prettify JavaScript source
