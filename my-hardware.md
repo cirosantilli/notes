@@ -83,7 +83,7 @@ Ubuntu 16.10:
 
 Summary string:
 
-    Lenovo ThinkPad P51 laptop, Intel Core i7-7820HQ CPU (4 cores / 8 threads), 2x Samsung M471A2K43BB1-CRC RAM (2x 16GiB), Samsung MZVLB512HAJQ-000L7 SSD (3,000 MB/s).
+    Lenovo ThinkPad P51 laptop with CPU: Intel Core i7-7820HQ CPU (4 cores / 8 threads), RAM: 2x Samsung M471A2K43BB1-CRC (2x 16GiB), SSD: Samsung MZVLB512HAJQ-000L7 (3,000 MB/s).
 
 Bought: 2017.
 
@@ -530,18 +530,58 @@ ASDA burnt, put in TopLux on right, old Bell left.
 
 2019-01-24, right one burnt a few days ago, old Bell still works. Inner part black, and black dot on the wire. Putting new TopLux again, but this time on the left, old bell on right.
 
-2019-01-24 toilet top lamp also burnt a few days ago, nut not at the same time as mirror. Diall, 240V 40W, GU10. Putting in IKEA 240V 32W.
+2019-01-24 toilet top lamp also burnt a few days ago, but not at the same time as mirror. Diall, 240V 40W, GU10. Putting in IKEA 240V 35W.
 
-2019-02-02 toilet mirror lamp left (TopLux) burt. Don't know what to do anymore. Only the magic Bell lamp works.
+2019-02-02 toilet mirror lamp left (TopLux) burnt. Don't know what to do anymore. Only the magic Bell lamp works.
+
+2019-03-06 toilet top lamp left burnt, IKEA 240V 35W GU10. Putting in another one.
+
+2019-03-28 toilet top lamp right burnt, IKEA 240V 35W GU10. Waiting for people to come to look at transformer, there is definitely something wrong.
+
+2019-04-03 top lamps: replaced with LED (LAP GU10 3W) since lower power, transformer not changed. Mirror lamps: transformer changed, left one replaced with Homebase Halogen 20W 12V. When I came back lamps flickering badly and sometimes not turning on, recalled technician.
+
+2019-04-12 mirror lamp: it was just he connector that was bad, it was changed, also put LEDs there to make it less warm and hopefully have less tear on connector.
 
 ## Bicycle
 
-### Flourish FS 2
+### Kross
 
-Bought: 2019-01, 400 pounds, XS.
+TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki/Hybrid_bicycle
+
+2019-04-07: fill tires, using 90PSI, was 40PSI. Also on Giant Flourish.
+
+2019-03-30: repair bearings back wheel, true back wheel, remove rust from chain. Result: 50 pounds:
+
+- cassette Shimano HG50 8 speed: https://bike.shimano.com/en-NZ/product/component/claris-r2000/CS-HG50-8.html tooth counts: 11-13-15-18-21-24-28-34T
+- chain KMC Z51 7-8X Chain because 0.7 stretch reached (limit 0.5)
+- oil on back wheel bearings no replace
+
+Tick on back wheel stopped. Back break did not get better. Gears not improved. Rust remained, was told too hard to remove, and not on teeth, so should not matter.
+
+2018-09-02: spoke https://www.dtswiss.com/en/products/spokes-nipples/spokes/dt-champion/ + minor brake work 41 pounds full work
+
+2018: front tire blew up and was replaced by TODO.
+
+2017: bought used 100 pounds. Specs when bought follow.
+
+Back tire: Schwalbe Marathon Plus Tour 42-622 (28 x 1.60, 700x40C) https://www.schwalbe.com/en/unplattbar.html Schrader valve.
+
+Back hub: Shimano FH-RM30
+
+Front tire: did not take note, was later changed.
+
+Front hub: Shimano DH-3N20 dynamo front hub https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx
+
+### Giant Flourish FS 2
+
+Bought: 2019-01, 400 pounds, XS. Hybrid style bike.
 
 https://www.liv-cycling.com/ie/flourish-fs-2 | http://web.archive.org/web/20190124201848/https://www.liv-cycling.com/ie/flourish-fs-2
 
 #### Kryptonite NEW-U - KRYPTOLOK STANDARD
 
 https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information/current-key/002031.html | http://web.archive.org/web/20190124201119/https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information/current-key/002031.html
+
+### Bike pump
+
+2019-03: Giant control tower 3 floor pump 20 pounds. Works on both Schrader and Presta.

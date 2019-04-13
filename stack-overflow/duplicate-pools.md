@@ -475,6 +475,8 @@ C treads:
 - https://stackoverflow.com/questions/56810/how-do-i-start-threads-in-plain-c/52453291#52453291 main
 - https://stackoverflow.com/questions/3908031/how-to-multithread-c-code/52453354#52453354 I mark as dupe
 - https://stackoverflow.com/questions/25319825/how-to-use-atomic-variables-in-c/43993821#43993821
+- https://stackoverflow.com/questions/2353371/how-to-do-an-atomic-increment-and-fetch-in-c/30878480#30878480
+- https://stackoverflow.com/questions/1130018/unix-portable-atomic-operations/54680209#54680209
 
 Build glibc from source and use it:
 
@@ -490,6 +492,11 @@ Subnormal, denormal:
 - https://stackoverflow.com/questions/8341395/what-is-a-subnormal-floating-point-number/53203428#53203428 primary
 - https://stackoverflow.com/questions/14001910/what-is-this-denormal-data-about-c/53203740#53203740 secondary, change Subnormal to Denormal in title
 - https://stackoverflow.com/questions/10108053/ranges-of-floating-point-datatype-in-c/53204544#53204544 slight code reuse, not dupe
+
+C ABI vs API:
+
+- https://stackoverflow.com/questions/2171177/what-is-an-application-binary-interface-abi/54967743#54967743
+- https://stackoverflow.com/questions/3784389/difference-between-api-and-abi/54970475#54970475 subset / link
 
 ### C++
 
@@ -518,6 +525,7 @@ C++ standard library data structures:
     - https://stackoverflow.com/questions/2558153/what-is-the-underlying-data-structure-of-a-stl-set-in-c/51944661#51944661
     - https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
     - https://stackoverflow.com/questions/11266360/when-should-i-use-make-heap-vs-priority-queue/51945521#51945521
+    - https://stackoverflow.com/questions/1349734/why-would-anyone-use-set-instead-of-unordered-set/55511095#55511095 just step debug into C++ part
 
 Inline variable:
 
@@ -807,10 +815,9 @@ View core file:
 Install with NVM:
 
 - <https://askubuntu.com/questions/594656/how-to-install-the-latest-versions-of-nodejs-and-npm/971612#971612>
+- <https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version/1115255#1115255>
 - <https://stackoverflow.com/questions/34974535/install-latest-nodejs-version-in-ubuntu-14-04/47376405#47376405>
 - <https://stackoverflow.com/questions/16898001/installing-a-specific-node-version-in-ubuntu/47376491#47376491>
-- already answered by someone else:
-    - <https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version/441527#441527>
 - marked as dupes:
     - https://askubuntu.com/questions/562417/how-do-you-update-npm-to-the-latest-version?noredirect=1&lq=1
 
@@ -1021,6 +1028,12 @@ Cloud image password:
 - https://askubuntu.com/questions/507345/how-to-set-a-password-for-ubuntu-cloud-images-ie-not-use-ssh/1094189#1094189
 - https://askubuntu.com/questions/451673/default-username-password-for-ubuntu-cloud-image/1110245#1110245 link only
 
+VLC recurse:
+
+- https://superuser.com/questions/725299/how-to-let-vlc-media-library-show-the-contents-of-an-added-folder/1395894#1395894
+- https://askubuntu.com/questions/774115/open-multiple-directories-with-vlc-in-command-line/1123044#1123044
+- https://forum.videolan.org/viewtopic.php?f=2&t=140503&p=487750#p487750
+
 ### Tor
 
 Change IP from terminal:
@@ -1132,6 +1145,13 @@ Ubuntu on QEMU;
 - https://askubuntu.com/questions/884534/how-to-run-ubuntu-16-04-desktop-on-qemu/1046792#1046792
 - https://unix.stackexchange.com/questions/108122/how-to-install-ubuntu-13-0-desktop-in-qemu/450236#450236
 - https://askubuntu.com/questions/419958/why-am-i-getting-a-black-screen-when-booting-vm-using-qemu very similar, but apparently solved with `-enable-kvm` Commenting only for now...
+
+## gnuplot
+
+Data-blocks:
+
+- https://stackoverflow.com/questions/3318228/how-to-plot-data-without-a-separate-file-by-specifying-all-points-inside-the-gnu/33064653#33064653
+- https://stackoverflow.com/questions/10397750/how-to-embedding-multiple-datasets-in-a-gnuplot-command-script-for-a-single-plot/33064402#33064402
 
 ## Chinese
 
