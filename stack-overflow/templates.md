@@ -50,7 +50,7 @@ Shorter version:
 
 [ARMv7 DDI 0406C.d manual](https://static.docs.arm.com/ddi0406/cd/DDI0406C_d_armv7ar_arm.pdf)
 
-[ARM Architecture Reference Manual - ARMv8, for ARMv8-A architecture profile - DDI 0487C.a](https://static.docs.arm.com/ddi0487/ca/DDI0487C_a_armv8_arm.pdf)
+[ARM Architecture Reference Manual ARMv8 DDI 0487C.a](https://static.docs.arm.com/ddi0487/ca/DDI0487C_a_armv8_arm.pdf)
 
 ## Xperia
 
