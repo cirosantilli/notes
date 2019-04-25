@@ -526,6 +526,7 @@ C++ standard library data structures:
     - https://stackoverflow.com/questions/18414579/stdmap-what-data-structure-is-inside/51945119#51945119
     - https://stackoverflow.com/questions/11266360/when-should-i-use-make-heap-vs-priority-queue/51945521#51945521
     - https://stackoverflow.com/questions/1349734/why-would-anyone-use-set-instead-of-unordered-set/55511095#55511095 just step debug into C++ part
+    - https://stackoverflow.com/questions/3578083/what-is-the-best-way-to-use-a-hashmap-in-c/47896157#47896157 link only to map answer
 
 Inline variable:
 

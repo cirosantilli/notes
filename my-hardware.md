@@ -133,6 +133,8 @@ hwinfo: [p51-hwinfo](p51-hwinfo)
 
 dmidecode: [p51-dmidecode](p51-dmidecode)
 
+2019-04-17: popup asking about "ThinkPad P51 Management Engine Update" from from 182.29.3287 to 184.60.3561, said yes.
+
 #### P51 CPU
 
 Intel Core i7-7820HQ.
@@ -571,6 +573,8 @@ Back hub: Shimano FH-RM30
 Front tire: did not take note, was later changed.
 
 Front hub: Shimano DH-3N20 dynamo front hub https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx
+
+Speed meter: Speedmaster 5000, CR2032 battery. https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000 | http://web.archive.org/web/20190418182410/https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000
 
 ### Giant Flourish FS 2
 
