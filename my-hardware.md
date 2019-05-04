@@ -95,7 +95,7 @@ HW specs:
 - Windows 10 Pro 64
 - Windows 10 Pro 64 WE (EN/FR/DE/NL/IT)
 - 15.6" FHD (1920x1080), anti-glare, IPS
-- NVIDIA Quadro M1200 4GB GDDR5
+- NVIDIA Quadro M1200 4GB GDDR5 GPU
 - With Color Sensor
 - 720p HD Camera with Microphone
 - Keyboard with Number Pad - Euro English

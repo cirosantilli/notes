@@ -608,11 +608,11 @@ print int from signal handler:
 
 User vs kernel land:
 
-- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems>
-- <https://stackoverflow.com/questions/1311402/differences-between-user-and-kernel-modes/48829759#48829759>
-- <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809>
+- <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems> most voted answer 2019
+- <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809> most viewed question
+    - <https://stackoverflow.com/questions/1311402/differences-between-user-and-kernel-modes/48829759#48829759> marked as dupe, not closed 2019
 - <https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space/368313#368313>
-- <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered, now closed as duplicate
+    - <https://unix.stackexchange.com/questions/137820/whats-the-difference-of-the-userland-vs-the-kernel> unanswered, now closed as duplicate
 
 Minimal Linux distro:
 
@@ -1034,6 +1034,11 @@ VLC recurse:
 - https://superuser.com/questions/725299/how-to-let-vlc-media-library-show-the-contents-of-an-added-folder/1395894#1395894
 - https://askubuntu.com/questions/774115/open-multiple-directories-with-vlc-in-command-line/1123044#1123044
 - https://forum.videolan.org/viewtopic.php?f=2&t=140503&p=487750#p487750
+
+Survey of interactive plotting software:
+
+- https://stackoverflow.com/questions/5854515/large-plot-20-million-samples-gigabytes-of-data/55967461#55967461
+- https://stats.stackexchange.com/questions/73939/standalone-software-for-plotting-graphs-of-large-amounts-of-data-and-allowing/405613#405613 link only
 
 ### Tor
 
