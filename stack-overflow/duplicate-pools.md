@@ -509,6 +509,7 @@ Lambda + map to replace switch:
 C from C++ and vice versa:
 
 - <https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c/30526795#30526795>
+    - https://stackoverflow.com/questions/67894/why-do-we-need-extern-c-include-foo-h-in-c/56136918#56136918 worse question, best one was marked dupe
 - <https://stackoverflow.com/questions/13694605/how-to-use-c-source-files-in-a-c-project/51912672#51912672>
 
 Restore `std::cout` state:

@@ -522,6 +522,12 @@ Kindle D01100
 
 ### House 2018-01
 
+#### House 2018-01 kitchen tap
+
+Looks a lot like: Bristan Monza EF Sink Mixer Chrome https://www.bathroomsensations.co.uk/Bristan-Monza-EF-Sink-Mixer-Chrome.html
+
+How to open: https://www.youtube.com/watch?v=oHTpOG1Uhzw
+
 #### Toilet mirror lamps
 
 When I came, two Bell GU4 (MR11) 20W 12v.
@@ -576,6 +582,8 @@ Front hub: Shimano DH-3N20 dynamo front hub https://www.fawkes-cycles.co.uk/2912
 
 Speed meter: Speedmaster 5000, CR2032 battery. https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000 | http://web.archive.org/web/20190418182410/https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000
 
+Front light: AXA Sprint 10 Switch LED Front Light https://www.bike24.com/p213267.html
+
 ### Giant Flourish FS 2
 
 Bought: 2019-01, 400 pounds, XS. Hybrid style bike.
@@ -589,3 +597,35 @@ https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information
 ### Bike pump
 
 2019-03: Giant control tower 3 floor pump 20 pounds. Works on both Schrader and Presta.
+
+## Shoes
+
+### Nike Flex Experience RN 6 Grey
+
+Amazing shoes! Bought: 2017Q4.
+
+https://www.amazon.in/Nike-Mens-Experience-Running-Shoes/dp/B07CQLHV9C | http://web.archive.org/web/20190504122243/https://www.amazon.in/Nike-Mens-Experience-Running-Shoes/dp/B07CQLHV9C
+
+Shoestring length: 1.185m
+
+Replaced with after bicycle ate it: 1.0m, also worked but at limit.
+
+Size: EUR 45.
+
+## Glasses
+
+### Jaeger 307
+
+53 18-145 C.16
+
+Bought: 2019-04, 300 pounds from Boots.
+
+Finish: Boots Protect Plus
+
+Glazing: Supra.
+
+https://www.boots.com/mens-designer-jaeger-mod-307-mens-glasses---gunmetal-10254829 | http://web.archive.org/web/20190506090045/https://www.boots.com/mens-designer-jaeger-mod-307-mens-glasses---gunmetal-10254829
+
+## Body
+
+Hand great span <https://en.wikipedia.org/wiki/Span_(unit)>: 0.22m
