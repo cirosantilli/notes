@@ -186,7 +186,8 @@ Create multi partition image without sudo:
 
 - https://stackoverflow.com/questions/10949169/creating-sd-image-without-root-privileges/52850819#52850819
 - https://superuser.com/questions/367196/linux-how-to-format-multiple-file-systems-within-one-file/1367534#1367534
-- https://unix.stackexchange.com/questions/157876/creating-disk-device-in-a-file/475985#475985 link only
+- https://unix.stackexchange.com/questions/209566/how-to-format-a-partition-inside-of-an-img-file/527132#527132
+  - https://unix.stackexchange.com/questions/157876/creating-disk-device-in-a-file/475985#475985 link only
 
 ## Filesystems
 
@@ -373,6 +374,7 @@ Clone a single file or directory:
     - <https://unix.stackexchange.com/questions/233327/is-it-possible-to-clone-only-part-of-a-git-project/468182#468182>
     - <https://stackoverflow.com/questions/180052/checkout-subdirectories-in-git/52270636#52270636> minor modification to avoid dupe detector
     - <https://stackoverflow.com/questions/2425059/how-to-pull-specific-directory-with-git/54910376#54910376> link only, I've had enough :-)
+    - <https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo/56504849#56504849> link only, GitHub superset
 -   file:
     - <https://stackoverflow.com/questions/2466735/how-to-checkout-only-one-file-from-git-repository-sparse-checkout/52270527#52270527>
     - <https://askubuntu.com/questions/460885/how-to-clone-git-repository-only-some-directories/1074185#1074185>
@@ -574,9 +576,9 @@ assert, synthetic field:
 
 CSRF and SOP:
 
+- <http://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important/72569#72569>
 - <http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token/26895980#26895980>
 - <http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed/26819187#26819187>
-- <http://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important/72569#72569>
 
 ## POSIX
 
@@ -926,6 +928,11 @@ rr:
 - https://stackoverflow.com/questions/27770896/how-to-debug-a-rare-deadlock/50073993#50073993
 - https://stackoverflow.com/questions/522619/how-to-do-bidirectional-or-reverse-debugging-of-programs/50074106#50074106 link only
 
+NERDCommenter multiline comments:
+
+- https://stackoverflow.com/questions/1375031/nerd-commenter-how-to-comment-out-a-range/56514659#56514659
+- https://superuser.com/questions/781590/vim-c-line-comment-function/1446653#1446653
+
 ## HTML
 
 Boolean attributes:
@@ -1080,6 +1087,11 @@ How to download the POSIX standard:
 - https://stackoverflow.com/questions/453993/where-is-the-list-of-the-posix-c-api-functions/45832939#45832939
 
 ## GCC
+
+Get assembly and preprocessed GCC output:
+
+- https://stackoverflow.com/questions/4900870/can-gcc-output-c-code-after-preprocessing/55477371#55477371
+- https://stackoverflow.com/questions/137038/how-do-you-get-assembler-output-from-c-c-source-in-gcc/56801917#56801917
 
 No such file or directory:
 

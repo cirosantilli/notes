@@ -2,10 +2,6 @@
 
 Mine, or that I've had access to at some point.
 
--   Sony Xperia
-    -   Sony Xperia U ST25i. Released May 2012, stuck at Android 4.0.4. The second smartphone released by Sony, after it bought Motorola mobile.
-        -   No SD card slot <http://forum.xda-developers.com/xperia-u/issues/micro-sd-card-slot-t1860365>
-        -   CyanogenMod: no official image, but there is an XDA hack: <https://www.youtube.com/watch?v=jMJrLbzU2pI>
 -   Recon Jet
 
 ## ThinkPad
@@ -83,7 +79,7 @@ Ubuntu 16.10:
 
 Summary string:
 
-    Lenovo ThinkPad P51 laptop with CPU: Intel Core i7-7820HQ CPU (4 cores / 8 threads), RAM: 2x Samsung M471A2K43BB1-CRC (2x 16GiB), SSD: Samsung MZVLB512HAJQ-000L7 (3,000 MB/s).
+    Lenovo ThinkPad P51 laptop with CPU: Intel Core i7-7820HQ CPU (4 cores / 8 threads, 2.90 GHz base, 8 MB cache), RAM: 2x Samsung M471A2K43BB1-CRC (2x 16GiB, 2400 Mbps), SSD: Samsung MZVLB512HAJQ-000L7 (512GB, 3,000 MB/s).
 
 Bought: 2017.
 
@@ -356,7 +352,7 @@ FMA GFLOPS: 3.0 * 16 * 8 = 384
 
 ## Sony Xperia
 
-### Z3 D6643
+### Sony Xperia Z3 D6643
 
 Specs:
 
@@ -399,11 +395,21 @@ Safe mode: hold power button, then hold power off on screen, then it asks you. D
 
 Tried opening it, it was hard, all glued crap. Managed, but could see nothing wrong with display cable.
 
-### L1 G3311
+### Sony Xperia L1 G3311
 
 Bought: 2017.
 
 <https://www.gsmarena.com/sony_xperia_l1-8619.php>
+
+### Sony Xperia U ST25i
+
+Released May 2012, stuck at Android 4.0.4. The second smartphone released by Sony, after it bought Motorola mobile.
+
+No SD card slot <http://forum.xda-developers.com/xperia-u/issues/micro-sd-card-slot-t1860365>
+
+CyanogenMod: no official image, but there is an XDA hack: <https://www.youtube.com/watch?v=jMJrLbzU2pI>
+
+TODO: lost 2019?
 
 ## Logitech C920 webcam
 
@@ -520,13 +526,49 @@ Kindle D01100
 
 ## House
 
+### How to block sunlight from windows
+
+https://diy.stackexchange.com/questions/27669/how-can-i-thoroughly-blackout-a-bedroom-window-on-a-budget
+
 ### House 2018-01
+
+#### House 2018-01 aluminium extractor filter
+
+This is the exact model: https://shop.elica.com/en/accessori/filtro-grassi-in-alluminio-cod-gf03fc.html | http://web.archive.org/web/20190707053526/https://shop.elica.com/en/accessori/filtro-grassi-in-alluminio-cod-gf03fc.html
+
+Brand on extractor glass: Elica: https://elica.com
+
+Dimensions: 45.9cm x 17.6cm on the exterior. Too long to fit into any container that we have.
+
+Brand on filter itself: "ARMA Filtre a.s." based on markings: http://www.armafiltre.com.tr/uygulamalar/7/3/en/Home-Appliances.html Cannot find any model on website however... looks like Elica's B2B supplier only.
+
+Marker inside after removing filter: 12NC: 208298104403 Model: CIAK GR/A/56.
+
+2018: noticed that it was unbearably greasy, tried to clean, but even boiling water didn't help.
+
+July 2019 message:
+
+Aluminium extractor filter for 208298104403
+
+Hi there,
+
+I'm trying to buy a spare aluminium extractor filter for an Elica extractor, but I can't find the right size on the website.
+
+My 12NC is : 208298104403
+
+My filter looks a lot like this: https://shop.elica.com/en/accessori/filtro-grassi-in-alluminio-cod-GRI0077330A.html but the dimensions are different: I measured 45.9cm x 17.6cm on my old one.
+
+Do you have that for sale?
 
 #### House 2018-01 kitchen tap
 
 Looks a lot like: Bristan Monza EF Sink Mixer Chrome https://www.bathroomsensations.co.uk/Bristan-Monza-EF-Sink-Mixer-Chrome.html
 
 How to open: https://www.youtube.com/watch?v=oHTpOG1Uhzw
+
+#### House 2018-01 extractor light bulb
+
+2019-05: left one burnt. Was: DURA G4 12V20W: https://www.amazon.co.uk/Halogen-Light-Bulbs-Lamps-5watt/dp/B003IVP12A Replaced: Sainsbury's halogen G4 20W12V.
 
 #### Toilet mirror lamps
 
@@ -556,6 +598,12 @@ ASDA burnt, put in TopLux on right, old Bell left.
 
 TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki/Hybrid_bicycle
 
+2019-07-26: the front crank was sometimes making loud cracking noises when I pedalled hard. Then, after two weeks, it also started making very loud screeching noises, and then finally I couldn't pedal anymore, and I took it to the shop. They changed the bottom bracket, 45 pounds, 30 for the piece, a BB UN55 Shimano bottom bracket: https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 | http://web.archive.org/web/20190726190947/https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 Photo of the piecet that was taken out, notice some broken metal pieces and one of the ball bearing that were left: https://photos.app.goo.gl/6sqbM4kgDG5Pm7p58
+
+2019-06-30: fill tires, using 90PSI, was TODO
+
+2019-06-20: right gear wire broke, when opened for fixing was rusty near hand shifter
+
 2019-04-07: fill tires, using 90PSI, was 40PSI. Also on Giant Flourish.
 
 2019-03-30: repair bearings back wheel, true back wheel, remove rust from chain. Result: 50 pounds:
@@ -570,7 +618,7 @@ Tick on back wheel stopped. Back break did not get better. Gears not improved. R
 
 2018: front tire blew up and was replaced by TODO.
 
-2017: bought used 100 pounds. Specs when bought follow.
+2017: bought used 100 pounds. Specs when bought follow:
 
 Back tire: Schwalbe Marathon Plus Tour 42-622 (28 x 1.60, 700x40C) https://www.schwalbe.com/en/unplattbar.html Schrader valve.
 
@@ -625,6 +673,12 @@ Finish: Boots Protect Plus
 Glazing: Supra.
 
 https://www.boots.com/mens-designer-jaeger-mod-307-mens-glasses---gunmetal-10254829 | http://web.archive.org/web/20190506090045/https://www.boots.com/mens-designer-jaeger-mod-307-mens-glasses---gunmetal-10254829
+
+## Mechanical tools
+
+6 10/11/12/13/14/17 mm Combination Wrench Set WRENCH SET COMBINATION Open-Ended Spanner/Ring Spanner Set https://www.amazon.co.uk/gp/product/B07BZLVGX8 But they sent one wrong, 8 instead of 11. Chrome Vanadium Steel
+
+Magnusson AMS49 5M TAPE MEASURE 5m retractable flexible rule. https://www.screwfix.com/p/magnusson-ams49-5m-tape-measure/5315v
 
 ## Body
 

@@ -49,7 +49,10 @@ Discovered:
 
 Users who look like me:
 
-- https://stackoverflow.com/users/55075/kenorb it is uncanny. He answers almost only old important questions as can be seen from: https://data.stackexchange.com/stackoverflow/query/300735/users-with-most-necromancer-badges-at-a-given-date?Date=2019-06-17 and makes a lot of edits, just like me. We must have very similar personalities.
+- https://stackoverflow.com/users/55075/kenorb it is uncanny. He answers almost only old important questions as can be seen from: https://data.stackexchange.com/stackoverflow/query/300735/users-with-most-necromancer-badges-at-a-given-date?Date=2019-06-17 and makes a lot of edits, just like me. We must have very similar personalities. Need to hunt down real person:
+    - https://github.com/kenorb
+    - https://www.drupal.org/u/kenorb this is likely it: https://www.linkedin.com/in/kenorb/ Rafal W
+    - https://twitter.com/mycognitive The only LinkedIn hit for this username is: https://www.linkedin.com/in/adrian-kierzkowski-9569ab44/ Also in Poland, but a different person I think.
 
 ## Interesting
 
