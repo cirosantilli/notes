@@ -119,6 +119,7 @@ Users who look like me:
 - <https://stackoverflow.com/users/19868/drakosha>
 - <https://stackoverflow.com/users/359178/juan-a-navarro> London, infrastructure.
 - <https://reverseengineering.stackexchange.com/users/264/zach-riggle>
+- <https://stackoverflow.com/users/531021/jesusfreke> <https://github.com/JesusFreke/smali>
 
 Ex:
 

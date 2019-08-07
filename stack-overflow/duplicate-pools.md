@@ -540,6 +540,11 @@ Inline variable:
 - https://stackoverflow.com/questions/3709207/c-semantics-of-static-const-vs-const/54377560#54377560 standard quote, link to usage
 - https://stackoverflow.com/questions/2268749/defining-global-constant-in-c/54377737#54377737 inline variable
 
+`std::set` custom comparator:
+
+- https://stackoverflow.com/questions/13827973/how-to-make-a-c-map-container-where-the-key-is-part-of-the-value/41624995#41624995
+- https://stackoverflow.com/questions/2620862/using-custom-stdset-comparator/56457701#56457701 `std:less<>` only, `operator()` already covered in another answer
+
 ### Java
 
 String interning, = vs equals for string:
@@ -882,6 +887,7 @@ GDB dashboard:
 
 - https://stackoverflow.com/questions/10115540/gdb-split-view-with-code/51301717#51301717
 - https://askubuntu.com/questions/40241/is-there-any-interactive-or-more-user-friendly-version-of-gdb-for-debugging/1054455#1054455
+- https://stackoverflow.com/questions/1902901/show-current-assembly-instruction-in-gdb/55935724#55935724 link only to SO
 
 Compile:
 
