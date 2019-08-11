@@ -543,6 +543,11 @@ Inline variable:
 - https://stackoverflow.com/questions/3709207/c-semantics-of-static-const-vs-const/54377560#54377560 standard quote, link to usage
 - https://stackoverflow.com/questions/2268749/defining-global-constant-in-c/54377737#54377737 inline variable
 
+Methods are inline and therefore can be defined multiple times or in the header:
+
+- https://stackoverflow.com/questions/14517546/how-can-a-c-header-file-include-implementation/57406630#57406630
+- https://softwareengineering.stackexchange.com/questions/56215/why-can-you-have-the-method-definition-inside-the-header-file-in-c-when-in-c-y/395777#395777
+
 `std::set` custom comparator:
 
 - https://stackoverflow.com/questions/13827973/how-to-make-a-c-map-container-where-the-key-is-part-of-the-value/41624995#41624995
