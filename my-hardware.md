@@ -107,7 +107,7 @@ Ubuntu 17.10 setup fun:
 
 - partition setup: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
 - BIOS:
-    - for NVIDIA driver: 
+    - for NVIDIA driver:
     - for KVM, required by Android Emulator: enable virtualization extensions
 - TODO fix the brightness keys:
     - failed: https://askubuntu.com/questions/769006/brightness-key-not-working-ubuntu-16-04-lts/770100#770100
