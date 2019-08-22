@@ -107,7 +107,7 @@ Ubuntu 17.10 setup fun:
 
 - partition setup: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
 - BIOS:
-    - for NVIDIA driver: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
+    - for NVIDIA driver: 
     - for KVM, required by Android Emulator: enable virtualization extensions
 - TODO fix the brightness keys:
     - failed: https://askubuntu.com/questions/769006/brightness-key-not-working-ubuntu-16-04-lts/770100#770100
@@ -624,9 +624,11 @@ Back tire: Schwalbe Marathon Plus Tour 42-622 (28 x 1.60, 700x40C) https://www.s
 
 Back hub: Shimano FH-RM30
 
+Back light: AXA Basta Ray LED Rear Light. Markings read: "basta X-Ray Steady STANDLICHT Z K 257 TP RBi 1017". Powered either by 2 AAA bareies in series or by the front hub dynamo: https://www.bike24.com/p213276.html | http://web.archive.org/web/20190821070347/https://www.bike24.com/p213276.html
+
 Front tire: did not take note, was later changed.
 
-Front hub: Shimano DH-3N20 dynamo front hub https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx
+Front hub: Shimano DH-3N20 dynamo front hub 6V 3.0W https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx | http://web.archive.org/web/20190821065910/https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx
 
 Speed meter: Speedmaster 5000, CR2032 battery. https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000 | http://web.archive.org/web/20190418182410/https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000
 

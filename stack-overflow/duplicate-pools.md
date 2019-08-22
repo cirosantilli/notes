@@ -826,6 +826,11 @@ View core file:
 - https://stackoverflow.com/questions/8305866/how-to-analyze-a-programs-core-dump-file-with-gdb/54943610#54943610
 - https://unix.stackexchange.com/questions/89933/how-to-view-core-files-for-debugging-purposes-in-linux/202443#202443
 
+VSZ vs RSS:
+
+- https://stackoverflow.com/questions/7880784/what-is-rss-and-vsz-in-linux-memory-management/57453334#57453334
+- https://unix.stackexchange.com/questions/35129/need-explanation-on-resident-set-size-virtual-size/535071#535071
+
 ## Bare metal
 
 - <http://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545>
@@ -881,17 +886,17 @@ Encode h264 and control key-frames:
 - <http://stackoverflow.com/questions/2289319/how-to-write-a-video-encoder-with-ffmpeg-that-explicitly-controls-the-position-o/36412909#36412909>
 - <http://stackoverflow.com/questions/2940671/how-does-one-encode-a-series-of-images-into-h264-using-the-x264-c-api/36405714#36405714>
 
-VLC ffmpeg low frame rates:
+Video from images:
 
-- <http://unix.stackexchange.com/questions/68770/converting-png-frames-to-video-at-1-fps/339399#339399>
 - <http://stackoverflow.com/questions/19267443/playback-issues-in-vlc-with-low-fps-video-from-images-using-ffmpeg/41797724#41797724>
+- <https://superuser.com/questions/624567/how-to-create-a-video-from-images-using-ffmpeg/1474032#1474032> duplicate pools
+- <http://unix.stackexchange.com/questions/68770/converting-png-frames-to-video-at-1-fps/339399#339399> low framerate subset
 
 GIF from images:
 
 - https://askubuntu.com/questions/648244/how-to-create-a-gif-from-the-command-line/1102183#1102183
 - https://unix.stackexchange.com/questions/24014/creating-a-gif-animation-from-png-files/489210#489210
 - https://askubuntu.com/questions/648603/how-to-create-an-animated-gif-from-mp4-video-via-command-line/837574#837574 GIF from video
-- https://stackoverflow.com/questions/24961127/how-to-create-a-video-from-images-with-ffmpeg/37478183#37478183 video from images
 
 Generate audio:
 
