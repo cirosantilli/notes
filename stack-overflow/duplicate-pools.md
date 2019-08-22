@@ -533,8 +533,9 @@ C++ standard library data structures:
 
 Inline variable:
 
-- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715 inline variable, extern const, standard quote
 - https://stackoverflow.com/questions/38043442/how-do-inline-variables-work/53896763#53896763 inline variable, extern in header
+    - https://stackoverflow.com/questions/50109036/defining-constexpr-static-data-members/57410381#57410381 link only mostly
+- https://stackoverflow.com/questions/177437/what-does-const-static-mean-in-c-and-c/53883715#53883715 inline variable, extern const, standard quote
 - https://stackoverflow.com/questions/12042549/define-constant-variables-in-c-header/53541011#53541011 inline variable, standard quote
 - https://stackoverflow.com/questions/2190919/mixing-extern-and-const/53898717#53898717 inline variable, extern in header
 - https://stackoverflow.com/questions/30208685/how-to-declare-constexpr-extern/53896773#53896773 inline variable
@@ -883,6 +884,12 @@ GIF from images:
 - https://unix.stackexchange.com/questions/24014/creating-a-gif-animation-from-png-files/489210#489210
 - https://askubuntu.com/questions/648603/how-to-create-an-animated-gif-from-mp4-video-via-command-line/837574#837574 GIF from video
 - https://stackoverflow.com/questions/24961127/how-to-create-a-video-from-images-with-ffmpeg/37478183#37478183 video from images
+
+Generate audio:
+
+- https://stackoverflow.com/questions/5109038/linux-sinus-generator/57610684#57610684
+- https://unix.stackexchange.com/questions/82112/stereo-tone-generator-for-linux/536860#536860
+- https://superuser.com/questions/724391/how-to-generate-a-sine-wave-with-ffmpeg (answered by others)
 
 ## GDB
 
