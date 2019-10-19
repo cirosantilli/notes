@@ -350,9 +350,11 @@ AVX2 extension (8 32-bit floats).
 
 FMA GFLOPS: 3.0 * 16 * 8 = 384
 
-## Sony Xperia
+## Cell phone
 
-### Sony Xperia Z3 D6643
+### Sony Xperia
+
+#### Sony Xperia Z3 D6643
 
 Specs:
 
@@ -395,13 +397,13 @@ Safe mode: hold power button, then hold power off on screen, then it asks you. D
 
 Tried opening it, it was hard, all glued crap. Managed, but could see nothing wrong with display cable.
 
-### Sony Xperia L1 G3311
+#### Sony Xperia L1 G3311
 
 Bought: 2017.
 
 <https://www.gsmarena.com/sony_xperia_l1-8619.php>
 
-### Sony Xperia U ST25i
+#### Sony Xperia U ST25i
 
 Released May 2012, stuck at Android 4.0.4. The second smartphone released by Sony, after it bought Motorola mobile.
 
@@ -410,6 +412,18 @@ No SD card slot <http://forum.xda-developers.com/xperia-u/issues/micro-sd-card-s
 CyanogenMod: no official image, but there is an XDA hack: <https://www.youtube.com/watch?v=jMJrLbzU2pI>
 
 TODO: lost 2019?
+
+### Motorola 6G
+
+https://www.gsmarena.com/motorola_moto_g6-9000.php ([archive](https://web.archive.org/web/20190905091405/https://www.gsmarena.com/motorola_moto_g6-9000.php))
+
+Bought: 2018. Price: ~150 USD.
+
+2018-11: screen broken when a bowl fell on it from just one foot height...
+
+Cannot get compass working... seems to work only when on a car moving fast.
+
+Camera is noticeably worse than the Z3, limited depth of field, and my photos are just generally blurry. I'm never getting such a cheap phone again.
 
 ## Logitech C920 webcam
 
@@ -437,16 +451,6 @@ Serial: 45470A2
 Buy date: 2018-04-10
 
 Supplier: Osmond Group Limited
-
-## Motorola 6G
-
-https://www.gsmarena.com/motorola_moto_g6-9000.php
-
-Bought: 2018. Price: ~150 USD.
-
-2018-11: screen broken when a bowl fell on it from just one foot height...
-
-Cannot get compass working... seems to work only when on a car moving fast.
 
 ## Logitech k400r wireless keyboard
 
@@ -528,7 +532,8 @@ Kindle D01100
 
 ### How to block sunlight from windows
 
-https://diy.stackexchange.com/questions/27669/how-can-i-thoroughly-blackout-a-bedroom-window-on-a-budget
+- https://cirosantilli.com/window-blackout
+- https://diy.stackexchange.com/questions/27669/how-can-i-thoroughly-blackout-a-bedroom-window-on-a-budget
 
 ### House 2018-01
 
@@ -592,13 +597,25 @@ ASDA burnt, put in TopLux on right, old Bell left.
 
 2019-04-12 mirror lamp: it was just he connector that was bad, it was changed, also put LEDs there to make it less warm and hopefully have less tear on connector.
 
+## Sleeping masks
+
 ## Bicycle
+
+### Products
+
+WD-40 Smart Straw 450ml https://www.amazon.com/dp/B01MEHN4VC ([archive](https://web.archive.org/web/20191005165231/https://www.amazon.com/dp/B01MEHN4VC))
+
+Finish Line Dry Teflon Tube https://www.amazon.com/dp/B00B704LZW ([archive](https://web.archive.org/web/20191005165259/https://www.amazon.com/dp/B00B704LZW))
 
 ### Kross
 
 TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki/Hybrid_bicycle
 
-2019-07-26: the front crank was sometimes making loud cracking noises when I pedalled hard. Then, after two weeks, it also started making very loud screeching noises, and then finally I couldn't pedal anymore, and I took it to the shop. They changed the bottom bracket, 45 pounds, 30 for the piece, a BB UN55 Shimano bottom bracket: https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 | http://web.archive.org/web/20190726190947/https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 Photo of the piecet that was taken out, notice some broken metal pieces and one of the ball bearing that were left: https://photos.app.goo.gl/6sqbM4kgDG5Pm7p58
+2019-08-29: back derailleur fell off, later found it was bent: https://photos.app.goo.gl/yRgAc1FvKvcuCmcj7 Many bikes were parked together, I think other bikes put gear wires were a bit off, and I started pedalling very strong, and it immediately fell off. Went to repair shop, replaced it likely with: https://www.amazon.co.uk/dp/B01N51YIYZ ([archive](http://web.archive.org/web/20190904202236/https://www.amazon.co.uk/dp/B01N51YIYZ)) "Shimano Cambio Post. 6/7v RD-TY300 Tourney TX Att. Dir.". Visible markings: "Shimano Tourney  Paid 35 pounds, receipt said 25 for piece 10 for service, but piece actually cost 18 on Amazon, and with Prime / larger buys only 7 pounds.  I'm also a bit worried because my back cassette is 8 speed, not 7... On official website RD-TY300-SGS: https://bike.shimano.com/en-EU/product/component/tourney/RD-TY300-SGS.html ([archive](https://web.archive.org/web/20190905062824/https://bike.shimano.com/en-EU/product/component/tourney/RD-TY300-SGS.html))
+
+2019-08: "CatEye CA475RAPMIN Rapid Mini Rear Lights and Reflectors, Black" stolen: https://www.amazon.co.uk/dp/B01I4193PY ([archive](https://web.archive.org/web/20190829232804/https://www.amazon.co.uk/dp/B01I4193PY)) Those USB rechargeable lights you just have got to take off with you whenever parked in town or else drug addicts will steal them because they are easy to remove for recharging. Tempted to just stick to dynamo ones that are screwed in. Re-bought original back light: AXA Basta, was a bit different from previous one, cannot take in lamps anymore, even though there is the plastic casing for them! Just not metal / wires.
+
+2019-07-26: the front crank was sometimes making loud cracking noises when I pedalled hard. Then, after two weeks, it also started making very loud screeching noises, and then finally I couldn't pedal anymore, and I took it to the shop. They changed the bottom bracket, 45 pounds, 30 for the piece, a BB UN55 Shimano bottom bracket: https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 | http://web.archive.org/web/20190726190947/https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 Photo of the piece that was taken out, notice some broken metal pieces and one of the ball bearing that were left: https://photos.app.goo.gl/6sqbM4kgDG5Pm7p58
 
 2019-06-30: fill tires, using 90PSI, was TODO
 
@@ -609,7 +626,7 @@ TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki
 2019-03-30: repair bearings back wheel, true back wheel, remove rust from chain. Result: 50 pounds:
 
 - cassette Shimano HG50 8 speed: https://bike.shimano.com/en-NZ/product/component/claris-r2000/CS-HG50-8.html tooth counts: 11-13-15-18-21-24-28-34T
-- chain KMC Z51 7-8X Chain because 0.7 stretch reached (limit 0.5)
+- chain KMC Z51 7-8X Chain because 0.7 stretch reached (limit 0.5). Markings: Z, 9A, KMC, NARROW. Looks like this but fully silver: https://www.amazon.co.uk/KMC-Z-51-Z-8S-Speed-Silver/dp/B01I1GL49U ([archive](https://web.archive.org/web/20190830081223/https://www.amazon.co.uk/KMC-Z-51-Z-8S-Speed-Silver/dp/B01I1GL49U)), image: https://web.archive.org/web/20190830081307/https://images-na.ssl-images-amazon.com/images/I/314Z3-1WxJL.jpg
 - oil on back wheel bearings no replace
 
 Tick on back wheel stopped. Back break did not get better. Gears not improved. Rust remained, was told too hard to remove, and not on teeth, so should not matter.
@@ -623,6 +640,8 @@ Tick on back wheel stopped. Back break did not get better. Gears not improved. R
 Back tire: Schwalbe Marathon Plus Tour 42-622 (28 x 1.60, 700x40C) https://www.schwalbe.com/en/unplattbar.html Schrader valve.
 
 Back hub: Shimano FH-RM30
+
+Back derailleur: markings: Shimano DEORE. Looks exactly like this "Shimano Deore M591 9 Speed Rear Mech": https://www.chainreactioncycles.com/shimano-deore-m591-9-speed-rear-mech/rp-prod40543 ([archive](https://web.archive.org/web/20190830082012/https://www.chainreactioncycles.com/shimano-deore-m591-9-speed-rear-mech/rp-prod40543)). Similar product on Shimano website (not exactly the same, was not on sale anymore): https://bike.shimano.com/en-EU/product/component/deore-m6000/RD-M6000-GS.html ([archive](http://web.archive.org/web/20190905065426/https://bike.shimano.com/en-EU/product/component/deore-m6000/RD-M6000-GS.html))
 
 Back light: AXA Basta Ray LED Rear Light. Markings read: "basta X-Ray Steady STANDLICHT Z K 257 TP RBi 1017". Powered either by 2 AAA bareies in series or by the front hub dynamo: https://www.bike24.com/p213276.html | http://web.archive.org/web/20190821070347/https://www.bike24.com/p213276.html
 
@@ -643,6 +662,14 @@ https://www.liv-cycling.com/ie/flourish-fs-2 | http://web.archive.org/web/201901
 #### Kryptonite NEW-U - KRYPTOLOK STANDARD
 
 https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information/current-key/002031.html | http://web.archive.org/web/20190124201119/https://www.kryptonitelock.com/content/kryt-us-2/en/products/product-information/current-key/002031.html
+
+How to maintain WD-40 and Finish Line Dry Teflon Tube: https://kryptonite.zendesk.com/hc/en-us/articles/231012307-Kryptonite-Lock-Maintenance ([archive](http://web.archive.org/web/20181209213319/https://kryptonite.zendesk.com/hc/en-us/articles/231012307-Kryptonite-Lock-Maintenance))
+
+### Crappy 2016 bike
+
+Bought second hand 60 pounds, tiny, knew nothing about bikes and seller didn't help me, terrible.
+
+Back mountain cycle mudgard bought 2016 https://www.amazon.co.uk/dp/B007TSP8CQ ([archive](http://web.archive.org/web/20190831111729/https://www.amazon.co.uk/dp/B007TSP8CQ)) "SAVFY Mudguard Easy-fit for Rear Bicycle Mountain Bike Mud Guard Cycle Cycling Fender"
 
 ### Bike pump
 
@@ -678,9 +705,17 @@ https://www.boots.com/mens-designer-jaeger-mod-307-mens-glasses---gunmetal-10254
 
 ## Mechanical tools
 
-6 10/11/12/13/14/17 mm Combination Wrench Set WRENCH SET COMBINATION Open-Ended Spanner/Ring Spanner Set https://www.amazon.co.uk/gp/product/B07BZLVGX8 But they sent one wrong, 8 instead of 11. Chrome Vanadium Steel
+2019-09 "AstroAI Digital Multimeter, TRMS 6000 Counts Multimeters Manual and Auto Ranging; Measures Voltage, Current, Resistance, Continuity, Capacitance, Frequency; Tests Diodes, Transistors, Temperature, Red" https://www.amazon.co.uk/dp/B071JL6LLL ([archive](http://web.archive.org/web/20190903191215/https://www.amazon.co.uk/dp/B071JL6LLL)). Manual: http://web.archive.org/web/20190904200759/https://static.astroai.com/manual/Astroai-Digital-Multimeter,-Trms-6000-Counts-User-Manual-en.pdf
 
-Magnusson AMS49 5M TAPE MEASURE 5m retractable flexible rule. https://www.screwfix.com/p/magnusson-ams49-5m-tape-measure/5315v
+2019-09 "Draper Redline 68001 160 mm Heavy Duty Pliers Set with Soft Grip Handles (3-Piece)" http://web.archive.org/web/20190903191215/https://www.amazon.co.uk/dp/B071JL6LLL ([archive](https://web.archive.org/web/20190903191341/https://www.amazon.co.uk/dp/B010NCYT6U))
+
+2019-08: https://www.amazon.co.uk/dp/B000LFRYG2 ([archive](http://web.archive.org/web/20190831105230/https://www.amazon.co.uk/dp/B000LFRYG2)) "Silverline SP1236 Combination Spanner, 8-19 mm - 12 Pieces" 8.48 pounds. Because I needed the 15mm for bike pedal, and the price of 1 and the full set were very close.
+
+6 10/11/12/13/14/17 mm Combination Wrench Set WRENCH SET COMBINATION Open-Ended Spanner/Ring Spanner Set https://www.amazon.co.uk/dp/B07BZLVGX8 ([archive](https://web.archive.org/web/20190831104804/https://www.amazon.co.uk/dp/B07BZLVGX8)) But they sent one wrong, 8 instead of 11. Chrome Vanadium Steel. Markings: "DROP FORGED A". Quality feels crappy, not very smooth.
+
+2017: Teng 621011 Double Open Ended Spanner 10x11mm https://www.amazon.co.uk/dp/B0001P0VP8  ([archive](http://web.archive.org/web/20190831111729/https://www.amazon.co.uk/dp/B007TSP8CQ))
+
+2017: Magnusson AMS49 5M TAPE MEASURE 5m retractable flexible rule. https://www.screwfix.com/p/magnusson-ams49-5m-tape-measure/5315v ([archive](http://web.archive.org/web/20190831112100/https://www.screwfix.com/p/magnusson-ams49-5m-tape-measure/5315v))
 
 ## Body
 

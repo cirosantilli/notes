@@ -703,8 +703,9 @@ Execute non executable file:
     - <https://stackoverflow.com/questions/413955/how-to-write-linux-driver-module-call-use-another-driver-module>
     - <https://stackoverflow.com/questions/9820458/how-to-define-a-function-in-one-linux-kernel-module-and-use-it-in-another/9820518#9820518>
 
-QEMU + Buildroot setup is awesome:
+QEMU + Buildroot setup is awesome: reference ones tracked at: https://cirosantilli.com/linux-kernel-module-cheat/#buildroot-hello-world
 
+- <https://unix.stackexchange.com/questions/44062/how-to-use-qemu-to-run-build-root-linux-images/543075#543075>
 - <https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-kernel-master-recompile-it-and-boot-it-wi/49349237#49349237> just work commands for aarch64, comment on how to replace kernel
     - <https://stackoverflow.com/questions/48021127/build-powerpc-kernel-and-boot-powerpc-kernel-on-qemu/49349262#49349262> just work commands for PPC, comment on how to replace kernel
 - <https://stackoverflow.com/questions/38320066/how-to-run-linux-on-a-qemu-arm-versatile-machine/44099299#44099299> arm
@@ -921,6 +922,7 @@ Compile:
 
 - http://stackoverflow.com/questions/6473908/can-gdb-change-the-assembly-code-of-a-running-program/31711465#31711465
 - http://stackoverflow.com/questions/5480868/how-to-call-assembly-in-gdb/31709579#31709579
+- https://reverseengineering.stackexchange.com/questions/18428/how-to-assemble-and-inject-an-instruction-with-gdb/22136#22136
 
 gdbserver restart executable:
 
