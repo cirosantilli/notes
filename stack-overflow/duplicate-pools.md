@@ -120,6 +120,12 @@ Jupyter get HTML from CLI:
 - <https://stackoverflow.com/questions/49836676/error-after-upgrading-pip-cannot-import-name-main/51846054#51846054>
 - <https://stackoverflow.com/questions/43675074/python3-6-importerror-cannot-import-name-main-linux-rhel6/49994490#49994490> answered by someone else
 
+pyenv:
+
+- https://askubuntu.com/questions/682869/how-do-i-install-a-different-python-version-using-apt-get
+- https://unix.stackexchange.com/questions/9711/what-is-the-proper-way-to-manage-multiple-python-versions
+- https://stackoverflow.com/questions/10960805/apt-get-install-for-different-python-versions/59268046#59268046
+
 ## ImageMagick
 
 ImageMagick view raw file types:
@@ -236,7 +242,8 @@ loop over integer range:
 Lines in one file by not in another:
 
 - <http://stackoverflow.com/questions/4366533/remove-lines-from-file-which-appear-in-another-file>
-- <http://unix.stackexchange.com/questions/87578/looking-for-lines-which-is-in-one-file-but-not-in-other-using-unix-and-awk/287393#287393>
+- <http://unix.stackexchange.com/questions/87578/looking-for-lines-which-is-in-one-file-but-not-in-other-using-unix-and-awk/287393#287393> (closed as a duplicate)
+  - <https://unix.stackexchange.com/questions/28158/is-there-a-tool-to-get-the-lines-in-one-file-that-are-not-in-another/28159#28159> answered by others
 
 cp transfer speed:
 
@@ -700,6 +707,7 @@ QEMU + Buildroot setup is awesome:
 
 - <https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-kernel-master-recompile-it-and-boot-it-wi/49349237#49349237> just work commands for aarch64, comment on how to replace kernel
     - <https://stackoverflow.com/questions/48021127/build-powerpc-kernel-and-boot-powerpc-kernel-on-qemu/49349262#49349262> just work commands for PPC, comment on how to replace kernel
+- <https://stackoverflow.com/questions/38320066/how-to-run-linux-on-a-qemu-arm-versatile-machine/44099299#44099299> arm
 - <https://stackoverflow.com/questions/6764301/using-qemu-for-learning-linux-kernel-for-arm/44624969#44624969>
 - <https://stackoverflow.com/questions/26323280/learning-linux-kernel-programming-on-a-virtual-machine-on-ubuntu/44624802#44624802>
 - <https://stackoverflow.com/questions/19532564/linux-kernel-development-using-qemu/44625213#44625213>
