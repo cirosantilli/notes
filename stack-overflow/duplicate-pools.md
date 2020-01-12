@@ -550,6 +550,7 @@ Inline variable:
     - https://stackoverflow.com/questions/50488831/use-of-constexpr-in-header-file/57399173#57399173 inline variable
 - https://stackoverflow.com/questions/3709207/c-semantics-of-static-const-vs-const/54377560#54377560 standard quote, link to usage
 - https://stackoverflow.com/questions/2268749/defining-global-constant-in-c/54377737#54377737 inline variable
+- https://stackoverflow.com/questions/185844/how-to-initialize-private-static-members-in-c/48337288#48337288 answered by another, linked to my own answer
 
 Methods are inline and therefore can be defined multiple times or in the header:
 
@@ -983,6 +984,14 @@ Repeated `input name`:
 - http://stackoverflow.com/questions/452066/html-form-with-multiple-hidden-control-elements-of-the-same-name/37579281#37579281
 - http://webmasters.stackexchange.com/questions/9775/is-it-valid-to-have-multiple-form-input-elements-with-the-same-name/93882#93882
 - http://stackoverflow.com/questions/2906793/is-it-valid-to-have-two-input-elements-with-the-same-name marked as duplicate, not answered
+
+What element can be included inside what element using "Content model" and "Categories":
+
+-   https://stackoverflow.com/questions/5371787/can-i-have-a-pre-tag-inside-a-p-tag-in-tumblr/58603596#58603596
+-   https://webmasters.stackexchange.com/questions/18150/html-should-code-be-placed-within-a-paragraph/125920#125920
+-   supersets answered by others:
+    - https://stackoverflow.com/questions/9852312/list-of-html5-elements-that-can-be-nested-inside-p-element
+    - https://stackoverflow.com/questions/4967976/what-are-the-allowed-tags-inside-a-li
 
 ## Ubuntu
 
