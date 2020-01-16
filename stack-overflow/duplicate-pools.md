@@ -507,6 +507,11 @@ C ABI vs API:
 - https://stackoverflow.com/questions/2171177/what-is-an-application-binary-interface-abi/54967743#54967743
 - https://stackoverflow.com/questions/3784389/difference-between-api-and-abi/54970475#54970475 subset / link
 
+Newlib:
+
+- https://stackoverflow.com/questions/13063055/does-a-libc-os-exist/59771531#59771531
+- https://electronics.stackexchange.com/questions/223929/c-standard-libraries-on-bare-metal/400077#400077
+
 ### C++
 
 Lambda + map to replace switch:
