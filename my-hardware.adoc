@@ -227,7 +227,7 @@ https://www.samsung.com/semiconductor/ssd/client-ssd/MZVLB512HAJQ/ | http://web.
 
 https://www.samsung.com/semiconductor/global.semi/file/resource/2018/05/PM981_M.2_SSD_Datasheet_v1.3_for_General.pdf | http://web.archive.org/web/20181224225410/https://www.samsung.com/semiconductor/global.semi/file/resource/2018/05/PM981_M.2_SSD_Datasheet_v1.3_for_General.pdf
 
-hdparam
+hdparm
 
 ....
 Timing cached reads:   30426 MB in  1.99 seconds = 15273.67 MB/sec
@@ -244,7 +244,7 @@ https://www.disctech.com/Seagate-ST1000LM035-1TB-SATA-Hard-Drive 80 USD | http:/
 
 https://www.seagate.com/www-content/datasheets/pdfs/mobile-hddDS1861-2-1603-en_US.pdf | http://web.archive.org/web/20181225095438/https://www.seagate.com/www-content/datasheets/pdfs/mobile-hddDS1861-2-1603-en_US.pdf
 
-hdparam
+hdparm
 
 ....
 Timing cached reads:   34128 MB in  1.99 seconds = 17136.31 MB/sec
