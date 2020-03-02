@@ -567,6 +567,13 @@ Methods are inline and therefore can be defined multiple times or in the header:
 - https://stackoverflow.com/questions/13827973/how-to-make-a-c-map-container-where-the-key-is-part-of-the-value/41624995#41624995
 - https://stackoverflow.com/questions/2620862/using-custom-stdset-comparator/56457701#56457701 `std:less<>` only, `operator()` already covered in another answer
 
+`std::source_location`:
+
+- https://stackoverflow.com/questions/4384765/whats-the-difference-between-pretty-function-function-func/31163837#31163837
+  - https://stackoverflow.com/questions/733056/is-there-a-way-to-get-function-name-inside-a-c-function/60491324#60491324 quick mention linking mostly back to canon
+- https://stackoverflow.com/questions/597078/file-line-and-function-usage-in-c/59748012#59748012
+- https://stackoverflow.com/questions/20394183/how-to-get-current-source-path-in-c-linux/57284913#57284913 file focus
+
 ### Java
 
 String interning, = vs equals for string:
