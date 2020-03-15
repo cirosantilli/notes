@@ -483,8 +483,8 @@ C treads:
 
 - https://stackoverflow.com/questions/56810/how-do-i-start-threads-in-plain-c/52453291#52453291 main
 - https://stackoverflow.com/questions/3908031/how-to-multithread-c-code/52453354#52453354 I mark as dupe
-- https://stackoverflow.com/questions/25319825/how-to-use-atomic-variables-in-c/43993821#43993821
 - https://stackoverflow.com/questions/2353371/how-to-do-an-atomic-increment-and-fetch-in-c/30878480#30878480
+  - https://stackoverflow.com/questions/25319825/how-to-use-atomic-variables-in-c/43993821#43993821 I mark as dupe
 - https://stackoverflow.com/questions/1130018/unix-portable-atomic-operations/54680209#54680209
 
 Build glibc from source and use it:
@@ -966,7 +966,7 @@ rr:
 - https://stackoverflow.com/questions/1470434/how-does-reverse-debugging-work/53063242#53063242
 - https://stackoverflow.com/questions/3649468/setting-breakpoint-in-gdb-where-the-function-returns/46116927#46116927
 - https://stackoverflow.com/questions/27770896/how-to-debug-a-rare-deadlock/50073993#50073993
-- https://stackoverflow.com/questions/522619/how-to-do-bidirectional-or-reverse-debugging-of-programs/50074106#50074106 link only
+- https://stackoverflow.com/questions/522619/how-to-do-bidirectional-or-reverse-debugging-of-programs/50074106#50074106 link only, marked as duplicate of go to previous line
 
 NERDCommenter multiline comments:
 

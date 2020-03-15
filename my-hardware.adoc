@@ -376,6 +376,10 @@ AVX2 extension (8 32-bit floats).
 
 FMA GFLOPS: 3.0 * 16 * 8 = 384
 
+=== Computer accessories
+
+Skullcandy earphones: TODO date? Circa. 2016 most likely. Used them a lot, these are good. 2020-20: wires at one of ears broke, not sure how. Look exactly like: "Skullcandy Smokin' Buds 2 In-Ear Audio Earbud Headphones with In-Line Microphone - Black" Re-buying that one 10 pounds.
+
 == Cell phone
 
 === Google Pixel 3a
@@ -442,6 +446,8 @@ Camera is noticeably worse than the Z3, limited depth of field, and my photos ar
 2019-12: something possibly a piece of soft wood got stuck in charger port. I'm an idiot and first stuck the power cable back in, which made it really compact, and then tried to removed it with metallic tools like scissors without turning phone off, I think I saw a spark at some point. The hole was clean, but it stopped charging altogether. Battery still supplying power so presumably only charging port affected.
 
 Managed to open with a cheap heat gun and suction cup I bought this time. Will try to replace charging port, bought https://www.ebay.co.uk/itm/202414028090 (http://web.archive.org/web/20200107214924/http://web.archive.org/screenshot/https://www.ebay.co.uk/itm/401757808387[archive]).
+
+Replacing charging port worked! Now need to buy fucking glue to close it, https://www.youtube.com/watch?v=b6huXiIgHR0&t=622s uses Zhanlida T-7000, even the glue is Chinese and has to be imported! Buying: https://www.ebay.co.uk/itm/123964209305 50ml 5 pounds.
 
 === Sony Xperia
 
@@ -705,9 +711,13 @@ Overview of Shimano brands 2018: https://www.evanscycles.com/coffeestop/advice/t
 
 === Bicycle products
 
-2020-12: Muc-Off Drivetrain Cleaner - 500ml https://www.halfords.com/cycling/bike-maintenance/bike-cleaning/muc-off-drivetrain-cleaner-500ml
+2020-02: CatEye AMPP500 45 pounds https://www.cateye.com/intl/products/headlights/HL-EL085RC/ High mode 500 lumens： 1.5hrs, Daytime HyperConstant mode 500/250 lumens： 5hrs
 
-2020-12: Halfords Microfibre Heavy Duty Cloths https://www.halfords.com/motoring/car-cleaning/sponges-brushes-buckets/halfords-microfibre-heavy-duty-cloths (https://web.archive.org/web/20180529012539/https://www.halfords.com/motoring/car-cleaning/sponges-brushes-buckets/halfords-microfibre-heavy-duty-cloths[archive]) 87% polyester, 13% polyamide.
+2020-02: Karrimor REFLEKT Band 2 pounds from Sports Direct to replace old that I destroyed by playing with it with hands on work desk https://www.karrimor.com/karrimor-reflect-band-765007
+
+2020-01: Muc-Off Drivetrain Cleaner - 500ml https://www.halfords.com/cycling/bike-maintenance/bike-cleaning/muc-off-drivetrain-cleaner-500ml
+
+2020-01: Halfords Microfibre Heavy Duty Cloths https://www.halfords.com/motoring/car-cleaning/sponges-brushes-buckets/halfords-microfibre-heavy-duty-cloths (https://web.archive.org/web/20180529012539/https://www.halfords.com/motoring/car-cleaning/sponges-brushes-buckets/halfords-microfibre-heavy-duty-cloths[archive]) 87% polyester, 13% polyamide.
 
 2019-12: https://www.amazon.co.uk/gp/product/B07GQSXN8B SENZEAL Bicycle Spoke Wrench Tool Spoke Key Spanner 6 in 1 for Bike Wheel Cycle Wrench 10-15 Gauge 
 
@@ -755,12 +765,16 @@ TODO name date Gets wet after a few minutes of medium rain. But does dry quickly
 
 === Kross
 
+2020-02: Bought unbranded bike bell sold in bulk from bike shop, 1.50 pound. Markings: SX. Old bell made louder sound. This type of simple mechanism: https://www.amazon.co.uk/dp/B00GZ3TFFM
+
+2020-01-13: Parked on city center, shitty low diagonal place, crowded. When came back, bike on floor, had dropped hard since front wheel twisted on axis, untwisted with leg. When got home, hoticed that right gear shifter was half coming off. Next day morning, noticed that the bell had come off, and was lost, went back on evening but obviously could not find it.
+
 2019-11: Jagire break pads 2x V 11.50 pounds: https://jagwire.com/products/brake-pads/cross-rim-brake-pads (http://web.archive.org/web/20191123155242/https://jagwire.com/products/brake-pads/cross-rim-brake-pads[archive])
 
 2019-11: Can't index rear derailleur, buying:
 
-* Shimano Road Shift Cable Set Y60098022 manual: https://web.archive.org/web/20180219062741/https://si.shimano.com/pdfs/ev/EV-Cable-Set2-3128.pdf | 10 pounds: https://www.amazon.co.uk/dp/B00510WI72 (http://web.archive.org/web/20191119101106/http://web.archive.org/screenshot/https://www.amazon.co.uk/dp/B00510WI72[archive]) and considering derailleurs:
 * Shimano Claris RD-2400-GS 8-speed rear derailleur long cage (RD == Real Deralleur, GS == long cage) 25 pounds: https://www.amazon.co.uk/dp/B00D9ENDU8 https://bike.shimano.com/en-US/product/component/claris-2400/RD-2400-GS.html (http://web.archive.org/web/20191119110808/https://bike.shimano.com/en-US/product/component/claris-2400/RD-2400-GS.html[archive])
+* Shimano Road Shift Cable Set Y60098022 manual: https://web.archive.org/web/20180219062741/https://si.shimano.com/pdfs/ev/EV-Cable-Set2-3128.pdf | 10 pounds: https://www.amazon.co.uk/dp/B00510WI72 (http://web.archive.org/web/20191119101106/http://web.archive.org/screenshot/https://www.amazon.co.uk/dp/B00510WI72[archive])
 * shift cable front and back internal and external: 6 pounds internal 6 pounds external, Jagwire LEX bulk https://jagwire.com/guides/housing (http://web.archive.org/web/20191123100717/https://jagwire.com/guides/housing[archive])
 
 TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki/Hybrid_bicycle
@@ -790,6 +804,8 @@ Tick on back wheel stopped. Back break did not get better. Gears not improved. R
 2018: front tire blew up and was replaced by TODO.
 
 2017: bought used 100 pounds. Specs when bought follow:
+
+Gear shifters:
 
 Back wheel: quick release.
 
@@ -866,6 +882,10 @@ Replaced with after bicycle ate it: 1.0m, also worked but at limit.
 
 Size: EUR 45.
 
+== Bags
+
+2020-01: Nike Heritage 2.0 Gymsack https://www.amazon.co.uk/dp/B07KR1BPNY https://www.nike.com/gb/t/heritage-2-gymsack-tQ1Vz7 (http://web.archive.org/web/20200214090652/https://www.nike.com/gb/t/heritage-2-gymsack-tQ1Vz7[archive])
+
 == Glasses
 
 === Jaeger 307
@@ -931,3 +951,7 @@ Impossible to open to properly clean.
 2019: broke with sign number 6. Similar to: https://www.amazon.co.uk/dp/B013AV45IS
 
 How to open: https://www.youtube.com/watch?v=8Lf68mAB0Vk
+
+=== Tefal rice cooker
+
+Looks like this: "Tefal - Multicook 8in1 RK302E15 MultiCooker - 4 Portions" / 5L https://www.tefal.co.uk/faq/Products/Electrical-Cooking/Rice-cooker/Multicook-8in1-RK302E15-MultiCooker---4-Portions-5L/csp/7211000750
