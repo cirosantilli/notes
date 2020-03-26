@@ -48,11 +48,6 @@ Rails pass values to view:
 - <http://unix.stackexchange.com/questions/120015/how-to-find-out-the-dynamic-libraries-executables-loads-when-run>
 - <https://superuser.com/questions/310199/see-currently-loaded-shared-objects-in-linux/1243089#1243089>
 
-What is POSIX:
-
-- <http://unix.stackexchange.com/questions/11983/what-exactly-is-posix/220877#220877>
-- <http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix/31865755#31865755>
-
 shntool CUE APE split:
 
 - <https://unix.stackexchange.com/questions/10251/how-do-i-split-a-flac-with-a-cue/382908#382908>
@@ -416,11 +411,13 @@ static:
 
 `char[]` vs `char*`:
 
-- <http://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s-in-c/30660839#30660839>
+- <http://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s-in-c/30660839#30660839> primary
 - <http://stackoverflow.com/questions/10186765/char-array-vs-char-pointer-in-c/30661089#30661089>
 - <http://stackoverflow.com/questions/164194/why-do-i-get-a-segmentation-fault-when-writing-to-a-string/30662213#30662213>
 - <http://stackoverflow.com/questions/2589949/c-string-literals-where-do-they-go/30662565#30662565> similar, but not direct dupe answer
 - <http://stackoverflow.com/questions/1335786/c-differences-between-char-pointer-and-array/30661000#30661000> closed as dupe
+- <https://cs50.stackexchange.com/questions/8899/difference-between-char-and-char-in-c/35486#35486>
+- <https://stackoverflow.com/questions/21882564/what-is-the-lifetime-of-compound-literals-passed-as-arguments/31178926#31178926>
 
 `restrict` keyword:
 
@@ -608,6 +605,11 @@ CSRF and SOP:
 
 ## POSIX
 
+What is POSIX:
+
+- <http://unix.stackexchange.com/questions/11983/what-exactly-is-posix/220877#220877>
+- <http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix/31865755#31865755>
+
 `poll`:
 
 -   <https://stackoverflow.com/questions/5857461/how-to-use-the-poll-c-function-to-watch-named-pipes-in-linux/44126952#44126952>
@@ -631,6 +633,16 @@ print int from signal handler:
 
 - https://stackoverflow.com/questions/14573000/print-int-from-signal-handler-using-write-or-async-safe-functions/52111436#52111436
 - https://stackoverflow.com/questions/16891019/how-to-avoid-using-printf-in-a-signal-handler/52145149#52145149
+
+How to download the POSIX standard:
+
+- https://stackoverflow.com/questions/453993/where-is-the-list-of-the-posix-c-api-functions/45832939#45832939
+- https://unix.stackexchange.com/questions/340285/install-the-latest-posix-man-pages/483198#483198 this is a bit more complete because the SO one had better answers
+
+dot slash `./` for executables and `PATH` search:
+
+- https://stackoverflow.com/questions/6331075/why-do-you-need-dot-slash-before-executable-or-script-name-to-run-it-in-bas
+- https://unix.stackexchange.com/questions/4430/why-do-we-use-dot-slash-to-execute-a-file-in-linux-unix/573004#573004
 
 ## Eclipse
 
@@ -1127,18 +1139,12 @@ Minimum memory requirements:
 - <https://stackoverflow.com/questions/9870435/how-to-link-a-prebuilt-shared-library-to-an-android-ndk-project/47558694#47558694>
 - <https://stackoverflow.com/questions/24357687/how-to-include-so-library-in-android-studio/47571737#47571737>
 
-## POSIX
-
-How to download the POSIX standard:
-
-- https://unix.stackexchange.com/questions/340285/install-the-latest-posix-man-pages/483198#483198
-- https://stackoverflow.com/questions/453993/where-is-the-list-of-the-posix-c-api-functions/45832939#45832939
-
 ## GCC
 
 Get assembly and preprocessed GCC output:
 
 - https://stackoverflow.com/questions/4900870/can-gcc-output-c-code-after-preprocessing/55477371#55477371
+  - https://stackoverflow.com/questions/985403/seeing-expanded-c-macros/60816758#60816758 maybe should be a dupe, no time to evaluate, feels like subset though
 - https://stackoverflow.com/questions/137038/how-do-you-get-assembler-output-from-c-c-source-in-gcc/56801917#56801917
 
 No such file or directory:

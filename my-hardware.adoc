@@ -765,9 +765,13 @@ TODO name date Gets wet after a few minutes of medium rain. But does dry quickly
 
 === Kross
 
+2020-03: finally installed the new derailleur after long suffering, including new cables and casing on front and back derailleurs and on back break. Took 3 1-2 hour sessions, but it became amazing.
+
+2020-03: screw on left shifter (yes, the bloody screw) broke when trying to open it to take out cable. Buying left and right since the right one was broken from previous fall. https://www.amazon.co.uk/dp/B073XQ8J78 ST-EF65-8 25 pounds
+
 2020-02: Bought unbranded bike bell sold in bulk from bike shop, 1.50 pound. Markings: SX. Old bell made louder sound. This type of simple mechanism: https://www.amazon.co.uk/dp/B00GZ3TFFM
 
-2020-01-13: Parked on city center, shitty low diagonal place, crowded. When came back, bike on floor, had dropped hard since front wheel twisted on axis, untwisted with leg. When got home, hoticed that right gear shifter was half coming off. Next day morning, noticed that the bell had come off, and was lost, went back on evening but obviously could not find it.
+2020-01-13: Parked on city center, shitty low diagonal place, crowded. When came back, bike on floor, had dropped hard since front wheel twisted on axis, untwisted with leg. When got home, noticed that right gear shifter was half coming off. Later found out that the piece broken on one of the screws, hanging only by the other screw. Next day morning, noticed that the bell had come off, and was lost, went back on evening but obviously could not find it.
 
 2019-11: Jagire break pads 2x V 11.50 pounds: https://jagwire.com/products/brake-pads/cross-rim-brake-pads (http://web.archive.org/web/20191123155242/https://jagwire.com/products/brake-pads/cross-rim-brake-pads[archive])
 
@@ -805,7 +809,7 @@ Tick on back wheel stopped. Back break did not get better. Gears not improved. R
 
 2017: bought used 100 pounds. Specs when bought follow:
 
-Gear shifters:
+Gear shifters: don't know exact model since could not find markings (fuck you Shimano?) but from photos online, seems to be one of the ST-EF* family EZ FIRE, e.g. https://si.shimano.com/pdfs/dm/DM-ST0001-05-ENG.pdf[ST-EF65-8] or ST-EF500.
 
 Back wheel: quick release.
 
@@ -904,9 +908,11 @@ https://www.boots.com/mens-designer-jaeger-mod-307-mens-glasses---gunmetal-10254
 
 2020-01 https://www.amazon.co.uk/dp/B07D318N7Z
 
-2020-01 SEEKONE Hot Air: 2000W 50C - 600C Variable Temperature Control for cell phone repair https://www.amazon.com/dp/B078S5QMFG
+2020-01 "Heat Gun, SEEKONE Professional 2000W 50℃- 600℃ Variable Temperature Control Hot Air Gun Kit with 2 Temperature Modes 7 Accessories for D" https://www.amazon.com/dp/B078S5QMFG Initially for for cell phone repair, but later learnt they are also useful for heat shrink.
 
 2019-09 "AstroAI Digital Multimeter, TRMS 6000 Counts Multimeters Manual and Auto Ranging; Measures Voltage, Current, Resistance, Continuity, Capacitance, Frequency; Tests Diodes, Transistors, Temperature, Red" https://www.amazon.co.uk/dp/B071JL6LLL (http://web.archive.org/web/20190903191215/https://www.amazon.co.uk/dp/B071JL6LLL[archive]). Manual: http://web.archive.org/web/20190904200759/https://static.astroai.com/manual/Astroai-Digital-Multimeter,-Trms-6000-Counts-User-Manual-en.pdf
++
+https://www.youtube.com/watch?v=uDGCs1G0Tx8 AstroAI WH5000A Digital Multimeter some basic features
 
 2019-09 "Draper Redline 68001 160 mm Heavy Duty Pliers Set with Soft Grip Handles (3-Piece)" http://web.archive.org/web/20190903191215/https://www.amazon.co.uk/dp/B071JL6LLL (https://web.archive.org/web/20190903191341/https://www.amazon.co.uk/dp/B010NCYT6U[archive])
 
@@ -954,4 +960,16 @@ How to open: https://www.youtube.com/watch?v=8Lf68mAB0Vk
 
 === Tefal rice cooker
 
-Looks like this: "Tefal - Multicook 8in1 RK302E15 MultiCooker - 4 Portions" / 5L https://www.tefal.co.uk/faq/Products/Electrical-Cooking/Rice-cooker/Multicook-8in1-RK302E15-MultiCooker---4-Portions-5L/csp/7211000750
+Bought around September 2017.
+
+TEFAL Multicook 8in1 RK302E15 MultiCooker - 4 Portions / 5L
+
+https://www.tefal.co.uk/Cooking-appliances/Rice-%26-Multi-Cookers/Multicook-8in1-RK302E15-MultiCooker---4-Portions-5L/p/7211000750
+
+Likely bought from: https://www.johnlewis.com/tefal-rk302e15-8-in-1-multi-cooker/p231378165
+
+Marking say: SERIE R13-B REF: RK302E15 / 79 A - 1017
+
+How to open videos: can't find any, but the hard part (remove top lid) was the same as the video for <<joyoung-rice-cooker>>, can be done by inserting a thin metal and going around it.
+
+2020-03: E01 error, looked up on manual and it is a top wire broken, opened up and confirmed one of the three wires going up broken, exactly like the previous one <<joyoung-rice-cooker>>. Managed to fix easily with heat gun and Solder Seal Heat Shrink, no soldering iron, that thing is amazing: https://www.amazon.co.uk/dp/B085415G8N Let's see how long it lasts.
