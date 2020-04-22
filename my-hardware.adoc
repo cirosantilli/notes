@@ -708,6 +708,7 @@ Overview of Shimano brands 2018: https://www.evanscycles.com/coffeestop/advice/t
 * Shimano Claris: entry 8-speed road bike https://www.youtube.com/watch?v=6dFQDDg6Wt0
 * Shimano Sora: 9-speed road bike https://bike.shimano.com/en-EU/product/component/sora-r3000.html
 * Shimano Tiagra: 10-speed road bike https://bike.shimano.com/en-EU/product/component/tiagra-4700.html
+* Shimano Deore: non-shitty MTB, in increasing performance: M610, M6000, M7000, ...)
 
 === Bicycle products
 
@@ -733,6 +734,18 @@ Overview of Shimano brands 2018: https://www.evanscycles.com/coffeestop/advice/t
 
 2019-08: "CatEye CA475RAPMIN Rapid Mini Rear Lights and Reflectors, Black" stolen: https://www.amazon.co.uk/dp/B01I4193PY (https://web.archive.org/web/20190829232804/https://www.amazon.co.uk/dp/B01I4193PY[archive]). Very good quality. Those USB rechargeable lights you just have got to take off with you whenever parked in town or else drug addicts will steal them because they are easy to remove for recharging. Tempted to just stick to dynamo ones that are screwed in. Re-bought original back light: AXA Basta, was a bit different from previous one, cannot take in lamps anymore, even though there is the plastic casing for them! Just not metal / wires.
 
+==== 2020-04 Park Tool CCP-2.2 Cotterless Crank Puller Tool
+
+https://www.amazon.co.uk/dp/B001VS1M20
+
+Worked with <<kross>> Shimano FC-M311, I managed to remove the crank arm.
+
+==== 2020-04 DECARETA Pedal Spanner
+
+https://www.amazon.co.uk/dp/B07VL2MLYY DECARETA Pedal Spanner Bike Pedal Wrench Three-in-one Function Bicycle Pedal Spanner 24mm Front and Rear Axle Spanner Pedal Install Spanner Repair Tool with Anti-Skidding Long Handle (Silver) £10.99.
+
+Got dented the first time I tried to use it in the <<kross>>.
+
 ==== Bike stand
 
 2019-12: https://www.halfords.com/cycling/bike-maintenance/bike-work-stands/bikehut-repair-stand 40 pounds
@@ -747,23 +760,35 @@ Rope attached to rear rack + door knob: https://www.youtube.com/watch?v=teUsJt1W
 
 2019-12 https://www.wiggle.co.uk/dhb-aeron-winter-weight-merino-sock/?sku=100335580 dhb Aeron Winter Weight Merino Sock, blue, UK 9.5-12. Did not seem to make much of a difference, feet still cold, not wet.
 
-2019 UNIQLO tights 53% cotton, 32% polyester, 15% elastane
+2019-11 Nike academy hyperwarm gloves: https://www.nike.com/gb/t/hyperwarm-academy-football-gloves-s9Dd8D/GS0373-013 (http://web.archive.org/web/20200419133129/https://www.nike.com/gb/t/hyperwarm-academy-football-gloves-s9Dd8D/GS0373-013[archive]) for 17.99 Pounds from physical retailer. Good intermediate between the Extremities gloves when it gets a bit warmer. 60% polyester/27% nylon/5% rubber/4% elastane.
 
 2019-10 XGC Men's Cycling Shorts/Bike Shorts And Cycling Underwear With High-Density High-Elasticity And Highly Breathable 4D Sponge Padded https://www.amazon.co.uk/dp/B07BDJP64W (http://archive.is/ltPSE[archive])
 
-TODO name date Gets wet after a few minutes of medium rain. But does dry quickly. Baggy, multilayer. Says 40 pounds, but always at 20 pound discount, so it is just a marketing trick. On website: Outershell 96% Polyester / 4% Lycra (Spandex)Palm 45% Polyester / 55% PolyurethaneLining 100% Polyester
+2018 (?) Extremities XDRY gloves Looks like: https://www.sportsdirect.com/extremities-wp-p/line-glove-91-907293 (http://web.archive.org/web/20200419133931/https://www.sportsdirect.com/extremities-wp-p/line-glove-91-907293[archive]) Gets wet after a few minutes of medium rain. But does dry quickly. Baggy, multilayer. Says 40 pounds, but always at 20 pound discount, so it is just a marketing trick. On website: Outershell 96% Polyester / 4% Lycra (Spandex)Palm 45% Polyester / 55% PolyurethaneLining 100% Polyester 
 
-2017-09 Trespass Cruzado Male Gloves size S. https://www.trespass.com/cruzado-unisex-gloves (http://web.archive.org/web/20191106223639/https://www.trespass.com/cruzado-unisex-gloves#[archive]) Markings: crossover gloves. Technical Performance TP75: https://www.trespass.com/advice/trespass-tp-ratings-guide/
+2017-09 Trespass Cruzado Male Gloves size S. https://www.trespass.com/cruzado-unisex-gloves (http://web.archive.org/web/20191106223639/https://www.trespass.com/cruzado-unisex-gloves#[archive]) Markings: crossover gloves. Technical Performance TP75: https://www.trespass.com/advice/trespass-tp-ratings-guide/ Lost right hand around 2018/2019.
 
 2017 Muddy fox cycling Jersey, orange, polyester, Large, cheap. Works pretty well I guess.
+
+2015 UNIQLO tights 53% cotton, 32% polyester, 15% elastane
 
 2015 Odlo top and tights, polyester. Not sure exact model, not necessarily meant for cycling. Top does not fit tightly, did not feel like it was removing sweat effectively.
 
 ==== Bike pump
 
-2019-03: Giant control tower 3 floor pump 20 pounds. Works on both Schrader and Presta.
+2019-03: Giant control tower 3 floor pump 20 pounds. Works on both Schrader and Presta
 
 === Kross
+
+Trekking bike bought second hand in 2017. It was originally likely something like an older version of this: https://www.kross.pl/en/2017/trekking/trans-siberian But mine is 24 gear, so a slightly different type.
+
+2020-04-19: tried to remove left pedal again with xref:2020-04-decareta-pedal-spanner[], put more force, and the tool itself actually got dented and started spinning freely around the pedal. I give up, will change crank arm. Can't find just the left crank arm, and not sure if 170/175, so just buying the entire thing: Shimano FC-M311 at 175mm which is the correct one for my height as mentioned at: https://www.youtube.com/watch?v=vUygkHlcVMQ
+
+2020-04: bought Shimano Deore PD-M324 pedals in preparation for flat to SPD switch: https://bike.shimano.com/en-EU/product/component/deore-t6000/PD-M324.html[] (http://web.archive.org/web/20200419105148/https://bike.shimano.com/en-EU/product/component/deore-t6000/PD-M324.html[archive]) | https://www.wiggle.co.uk/shimano-m324-combination-pedals[], since I'll remove the pedals at somepoint anyways, first learnt at: https://bicycles.stackexchange.com/questions/30662/can-i-use-normal-shoes-trainers-with-clipless-pedals/30720#30720 can be used with normal shoes too. SPD/plataform double side chosen to so I can both commute with on regular shoes and ride further for sport with SPD shoes. Cleat type: SM-SH56. Praying to God that the thread size is universal as mentioned at: https://bicycles.stackexchange.com/questions/10162/whats-difference-between-1-2-and-9-16-inch-pedals When they arrived noticed they felt quite heavy! 533g. Let's see. The non double sided is 455g though: https://www.wiggle.co.uk/shimano-m530-mtb-spd-trail-pedals/[]. And a full roadie one like PD-RS500 SPD-SL weights 320g.
+
+2020-04: attempted to use xref:2020-04-decareta-pedal-spanner[] to remove left pedal that would not come off with generic short wrench and has been ticking a bit for several months, and now sometimes appears to do false spins! The think must be completely destroyed. Failed, too hard.
+
+2020-04: was trying to remove left pedal with short wrench I had, impossible. Later noticed that the kick up stand was a bit bent! Tried to turn it around, but did not manage to make it improve much. Later during a ride, the new position was too close to the spokes, and started to hit the spokes! When I got home, tried to remove the fucking kickstand, but it had a flat bolt in a deep place between the rear tubes, and I couldn't do it with my simple wrenches. Went to bike shop next day, and they removed it, likely with a deep wrench. The piece was thrown away.
 
 2020-03: finally installed the new derailleur after long suffering, including new cables and casing on front and back derailleurs and on back break. Took 3 1-2 hour sessions, but it became amazing.
 
@@ -797,7 +822,7 @@ TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki
 
 2019-03-30: repair bearings back wheel, true back wheel, remove rust from chain. Result: 50 pounds:
 
-* cassette Shimano Claris HG50 8 speed: https://bike.shimano.com/en-NZ/product/component/claris-r2000/CS-HG50-8.html tooth counts: 11-13-15-18-21-24-28-34T http://web.archive.org/web/20191119105727/https://bike.shimano.com/en-EU/product/component/claris-r2000/CS-HG50-8.html
+* cassette Shimano Claris HG50 8 speed: https://bike.shimano.com/en-NZ/product/component/claris-r2000/CS-HG50-8.html tooth counts: 11T-13T-15T-18T-21T-24T-28T-34T http://web.archive.org/web/20191119105727/https://bike.shimano.com/en-EU/product/component/claris-r2000/CS-HG50-8.html
 * chain KMC Z51 7-8X Chain because 0.7 stretch reached (limit 0.5). Markings: Z, 9A, KMC, NARROW. Looks like this but fully silver: https://www.amazon.co.uk/KMC-Z-51-Z-8S-Speed-Silver/dp/B01I1GL49U (https://web.archive.org/web/20190830081223/https://www.amazon.co.uk/KMC-Z-51-Z-8S-Speed-Silver/dp/B01I1GL49U[archive]), image: https://web.archive.org/web/20190830081307/https://images-na.ssl-images-amazon.com/images/I/314Z3-1WxJL.jpg
 * oil on back wheel bearings no replace
 
@@ -807,7 +832,9 @@ Tick on back wheel stopped. Back break did not get better. Gears not improved. R
 
 2018: front tire blew up and was replaced by TODO.
 
-2017: bought used 100 pounds. Specs when bought follow:
+2017: bought, specs:
+
+Frame markings: Trekking (two stylized trees on left, one with two triangles and the other 3 triangles), Frame Size: M. Feels like the right size for me.
 
 Gear shifters: don't know exact model since could not find markings (fuck you Shimano?) but from photos online, seems to be one of the ST-EF* family EZ FIRE, e.g. https://si.shimano.com/pdfs/dm/DM-ST0001-05-ENG.pdf[ST-EF65-8] or ST-EF500.
 
@@ -831,6 +858,12 @@ Speed meter: Speedmaster 5000, CR2032 battery. https://26bikes.com/shop/accessor
 
 Front light: AXA Sprint 10 Switch LED Front Light https://www.bike24.com/p213267.html Wire connector for back light: "Crimp Quick Disconnect Terminals". Tried 2.5mm but too large, size refers to each left/right wrinkle.
 
+Grips: Herrmans Primergo, looks like this: https://www.amazon.co.uk/dp/B01LZSJ30Q
+
+Pedal: flat/platform crap :-) Markings: "FP-910", exactly like the photo: https://www.ebay.co.uk/i/114124689225 (https://web.archive.org/web/20200419123333/https://www.ebay.co.uk/i/114124689225[archive]) but can't find the brand, very generic.
+
+Crankset: markings "Shimano", "FC-M311", "Hyperdrive", "Dual SiS index", from Google part of Altus: https://si.shimano.com/pdfs/ev/EV-FC-M311-2675A.pdf (https://web.archive.org/web/20180219080226/https://si.shimano.com/pdfs/ev/EV-FC-M311-2675A.pdf[archive]). There are two possible tooth counts, I counted 48T on largest, so it is the 48/38/28 one. There are two arm sizes though, 170mm vs 175mm, not sure which one mine is, very hard to measure, I think it was 170mm. Installation at: https://si.shimano.com/pdfs/si/SI-0094A-001-ENG.pdf (http://web.archive.org/web/20200419132405/https://si.shimano.com/pdfs/si/SI-0094A-001-ENG.pdf[archive]) says to use "8 mm Allen key or a cotterless crank extractor (TL-FC10)". Identification: https://youtu.be/VMV-SOIhM2c?t=258 "Three Piece Crank of type Square Tapered Spin"
+
 === Giant Flourish FS 2
 
 Bought: 2019-01, 400 pounds, XS. Hybrid style bike.
@@ -838,6 +871,8 @@ Bought: 2019-01, 400 pounds, XS. Hybrid style bike.
 https://www.liv-cycling.com/ie/flourish-fs-2 | http://web.archive.org/web/20190124201848/https://www.liv-cycling.com/ie/flourish-fs-2
 
 Wheels front and back: 40-622 (700 x 38C).
+
+Kickstand markings "Park" and "20".
 
 ==== Kryptonite NEW-U - KRYPTOLOK STANDARD
 
@@ -927,6 +962,13 @@ https://www.youtube.com/watch?v=uDGCs1G0Tx8 AstroAI WH5000A Digital Multimeter s
 == Body
 
 Hand great span https://en.wikipedia.org/wiki/Span_(unit): 0.22m
+
+Shoe size 30 year old:
+
+* US: 11
+* UK: 10
+* EUR: 45
+* cm: 29
 
 == Cleaning products
 

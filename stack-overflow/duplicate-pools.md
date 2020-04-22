@@ -603,6 +603,11 @@ CSRF and SOP:
 - <http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token/26895980#26895980>
 - <http://stackoverflow.com/questions/14667189/simple-example-for-why-same-origin-policy-is-needed/26819187#26819187>
 
+C++17 `std::array` class template argument deduction (CTAD):
+
+- https://stackoverflow.com/questions/14178264/c11-correct-stdarray-initialization/61371266#61371266 less specific, more views
+- https://stackoverflow.com/questions/39933567/deduce-stdarray-size/61371303#61371303 more specific, less views
+
 ## POSIX
 
 What is POSIX:
@@ -643,6 +648,11 @@ dot slash `./` for executables and `PATH` search:
 
 - https://stackoverflow.com/questions/6331075/why-do-you-need-dot-slash-before-executable-or-script-name-to-run-it-in-bas
 - https://unix.stackexchange.com/questions/4430/why-do-we-use-dot-slash-to-execute-a-file-in-linux-unix/573004#573004
+
+Exit status `$?`:
+
+- https://stackoverflow.com/questions/6834487/what-is-the-dollar-question-mark-variable-in-shell-scripting/31649402#31649402
+- https://stackoverflow.com/questions/7248031/meaning-of-dollar-question-mark-in-shell-scripts/57303942#57303942 marked as dupe
 
 ## Eclipse
 
@@ -709,6 +719,7 @@ Shebang:
 - <http://stackoverflow.com/questions/2429511/why-do-people-write-usr-bin-env-python-on-the-first-line-of-a-python-script/40938801#40938801>
 - <http://stackoverflow.com/questions/3009192/how-does-the-shebang-work/40938907#40938907>
 - <https://unix.stackexchange.com/questions/87560/does-the-shebang-determine-the-shell-which-runs-the-script/434088#434088>
+    - https://unix.stackexchange.com/questions/268766/what-exactly-happens-when-i-execute-a-file-in-my-shell unanswered, likely should be dupe
 - <https://askubuntu.com/questions/238002/is-bin-sh-read-by-the-interpreter/1019972#1019972>
 
 Execute non executable file:
