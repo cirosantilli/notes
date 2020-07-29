@@ -91,54 +91,6 @@ Ubuntu 16.10:
 
 === ThinkPad P51
 
-Summary string:
-
-____
-Lenovo ThinkPad P51 laptop with CPU: Intel Core i7-7820HQ CPU (4 cores / 8 threads, 2.90 GHz base, 8 MB cache), RAM: 2x Samsung M471A2K43BB1-CRC (2x 16GiB, 2400 Mbps), SSD: Samsung MZVLB512HAJQ-000L7 (512GB, 3,000 MB/s).
-____
-
-Bought: 2017.
-
-HW specs:
-
-* 32GB(16+16) DDR4 2400MHz SODIMM
-* 512GB SSD PCIe TLC OPAL2
-* 1TB hard disk
-* Windows 10 Pro 64
-* Windows 10 Pro 64 WE (EN/FR/DE/NL/IT)
-* 15.6" FHD (1920x1080), anti-glare, IPS
-* NVIDIA Quadro M1200 4GB GDDR5 GPU
-* With Color Sensor
-* 720p HD Camera with Microphone
-* Keyboard with Number Pad - Euro English
-* 3+3BCP, Fingerprint Reader,Color Sensor
-* Integrated Fingerprint Reader
-* Hardware dTPM2.0 Enabled
-* 1TB 5400rpm HDD
-* 170W AC Adapter - UK(3pin)
-* 6 Cell Li-Polymer Battery, 90Wh
-* Intel Dual Band Wireless AC(2x2) 8265, Bluetooth Version 4.1, vPro
-
-Ubuntu 17.10 setup fun:
-
-* partition setup: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/976430#976430
-* BIOS:
-** for NVIDIA driver:
-** for KVM, required by Android Emulator: enable virtualization extensions
-* TODO fix the brightness keys:
-** failed: https://askubuntu.com/questions/769006/brightness-key-not-working-ubuntu-16-04-lts/770100#770100
-
-Reddit threads:
-
-* https://www.reddit.com/r/linux4noobs/comments/5zyejw/update_1604_tp_1610_boot_hangs_at_started_nvidia/
-* https://www.reddit.com/r/Lenovo/comments/6g8m9w/ubuntu_on_lenovo_p51/
-* https://www.reddit.com/r/thinkpad/comments/6hi0zn/if_youre_thinking_of_running_linux_on_a_p51_read/
-
-Battery life:
-
-* before GPU: 8h
-* after GPU: 6.5h
-
 lshw: p51-lshw
 
 hwinfo: p51-hwinfo
@@ -147,121 +99,18 @@ dmidecode: p51-dmidecode
 
 2019-04-17: popup asking about "ThinkPad P51 Management Engine Update" from from 182.29.3287 to 184.60.3561, said yes.
 
-==== ThinkPad P51 CPU
-
-Intel Core i7-7820HQ.
-
-https://ark.intel.com/products/97496/Intel-Core-i7-7820HQ-Processor-8M-Cache-up-to-3-90-GHz- | http://web.archive.org/web/20181224203737/https://ark.intel.com/products/97496/Intel-Core-i7-7820HQ-Processor-8M-Cache-up-to-3-90-GHz-
-
-8MB Cache, up to 3.90GHz, 4 cores / 8 threads.
-
-Recommended customer price: 378.00 USD. Launch date: Q1'17, process: 14 nm.
-
-`cat /proc/cpuinfo`:
-
-....
-processor       : 0
-vendor_id       : GenuineIntel
-cpu family      : 6
-model           : 158
-model name      : Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz
-stepping        : 9
-microcode       : 0x8e
-cpu MHz         : 1029.568
-cache size      : 8192 KB
-physical id     : 0
-siblings        : 8
-core id         : 0
-cpu cores       : 4
-apicid          : 0
-initial apicid  : 0
-fpu             : yes
-fpu_exception   : yes
-cpuid level     : 22
-wp              : yes
-flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_g
-ood nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsav
-e avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx rdseed a
-dx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp flush_l1d
-bugs            : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf
-bogomips        : 5808.00
-clflush size    : 64
-cache_alignment : 64
-address sizes   : 39 bits physical, 48 bits virtual
-power management:
-....
-
-`getconf -a | grep CACHE`:
-
-....
-LEVEL1_ICACHE_SIZE                 32768
-LEVEL1_ICACHE_ASSOC                8
-LEVEL1_ICACHE_LINESIZE             64
-LEVEL1_DCACHE_SIZE                 32768
-LEVEL1_DCACHE_ASSOC                8
-LEVEL1_DCACHE_LINESIZE             64
-LEVEL2_CACHE_SIZE                  262144
-LEVEL2_CACHE_ASSOC                 4
-LEVEL2_CACHE_LINESIZE              64
-LEVEL3_CACHE_SIZE                  8388608
-LEVEL3_CACHE_ASSOC                 16
-LEVEL3_CACHE_LINESIZE              64
-LEVEL4_CACHE_SIZE                  0
-LEVEL4_CACHE_ASSOC                 0
-LEVEL4_CACHE_LINESIZE              0
-....
-
-==== P51 RAM
-
-2x Samsung M471A2K43BB1-CRC (2x 16GiB)
-
-https://www.samsung.com/semiconductor/dram/module/M471A2K43BB1-CRC/ | http://web.archive.org/web/20181224202657/https://www.samsung.com/semiconductor/dram/module/M471A2K43BB1-CRC/
-
-https://www.amazon.co.uk/Samsung-DDR4-16-GB-DDR4-2400-MHz-Memory-Module/dp/B016N24XKQ | http://web.archive.org/web/20181224203214/https://www.amazon.co.uk/Samsung-DDR4-16-GB-DDR4-2400-MHz-Memory-Module/dp/B016N24XKQ 355.43 UK Pounds for 2x 16 GiB.
-
-==== P51 SSD
-
-Samsung MZVLB512HAJQ-000L7, 512GB.
-
-https://www.samsung.com/semiconductor/ssd/client-ssd/MZVLB512HAJQ/ | http://web.archive.org/web/20181224225400/https://www.samsung.com/semiconductor/ssd/client-ssd/MZVLB512HAJQ/
-
-https://www.samsung.com/semiconductor/global.semi/file/resource/2018/05/PM981_M.2_SSD_Datasheet_v1.3_for_General.pdf | http://web.archive.org/web/20181224225410/https://www.samsung.com/semiconductor/global.semi/file/resource/2018/05/PM981_M.2_SSD_Datasheet_v1.3_for_General.pdf
-
-hdparm
-
-....
-Timing cached reads:   30426 MB in  1.99 seconds = 15273.67 MB/sec
-Timing buffered disk reads: 4570 MB in  3.00 seconds = 1523.14 MB/sec
-....
-
-Nominal maximum sequential read speed: 3,000 MB/s
-
-==== P51 Hard disk
-
-Seagate ST1000LM035-1RK1, 1TB.
-
-https://www.disctech.com/Seagate-ST1000LM035-1TB-SATA-Hard-Drive 80 USD | http://web.archive.org/web/20181224201408/https://www.disctech.com/Seagate-ST1000LM035-1TB-SATA-Hard-Drive
-
-https://www.seagate.com/www-content/datasheets/pdfs/mobile-hddDS1861-2-1603-en_US.pdf | http://web.archive.org/web/20181225095438/https://www.seagate.com/www-content/datasheets/pdfs/mobile-hddDS1861-2-1603-en_US.pdf
-
-hdparm
-
-....
-Timing cached reads:   34128 MB in  1.99 seconds = 17136.31 MB/sec
-Timing buffered disk reads: 388 MB in  3.01 seconds = 129.00 MB/sec
-....
-
-Nominal maximum speed: 140MB/s
-
 === ThinkPad T430
 
 http://shop.lenovo.com/us/en/laptops/thinkpad/t-series/t430/#tab-tech_specs
+
+2020-06-17: was not powering on. Power button was notieably bad, and when I opened it up as https://www.youtube.com/watch?v=_B6NfIZ8jDY and clicked, it turned on, so just the button went completely bad, not very good design. Gonna try to buy a new one. The only seller I could find was https://uk.eetgroup.com/i/04W3204-Lenovo-Keyboard-US-INTERNATIONAL (https://web.archive.org/web/20200617082157/https://uk.eetgroup.com/i/04W3204-Lenovo-Keyboard-US-INTERNATIONAL[archive]) for 46 pounds... Buying https://www.amazon.co.uk/dp/B086WV4TZ8 30 pounds.
 
 TYPE 2344-CTO PBXGKXD 12/10
 
 * Serial Number: 2344CTO
 * Machine Type: PBXG
 * Machine Type Model: PBXGKXD
+* keyboard markings: FRU NO. 04W3204
 
 Released 2012.
 
@@ -692,7 +541,11 @@ ASDA burnt, put in TopLux on right, old Bell left.
 
 2019-04-12 mirror lamp: it was just he connector that was bad, it was changed, also put LEDs there to make it less warm and hopefully have less tear on connector.
 
-== Sleeping masks
+== Masks
+
+=== Pollen masks
+
+2019-06-02: Japanese PITTA mask. 30 and 50 microns
 
 == Bicycle
 
@@ -709,160 +562,6 @@ Overview of Shimano brands 2018: https://www.evanscycles.com/coffeestop/advice/t
 * Shimano Sora: 9-speed road bike https://bike.shimano.com/en-EU/product/component/sora-r3000.html
 * Shimano Tiagra: 10-speed road bike https://bike.shimano.com/en-EU/product/component/tiagra-4700.html
 * Shimano Deore: non-shitty MTB, in increasing performance: M610, M6000, M7000, ...)
-
-=== Bicycle products
-
-2020-02: CatEye AMPP500 45 pounds https://www.cateye.com/intl/products/headlights/HL-EL085RC/ High mode 500 lumens： 1.5hrs, Daytime HyperConstant mode 500/250 lumens： 5hrs
-
-2020-02: Karrimor REFLEKT Band 2 pounds from Sports Direct to replace old that I destroyed by playing with it with hands on work desk https://www.karrimor.com/karrimor-reflect-band-765007
-
-2020-01: Muc-Off Drivetrain Cleaner - 500ml https://www.halfords.com/cycling/bike-maintenance/bike-cleaning/muc-off-drivetrain-cleaner-500ml
-
-2020-01: Halfords Microfibre Heavy Duty Cloths https://www.halfords.com/motoring/car-cleaning/sponges-brushes-buckets/halfords-microfibre-heavy-duty-cloths (https://web.archive.org/web/20180529012539/https://www.halfords.com/motoring/car-cleaning/sponges-brushes-buckets/halfords-microfibre-heavy-duty-cloths[archive]) 87% polyester, 13% polyamide.
-
-2019-12: https://www.amazon.co.uk/gp/product/B07GQSXN8B SENZEAL Bicycle Spoke Wrench Tool Spoke Key Spanner 6 in 1 for Bike Wheel Cycle Wrench 10-15 Gauge 
-
-2019-12: Halford's Bike Hut Chain Cleaning Kit: https://www.halfords.com/cycling/bike-maintenance/bike-cleaning/bikehut-chain-cleaning-kit 18 pounds. GCN video using it: https://www.youtube.com/watch?v=KM6mzE5lQ0w Review video saying it is useless: https://www.youtube.com/watch?v=rCo41pftAjU
-
-2019-11: Multitool: https://www.amazon.co.uk/dp/B07MW3K2GK "COZYROOMY Bike Repair Kits - Bicycle tool kit with 10 in 1 Multi-Function Bike Tool, multi-purpose bone wrench And related spare tools, 1 Portable tool bag, 6 Month Warranty". No spoke wrench unfortunately. But does have 15mm bone wrench, which opens Kross front wheel.
-
-2019-11: "CatEye RAPID X2" real lights, 40 dollars. Hopefully to increase side visibility at night, and day visibility on fast roads when cycling further on weekends. https://www.cateye.com/intl/products/safety_lights/TL-LD710-R/ (https://web.archive.org/web/20180904083218/https://www.cateye.com/intl/products/safety_lights/TL-LD710-R/[archive]) USB rechargeable. 80 lumens in high mode lasting 1 hour, 5 hours in low mode, 30 hours flashing, 16 hours rapid / pulse.
-
-2019-10 WD-40 Smart Straw 450ml https://www.amazon.com/dp/B01MEHN4VC (https://web.archive.org/web/20191005165231/https://www.amazon.com/dp/B01MEHN4VC[archive])
-
-2019-10 Finish Line Dry Teflon Tube https://www.amazon.com/dp/B00B704LZW (https://web.archive.org/web/20191005165259/https://www.amazon.com/dp/B00B704LZW[archive]) Tube broke while opening the first day. I glued it with some superglue, but two months later found it leaked into my "oils bag", so I threw it away... it must have penetrated through the super glue.
-
-2019-08: "CatEye CA475RAPMIN Rapid Mini Rear Lights and Reflectors, Black" stolen: https://www.amazon.co.uk/dp/B01I4193PY (https://web.archive.org/web/20190829232804/https://www.amazon.co.uk/dp/B01I4193PY[archive]). Very good quality. Those USB rechargeable lights you just have got to take off with you whenever parked in town or else drug addicts will steal them because they are easy to remove for recharging. Tempted to just stick to dynamo ones that are screwed in. Re-bought original back light: AXA Basta, was a bit different from previous one, cannot take in lamps anymore, even though there is the plastic casing for them! Just not metal / wires.
-
-==== 2020-04 Park Tool CCP-2.2 Cotterless Crank Puller Tool
-
-https://www.amazon.co.uk/dp/B001VS1M20
-
-Worked with <<kross>> Shimano FC-M311, I managed to remove the crank arm.
-
-==== 2020-04 DECARETA Pedal Spanner
-
-https://www.amazon.co.uk/dp/B07VL2MLYY DECARETA Pedal Spanner Bike Pedal Wrench Three-in-one Function Bicycle Pedal Spanner 24mm Front and Rear Axle Spanner Pedal Install Spanner Repair Tool with Anti-Skidding Long Handle (Silver) £10.99.
-
-Got dented the first time I tried to use it in the <<kross>>.
-
-==== Bike stand
-
-2019-12: https://www.halfords.com/cycling/bike-maintenance/bike-work-stands/bikehut-repair-stand 40 pounds
-
-Maybe I'm an idiot and should have bought a much smaller rear wheel stand, only thought of that later, e.g.: https://www.amazon.co.uk/dp/B00G7ZO3GE or https://www.amazon.co.uk/dp/B00SD7NL44
-
-Rope attached to rear rack + door knob: https://www.youtube.com/watch?v=teUsJt1WL1g
-
-==== Cycling clothes
-
-2019-12 https://www.wiggle.co.uk/dhb-merino-long-sleeve-base-layer-1/?sku=5360752872 dhb Merino Long Sleeve Base Layer, black, small, was right size, wool is a bit itchy, but does feel like it dries off more quickly on long rides than the cheap Muddy Fox polyester cycling Jersey
-
-2019-12 https://www.wiggle.co.uk/dhb-aeron-winter-weight-merino-sock/?sku=100335580 dhb Aeron Winter Weight Merino Sock, blue, UK 9.5-12. Did not seem to make much of a difference, feet still cold, not wet.
-
-2019-11 Nike academy hyperwarm gloves: https://www.nike.com/gb/t/hyperwarm-academy-football-gloves-s9Dd8D/GS0373-013 (http://web.archive.org/web/20200419133129/https://www.nike.com/gb/t/hyperwarm-academy-football-gloves-s9Dd8D/GS0373-013[archive]) for 17.99 Pounds from physical retailer. Good intermediate between the Extremities gloves when it gets a bit warmer. 60% polyester/27% nylon/5% rubber/4% elastane.
-
-2019-10 XGC Men's Cycling Shorts/Bike Shorts And Cycling Underwear With High-Density High-Elasticity And Highly Breathable 4D Sponge Padded https://www.amazon.co.uk/dp/B07BDJP64W (http://archive.is/ltPSE[archive])
-
-2018 (?) Extremities XDRY gloves Looks like: https://www.sportsdirect.com/extremities-wp-p/line-glove-91-907293 (http://web.archive.org/web/20200419133931/https://www.sportsdirect.com/extremities-wp-p/line-glove-91-907293[archive]) Gets wet after a few minutes of medium rain. But does dry quickly. Baggy, multilayer. Says 40 pounds, but always at 20 pound discount, so it is just a marketing trick. On website: Outershell 96% Polyester / 4% Lycra (Spandex)Palm 45% Polyester / 55% PolyurethaneLining 100% Polyester 
-
-2017-09 Trespass Cruzado Male Gloves size S. https://www.trespass.com/cruzado-unisex-gloves (http://web.archive.org/web/20191106223639/https://www.trespass.com/cruzado-unisex-gloves#[archive]) Markings: crossover gloves. Technical Performance TP75: https://www.trespass.com/advice/trespass-tp-ratings-guide/ Lost right hand around 2018/2019.
-
-2017 Muddy fox cycling Jersey, orange, polyester, Large, cheap. Works pretty well I guess.
-
-2015 UNIQLO tights 53% cotton, 32% polyester, 15% elastane
-
-2015 Odlo top and tights, polyester. Not sure exact model, not necessarily meant for cycling. Top does not fit tightly, did not feel like it was removing sweat effectively.
-
-==== Bike pump
-
-2019-03: Giant control tower 3 floor pump 20 pounds. Works on both Schrader and Presta
-
-=== Kross
-
-Trekking bike bought second hand in 2017. It was originally likely something like an older version of this: https://www.kross.pl/en/2017/trekking/trans-siberian But mine is 24 gear, so a slightly different type.
-
-2020-04-19: tried to remove left pedal again with xref:2020-04-decareta-pedal-spanner[], put more force, and the tool itself actually got dented and started spinning freely around the pedal. I give up, will change crank arm. Can't find just the left crank arm, and not sure if 170/175, so just buying the entire thing: Shimano FC-M311 at 175mm which is the correct one for my height as mentioned at: https://www.youtube.com/watch?v=vUygkHlcVMQ
-
-2020-04: bought Shimano Deore PD-M324 pedals in preparation for flat to SPD switch: https://bike.shimano.com/en-EU/product/component/deore-t6000/PD-M324.html[] (http://web.archive.org/web/20200419105148/https://bike.shimano.com/en-EU/product/component/deore-t6000/PD-M324.html[archive]) | https://www.wiggle.co.uk/shimano-m324-combination-pedals[], since I'll remove the pedals at somepoint anyways, first learnt at: https://bicycles.stackexchange.com/questions/30662/can-i-use-normal-shoes-trainers-with-clipless-pedals/30720#30720 can be used with normal shoes too. SPD/plataform double side chosen to so I can both commute with on regular shoes and ride further for sport with SPD shoes. Cleat type: SM-SH56. Praying to God that the thread size is universal as mentioned at: https://bicycles.stackexchange.com/questions/10162/whats-difference-between-1-2-and-9-16-inch-pedals When they arrived noticed they felt quite heavy! 533g. Let's see. The non double sided is 455g though: https://www.wiggle.co.uk/shimano-m530-mtb-spd-trail-pedals/[]. And a full roadie one like PD-RS500 SPD-SL weights 320g.
-
-2020-04: attempted to use xref:2020-04-decareta-pedal-spanner[] to remove left pedal that would not come off with generic short wrench and has been ticking a bit for several months, and now sometimes appears to do false spins! The think must be completely destroyed. Failed, too hard.
-
-2020-04: was trying to remove left pedal with short wrench I had, impossible. Later noticed that the kick up stand was a bit bent! Tried to turn it around, but did not manage to make it improve much. Later during a ride, the new position was too close to the spokes, and started to hit the spokes! When I got home, tried to remove the fucking kickstand, but it had a flat bolt in a deep place between the rear tubes, and I couldn't do it with my simple wrenches. Went to bike shop next day, and they removed it, likely with a deep wrench. The piece was thrown away.
-
-2020-03: finally installed the new derailleur after long suffering, including new cables and casing on front and back derailleurs and on back break. Took 3 1-2 hour sessions, but it became amazing.
-
-2020-03: screw on left shifter (yes, the bloody screw) broke when trying to open it to take out cable. Buying left and right since the right one was broken from previous fall. https://www.amazon.co.uk/dp/B073XQ8J78 ST-EF65-8 25 pounds
-
-2020-02: Bought unbranded bike bell sold in bulk from bike shop, 1.50 pound. Markings: SX. Old bell made louder sound. This type of simple mechanism: https://www.amazon.co.uk/dp/B00GZ3TFFM
-
-2020-01-13: Parked on city center, shitty low diagonal place, crowded. When came back, bike on floor, had dropped hard since front wheel twisted on axis, untwisted with leg. When got home, noticed that right gear shifter was half coming off. Later found out that the piece broken on one of the screws, hanging only by the other screw. Next day morning, noticed that the bell had come off, and was lost, went back on evening but obviously could not find it.
-
-2019-11: Jagire break pads 2x V 11.50 pounds: https://jagwire.com/products/brake-pads/cross-rim-brake-pads (http://web.archive.org/web/20191123155242/https://jagwire.com/products/brake-pads/cross-rim-brake-pads[archive])
-
-2019-11: Can't index rear derailleur, buying:
-
-* Shimano Claris RD-2400-GS 8-speed rear derailleur long cage (RD == Real Deralleur, GS == long cage) 25 pounds: https://www.amazon.co.uk/dp/B00D9ENDU8 https://bike.shimano.com/en-US/product/component/claris-2400/RD-2400-GS.html (http://web.archive.org/web/20191119110808/https://bike.shimano.com/en-US/product/component/claris-2400/RD-2400-GS.html[archive])
-* Shimano Road Shift Cable Set Y60098022 manual: https://web.archive.org/web/20180219062741/https://si.shimano.com/pdfs/ev/EV-Cable-Set2-3128.pdf | 10 pounds: https://www.amazon.co.uk/dp/B00510WI72 (http://web.archive.org/web/20191119101106/http://web.archive.org/screenshot/https://www.amazon.co.uk/dp/B00510WI72[archive])
-* shift cable front and back internal and external: 6 pounds internal 6 pounds external, Jagwire LEX bulk https://jagwire.com/guides/housing (http://web.archive.org/web/20191123100717/https://jagwire.com/guides/housing[archive])
-
-TODO exact model. Polish brand. Hybrid style bike: https://en.wikipedia.org/wiki/Hybrid_bicycle
-
-2019-08-29: rear derailleur fell off, later found it was bent: https://photos.app.goo.gl/yRgAc1FvKvcuCmcj7 Many bikes were parked together, I think other bikes put gear wires were a bit off, and I started pedalling very strong, and it immediately fell off. Went to repair shop, replaced it likely with: https://www.amazon.co.uk/dp/B01N51YIYZ (http://web.archive.org/web/20190904202236/https://www.amazon.co.uk/dp/B01N51YIYZ[archive]) "Shimano Cambio Post. 6/7v RD-TY300 Tourney TX Att. Dir.". Visible markings: "Shimano Tourney Paid 35 pounds, receipt said 25 for piece 10 for service, but piece actually cost 18 on Amazon, and with Prime / larger buys only 7 pounds. I'm also a bit worried because my back cassette is 8 speed, not 7... On official website RD-TY300-SGS: https://bike.shimano.com/en-EU/product/component/tourney/RD-TY300-SGS.html (https://web.archive.org/web/20190905062824/https://bike.shimano.com/en-EU/product/component/tourney/RD-TY300-SGS.html[archive])
-
-2019-07-26: the front crank was sometimes making loud cracking noises when I pedalled hard. Then, after two weeks, it also started making very loud screeching noises, and then finally I couldn't pedal anymore, and I took it to the shop. They changed the bottom bracket, 45 pounds, 30 for the piece, a BB UN55 Shimano bottom bracket: https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 | http://web.archive.org/web/20190726190947/https://www.chainreactioncycles.com/shimano-un55-square-taper-bottom-bracket/rp-prod71369 Photo of the piece that was taken out, notice some broken metal pieces and one of the ball bearing that were left: https://photos.app.goo.gl/6sqbM4kgDG5Pm7p58
-
-2019-08: front mudgards were making too much noise, cannot find brand. Removed them. Then in 2019-10 rain started, and I bought a new one.
-
-2019-06-30: fill tires, using 90PSI, was TODO
-
-2019-06-20: right gear wire broke, when opened for fixing was rusty near hand shifter
-
-2019-04-07: fill tires, using 90PSI, was 40PSI. Also on Giant Flourish.
-
-2019-03-30: repair bearings back wheel, true back wheel, remove rust from chain. Result: 50 pounds:
-
-* cassette Shimano Claris HG50 8 speed: https://bike.shimano.com/en-NZ/product/component/claris-r2000/CS-HG50-8.html tooth counts: 11T-13T-15T-18T-21T-24T-28T-34T http://web.archive.org/web/20191119105727/https://bike.shimano.com/en-EU/product/component/claris-r2000/CS-HG50-8.html
-* chain KMC Z51 7-8X Chain because 0.7 stretch reached (limit 0.5). Markings: Z, 9A, KMC, NARROW. Looks like this but fully silver: https://www.amazon.co.uk/KMC-Z-51-Z-8S-Speed-Silver/dp/B01I1GL49U (https://web.archive.org/web/20190830081223/https://www.amazon.co.uk/KMC-Z-51-Z-8S-Speed-Silver/dp/B01I1GL49U[archive]), image: https://web.archive.org/web/20190830081307/https://images-na.ssl-images-amazon.com/images/I/314Z3-1WxJL.jpg
-* oil on back wheel bearings no replace
-
-Tick on back wheel stopped. Back break did not get better. Gears not improved. Rust remained, was told too hard to remove, and not on teeth, so should not matter.
-
-2018-09-02: spoke https://www.dtswiss.com/en/products/spokes-nipples/spokes/dt-champion/ + minor brake work 41 pounds full work
-
-2018: front tire blew up and was replaced by TODO.
-
-2017: bought, specs:
-
-Frame markings: Trekking (two stylized trees on left, one with two triangles and the other 3 triangles), Frame Size: M. Feels like the right size for me.
-
-Gear shifters: don't know exact model since could not find markings (fuck you Shimano?) but from photos online, seems to be one of the ST-EF* family EZ FIRE, e.g. https://si.shimano.com/pdfs/dm/DM-ST0001-05-ENG.pdf[ST-EF65-8] or ST-EF500.
-
-Back wheel: quick release.
-
-Front wheel: no quick release, wrench size 15mm.
-
-Back tire: Schwalbe Marathon Plus Tour 42-622 (28 x 1.60, 700x40C) https://www.schwalbe.com/en/unplattbar.html (http://web.archive.org/web/20191102213652/http://web.archive.org/screenshot/https://www.schwalbe.com/en/unplattbar[archive])) Puncture resistant.
-
-Back hub: Shimano FH-RM30
-
-Back derailleur: markings: Shimano DEORE. Looks exactly like this "Shimano Deore RD-M591 9 Speed Rear Mech": https://www.chainreactioncycles.com/shimano-deore-m591-9-speed-rear-mech/rp-prod40543 (https://web.archive.org/web/20190830082012/https://www.chainreactioncycles.com/shimano-deore-m591-9-speed-rear-mech/rp-prod40543[archive]), manuals: https://web.archive.org/web/20191119094532/https://si.shimano.com/pdfs/ev/EV-RD-M591-2910.pdf and https://web.archive.org/web/20191119094534/https://si.shimano.com/pdfs/si/SI-6S90A-001-ENG.pdf[]. Similar product on Shimano website (not exactly the same, was not on sale anymore): https://bike.shimano.com/en-EU/product/component/deore-m6000/RD-M6000-GS.html (http://web.archive.org/web/20190905065426/https://bike.shimano.com/en-EU/product/component/deore-m6000/RD-M6000-GS.html[archive])
-
-Back light: AXA Basta Ray LED Rear Light. Markings read: "basta X-Ray Steady STANDLICHT Z K 257 TP RBi 1017". Powered either by 2 AAA bareies in series or by the front hub dynamo: https://www.bike24.com/p213276.html | http://web.archive.org/web/20190821070347/https://www.bike24.com/p213276.html
-
-Front tire: did not take note, was later changed.
-
-Front hub: Shimano DH-3N20 dynamo front hub 6V 3.0W https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx | http://web.archive.org/web/20190821065910/https://www.fawkes-cycles.co.uk/2912/products/shimano-nexus-dh-3n20-6v-30w-nutted-dynamo-front-hub-for-use-with-rim-brakes-36h.aspx
-
-Speed meter: Speedmaster 5000, CR2032 battery. https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000 | http://web.archive.org/web/20190418182410/https://26bikes.com/shop/accessories/computers/wire/prod/speedmaster-5000
-
-Front light: AXA Sprint 10 Switch LED Front Light https://www.bike24.com/p213267.html Wire connector for back light: "Crimp Quick Disconnect Terminals". Tried 2.5mm but too large, size refers to each left/right wrinkle.
-
-Grips: Herrmans Primergo, looks like this: https://www.amazon.co.uk/dp/B01LZSJ30Q
-
-Pedal: flat/platform crap :-) Markings: "FP-910", exactly like the photo: https://www.ebay.co.uk/i/114124689225 (https://web.archive.org/web/20200419123333/https://www.ebay.co.uk/i/114124689225[archive]) but can't find the brand, very generic.
-
-Crankset: markings "Shimano", "FC-M311", "Hyperdrive", "Dual SiS index", from Google part of Altus: https://si.shimano.com/pdfs/ev/EV-FC-M311-2675A.pdf (https://web.archive.org/web/20180219080226/https://si.shimano.com/pdfs/ev/EV-FC-M311-2675A.pdf[archive]). There are two possible tooth counts, I counted 48T on largest, so it is the 48/38/28 one. There are two arm sizes though, 170mm vs 175mm, not sure which one mine is, very hard to measure, I think it was 170mm. Installation at: https://si.shimano.com/pdfs/si/SI-0094A-001-ENG.pdf (http://web.archive.org/web/20200419132405/https://si.shimano.com/pdfs/si/SI-0094A-001-ENG.pdf[archive]) says to use "8 mm Allen key or a cotterless crank extractor (TL-FC10)". Identification: https://youtu.be/VMV-SOIhM2c?t=258 "Three Piece Crank of type Square Tapered Spin"
 
 === Giant Flourish FS 2
 
@@ -907,20 +606,6 @@ GNC inner tube guide: https://www.youtube.com/watch?v=R_dpK0_LK4Q
 
 Presta valve dominates road bikes in 2019.
 
-== Shoes
-
-=== Nike Flex Experience RN 6 Grey
-
-Amazing shoes! Bought: 2017Q4.
-
-https://www.amazon.in/Nike-Mens-Experience-Running-Shoes/dp/B07CQLHV9C | http://web.archive.org/web/20190504122243/https://www.amazon.in/Nike-Mens-Experience-Running-Shoes/dp/B07CQLHV9C
-
-Shoestring length: 1.185m
-
-Replaced with after bicycle ate it: 1.0m, also worked but at limit.
-
-Size: EUR 45.
-
 == Bags
 
 2020-01: Nike Heritage 2.0 Gymsack https://www.amazon.co.uk/dp/B07KR1BPNY https://www.nike.com/gb/t/heritage-2-gymsack-tQ1Vz7 (http://web.archive.org/web/20200214090652/https://www.nike.com/gb/t/heritage-2-gymsack-tQ1Vz7[archive])
@@ -958,17 +643,6 @@ https://www.youtube.com/watch?v=uDGCs1G0Tx8 AstroAI WH5000A Digital Multimeter s
 2017: Teng 621011 Double Open Ended Spanner 10x11mm https://www.amazon.co.uk/dp/B0001P0VP8 (http://web.archive.org/web/20190831111729/https://www.amazon.co.uk/dp/B007TSP8CQ[archive])
 
 2017: Magnusson AMS49 5M TAPE MEASURE 5m retractable flexible rule. https://www.screwfix.com/p/magnusson-ams49-5m-tape-measure/5315v (http://web.archive.org/web/20190831112100/https://www.screwfix.com/p/magnusson-ams49-5m-tape-measure/5315v[archive])
-
-== Body
-
-Hand great span https://en.wikipedia.org/wiki/Span_(unit): 0.22m
-
-Shoe size 30 year old:
-
-* US: 11
-* UK: 10
-* EUR: 45
-* cm: 29
 
 == Cleaning products
 

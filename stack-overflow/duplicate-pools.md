@@ -307,8 +307,9 @@ What is `int`:
 
 Hyper-threading:
 
-- <http://superuser.com/questions/133082/hyper-threading-and-dual-core-whats-the-difference?rq=1>
-- <http://superuser.com/questions/122536/what-is-hyper-threading-and-how-does-it-work?lq=1> TODO answer
+- <http://superuser.com/questions/133082/hyper-threading-and-dual-core-whats-the-difference>
+  - <http://superuser.com/questions/122536/what-is-hyper-threading-and-how-does-it-work> TODO answer
+- <https://stackoverflow.com/questions/5593328/software-threads-vs-hardware-threads/61415402#61415402>
 
 Paging vs segmentation:
 
@@ -658,12 +659,16 @@ Exit status `$?`:
 
 `gdbserver`:
 
-- <https://stackoverflow.com/questions/15685104/remote-debugging-c-applications-with-eclipse-cdt-rse-rdt/45658783#45658783>
-- <https://stackoverflow.com/questions/4038760/how-to-set-up-the-eclipse-for-remote-c-debugging-with-gdbserver/45608937#45608937>
+-   <https://stackoverflow.com/questions/15685104/remote-debugging-c-applications-with-eclipse-cdt-rse-rdt/45658783#45658783> C++ canon
+    - <https://stackoverflow.com/questions/7905025/string-could-not-resolved-error-in-eclipse-for-c-eclipse-cant-resolve-stan/61394483#61394483> quick answer linking to above
+    - <https://stackoverflow.com/questions/5977542/eclipse-cdt-unresolved-inclusion-of-stl-header> unanswerd marked as dupe
+-   <https://stackoverflow.com/questions/9337757/unresolved-inclusion-error-with-eclipse-cdt-for-c-standard-library-headers/61394555#61394555> C canon
+    - <https://stackoverflow.com/questions/7433448/eclipse-cdt-symbol-null-could-not-be-resolved/61394583#61394583> link to above
+
 
 ## Linux kernel
 
-User vs kernel land:
+User vs kernel land, rigs:
 
 - <https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems> most voted answer 2019
 - <https://stackoverflow.com/questions/5957570/what-is-the-difference-between-the-kernel-space-and-the-user-space/44285809#44285809> most viewed question
@@ -935,7 +940,7 @@ GIF from images:
 - https://unix.stackexchange.com/questions/24014/creating-a-gif-animation-from-png-files/489210#489210
 - https://askubuntu.com/questions/648603/how-to-create-an-animated-gif-from-mp4-video-via-command-line/837574#837574 GIF from video
 
-Generate audio:
+Generate sine waves audio:
 
 - https://stackoverflow.com/questions/5109038/linux-sinus-generator/57610684#57610684
 - https://unix.stackexchange.com/questions/82112/stereo-tone-generator-for-linux/536860#536860
