@@ -30,10 +30,6 @@ Unknown true identity:
 
 - <http://stackoverflow.com/users/547981/jester>: low level assembly, boot sectors
 - <http://stackoverflow.com/users/196561/osgx>: C, C++
-- <http://stackoverflow.com/users/50617/employed-russian>: Binutils, ELF, GDB, claims to work at Google.
-
-    The only Russian sounding name on GDB and Binutils git log is that of Paul Pluzhnikov: https://www.linkedin.com/in/paul-pluzhnikov-61b9676/ and Employed Russian mentions one of his commits at: https://stackoverflow.com/questions/3718072/gdb-takes-too-long-and-ctrl-c-has-no-effect Ex physicist: https://www.researchgate.net/profile/Paul_Pluzhnikov
-
 - <http://unix.stackexchange.com/users/885/gilles>. 300k on SU, but 20k+ on MANY other websites! Insane!
 - `linux-kernel` bronze badge: <http://stackoverflow.com/help/badges/3775/kernel>. Only 3 as of 2015.
 - <http://stackoverflow.com/users/44729/genpfault> OpenGL. Some game dev. <https://github.com/genpfault> <https://www.reddit.com/user/genpfault> Large comment karma.

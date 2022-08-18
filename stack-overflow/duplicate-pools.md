@@ -136,6 +136,12 @@ ImageMagick black and white binary with `-monochrome`:
 - http://askubuntu.com/questions/9868/convert-an-image-from-grayscale-to-binary/678584#678584
 - http://askubuntu.com/questions/293672/how-can-i-batch-convert-images-to-b-w-while-preserving-the-folder-structure/678586#678586
 
+Join two image side by side:
+
+* https://stackoverflow.com/questions/20737061/merge-images-side-by-sidehorizontally/63575228#63575228
+* https://superuser.com/questions/290656/combine-multiple-images-using-imagemagick/1661226#1661226
+* https://askubuntu.com/questions/226054/how-do-i-join-two-images-together/1369969#1369969
+
 ## Boot
 
 ## Partitions
@@ -310,6 +316,8 @@ Hyper-threading:
 - <http://superuser.com/questions/133082/hyper-threading-and-dual-core-whats-the-difference>
   - <http://superuser.com/questions/122536/what-is-hyper-threading-and-how-does-it-work> TODO answer
 - <https://stackoverflow.com/questions/5593328/software-threads-vs-hardware-threads/61415402#61415402>
+- <https://stackoverflow.com/questions/680684/what-are-the-differences-between-multi-cpu-multi-core-and-hyper-thread/73405312#73405312>
+- <https://stackoverflow.com/questions/14143329/difference-b-w-hyper-threading-and-multithreading>
 
 Paging vs segmentation:
 
